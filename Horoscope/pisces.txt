@@ -5,3 +5,9 @@
   "horoscope": "The Scorpio sun aligns with the nodes of fate, dearest Pisces, bringing a bright spot to your day. Set your sights on a specific goal or agenda, rallying loved ones to aid in the quest. The universe will be eager to surprise and bless you, so keep tabs on any signs that emerge. A harsh square between the Gemini moon and Neptune could trigger mixed signals, but trust that your intuition will find truth in the end. The heart comes alive once Luna enters Cancer and aspects Venus, making it easier to embrace the open world and expand socially."
 }
 
+{
+  "sign": "pisces",
+  "date": "2025-11-08",
+  "horoscope": "The Scorpio sun aligns with the nodes of fate, dearest Pisces, bringing a bright spot to your day. Set your sights on a specific goal or agenda, rallying loved ones to aid in the quest. The universe will be eager to surprise and bless you, so keep tabs on any signs that emerge. A harsh square between the Gemini moon and Neptune could trigger mixed signals, but trust that your intuition will find truth in the end. The heart comes alive once Luna enters Cancer and aspects Venus, making it easier to embrace the open world and expand socially."
+}
+
