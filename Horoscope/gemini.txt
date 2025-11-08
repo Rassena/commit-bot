@@ -10,3 +10,9 @@
   "horoscope": "Be of service as the Scorpio sun aligns with the nodes of fate, dearest Gemini, catering to the support systems that matter most. Offering a kind word or a helping hand can significantly enhance relationships in both your personal and professional spheres. Meanwhile, Luna continues her journey through your sign, putting you at the center of attention. However, you may struggle to maintain boundaries while Neptune is activated, and you should pull back if you sense others are overstepping. Relish simple moments after the moon enters Cancer and blows a kiss to Venus, seeking beautiful environments you can sync up with."
 }
 
+{
+  "sign": "gemini",
+  "date": "2025-11-08",
+  "horoscope": "Be of service as the Scorpio sun aligns with the nodes of fate, dearest Gemini, catering to the support systems that matter most. Offering a kind word or a helping hand can significantly enhance relationships in both your personal and professional spheres. Meanwhile, Luna continues her journey through your sign, putting you at the center of attention. However, you may struggle to maintain boundaries while Neptune is activated, and you should pull back if you sense others are overstepping. Relish simple moments after the moon enters Cancer and blows a kiss to Venus, seeking beautiful environments you can sync up with."
+}
+
