@@ -23,3 +23,9 @@
   "horoscope": "Find power and ease by moving away from what does not serve you, dear Aquarius, as the Scorpio sun aligns with the nodes of fate. Don't waste precious time on lost causes or messes that aren't your own, focusing instead on what is consistent and how you can build upon it. Try not to overlook untapped potential when the Gemini moon and Neptune square off, as this alignment could conceal significant strengths. Follow your intuition once Luna enters Cancer and aspects Venus, noticing how physical and psychic sensations play into each other. New strategies will come into focus if you harmonize the body and mind."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2025-11-08",
+  "horoscope": "Find power and ease by moving away from what does not serve you, dear Aquarius, as the Scorpio sun aligns with the nodes of fate. Don't waste precious time on lost causes or messes that aren't your own, focusing instead on what is consistent and how you can build upon it. Try not to overlook untapped potential when the Gemini moon and Neptune square off, as this alignment could conceal significant strengths. Follow your intuition once Luna enters Cancer and aspects Venus, noticing how physical and psychic sensations play into each other. New strategies will come into focus if you harmonize the body and mind."
+}
+
