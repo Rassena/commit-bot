@@ -1,0 +1,7 @@
+
+{
+  "sign": "sagittarius",
+  "date": "2025-11-08",
+  "horoscope": "The Scorpio sun and nodes of fate lure you toward softness, dearest archer, helping you forget work-related stress and ease into the weekend. You'll flourish from the comfort of home, and may gain fresh insights that serve you in the long term. Don't be fooled by empty promises when the Gemini moon and Neptune square off, leaving you susceptible to smooth talkers. If something or someone sounds too good to be true, you have every right to question it. Luckily, the clouds part, allowing real intimacy to rise after Luna enters Cancer and aligns with Venus, inspiring you to sneak away with your favorite person."
+}
+

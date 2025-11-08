@@ -1,0 +1,11 @@
+{
+    "sign": "aries",
+    "date": "2025-11-08",
+    "horoscope": "A new cycle is upon you, dear Aries, as the Scorpio sun aligns with the nodes of fate. The changes ahead will force you to adjust certain behaviors, and you'll need to trust that the unknown has its own blessings to offer. A fog descends while the Gemini moon squares Neptune, causing you to daydream. Allow the mind to wander, but don't become overly attached to one specific outcome, as the universe likely has its own plans. Seek emotionally fulfilling company and activities once Luna enters Cancer. Romantic connections benefit from a psychic charge when Venus stirs."
+}
+{
+  "sign": "virgo",
+  "date": "2025-11-08",
+  "horoscope": "You'll merge easily with loved ones, dear Virgo, as the Scorpio sun aligns with the nodes of fate. The importance of adjusting your expectations to strengthen connections won't seem so challenging, and your efforts to get along will be more effective. Discuss what matters most when building a future, and teamwork will outshine individual egos. Just be mindful of what is reasonable while the Gemini moon squares Neptune, and remember that it's okay to maintain your own boundaries. Expand your horizons to connect with friends once Luna enters Cancer and aspects Venus, filling your cup from multiple sources."
+}
+
