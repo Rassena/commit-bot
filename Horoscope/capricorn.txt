@@ -10,3 +10,9 @@
   "horoscope": "A synchronistic energy permeates your interactions, darling Capricorn, as the Scorpio sun aligns with the nodes of fate. Take note of any recurring names or faces that come up, considering whether you've been overlooking someone special. The Gemini moon and Neptune could trigger distractions early this morning, especially if you grow preoccupied with weekend chores. Bide your time when completing tasks to avoid veering into autopilot. Balance finds you once Luna enters Cancer and aspects Venus, granting permission to put your social life first. Love can be found around every corner if you venture out and seek it."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2025-11-08",
+  "horoscope": "A synchronistic energy permeates your interactions, darling Capricorn, as the Scorpio sun aligns with the nodes of fate. Take note of any recurring names or faces that come up, considering whether you've been overlooking someone special. The Gemini moon and Neptune could trigger distractions early this morning, especially if you grow preoccupied with weekend chores. Bide your time when completing tasks to avoid veering into autopilot. Balance finds you once Luna enters Cancer and aspects Venus, granting permission to put your social life first. Love can be found around every corner if you venture out and seek it."
+}
+
