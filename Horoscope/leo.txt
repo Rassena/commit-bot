@@ -1,0 +1,6 @@
+{
+  "sign": "leo",
+  "date": "2025-11-08",
+  "horoscope": "The Scorpio sun aligns with the nodes of fate to offer rejuvenation, dear Leo. Say &quot;goodbye&quot; to stagnancy by investing in your home, clearing clutter, and releasing stress from the previous work week. The outside world will seem particularly surreal while the Gemini moon and Neptune square off, and large crowds could cause you to shut down. The Internet will pose its own set of issues, and you'll be happier swimming in your own pond. Luckily, the universe grants full permission to hide and nurture the self once Luna enters Cancer and blows a kiss to harmonious Venus."
+}
+
