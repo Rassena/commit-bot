@@ -10,3 +10,9 @@
   "horoscope": "Sacrifices made in service of your dreams pay off, dear Leo, as the Cancer Moon aligns with Jupiter, Saturn, Neptune, and Uranus. You may need to pivot quickly as new horizons emerge, showing a willingness to negotiate and evolve. Your popularity increases once Luna enters your sign, though a harsh opposition with Pluto could brew jealousy within relationships. Set boundaries with anyone who can't show up to celebrate your wins. You'll feel torn between pursuing pleasure and tending to your family affairs while Mars, Venus, and Mercury Rx activate this evening. Instead of choosing a side, try to bring fun to your home."
 }
 
+{
+  "sign": "leo",
+  "date": "2025-11-10",
+  "horoscope": "Sacrifices made in service of your dreams pay off, dear Leo, as the Cancer Moon aligns with Jupiter, Saturn, Neptune, and Uranus. You may need to pivot quickly as new horizons emerge, showing a willingness to negotiate and evolve. Your popularity increases once Luna enters your sign, though a harsh opposition with Pluto could brew jealousy within relationships. Set boundaries with anyone who can't show up to celebrate your wins. You'll feel torn between pursuing pleasure and tending to your family affairs while Mars, Venus, and Mercury Rx activate this evening. Instead of choosing a side, try to bring fun to your home."
+}
+
