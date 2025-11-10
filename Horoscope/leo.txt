@@ -4,3 +4,9 @@
   "horoscope": "The Scorpio sun aligns with the nodes of fate to offer rejuvenation, dear Leo. Say &quot;goodbye&quot; to stagnancy by investing in your home, clearing clutter, and releasing stress from the previous work week. The outside world will seem particularly surreal while the Gemini moon and Neptune square off, and large crowds could cause you to shut down. The Internet will pose its own set of issues, and you'll be happier swimming in your own pond. Luckily, the universe grants full permission to hide and nurture the self once Luna enters Cancer and blows a kiss to harmonious Venus."
 }
 
+{
+  "sign": "leo",
+  "date": "2025-11-10",
+  "horoscope": "Sacrifices made in service of your dreams pay off, dear Leo, as the Cancer Moon aligns with Jupiter, Saturn, Neptune, and Uranus. You may need to pivot quickly as new horizons emerge, showing a willingness to negotiate and evolve. Your popularity increases once Luna enters your sign, though a harsh opposition with Pluto could brew jealousy within relationships. Set boundaries with anyone who can't show up to celebrate your wins. You'll feel torn between pursuing pleasure and tending to your family affairs while Mars, Venus, and Mercury Rx activate this evening. Instead of choosing a side, try to bring fun to your home."
+}
+
