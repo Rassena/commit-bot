@@ -1,1 +1,7 @@
 
+{
+  "sign": "libra",
+  "date": "2025-11-10",
+  "horoscope": "The Cancer Moon aligns with Jupiter, Saturn, Neptune, and Uranus this morning, dear Libra, placing karmic demands in your path. You'll become more aware of what you must sacrifice, reinforce, and work hard for to actualize dreams, though the conclusions you draw could be pretty surprising. Find ease amongst supportive friends when Luna enters Leo and opposes Pluto, being mindful not to let competition or jealousy sour these interactions. Catch up on current events, take a deep dive into your favorite topics, or allow yourself to zone out in front of the TV while Mars, Venus, and Mercury retrograde stir this evening."
+}
+
