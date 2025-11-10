@@ -11,3 +11,9 @@
   "horoscope": "The Sun and nodes of fate bring magick to your day, dearest Scorpio, inspiring you to carve your own path. Remember that the world will unfold as it sees fit, focusing on what nourishes the spirit and offers a sense of purpose. Be mindful of who you share visions with when the Gemini moon and Neptune square off, avoiding anyone with a history of talking behind your back. Unsolicited criticism can also get in your head, but it likely lacks validity. Your light brightens once Luna enters Cancer and aligns with Venus, helping you attract what the heart desires."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2025-11-10",
+  "horoscope": "The stars conspire to fill your heart and connect you with the right people, dear Scorpio. As the Cancer Moon aligns with Jupiter, Saturn, Neptune, and Uranus, tap into personal dreams and desires before socializing. A more structured energy takes hold once Luna enters Leo and opposes Pluto, although attending to responsibilities may cause specific needs to be overlooked. Embrace mindfulness to ensure your intuition remains intact as you navigate your duties. A rush of inspiration may leave you working into the evening while Mars, Venus, and Mercury are retrograde, but try to remember the importance of maintaining balance."
+}
+
