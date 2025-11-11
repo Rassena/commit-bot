@@ -11,3 +11,9 @@
   "horoscope": "The Scorpio sun aligns with the nodes of fate, dearest Pisces, bringing a bright spot to your day. Set your sights on a specific goal or agenda, rallying loved ones to aid in the quest. The universe will be eager to surprise and bless you, so keep tabs on any signs that emerge. A harsh square between the Gemini moon and Neptune could trigger mixed signals, but trust that your intuition will find truth in the end. The heart comes alive once Luna enters Cancer and aspects Venus, making it easier to embrace the open world and expand socially."
 }
 
+{
+  "sign": "pisces",
+  "date": "2025-11-11",
+  "horoscope": "Jupiter stations retrograde in your solar fifth house, dear Pisces, bringing changes to your free time throughout the coming months. A creative resurgence triggers new and exciting projects, though social demands could make it difficult to steer the course. It's essential to consider where you desire growth the most, allowing your heart to guide the way. As artistic visions take shape, your confidence grows, though the occasional step backward might cause it to waver. Don't let emotions hold you back from moving forward with pride. The Leo quarter Moon stirs up frenzies tonight, forcing you to get organized. "
+}
+
