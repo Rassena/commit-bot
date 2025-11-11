@@ -17,3 +17,9 @@
   "horoscope": "The stars conspire to fill your heart and connect you with the right people, dear Scorpio. As the Cancer Moon aligns with Jupiter, Saturn, Neptune, and Uranus, tap into personal dreams and desires before socializing. A more structured energy takes hold once Luna enters Leo and opposes Pluto, although attending to responsibilities may cause specific needs to be overlooked. Embrace mindfulness to ensure your intuition remains intact as you navigate your duties. A rush of inspiration may leave you working into the evening while Mars, Venus, and Mercury are retrograde, but try to remember the importance of maintaining balance."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2025-11-11",
+  "horoscope": "The mysterious forces that bring magick to your world will seem increasingly elusive throughout the coming months, dear Scorpio. As Jupiter stations retrograde, wishes youd set your heart on may fail to manifest, though the universe will reveal what it is you truly need. Rather than grasping at reins only fate can control, look for opportunities to collaborate with Lady Fortune herself. This energy seeks to serve those who are humble, optimistic, compassionate, and generous. Spread love and elevate others, so karmic rewards might find you. Tonights Leo quarter Moon could stir up struggles if you cant maintain independence within partnerships."
+}
+
