@@ -29,3 +29,9 @@
   "horoscope": "Find power and ease by moving away from what does not serve you, dear Aquarius, as the Scorpio sun aligns with the nodes of fate. Don't waste precious time on lost causes or messes that aren't your own, focusing instead on what is consistent and how you can build upon it. Try not to overlook untapped potential when the Gemini moon and Neptune square off, as this alignment could conceal significant strengths. Follow your intuition once Luna enters Cancer and aspects Venus, noticing how physical and psychic sensations play into each other. New strategies will come into focus if you harmonize the body and mind."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2025-11-11",
+  "horoscope": "Your workload will feel inconsistent throughout the coming months, dear Aquarius, as Jupiter stations retrograde in your solar sixth house. Recognize how your own habits contribute to such patterns, and if procrastination forces you to play catch-up later. Focus on bringing your schedule into balance by getting ahead of tasks before they have a chance to pile up. Once you've hit a healthier workflow, the universe will orchestrate new opportunities. Health and wellness should also be a priority, and your body will thank you for taking its needs seriously. The quarter Moon rises in Leo tonight, revealing roadblocks within relationships."
+}
+
