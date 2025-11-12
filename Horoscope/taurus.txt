@@ -1,0 +1,6 @@
+{
+  "sign": "taurus",
+  "date": "2025-11-12",
+  "horoscope": "Focus on finding healing within, rather than projecting a false front. As the Aries Moon aligns with Chiron and Uranus, the universe asks you to recognize where emotions are guiding you. A desire to break away from preconceived notions others place upon you ignites your inner rebel. However, it's important to remember that lashing out and initiating change are not the same thing. You'll feel more in tune with your true and best self once Luna enters Virgo, helping you organize a better plan for moving forward. Meanwhile, Mercury Rx and Mars unite in the sector of your chart that governs transformation, making it easier to let go of what isn't serving you."
+}
+
