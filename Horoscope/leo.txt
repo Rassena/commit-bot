@@ -28,3 +28,9 @@
   "horoscope": "The Moon takes her final steps through your sign, dear Leo, forming a healing aspect with Chiron. Begin your day with prayer, meditation, or other spiritual practices to strengthen your will and set clear intentions. A celestial union between Mercury retrograde and Mars inspires you to reconnect with passion projects, helping you refine and improve them. These vibes are also perfect for reaching out to friends who inspire you, even if there's a tinge of competition. Luna squares Uranus before migrating into Virgo, challenging your foundations as roadblocks appear with little notice. Take your time while solving problems, as impulsivity won't serve you."
 }
 
+{
+  "sign": "leo",
+  "date": "2025-11-12",
+  "horoscope": "The Moon takes her final steps through your sign, dear Leo, forming a healing aspect with Chiron. Begin your day with prayer, meditation, or other spiritual practices to strengthen your will and set clear intentions. A celestial union between Mercury retrograde and Mars inspires you to reconnect with passion projects, helping you refine and improve them. These vibes are also perfect for reaching out to friends who inspire you, even if there's a tinge of competition. Luna squares Uranus before migrating into Virgo, challenging your foundations as roadblocks appear with little notice. Take your time while solving problems, as impulsivity won't serve you."
+}
+
