@@ -22,3 +22,9 @@
   "horoscope": "Your inner philosopher will be highly active throughout the coming months, darling Leo, as Jupiter stations retrograde. Expect your psychic abilities to shift during this time, and consider implementing a more consistent spiritual practice to master the intuition. Take note of your dreams, and if they offer valuable insights. This planetary backspin can also be helpful for correcting behaviors and working toward healthier cycles. Solitude and peace will be particularly beneficial, but notice if you start to feel isolated. The quarter Moon rises in your sign later tonight, stirring up complicated emotions, fragile egos, and intensifying bonds. "
 }
 
+{
+  "sign": "leo",
+  "date": "2025-11-12",
+  "horoscope": "The Moon takes her final steps through your sign, dear Leo, forming a healing aspect with Chiron. Begin your day with prayer, meditation, or other spiritual practices to strengthen your will and set clear intentions. A celestial union between Mercury retrograde and Mars inspires you to reconnect with passion projects, helping you refine and improve them. These vibes are also perfect for reaching out to friends who inspire you, even if there's a tinge of competition. Luna squares Uranus before migrating into Virgo, challenging your foundations as roadblocks appear with little notice. Take your time while solving problems, as impulsivity won't serve you."
+}
+
