@@ -23,3 +23,9 @@
   "horoscope": "The mysterious forces that bring magick to your world will seem increasingly elusive throughout the coming months, dear Scorpio. As Jupiter stations retrograde, wishes youd set your heart on may fail to manifest, though the universe will reveal what it is you truly need. Rather than grasping at reins only fate can control, look for opportunities to collaborate with Lady Fortune herself. This energy seeks to serve those who are humble, optimistic, compassionate, and generous. Spread love and elevate others, so karmic rewards might find you. Tonights Leo quarter Moon could stir up struggles if you cant maintain independence within partnerships."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2025-11-12",
+  "horoscope": "The Leo Moon and Chiron form a supportive aspect this morning, darling Scorpio, asking you to show up for yourself. Work on projects and personal goals that reinforce your sense of purpose, finding time to pursue these aspirations amongst existing workloads. A powerful union between Mercury Rx and Mars reinforces your foundations, providing the springboard needed to jump at big dreams. It could also be helpful to rearrange your schedule by eliminating unnecessary demands. Loved ones may trigger you while Luna squares Uranus before entering Virgo, but try not to run at the first sign of trouble."
+}
+
