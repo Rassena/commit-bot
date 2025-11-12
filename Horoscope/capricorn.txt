@@ -29,3 +29,9 @@
   "horoscope": "Draw strength from childhood memories, sweet Capricorn, as the Leo Moon and Chiron align. Recognize that you have journeyed a long way, honoring your ability to overcome intense odds. Meanwhile, Mercury Rx and Mars unite in your solar 12th house, urging you to execute ideas youve been mulling over recently quietly. Take previous mistakes into consideration, demonstrating to the universe a willingness to learn and evolve. You may need to combat your own fears, but logic and passion will prevail over worst-case hypotheticals. Your ego could endure a small bruise while Luna squares Uranus before entering Virgo, though youll recover flawlessly if you choose the higher path."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2025-11-12",
+  "horoscope": "Draw strength from childhood memories, sweet Capricorn, as the Leo Moon and Chiron align. Recognize that you have journeyed a long way, honoring your ability to overcome intense odds. Meanwhile, Mercury Rx and Mars unite in your solar 12th house, urging you to execute ideas youve been mulling over recently quietly. Take previous mistakes into consideration, demonstrating to the universe a willingness to learn and evolve. You may need to combat your own fears, but logic and passion will prevail over worst-case hypotheticals. Your ego could endure a small bruise while Luna squares Uranus before entering Virgo, though youll recover flawlessly if you choose the higher path."
+}
+
