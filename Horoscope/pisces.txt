@@ -23,3 +23,9 @@
   "horoscope": "Jupiter stations retrograde in your solar fifth house, dear Pisces, bringing changes to your free time throughout the coming months. A creative resurgence triggers new and exciting projects, though social demands could make it difficult to steer the course. It's essential to consider where you desire growth the most, allowing your heart to guide the way. As artistic visions take shape, your confidence grows, though the occasional step backward might cause it to waver. Don't let emotions hold you back from moving forward with pride. The Leo quarter Moon stirs up frenzies tonight, forcing you to get organized. "
 }
 
+{
+  "sign": "pisces",
+  "date": "2025-11-12",
+  "horoscope": "Notice the subtle connection between your physical/emotional bodies and your surroundings, sweet Pisces. As the Leo Moon and Chiron align, its essential to immerse yourself in relaxation. Eureka moments throw you into action while Mercury Rx and Mars join forces, revealing possibilities within dreams that once seemed unrealistic. Appreciate how past challenges have sharpened your skills and matured you, as these lessons will be what allows you to excel in the present. It may seem as though time is speeding up when Luna squares Uranus before entering Virgo, but your ability to thrive amongst chaos will propel you toward harmonious outcomes."
+}
+
