@@ -5,3 +5,9 @@
   "horoscope": "The Scorpio sun and nodes of fate lure you toward softness, dearest archer, helping you forget work-related stress and ease into the weekend. You'll flourish from the comfort of home, and may gain fresh insights that serve you in the long term. Don't be fooled by empty promises when the Gemini moon and Neptune square off, leaving you susceptible to smooth talkers. If something or someone sounds too good to be true, you have every right to question it. Luckily, the clouds part, allowing real intimacy to rise after Luna enters Cancer and aligns with Venus, inspiring you to sneak away with your favorite person."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2025-11-12",
+  "horoscope": "The universe offers messages of confirmation this morning, dear Sagittarius, as the Leo Moon and Chiron align. Look for signs that validate your hopes and dreams, but be open to new adventures. Meanwhile, Mercury Rx and Mars join forces in your sign, helping you find the motivation to course correct when necessary. These highly refined vibes also lend aid to any projects that require editing. Consider investing in your appearance as well, as it projects to the world how you truly wish to be seen. A rush of energy highlights a need for strategy and organization once Luna squares Uranus before entering Virgo."
+}
+
