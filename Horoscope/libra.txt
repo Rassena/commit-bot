@@ -5,3 +5,9 @@
   "horoscope": "The Cancer Moon aligns with Jupiter, Saturn, Neptune, and Uranus this morning, dear Libra, placing karmic demands in your path. You'll become more aware of what you must sacrifice, reinforce, and work hard for to actualize dreams, though the conclusions you draw could be pretty surprising. Find ease amongst supportive friends when Luna enters Leo and opposes Pluto, being mindful not to let competition or jealousy sour these interactions. Catch up on current events, take a deep dive into your favorite topics, or allow yourself to zone out in front of the TV while Mars, Venus, and Mercury retrograde stir this evening."
 }
 
+{
+  "sign": "libra",
+  "date": "2025-11-12",
+  "horoscope": "Remember that its okay to reach out for and receive support, dearest Libra, even if youre usually the one offering it. As the Leo Moon and Chiron form a healing aspect, youre asked to shed tough exteriors and allow softness to flow through. Buddy up with your favorite hype person while Mercury Rx and Mars unite, and entertain the possibility of creative collaboration. Whether you join forces on a project or help each other promote, now is the time to reinvigorate and reinforce one another. However, existing partnerships could unravel as new ones forge when Luna squares Uranus before entering Virgo."
+}
+
