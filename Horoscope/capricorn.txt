@@ -41,3 +41,9 @@
   "horoscope": "Find a healthy balance between maintaining secrecy and self-promotion, dearest Capricorn. As the Virgo Moon aligns with Mercury Rx, Mars, and Venus, it would be easy to overshare when you feel excited or crave verbal validation. Work with your higher power to maintain an intuitive yet logical perspective, recognizing the fine line that separates fantasy from possibility. Be extra aware of any recurring signs, visions, or ideas that trickle through, as the universe may be attempting to guide you. Initiate conversations around the future while the nodes of fate stir tonight, especially with those whose opinions you trust most."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2025-11-13",
+  "horoscope": "Find a healthy balance between maintaining secrecy and self-promotion, dearest Capricorn. As the Virgo Moon aligns with Mercury Rx, Mars, and Venus, it would be easy to overshare when you feel excited or crave verbal validation. Work with your higher power to maintain an intuitive yet logical perspective, recognizing the fine line that separates fantasy from possibility. Be extra aware of any recurring signs, visions, or ideas that trickle through, as the universe may be attempting to guide you. Initiate conversations around the future while the nodes of fate stir tonight, especially with those whose opinions you trust most."
+}
+
