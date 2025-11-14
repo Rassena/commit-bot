@@ -36,3 +36,9 @@
 
 
 
+{
+  "sign": "aries",
+  "date": "2025-11-14",
+  "horoscope": "The Scorpio sun and Virgo Moon highlight the importance of reliable partners, dear Aries. Recognize who you work well with, both professionally and personally. If you don't always express gratitude for the help and support these people provide, now is a good time to do so. When it comes to shared goals, get busy as a team. Grace fills your home when Luna aspects Jupiter and Saturn later today, granting permission to temporarily ignore drama, responsibilities, or chores in favor of getting cozy. Just try not to create additional messes, or you may feel overwhelmed once it's time to tidy up."
+}
+
