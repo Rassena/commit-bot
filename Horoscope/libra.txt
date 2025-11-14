@@ -11,3 +11,9 @@
   "horoscope": "Remember that its okay to reach out for and receive support, dearest Libra, even if youre usually the one offering it. As the Leo Moon and Chiron form a healing aspect, youre asked to shed tough exteriors and allow softness to flow through. Buddy up with your favorite hype person while Mercury Rx and Mars unite, and entertain the possibility of creative collaboration. Whether you join forces on a project or help each other promote, now is the time to reinvigorate and reinforce one another. However, existing partnerships could unravel as new ones forge when Luna squares Uranus before entering Virgo."
 }
 
+{
+  "sign": "libra",
+  "date": "2025-11-14",
+  "horoscope": "Plans that have been brewing beneath the surface will see the light of day, dear Libra, as the Scorpio sun and Virgo Moon align. Steer the course you've laid out for yourself, and visions will begin to manifest most seamlessly. Just be mindful to focus on solid work in lieu of immediate attention, trusting that you'll receive the accolades you deserve after your efforts have taken root. New possibilities will present themselves when Luna aspects Jupiter and Saturn later today. Prepare to take on more, going beyond your own expectations to carve out the success you crave."
+}
+
