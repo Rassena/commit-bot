@@ -35,3 +35,9 @@
   "horoscope": "The Leo Moon and Chiron form a supportive aspect this morning, darling Scorpio, asking you to show up for yourself. Work on projects and personal goals that reinforce your sense of purpose, finding time to pursue these aspirations amongst existing workloads. A powerful union between Mercury Rx and Mars reinforces your foundations, providing the springboard needed to jump at big dreams. It could also be helpful to rearrange your schedule by eliminating unnecessary demands. Loved ones may trigger you while Luna squares Uranus before entering Virgo, but try not to run at the first sign of trouble."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2025-11-15",
+  "horoscope": "The stars conspire to elevate your connections and popularity early this morning, dear Scorpio, as the Virgo Moon aligns with Neptune and Uranus. Take note of any fresh faces that cross your path, both online and within your community. You won't be in the most social mood after Luna enters Libra and aspects Pluto, craving cozy and intimate interactions over bustling crowds or small talk. Give your spirit what it needs to recharge so your light can shine more brightly later. Check in with your finances when Mercury Rx stirs, making spending cuts as required. A rush of motivation inspires you to hide away and work on personal goals once Mars activates this evening."
+}
+
