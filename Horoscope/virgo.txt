@@ -11,3 +11,9 @@
   "horoscope": "You'll merge easily with loved ones, dear Virgo, as the Scorpio sun aligns with the nodes of fate. The importance of adjusting your expectations to strengthen connections won't seem so challenging, and your efforts to get along will be more effective. Discuss what matters most when building a future, and teamwork will outshine individual egos. Just be mindful of what is reasonable while the Gemini moon squares Neptune, and remember that it's okay to maintain your own boundaries. Expand your horizons to connect with friends once Luna enters Cancer and aspects Venus, filling your cup from multiple sources."
 }
 
+{
+  "sign": "virgo",
+  "date": "2025-11-15",
+  "horoscope": "The Moon aspects Neptune and Uranus before exiting your sign, dear Virgo, conjuring surprises and spiritually charged epiphanies. Take a few moments to collect yourself upon awakening, as Luna enters Libra and aligns with Pluto. This energy helps bring your visions and personal goals to life, but you'll need to get organized by sorting through tasks and letting go of agendas that don't serve your best interests. Mixed emotions could throw you off track when Mercury Rx stirs, though pausing to nurture yourself will bring you to a place of clarity. Passionate vibes fill your space once Mars activates this evening."
+}
+
