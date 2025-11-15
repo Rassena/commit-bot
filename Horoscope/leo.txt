@@ -46,3 +46,9 @@
   "horoscope": "You'll be in a doting mood as the Scorpio sun and Virgo align, dear Leo, with a desire to pamper yourself and loved ones. Be generous with your resources without going overboard. Acts of love will be more memorable than material gestures, and won't hurt your bank account. Luna aligns with Jupiter and Saturn later today, asking you to reflect. Carve out some time to be alone in nature, releasing tension as you review present circumstances. Begin by identifying where you feel restricted and what you must let go of, then focus on what you hope to build."
 }
 
+{
+  "sign": "leo",
+  "date": "2025-11-15",
+  "horoscope": "The Virgo Moon aligns with Neptune and Uranus early this morning, dearest Leo, helping you release grudges and find gratitude. Your world will feel rich and romantic once Luna enters Libra and aspects Pluto, allowing you to see beyond the surface. Ask meaningful questions and share more details about your own life to build up relationships. Mental or creative blocks may emerge while Mercury retrogrades, encouraging you to review existing work or information instead of charging forward. Passionate connections heat up this evening when Mars stirs, but you'll require a partner who can match your wit and intellect."
+}
+
