@@ -17,3 +17,9 @@
   "horoscope": "Plans that have been brewing beneath the surface will see the light of day, dear Libra, as the Scorpio sun and Virgo Moon align. Steer the course you've laid out for yourself, and visions will begin to manifest most seamlessly. Just be mindful to focus on solid work in lieu of immediate attention, trusting that you'll receive the accolades you deserve after your efforts have taken root. New possibilities will present themselves when Luna aspects Jupiter and Saturn later today. Prepare to take on more, going beyond your own expectations to carve out the success you crave."
 }
 
+{
+  "sign": "libra",
+  "date": "2025-11-15",
+  "horoscope": "The Virgo Moon aligns with Neptune and Uranus early this morning, dear Libra, rewiring your psyche as you sleep. Take note of your initial thoughts upon awakening, in addition to any intense dreams you experienced overnight. An empowering energy encourages you to take up space and express yourself creatively once Luna enters your sign and aspects Pluto. With increased motivation, you'll have the ability to tackle daunting projects or tasks. Just be mindful to edit your work while Mercury Rx stirs, emphasizing the importance of finishing touches. Demonstrate that you're true to your word with undeniable action when Mars activates this evening."
+}
+
