@@ -29,3 +29,9 @@
   "horoscope": "Notice the subtle connection between your physical/emotional bodies and your surroundings, sweet Pisces. As the Leo Moon and Chiron align, its essential to immerse yourself in relaxation. Eureka moments throw you into action while Mercury Rx and Mars join forces, revealing possibilities within dreams that once seemed unrealistic. Appreciate how past challenges have sharpened your skills and matured you, as these lessons will be what allows you to excel in the present. It may seem as though time is speeding up when Luna squares Uranus before entering Virgo, but your ability to thrive amongst chaos will propel you toward harmonious outcomes."
 }
 
+{
+  "sign": "pisces",
+  "date": "2025-11-16",
+  "horoscope": "Lucky moments linger on the horizon, dear Pisces, but the Libra Moon asks you to face specific challenges. Recognize where change or sacrifice is needed to propel your situation forward, preparing for blessings that are sure to arise. Identify stagnancy, toxic relationships, and imbalances if you're unsure of where to begin. As a grand trine forms between the Scorpio sun, Saturn, and Jupiter, you'll feel increasingly aligned with what the heart desires and your own capabilities. Find discipline where it was once lacking to unleash the unstoppable force that lives within. If you need extra support from the other side, ask for it!"
+}
+
