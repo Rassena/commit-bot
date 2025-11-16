@@ -11,3 +11,9 @@
   "horoscope": "The universe offers messages of confirmation this morning, dear Sagittarius, as the Leo Moon and Chiron align. Look for signs that validate your hopes and dreams, but be open to new adventures. Meanwhile, Mercury Rx and Mars join forces in your sign, helping you find the motivation to course correct when necessary. These highly refined vibes also lend aid to any projects that require editing. Consider investing in your appearance as well, as it projects to the world how you truly wish to be seen. A rush of energy highlights a need for strategy and organization once Luna squares Uranus before entering Virgo."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2025-11-16",
+  "horoscope": "The Libra Moon guides you toward connection, dear archer, helping you fuel the spirit through social interaction. Fill your love cup all the way to the brim, and in the crowds, you are free to be yourself. As a grand trine builds between the Scorpio sun, Saturn, and Jupiter, it's essential to find a few quiet moments as well. This energy makes personal transformation easier to initiate, especially when change is initiated from within. Give yourself the nurturing and support you may have been lacking recently or during childhood to make the most of these vibes. Intimate connections also benefit, and time spent at home with loved ones will generate warmth."
+}
+
