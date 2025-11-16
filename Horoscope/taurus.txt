@@ -10,3 +10,9 @@
   "horoscope": "The Virgo Moon aspects Neptune and Uranus early this morning, dear Taurus, boosting your popularity. Pay attention to any messages you awaken to, but don't take everything you read at face value. Stay busy when Luna enters Libra and aligns with Pluto, bringing serious payoffs to your efforts. Walls that once seemed formidable will crumble if you strategically work to dismantle them, and help from peers will speed this process up. Meanwhile, Mercury Rx could have you rethinking specific commitments, giving you a chance to articulate dissatisfaction and illicit change. Mars emboldens you to cut ties with messy situations and dead weight later this evening."
 }
 
+{
+  "sign": "taurus",
+  "date": "2025-11-16",
+  "horoscope": "The Libra Moon asks you to make wellness a priority, dear Taurus, nudging you to spend Sunday in the throes of restorative activities. Scan your body from head to toe, recognizing what it needs to achieve emotional, mental, and physical balance. Consider inviting loved ones to join you, allowing your desire for connection to flourish as stress melts away. A grand trine between the Scorpio sun, Saturn, and Jupiter brings ease to your interactions, helping you deepen new and existing relationships. Use this energy efficiently by considering who you'd like to grow closer to, and investing your focus accordingly."
+}
+
