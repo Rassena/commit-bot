@@ -17,3 +17,9 @@
   "horoscope": "The Libra Moon guides you toward connection, dear archer, helping you fuel the spirit through social interaction. Fill your love cup all the way to the brim, and in the crowds, you are free to be yourself. As a grand trine builds between the Scorpio sun, Saturn, and Jupiter, it's essential to find a few quiet moments as well. This energy makes personal transformation easier to initiate, especially when change is initiated from within. Give yourself the nurturing and support you may have been lacking recently or during childhood to make the most of these vibes. Intimate connections also benefit, and time spent at home with loved ones will generate warmth."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2025-11-17",
+  "horoscope": "Acknowledge if you've been overextending yourself trying to please others, dearest archer. As the Libra Moon forms harsh aspects with Chiron and Jupiter, there's a risk your kindness could be taken for granted. A soft alignment between Mercury Rx and Pluto pulls back fog that once muddied your connections, helping you identify how you really feel about specific dynamics. Shake up your routine to refresh your aura when Luna, Neptune, and Uranus form a yod this afternoon, prioritizing your emotional and physical health. Spend time alone to avoid absorbing other people's issues while Luna enters Scorpio and squares Pluto this evening."
+}
+
