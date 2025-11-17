@@ -11,3 +11,9 @@
   "horoscope": "Your eye for detail and natural skills sharpen, dear Cancer, thanks to a sweet connection between the Scorpio sun and Virgo Moon. Let yourself hone in on small details to elevate your projects, even if the process is time-consuming. You'll feel ready to share any improvements you've made once Luna aspects Jupiter and Saturn later today. Allow your creativity and intellect to speak for themselves, but open the door to questions from those who engage with your work. A spiritual energy coincides with this cosmic climate, encouraging you to articulate your hopes and dreams to the other side. "
 }
 
+{
+  "sign": "cancer",
+  "date": "2025-11-17",
+  "horoscope": "The Libra Moon aligns with Chiron, Jupiter, Neptune, and Uranus throughout the first half of the day, darling Cancer, taking your emotions in many directions. Imposter syndrome, family difficulties, and a need for rest can all contribute to mood swings. Connect with supportive friends and engage in a mindfulness practice to stay grounded. A soft aspect between Mercury Rx and Pluto encourages you to keep busy while using discernment around what or who you give your energy to. Playful vibes flow once Luna enters Scorpio this afternoon, boosting your charisma, confidence, and sense of humor. Watch out for temperamental partners and call out toxic behaviors when Pluto stirs this evening. "
+}
+
