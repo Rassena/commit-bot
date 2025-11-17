@@ -42,3 +42,9 @@
   "horoscope": "The Scorpio sun and Virgo Moon highlight the importance of reliable partners, dear Aries. Recognize who you work well with, both professionally and personally. If you don't always express gratitude for the help and support these people provide, now is a good time to do so. When it comes to shared goals, get busy as a team. Grace fills your home when Luna aspects Jupiter and Saturn later today, granting permission to temporarily ignore drama, responsibilities, or chores in favor of getting cozy. Just try not to create additional messes, or you may feel overwhelmed once it's time to tidy up."
 }
 
+{
+  "sign": "aries",
+  "date": "2025-11-17",
+  "horoscope": "The Libra Moon enters challenging aspects with Chiron and Jupiter this morning, darling Aries. The stars ask you to honor your emotions, recognizing that running from your feelings often causes them to get bigger over time. Luckily, Mercury Rx and Pluto lend a helping hand. Connect with friends who have gone through similar experiences to unload and find understanding. Breakthroughs emerge when Luna, Neptune, and Uranus enter a rare yod formation, softening the psyche's rough edges. Intensity builds later today once the Moon migrates into Scorpio, though a harsh square with Pluto could make it difficult to navigate large crowds."
+}
+
