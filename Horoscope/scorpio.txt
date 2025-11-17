@@ -41,3 +41,9 @@
   "horoscope": "The stars conspire to elevate your connections and popularity early this morning, dear Scorpio, as the Virgo Moon aligns with Neptune and Uranus. Take note of any fresh faces that cross your path, both online and within your community. You won't be in the most social mood after Luna enters Libra and aspects Pluto, craving cozy and intimate interactions over bustling crowds or small talk. Give your spirit what it needs to recharge so your light can shine more brightly later. Check in with your finances when Mercury Rx stirs, making spending cuts as required. A rush of motivation inspires you to hide away and work on personal goals once Mars activates this evening."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2025-11-17",
+  "horoscope": "Be gentle with yourself and let the universe know where you need support, dear Scorpio. As the Libra Moon aspects Chiron and Jupiter, you'll have a chance to replace stress with hope if you direct the energy accordingly. Mercury Rx and Pluto align to slow time, inviting you to step away from the mundane to find beauty and simple pleasures. These vibes are ideal for cleaning the home, as lost items will likely be recovered. Leave your comfort zone with a loved one when a rare yod forms between Luna, Neptune, and Uranus, solidifying bonds with adventure. The Moon enters your sign and squares Pluto later today, which could trigger emotional blocks."
+}
+
