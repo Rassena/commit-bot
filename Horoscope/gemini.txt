@@ -34,3 +34,9 @@
   "horoscope": "You could feel slightly run down or out of sorts this morning, dear Gemini, due to harsh aspects between the Virgo Moon, Mercury Rx, and Mars. Though you might move more slowly than usual, sticking to a routine will help you get into a flow, thanks to a helping hand from Venus. Chat with your body while easing into the day, offering it healthy foods, proper hydration, and luxurious stretches. You'll have a chance to unwind later tonight when the nodes of fate stir fully. Close your curtains, lock the door, and retreat the a quiet space to recharge in peace."
 }
 
+{
+  "sign": "gemini",
+  "date": "2025-11-17",
+  "horoscope": "Focus your energy and recognize what takes you out of the present, dear Gemini. As the Libra Moon forms challenging aspects with Chiron and Jupiter, outside noise threatens to pull you away from magickal moments. Tune into your heart and prioritize activities that build confidence, especially if there's an opportunity to capitalize on your passions or natural talents. Mercury Rx and Pluto reinforce spiritual and romantic connections, helping you backtrack and repair relationships that have fallen out of sync. A rare yod between Luna, Neptune, and Uranus helps break patterns that are self-restrictive. Give your body what it needs to thrive once Luna enters Scorpio and aligns with Pluto later today."
+}
+
