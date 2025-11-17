@@ -23,3 +23,9 @@
   "horoscope": "The Virgo Moon aligns with Neptune and Uranus early this morning, dear Libra, rewiring your psyche as you sleep. Take note of your initial thoughts upon awakening, in addition to any intense dreams you experienced overnight. An empowering energy encourages you to take up space and express yourself creatively once Luna enters your sign and aspects Pluto. With increased motivation, you'll have the ability to tackle daunting projects or tasks. Just be mindful to edit your work while Mercury Rx stirs, emphasizing the importance of finishing touches. Demonstrate that you're true to your word with undeniable action when Mars activates this evening."
 }
 
+{
+  "sign": "libra",
+  "date": "2025-11-17",
+  "horoscope": "Luna takes her final steps through your sign, darling Libra, aligning with Chiron and Jupiter early this morning. Notice if you feel overwhelmed by loved ones or personal responsibilities, promise yourself some quality &quot;me time&quot; ASAP. Mercury Rx and Pluto stir up creative ideas that have gone dormant, reminding you of the talent that lies within. A rare yod between the Moon, Neptune, and Uranus brings a burst of energy your way, helping you develop innovative strategies to find transformation and empowerment. Luna enters Scorpio and squares Pluto later today, nudging you to rest, release, and nurture yourself at home."
+}
+
