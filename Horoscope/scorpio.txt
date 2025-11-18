@@ -47,3 +47,9 @@
   "horoscope": "Be gentle with yourself and let the universe know where you need support, dear Scorpio. As the Libra Moon aspects Chiron and Jupiter, you'll have a chance to replace stress with hope if you direct the energy accordingly. Mercury Rx and Pluto align to slow time, inviting you to step away from the mundane to find beauty and simple pleasures. These vibes are ideal for cleaning the home, as lost items will likely be recovered. Leave your comfort zone with a loved one when a rare yod forms between Luna, Neptune, and Uranus, solidifying bonds with adventure. The Moon enters your sign and squares Pluto later today, which could trigger emotional blocks."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2025-11-18",
+  "horoscope": "Mercury retrograde re-enters your sign, dear Scorpio, putting you in the mood to edit your look. While these vibes are great for revisiting styles that are tried and true, it's probably not the best time to experiment with bangs, hair color, or any other decisions that will be difficult to reverse. As Luna continues her journey through your sign, try to recalibrate on an intuitive level. Honor the voice within, and be open to guidance from the universe. The Moon aspects Venus and the nodes of fate later tonight, upping your charm to assist with calling in attention, opportunities, and romance."
+}
+
