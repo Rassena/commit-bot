@@ -48,3 +48,9 @@
   "horoscope": "The Libra Moon enters challenging aspects with Chiron and Jupiter this morning, darling Aries. The stars ask you to honor your emotions, recognizing that running from your feelings often causes them to get bigger over time. Luckily, Mercury Rx and Pluto lend a helping hand. Connect with friends who have gone through similar experiences to unload and find understanding. Breakthroughs emerge when Luna, Neptune, and Uranus enter a rare yod formation, softening the psyche's rough edges. Intensity builds later today once the Moon migrates into Scorpio, though a harsh square with Pluto could make it difficult to navigate large crowds."
 }
 
+{
+  "sign": "aries",
+  "date": "2025-11-18",
+  "horoscope": "Mercury retrogrades back into Scorpio and your solar eighth house, dear Aries, asking you to reevaluate your connections and commitments. Personal sacrifices may be necessary to salvage certain relationships or opportunities, and you'll want to choose next steps wisely. The Scorpio Moon sharpens your intuition, though intense emotions will rise to the surface as a result. Luna aspects Venus and the nodes of fate later tonight, urging you to prioritize healthy partnerships. If your closest companions aren't inspiring you to be better and vice versa, it will be challenging to build the future you've been envisioning for yourself."
+}
+
