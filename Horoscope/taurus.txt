@@ -17,3 +17,9 @@
 }
 
 
+{
+  "sign": "taurus",
+  "date": "2025-11-18",
+  "horoscope": "Mercury retrogrades are notorious for bringing romantic partners from the past out of the woodwork. As the planet of communication backslides into Scorpio and your solar seventh house, you'll be especially susceptible to these side effects. If you find yourself contemplating a reunion, consider what you need moving forward, dearest Taurus. The Scorpio Moon intensifies flirtations and puts you in dreamy spirits, but don't let rose colored glasses blind you from another's true colors. The decisions you make around matters of the heart will have lasting impacts once Luna aspects Venus and the nodes of fate later tonight, so remember to put your best interests first."
+}
+
