@@ -35,3 +35,9 @@
   "horoscope": "Lucky moments linger on the horizon, dear Pisces, but the Libra Moon asks you to face specific challenges. Recognize where change or sacrifice is needed to propel your situation forward, preparing for blessings that are sure to arise. Identify stagnancy, toxic relationships, and imbalances if you're unsure of where to begin. As a grand trine forms between the Scorpio sun, Saturn, and Jupiter, you'll feel increasingly aligned with what the heart desires and your own capabilities. Find discipline where it was once lacking to unleash the unstoppable force that lives within. If you need extra support from the other side, ask for it!"
 }
 
+{
+  "sign": "pisces",
+  "date": "2025-11-19",
+  "horoscope": "Embody the dreams you've envisioned for yourself, dear Pisces, as Mercury Rx, Neptune, and Uranus align. Though you won't be able to fake it until you make it, you can at least get the ball rolling for now. Absorb lessons with each trial, tribulation, and win that unfolds as you chase your most romantic fantasies. Collaborate with the divine by sharing your wishes with the other side. A seriously magickal energy infuses your aura under tonight's Scorpio new Moon, which activates the sector of your chart that governs luck and enlightenment. Ask for guidance and follow the signs to your next great accomplishment."
+}
+
