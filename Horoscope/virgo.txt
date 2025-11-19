@@ -17,3 +17,9 @@
   "horoscope": "The Moon aspects Neptune and Uranus before exiting your sign, dear Virgo, conjuring surprises and spiritually charged epiphanies. Take a few moments to collect yourself upon awakening, as Luna enters Libra and aligns with Pluto. This energy helps bring your visions and personal goals to life, but you'll need to get organized by sorting through tasks and letting go of agendas that don't serve your best interests. Mixed emotions could throw you off track when Mercury Rx stirs, though pausing to nurture yourself will bring you to a place of clarity. Passionate vibes fill your space once Mars activates this evening."
 }
 
+{
+  "sign": "virgo",
+  "date": "2025-11-19",
+  "horoscope": "Wishes are granted at lightning speed, dear Virgo, as Mercury Rx, Neptune, and Uranus align. However, the universe will throw a few surprises into the mix, no matter how specific your visions may be. Trust that the path you're being guided down will come with both ups and downs, evolving your soul as the process of manifestation unfolds. News of an upcoming adventure could also arise, and you'll be in the mood to explore new horizons. The Scorpio new Moon rises later tonight, emphasizing the importance of intellectual growth. Set educational goals for the next six months to honor these vibes."
+}
+
