@@ -17,3 +17,9 @@
   "horoscope": "The Libra Moon aligns with Chiron, Jupiter, Neptune, and Uranus throughout the first half of the day, darling Cancer, taking your emotions in many directions. Imposter syndrome, family difficulties, and a need for rest can all contribute to mood swings. Connect with supportive friends and engage in a mindfulness practice to stay grounded. A soft aspect between Mercury Rx and Pluto encourages you to keep busy while using discernment around what or who you give your energy to. Playful vibes flow once Luna enters Scorpio this afternoon, boosting your charisma, confidence, and sense of humor. Watch out for temperamental partners and call out toxic behaviors when Pluto stirs this evening. "
 }
 
+{
+  "sign": "cancer",
+  "date": "2025-11-19",
+  "horoscope": "Mercury Rx, Neptune, and Uranus align overhead, darling Cancer, increasing your ability to read others. However, you'll need to scratch beyond the surface to truly understand what lies in another's heart, which could lead to pleasant surprises. Move past your own social hangups or preconceived notions to ensure you don't miss out on opportunities to connect with beautiful souls. The Scorpio new Moon rises later tonight, bringing a rush of playful and creative energy your way. Document the ideas that trickle through, sorting through potential projects before committing to one specific vision. The next six months bring exciting developments to your preferred form of expression."
+}
+
