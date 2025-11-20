@@ -47,3 +47,9 @@
   "horoscope": "Find a healthy balance between maintaining secrecy and self-promotion, dearest Capricorn. As the Virgo Moon aligns with Mercury Rx, Mars, and Venus, it would be easy to overshare when you feel excited or crave verbal validation. Work with your higher power to maintain an intuitive yet logical perspective, recognizing the fine line that separates fantasy from possibility. Be extra aware of any recurring signs, visions, or ideas that trickle through, as the universe may be attempting to guide you. Initiate conversations around the future while the nodes of fate stir tonight, especially with those whose opinions you trust most."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2025-11-20",
+  "horoscope": "Your ideas will become deeper and more vibrant throughout the day, dear Capricorn. As Luna enters Sagittarius and aligns with Pluto, take time to consider how these visions can be transferred into the real world. Restructure your foundations to make room for new agendas, closing out cycles that have held you back. Solitude will benefit you under these cosmic conditions, making it easier to focus as distractions are eliminated. If you're working with any partners, be mindful to chat with them while Uranus and Neptune align. Personal research may also be necessary to advance projects."
+}
+
