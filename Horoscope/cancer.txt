@@ -23,3 +23,9 @@
   "horoscope": "Mercury Rx, Neptune, and Uranus align overhead, darling Cancer, increasing your ability to read others. However, you'll need to scratch beyond the surface to truly understand what lies in another's heart, which could lead to pleasant surprises. Move past your own social hangups or preconceived notions to ensure you don't miss out on opportunities to connect with beautiful souls. The Scorpio new Moon rises later tonight, bringing a rush of playful and creative energy your way. Document the ideas that trickle through, sorting through potential projects before committing to one specific vision. The next six months bring exciting developments to your preferred form of expression."
 }
 
+{
+  "sign": "cancer",
+  "date": "2025-11-20",
+  "horoscope": "You're a busy bee today, dear Cancer, as the Moon enters Sagittarius and connects with empowering Pluto. This cosmic climate brings a charge to your morale, making it easier to catch up on projects, tasks, and chores. Just remember that not all work must be completed alone. Team dynamics will help you build faster, reminding you that others are willing to step up and lend a hand. Throw yourself into the mix when surrounded by colleagues or peers while Uranus and Neptune align, helping you attract kindred spirits. Be open to new friendships and you'll be surprised by what comes next."
+}
+
