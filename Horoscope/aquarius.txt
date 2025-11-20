@@ -35,3 +35,9 @@
   "horoscope": "Your workload will feel inconsistent throughout the coming months, dear Aquarius, as Jupiter stations retrograde in your solar sixth house. Recognize how your own habits contribute to such patterns, and if procrastination forces you to play catch-up later. Focus on bringing your schedule into balance by getting ahead of tasks before they have a chance to pile up. Once you've hit a healthier workflow, the universe will orchestrate new opportunities. Health and wellness should also be a priority, and your body will thank you for taking its needs seriously. The quarter Moon rises in Leo tonight, revealing roadblocks within relationships."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2025-11-20",
+  "horoscope": "You'll have the power to change how others see you, dear Aquarius, as the Moon enters Sagittarius and aligns with Pluto. These vibes are perfect for taking up space to reinforce projects or ideals you want to be known for. You'll also feel pulled toward humanitarian causes, and can gain further respect by backing up your convictions with meaningful action. Meanwhile, Uranus and Neptune place focus on your financial situation and home life, asking you to consider ways to elevate both. Eliminate unnecessary spending and allocate more time for family activities to ensure these areas receive the attention they deserve."
+}
+
