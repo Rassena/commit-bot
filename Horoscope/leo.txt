@@ -58,3 +58,9 @@
   "horoscope": "The Virgo Moon aligns with Neptune and Uranus early this morning, dearest Leo, helping you release grudges and find gratitude. Your world will feel rich and romantic once Luna enters Libra and aspects Pluto, allowing you to see beyond the surface. Ask meaningful questions and share more details about your own life to build up relationships. Mental or creative blocks may emerge while Mercury retrogrades, encouraging you to review existing work or information instead of charging forward. Passionate connections heat up this evening when Mars stirs, but you'll require a partner who can match your wit and intellect."
 }
 
+{
+  "sign": "leo",
+  "date": "2025-11-20",
+  "horoscope": "The Moon moves into Sagittarius and aligns with Pluto, dear Leo, bringing a charge to your heart center. Flow with the people and activities that move you, soaking up the inspiration and motivation you receive. Sharpened instincts will propel you into action, enabling you to leap toward your personal goals with confidence. Themes around loyalty also come into play, and you'll feel increasingly devoted to those who have your back. Meanwhile, Uranus and Neptune form a soft sextile, altering your visions for the future. Rework long-term aspirations as new ideas trickle in and electrify your sense of ambition."
+}
+
