@@ -47,3 +47,9 @@
   "horoscope": "You'll have the power to change how others see you, dear Aquarius, as the Moon enters Sagittarius and aligns with Pluto. These vibes are perfect for taking up space to reinforce projects or ideals you want to be known for. You'll also feel pulled toward humanitarian causes, and can gain further respect by backing up your convictions with meaningful action. Meanwhile, Uranus and Neptune place focus on your financial situation and home life, asking you to consider ways to elevate both. Eliminate unnecessary spending and allocate more time for family activities to ensure these areas receive the attention they deserve."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2025-11-20",
+  "horoscope": "You'll have the power to change how others see you, dear Aquarius, as the Moon enters Sagittarius and aligns with Pluto. These vibes are perfect for taking up space to reinforce projects or ideals you want to be known for. You'll also feel pulled toward humanitarian causes, and can gain further respect by backing up your convictions with meaningful action. Meanwhile, Uranus and Neptune place focus on your financial situation and home life, asking you to consider ways to elevate both. Eliminate unnecessary spending and allocate more time for family activities to ensure these areas receive the attention they deserve."
+}
+
