@@ -35,3 +35,9 @@
   "horoscope": "Luna is active in your sign this morning, dear archer, aligning with Mars and the nodes of fate. Although you'll be eager to make a splash, unforeseen challenges could lead to a failure to launch. Honor your intuition when it tells you to slow down, and recognize if your vision starts to blur. At the same time, the Scorpio sun aspects Uranus and Neptune, your body will send signals if you need a breather. You'll have plenty of energy to draw from throughout the coming weeks once the sun enters your sign this evening. Prepare for growth during this time, as the stars align to elevate your standing."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2025-11-21",
+  "horoscope": "Luna is active in your sign this morning, dear archer, aligning with Mars and the nodes of fate. Although you'll be eager to make a splash, unforeseen challenges could lead to a failure to launch. Honor your intuition when it tells you to slow down, and recognize if your vision starts to blur. At the same time, the Scorpio sun aspects Uranus and Neptune, your body will send signals if you need a breather. You'll have plenty of energy to draw from throughout the coming weeks once the sun enters your sign this evening. Prepare for growth during this time, as the stars align to elevate your standing."
+}
+
