@@ -47,3 +47,9 @@
   "horoscope": "Don't give in to gatekeepers or pushy colleagues, dear Pisces, as the Sagittarius Moon aligns with Mars and the nodes of fate. Though the threat of tension causes you to hold back at times, it's essential to stand your ground when fighting for the future. Luckily, the Scorpio sun, Uranus, and Neptune join forces to elevate the mind and amplify your voice. An extra dose of luck takes your ideas further, and new adventures could unfold as a result. Success grows steadily throughout the coming weeks once the sun enters Sagittarius and your solar tenth house this evening."
 }
 
+{
+  "sign": "pisces",
+  "date": "2025-11-21",
+  "horoscope": "Don't give in to gatekeepers or pushy colleagues, dear Pisces, as the Sagittarius Moon aligns with Mars and the nodes of fate. Though the threat of tension causes you to hold back at times, it's essential to stand your ground when fighting for the future. Luckily, the Scorpio sun, Uranus, and Neptune join forces to elevate the mind and amplify your voice. An extra dose of luck takes your ideas further, and new adventures could unfold as a result. Success grows steadily throughout the coming weeks once the sun enters Sagittarius and your solar tenth house this evening."
+}
+
