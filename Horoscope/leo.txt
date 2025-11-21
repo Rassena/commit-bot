@@ -64,3 +64,9 @@
   "horoscope": "The Moon moves into Sagittarius and aligns with Pluto, dear Leo, bringing a charge to your heart center. Flow with the people and activities that move you, soaking up the inspiration and motivation you receive. Sharpened instincts will propel you into action, enabling you to leap toward your personal goals with confidence. Themes around loyalty also come into play, and you'll feel increasingly devoted to those who have your back. Meanwhile, Uranus and Neptune form a soft sextile, altering your visions for the future. Rework long-term aspirations as new ideas trickle in and electrify your sense of ambition."
 }
 
+{
+  "sign": "leo",
+  "date": "2025-11-21",
+  "horoscope": "A passionate and impulsive energy rules you early this morning, dear Leo, as the Sagittarius Moon aspects Mars and the nodes of fate. Though you may feel as if destiny is calling, leaping without looking could cause you to trip up. Rather than focusing solely on big prizes, take a close look at your current circumstances. Identify potential roadblocks and lay the foundation for growth to spark real change. Find balance between your emotional investments and what is practical, recognizing if specific dreams must be altered if they're ever going to manifest. Put more focus on creative outlets and the pursuit of pleasure once Sagittarius season kicks off this evening."
+}
+
