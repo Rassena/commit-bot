@@ -59,3 +59,4 @@
   "horoscope": "Avoid competing with peers, dear Aquarius, as the Sagittarius Moon aspects Mars and the nodes of fate. Though you'll be eager to stay current, measuring your own success against others is more likely to brew insecurity than inspiration. Luckily, as the Scorpio sun aligns with Uranus and Neptune, drawing boundaries with the outside world to focus on your ideas will become easier. Find resilience by connecting with those who can help you build, or at least cheer you on from the sidelines. Sagittarius season kicks off this evening, urging you to network and make meaningful connections throughout the coming weeks."
 }
 
+
