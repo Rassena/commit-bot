@@ -29,3 +29,9 @@
   "horoscope": "You're a busy bee today, dear Cancer, as the Moon enters Sagittarius and connects with empowering Pluto. This cosmic climate brings a charge to your morale, making it easier to catch up on projects, tasks, and chores. Just remember that not all work must be completed alone. Team dynamics will help you build faster, reminding you that others are willing to step up and lend a hand. Throw yourself into the mix when surrounded by colleagues or peers while Uranus and Neptune align, helping you attract kindred spirits. Be open to new friendships and you'll be surprised by what comes next."
 }
 
+{
+  "sign": "cancer",
+  "date": "2025-11-21",
+  "horoscope": "A burst of motivation helps you develop new and improved strategies, dear Cancer. As the Sagittarius Moon aligns with Mars and the nodes of fate, rework ideas to make them more digestible and easier to actualize. Recognize where you need help or extra time, even if doing so creates a few temporary setbacks. Find your creative voice to stand apart from your peers while the Scorpio sun aspects Uranus and Neptune, prioritizing authenticity over what is commonly accepted. Your workload picks up once Sagittarius season kicks off this evening, but you'll want to keep tabs on your health as well. "
+}
+
