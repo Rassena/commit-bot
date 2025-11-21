@@ -41,3 +41,9 @@
   "horoscope": "Embody the dreams you've envisioned for yourself, dear Pisces, as Mercury Rx, Neptune, and Uranus align. Though you won't be able to fake it until you make it, you can at least get the ball rolling for now. Absorb lessons with each trial, tribulation, and win that unfolds as you chase your most romantic fantasies. Collaborate with the divine by sharing your wishes with the other side. A seriously magickal energy infuses your aura under tonight's Scorpio new Moon, which activates the sector of your chart that governs luck and enlightenment. Ask for guidance and follow the signs to your next great accomplishment."
 }
 
+{
+  "sign": "pisces",
+  "date": "2025-11-21",
+  "horoscope": "Don't give in to gatekeepers or pushy colleagues, dear Pisces, as the Sagittarius Moon aligns with Mars and the nodes of fate. Though the threat of tension causes you to hold back at times, it's essential to stand your ground when fighting for the future. Luckily, the Scorpio sun, Uranus, and Neptune join forces to elevate the mind and amplify your voice. An extra dose of luck takes your ideas further, and new adventures could unfold as a result. Success grows steadily throughout the coming weeks once the sun enters Sagittarius and your solar tenth house this evening."
+}
+
