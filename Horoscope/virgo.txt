@@ -23,3 +23,9 @@
   "horoscope": "Wishes are granted at lightning speed, dear Virgo, as Mercury Rx, Neptune, and Uranus align. However, the universe will throw a few surprises into the mix, no matter how specific your visions may be. Trust that the path you're being guided down will come with both ups and downs, evolving your soul as the process of manifestation unfolds. News of an upcoming adventure could also arise, and you'll be in the mood to explore new horizons. The Scorpio new Moon rises later tonight, emphasizing the importance of intellectual growth. Set educational goals for the next six months to honor these vibes."
 }
 
+{
+  "sign": "virgo",
+  "date": "2025-11-21",
+  "horoscope": "Charged emotions inspire you to act this morning, dear Virgo, as the Sagittarius Moon aligns with Mars and the nodes of fate. You'll be eager to leave the past behind, refreshing your image in the process. Although it's essential to shed your skin now and then, try not to forget the lessons that have shaped you. Let your charismatic side take the lead while the Scorpio sun aspects Uranus and Neptune, especially when pursuing opportunity or potential romantic connections. You'll feel like spending more time at home and with family throughout the coming weeks after Sagittarius season kicks off this evening."
+}
+
