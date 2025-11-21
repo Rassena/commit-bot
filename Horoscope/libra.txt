@@ -29,3 +29,9 @@
   "horoscope": "Luna takes her final steps through your sign, darling Libra, aligning with Chiron and Jupiter early this morning. Notice if you feel overwhelmed by loved ones or personal responsibilities, promise yourself some quality &quot;me time&quot; ASAP. Mercury Rx and Pluto stir up creative ideas that have gone dormant, reminding you of the talent that lies within. A rare yod between the Moon, Neptune, and Uranus brings a burst of energy your way, helping you develop innovative strategies to find transformation and empowerment. Luna enters Scorpio and squares Pluto later today, nudging you to rest, release, and nurture yourself at home."
 }
 
+{
+  "sign": "libra",
+  "date": "2025-11-21",
+  "horoscope": "As the Sagittarius Moon aspects Mars and the nodes of fate, choose your moves wisely. You'll feel both inspired and motivated by these cosmic conditions, darling Libra, but failing to plan could cause you to miss important details. Meanwhile, the Scorpio sun aligns with Uranus and Neptune, intensifying the need for organization and structure. Unforeseen obstacles may emerge with little warning, causing you to question what comes next. Rather than giving up, fully invest in problem-solving and educating yourself as needed. Luckily, new information will be easier to process throughout the coming weeks once the sun enters Sagittarius this evening."
+}
+
