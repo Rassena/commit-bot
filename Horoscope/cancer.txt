@@ -35,3 +35,9 @@
   "horoscope": "A burst of motivation helps you develop new and improved strategies, dear Cancer. As the Sagittarius Moon aligns with Mars and the nodes of fate, rework ideas to make them more digestible and easier to actualize. Recognize where you need help or extra time, even if doing so creates a few temporary setbacks. Find your creative voice to stand apart from your peers while the Scorpio sun aspects Uranus and Neptune, prioritizing authenticity over what is commonly accepted. Your workload picks up once Sagittarius season kicks off this evening, but you'll want to keep tabs on your health as well. "
 }
 
+{
+  "sign": "cancer",
+  "date": "2025-11-22",
+  "horoscope": "Trust that you've earned the positive attention and blessings you receive today, darling Cancer. As Mercury Rx, Saturn, and Jupiter form a grand trine, efforts you've put forth will finally start to pay off. Wishes are also liable to manifest under these cosmic conditions, so be sure to tell the universe what your heart desires most. However, you'll want to consider how your life will change as specific dreams come to fruition while the Sagittarius Moon squares Saturn and Neptune, causing your responsibilities to multiply. Prioritize love, balance, and romance later this afternoon once Luna enters Capricorn and your solar seventh house."
+}
+
