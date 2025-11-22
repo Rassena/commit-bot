@@ -41,3 +41,9 @@
   "horoscope": "Trust that you've earned the positive attention and blessings you receive today, darling Cancer. As Mercury Rx, Saturn, and Jupiter form a grand trine, efforts you've put forth will finally start to pay off. Wishes are also liable to manifest under these cosmic conditions, so be sure to tell the universe what your heart desires most. However, you'll want to consider how your life will change as specific dreams come to fruition while the Sagittarius Moon squares Saturn and Neptune, causing your responsibilities to multiply. Prioritize love, balance, and romance later this afternoon once Luna enters Capricorn and your solar seventh house."
 }
 
+{
+  "sign": "cancer",
+  "date": "2025-11-22",
+  "horoscope": "Trust that you've earned the positive attention and blessings you receive today, darling Cancer. As Mercury Rx, Saturn, and Jupiter form a grand trine, efforts you've put forth will finally start to pay off. Wishes are also liable to manifest under these cosmic conditions, so be sure to tell the universe what your heart desires most. However, you'll want to consider how your life will change as specific dreams come to fruition while the Sagittarius Moon squares Saturn and Neptune, causing your responsibilities to multiply. Prioritize love, balance, and romance later this afternoon once Luna enters Capricorn and your solar seventh house."
+}
+
