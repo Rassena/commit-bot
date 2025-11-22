@@ -70,3 +70,9 @@
   "horoscope": "A passionate and impulsive energy rules you early this morning, dear Leo, as the Sagittarius Moon aspects Mars and the nodes of fate. Though you may feel as if destiny is calling, leaping without looking could cause you to trip up. Rather than focusing solely on big prizes, take a close look at your current circumstances. Identify potential roadblocks and lay the foundation for growth to spark real change. Find balance between your emotional investments and what is practical, recognizing if specific dreams must be altered if they're ever going to manifest. Put more focus on creative outlets and the pursuit of pleasure once Sagittarius season kicks off this evening."
 }
 
+{
+  "sign": "leo",
+  "date": "2025-11-22",
+  "horoscope": "Return to simple comforts that helped you feel supported as a child, dear Leo. As Mercury Rx, Saturn, and Jupiter align, your soul may need a bit of extra nurturing. Romantic connections will also grow more intense, helping you identify where true partnership potential lies. Let others get to know you better if you can visualize a future with them. Just try not to rush the process of trust and commitment when Luna squares Saturn and Neptune. Cater to your health and catch up on chores after Luna enters Capricorn later this afternoon, encouraging you to prioritize wellness while getting organized."
+}
+
