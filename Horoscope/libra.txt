@@ -35,3 +35,9 @@
   "horoscope": "As the Sagittarius Moon aspects Mars and the nodes of fate, choose your moves wisely. You'll feel both inspired and motivated by these cosmic conditions, darling Libra, but failing to plan could cause you to miss important details. Meanwhile, the Scorpio sun aligns with Uranus and Neptune, intensifying the need for organization and structure. Unforeseen obstacles may emerge with little warning, causing you to question what comes next. Rather than giving up, fully invest in problem-solving and educating yourself as needed. Luckily, new information will be easier to process throughout the coming weeks once the sun enters Sagittarius this evening."
 }
 
+{
+  "sign": "libra",
+  "date": "2025-11-22",
+  "horoscope": "Find your power, dear Libra, as Mercury Rx, Saturn, and Jupiter align. You'll gain momentum within long-term goals and prosperous opportunities, though it may be necessary to convince others of your capabilities along the way. Stand proud in your accomplishments, taking full credit for all the experience you've gained through hard work and dedication. Just be mindful to maintain a clear message while the Sagittarius Moon squares Saturn and Neptune, lest you come across as disorganized or overly optimistic. Treat yourself to some much-deserved pampering from the privacy of home after Luna enters Capricorn and your solar fourth house later this afternoon."
+}
+
