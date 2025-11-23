@@ -47,3 +47,9 @@
   "horoscope": "Trust that you've earned the positive attention and blessings you receive today, darling Cancer. As Mercury Rx, Saturn, and Jupiter form a grand trine, efforts you've put forth will finally start to pay off. Wishes are also liable to manifest under these cosmic conditions, so be sure to tell the universe what your heart desires most. However, you'll want to consider how your life will change as specific dreams come to fruition while the Sagittarius Moon squares Saturn and Neptune, causing your responsibilities to multiply. Prioritize love, balance, and romance later this afternoon once Luna enters Capricorn and your solar seventh house."
 }
 
+{
+  "sign": "cancer",
+  "date": "2025-11-23",
+  "horoscope": "The universe works overtime to help you kick bad habits, darling Cancer, as the Sagittarius sun and Pluto connect. Now is the time to prioritize your wellness, recognizing if vices have gotten in the way of achieving healthier goals. The Capricorn Moon offers a harmonizing and stabilizing energy, reinforcing your will as you transition toward new behaviors. Feel your power grow with each responsible choice you make. The stars align to reward your efforts and send signs of validation while the nodes of fate activate this evening. Be optimistic that brighter days are ahead, doing away with negative internal dialogues that push you toward perfectionism."
+}
+
