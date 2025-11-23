@@ -76,3 +76,9 @@
   "horoscope": "Return to simple comforts that helped you feel supported as a child, dear Leo. As Mercury Rx, Saturn, and Jupiter align, your soul may need a bit of extra nurturing. Romantic connections will also grow more intense, helping you identify where true partnership potential lies. Let others get to know you better if you can visualize a future with them. Just try not to rush the process of trust and commitment when Luna squares Saturn and Neptune. Cater to your health and catch up on chores after Luna enters Capricorn later this afternoon, encouraging you to prioritize wellness while getting organized."
 }
 
+{
+  "sign": "leo",
+  "date": "2025-11-23",
+  "horoscope": "Romantic developments bring enthusiasm to the heart, darling Leo, as a Sagittarius sun and Pluto align. If you've been hoping to take flirtations to the next level, now is a good time to do so. On a personal level, it's equally important that you cherish and admire yourself. Build confidence to ensure your connections may thrive. Meanwhile, the Capricorn Moon asks you to use your Sunday productively. Grab someone special to run errands with or keep you company while completing chores. Slow down and release stress to prepare for Monday's arrival while the nodes of fate stir this evening."
+}
+
