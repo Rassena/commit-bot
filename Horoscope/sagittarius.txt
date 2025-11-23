@@ -47,3 +47,9 @@
   "horoscope": "Luna wraps up her journey through your sign, dear Aries, squaring off with Saturn and Neptune along the way. Mixed feelings could put you at a standstill, making it difficult to decipher what comes next. Focus on harmonizing your emotions before allowing your intuition to guide you, or you might drift into territory that's hard to navigate. Luckily, a grand trine between the sun, Saturn, and Jupiter helps with the process of release. If something or someone isn't contributing to your well-being, it's time to create some distance from them. Treat yourself to a bit of leisure to recalibrate once Luna enters Capricorn later today."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2025-11-23",
+  "horoscope": "Please don't underestimate the impact words can have, dear archer, especially when they come out of your own mouth. As the sun and Pluto align, you'll be in a position to empower yourself and transform your prospects. These vibes are perfect for reinventing your image or changing up the messages you've been sharing. Remember that respect is more easily gained when you choose to evolve, versus stubbornly clinging to what you once said or believed. The Capricorn Moon offers a steadying energy, helping you feel the earth's support as you move forward. Reflect on your goals for the work week ahead while relaxing at home as the nodes of fate stir this evening."
+}
+
