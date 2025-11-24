@@ -53,3 +53,9 @@
   "horoscope": "Please don't underestimate the impact words can have, dear archer, especially when they come out of your own mouth. As the sun and Pluto align, you'll be in a position to empower yourself and transform your prospects. These vibes are perfect for reinventing your image or changing up the messages you've been sharing. Remember that respect is more easily gained when you choose to evolve, versus stubbornly clinging to what you once said or believed. The Capricorn Moon offers a steadying energy, helping you feel the earth's support as you move forward. Reflect on your goals for the work week ahead while relaxing at home as the nodes of fate stir this evening."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2025-11-24",
+  "horoscope": "Throwing a tantrum won't get you any closer to having your way, dear Sagittarius. As Mars enters a harsh t-square with the nodes of fate, you'll be extra sensitive and may struggle with restraint. If your mood becomes unpredictable, take it as a sign to pull back and nurture the spirit. The Capricorn moon forms a sweet connection with Mercury rx and Venus, asking you to embrace solitude and a bit of luxury. Seek silence and peacefully reflect on why you're so upset to begin with, releasing what you cannot control, and focus on loving yourself. Think practically to alleviate unreasonable emotions while Luna aspects Chiron, Jupiter, and Saturn."
+}
+
