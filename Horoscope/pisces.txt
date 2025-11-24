@@ -53,3 +53,9 @@
   "horoscope": "Don't give in to gatekeepers or pushy colleagues, dear Pisces, as the Sagittarius Moon aligns with Mars and the nodes of fate. Though the threat of tension causes you to hold back at times, it's essential to stand your ground when fighting for the future. Luckily, the Scorpio sun, Uranus, and Neptune join forces to elevate the mind and amplify your voice. An extra dose of luck takes your ideas further, and new adventures could unfold as a result. Success grows steadily throughout the coming weeks once the sun enters Sagittarius and your solar tenth house this evening."
 }
 
+{
+  "sign": "pisces",
+  "date": "2025-11-24",
+  "horoscope": "It will be challenging to please everyone, dear Pisces, as Mars forms a tense t-square with the nodes of fate. Recognize that sometimes, to be a leader, you have to make unpopular decisions. Luckily, a sweet alignment between the Capricorn moon, Mercury rx, and Venus can help you regain favor with peers, but it may be necessary to explain your choices. These vibes can also bring forth lucky encounters, so pay close attention to any interactions that resonate with you. Find acceptance through community interaction in lieu of material displays while Luna aspects Chiron, Jupiter, and Saturn throughout the afternoon."
+}
+
