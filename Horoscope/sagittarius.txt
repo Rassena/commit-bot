@@ -65,3 +65,9 @@
   "horoscope": "Throwing a tantrum won't get you any closer to having your way, dear Sagittarius. As Mars enters a harsh t-square with the nodes of fate, you'll be extra sensitive and may struggle with restraint. If your mood becomes unpredictable, take it as a sign to pull back and nurture the spirit. The Capricorn moon forms a sweet connection with Mercury rx and Venus, asking you to embrace solitude and a bit of luxury. Seek silence and peacefully reflect on why you're so upset to begin with, releasing what you cannot control, and focus on loving yourself. Think practically to alleviate unreasonable emotions while Luna aspects Chiron, Jupiter, and Saturn."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2025-11-24",
+  "horoscope": "Throwing a tantrum won't get you any closer to having your way, dear Sagittarius. As Mars enters a harsh t-square with the nodes of fate, you'll be extra sensitive and may struggle with restraint. If your mood becomes unpredictable, take it as a sign to pull back and nurture the spirit. The Capricorn moon forms a sweet connection with Mercury rx and Venus, asking you to embrace solitude and a bit of luxury. Seek silence and peacefully reflect on why you're so upset to begin with, releasing what you cannot control, and focus on loving yourself. Think practically to alleviate unreasonable emotions while Luna aspects Chiron, Jupiter, and Saturn."
+}
+
