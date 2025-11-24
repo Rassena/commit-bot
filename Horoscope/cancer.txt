@@ -53,3 +53,9 @@
   "horoscope": "The universe works overtime to help you kick bad habits, darling Cancer, as the Sagittarius sun and Pluto connect. Now is the time to prioritize your wellness, recognizing if vices have gotten in the way of achieving healthier goals. The Capricorn Moon offers a harmonizing and stabilizing energy, reinforcing your will as you transition toward new behaviors. Feel your power grow with each responsible choice you make. The stars align to reward your efforts and send signs of validation while the nodes of fate activate this evening. Be optimistic that brighter days are ahead, doing away with negative internal dialogues that push you toward perfectionism."
 }
 
+{
+  "sign": "cancer",
+  "date": "2025-11-24",
+  "horoscope": "Lack of organization and procrastination will catch up with you, dear Cancer, as Mars squares off with the nodes of fate. Try not to get flustered as tasks pile up, and prioritize important tasks and ask for help as needed. The Capricorn moon offers a path toward harmony, reminding you that it's okay to rely on those who love you. You'll benefit from a second wind while Mercury rx and Venus unite, especially when you open your heart to support from others. Try not to close off from wonder, sweetness, or joy as Luna aspects Chiron, Jupiter, and Saturn throughout the afternoon."
+}
+
