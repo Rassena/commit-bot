@@ -29,3 +29,9 @@
   "horoscope": "Charged emotions inspire you to act this morning, dear Virgo, as the Sagittarius Moon aligns with Mars and the nodes of fate. You'll be eager to leave the past behind, refreshing your image in the process. Although it's essential to shed your skin now and then, try not to forget the lessons that have shaped you. Let your charismatic side take the lead while the Scorpio sun aspects Uranus and Neptune, especially when pursuing opportunity or potential romantic connections. You'll feel like spending more time at home and with family throughout the coming weeks after Sagittarius season kicks off this evening."
 }
 
+{
+  "sign": "virgo",
+  "date": "2025-11-24",
+  "horoscope": "Take steps to be better for yourself and the people you love, dear Virgo, as Mars squares off with the nodes of fate. This cosmic climate forces you to confront difficult emotions, although you'll have the opportunity to make peace with the past and find a harmonious way forward. Connect with hobbies you've neglected while Luna aspects Mercury RX and Venus, giving your mind a reprieve from grief. Avoid taking your interactions too seriously when the moon aligns with Chiron, Jupiter, and Saturn throughout the afternoon. Put ease and levity first to soothe the heart and strengthen connections. "
+}
+
