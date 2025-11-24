@@ -60,3 +60,9 @@
 }
 
 
+{
+  "sign": "aquarius",
+  "date": "2025-11-24",
+  "horoscope": "Don't give attention to people who don't lift you, dear Aquarius. As Mars forms a tense t-square with the nodes of fate, it would be easy to get distracted by negative influences. Steer clear of social media platforms, competitive environments, or jealous peers to avoid drama. The Capricorn moon helps you move in the shadows while accentuating a need for privacy. Reevaluate your professional goals with increased self-worth when Mercury rx and Venus unite, pivoting if needed. Steady yourself by guarding against unnecessary work and distractions once Luna aspects Chiron, Jupiter, and Saturn throughout the afternoon."
+}
+
