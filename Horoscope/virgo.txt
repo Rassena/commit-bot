@@ -35,3 +35,9 @@
   "horoscope": "Take steps to be better for yourself and the people you love, dear Virgo, as Mars squares off with the nodes of fate. This cosmic climate forces you to confront difficult emotions, although you'll have the opportunity to make peace with the past and find a harmonious way forward. Connect with hobbies you've neglected while Luna aspects Mercury RX and Venus, giving your mind a reprieve from grief. Avoid taking your interactions too seriously when the moon aligns with Chiron, Jupiter, and Saturn throughout the afternoon. Put ease and levity first to soothe the heart and strengthen connections. "
 }
 
+{
+  "sign": "virgo",
+  "date": "2025-11-24",
+  "horoscope": "Take steps to be better for yourself and the people you love, dear Virgo, as Mars squares off with the nodes of fate. This cosmic climate forces you to confront difficult emotions, although you'll have the opportunity to make peace with the past and find a harmonious way forward. Connect with hobbies you've neglected while Luna aspects Mercury RX and Venus, giving your mind a reprieve from grief. Avoid taking your interactions too seriously when the moon aligns with Chiron, Jupiter, and Saturn throughout the afternoon. Put ease and levity first to soothe the heart and strengthen connections. "
+}
+
