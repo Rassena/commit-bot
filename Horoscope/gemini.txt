@@ -40,3 +40,9 @@
   "horoscope": "Focus your energy and recognize what takes you out of the present, dear Gemini. As the Libra Moon forms challenging aspects with Chiron and Jupiter, outside noise threatens to pull you away from magickal moments. Tune into your heart and prioritize activities that build confidence, especially if there's an opportunity to capitalize on your passions or natural talents. Mercury Rx and Pluto reinforce spiritual and romantic connections, helping you backtrack and repair relationships that have fallen out of sync. A rare yod between Luna, Neptune, and Uranus helps break patterns that are self-restrictive. Give your body what it needs to thrive once Luna enters Scorpio and aligns with Pluto later today."
 }
 
+{
+  "sign": "gemini",
+  "date": "2025-11-25",
+  "horoscope": "The Capricorn moon aligns with Uranus and Neptune before entering Aquarius, dear Gemini, clearing away restrictive thoughts and emotions. You should wake up feeling refreshed and optimistic, inspired by the possibilities your day could bring. Take a few moments to set intentions and connect with the divine, opening yourself up to messages from beyond while outlining a clear agenda. A sweet connection between the sun and Luna opens the door to softness, encouraging you to embrace romantic interactions or a bit of self-care. Search for vibrancy wherever you go as the hours pass, and you'll be reminded of how much magick our world truly holds."
+}
+
