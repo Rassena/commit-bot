@@ -59,3 +59,9 @@
   "horoscope": "The Sagittarius Moon squares Saturn and Neptune throughout the day, dear Scorpio, highlighting if you've become stretched thin. Recognize that sometimes you must implement boundaries with yourself so dreams can expand. As Mercury Rx, Saturn, and Jupiter form a grand trine, it's time to reevaluate your priorities. Acknowledge if you've been expending too much energy on social engagements and leisure, adjusting your cycles to make space for creative pursuits or passion projects. Your focus sharpens later today when Luna enters Capricorn, making it easier to establish productive structures that will help you get back on track and excel within long-term goals."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2025-11-25",
+  "horoscope": "How you feel about others comes into focus, dear Scorpio, as the Capricorn moon aligns with Uranus and Neptune before entering Aquarius early this morning. Spend a few moments connecting with loved ones as the day begins, offering words of encouragement or sweet messages to boost morale. Your eye for beauty sharpens while the Sagittarius sun and Luna align, allowing you to access gratitude with ease. However, a hunger for the finer things also emerges, and new money-making schemes could arise as a result. Let your intuition guide you through the following steps, but remain practical in the process of building."
+}
+
