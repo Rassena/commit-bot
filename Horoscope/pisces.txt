@@ -59,3 +59,9 @@
   "horoscope": "It will be challenging to please everyone, dear Pisces, as Mars forms a tense t-square with the nodes of fate. Recognize that sometimes, to be a leader, you have to make unpopular decisions. Luckily, a sweet alignment between the Capricorn moon, Mercury rx, and Venus can help you regain favor with peers, but it may be necessary to explain your choices. These vibes can also bring forth lucky encounters, so pay close attention to any interactions that resonate with you. Find acceptance through community interaction in lieu of material displays while Luna aspects Chiron, Jupiter, and Saturn throughout the afternoon."
 }
 
+{
+  "sign": "pisces",
+  "date": "2025-11-25",
+  "horoscope": "The Capricorn moon aligns with Uranus and Neptune before entering Aquarius early this morning, dear Pisces, stirring up the subconscious. Reflect on any vivid dreams that occurred last night, taking special note of familiar faces that might have appeared. You'll feel somewhat guarded while the Sagittarius sun and Luna align, mainly if distractions have led to procrastination recently. Keep your head down and stay busy, working diligently toward your highest aspirations. You'll benefit from a quiet evening in solitude, and should focus on sorting through thoughts or emotions that have created confusion and need to be addressed."
+}
+
