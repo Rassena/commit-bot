@@ -73,3 +73,9 @@
   "horoscope": "Emotional connections deepen and bring you a sense of security, dear Aries, thanks to a grand trine between Mercury Rx, Saturn, and Jupiter. Let these relationships inspire you to evolve, working toward self-improvement for yourself and those you adore most. Just remember that we all have limitations when the Sagittarius Moon squares Saturn, and that you are no exception. Daydreams grow more vivid once Luna aspects Neptune, then enters Capricorn, but you'll need to connect with reality before following through on these visions. Set new standards for yourself by acknowledging what you can realistically add to your list of goals."
 }
 
+{
+  "sign": "aries",
+  "date": "2025-11-25",
+  "horoscope": "Practical yet intuitively charged vibes creep in just after midnight, dear Aries, as the Capricorn moon aspects Uranus and Neptune before entering Aquarius. This cosmic climate reveals psychic information if you know how to uncover it. Messages about money and success could come through, so be mindful to review your dreams or early-morning epiphanies upon awakening. A sweet connection between the sun and Luna brings a joyful energy to your interactions, encouraging you to circulate and be on the lookout for new friends. Set a good example as the day unfolds, embodying the beliefs and morals you stand for."
+}
+
