@@ -66,3 +66,9 @@
   "horoscope": "Don't give attention to people who don't lift you, dear Aquarius. As Mars forms a tense t-square with the nodes of fate, it would be easy to get distracted by negative influences. Steer clear of social media platforms, competitive environments, or jealous peers to avoid drama. The Capricorn moon helps you move in the shadows while accentuating a need for privacy. Reevaluate your professional goals with increased self-worth when Mercury rx and Venus unite, pivoting if needed. Steady yourself by guarding against unnecessary work and distractions once Luna aspects Chiron, Jupiter, and Saturn throughout the afternoon."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2025-11-25",
+  "horoscope": "You should feel more aware of what you want and deserve, dear Aquarius. As the Capricorn moon aspects Uranus and Neptune before entering your sign, it's essential to put an end to restrictive situations. Whether colleagues, fear, lack of motivation, or your own internal dialogue have been holding you back, combat these issues and reconnect with core desires. It can also be helpful to recognize patterns that have led you to sidestep your own needs to meet others. Luckily, a sweet connection between the Sagittarius sun and Luna highlights the communities you can rely on, encouraging you to let others lift you."
+}
+
