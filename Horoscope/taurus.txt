@@ -29,3 +29,9 @@
   "horoscope": "Life-changing opportunities could manifest, darling Taurus, thanks to a sweet connection between the Sagittarius sun and Pluto. Whether you find yourself discussing plans with a significant other or preparing to ask your boss for a raise, don't be afraid to take big swings that will help you get what you deserve. Just remember that you will need to follow through on any promises you make, being honest about what you bring to the table. Expand your horizons socially later this evening when the Capricorn Moon aligns with the nodes of fate, and lucky developments will ensue."
 }
 
+{
+  "sign": "taurus",
+  "date": "2025-11-25",
+  "horoscope": "You could awaken to messages of support and pleasant surprises, dear Taurus, as the Capricorn moon makes elevating connections with Uranus and Neptune early this morning. The ambiance shifts once Luna enters Aquarius and aligns with the Sagittarius sun, placing focus on your big picture and partnerships that will help you achieve it. Use this energy to propel agreements forward, giving a little so you can receive in return. Fresh proposals may emerge to reshape your agenda, and you may need to adapt on the fly. Wherever these vibes take you, try to collaborate with peers you can level with."
+}
+
