@@ -41,3 +41,9 @@
   "horoscope": "Find your power, dear Libra, as Mercury Rx, Saturn, and Jupiter align. You'll gain momentum within long-term goals and prosperous opportunities, though it may be necessary to convince others of your capabilities along the way. Stand proud in your accomplishments, taking full credit for all the experience you've gained through hard work and dedication. Just be mindful to maintain a clear message while the Sagittarius Moon squares Saturn and Neptune, lest you come across as disorganized or overly optimistic. Treat yourself to some much-deserved pampering from the privacy of home after Luna enters Capricorn and your solar fourth house later this afternoon."
 }
 
+{
+  "sign": "libra",
+  "date": "2025-11-25",
+  "horoscope": "The Capricorn moon aspects Uranus and Neptune before entering Aquarius early this morning, dear Libra, helping you release emotional burdens. With a clean slate to work from, take a few moments to connect with and open the heart as you begin the day. A sweet alliance between the Sagittarius sun and Luna sharpens your wit, making it easier to interact with others playfully. Creativity and intellect also collide under this celestial exchange, allowing you to sort through and prioritize your best ideas. Make plans with friends as the evening winds down, embracing pleasure and fun before retiring for the night."
+}
+
