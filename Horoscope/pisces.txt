@@ -65,3 +65,9 @@
   "horoscope": "The Capricorn moon aligns with Uranus and Neptune before entering Aquarius early this morning, dear Pisces, stirring up the subconscious. Reflect on any vivid dreams that occurred last night, taking special note of familiar faces that might have appeared. You'll feel somewhat guarded while the Sagittarius sun and Luna align, mainly if distractions have led to procrastination recently. Keep your head down and stay busy, working diligently toward your highest aspirations. You'll benefit from a quiet evening in solitude, and should focus on sorting through thoughts or emotions that have created confusion and need to be addressed."
 }
 
+{
+  "sign": "pisces",
+  "date": "2025-11-26",
+  "horoscope": "The planets offer up celestial reinforcements, sweet Pisces, as Venus, Jupiter, and Saturn form a grand trine. Though your steadfast desire to manifest dreams will be enough to push your agenda to the next level, the universe offers a little extra help to get the ball rolling. Life-changing opportunities could arrive without much notice while the Aquarius moon aspects Mars, but take a few moments to think through major decisions. Divine forces echo your wishes once Mercury rx stirs this evening, so keep your eyes peeled for signs of confirmation. Schedule some &quot;me time&quot; with your coziest clothes and favorite creature comforts when Chiron activates tonight."
+}
+
