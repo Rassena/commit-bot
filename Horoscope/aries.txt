@@ -79,3 +79,9 @@
   "horoscope": "Practical yet intuitively charged vibes creep in just after midnight, dear Aries, as the Capricorn moon aspects Uranus and Neptune before entering Aquarius. This cosmic climate reveals psychic information if you know how to uncover it. Messages about money and success could come through, so be mindful to review your dreams or early-morning epiphanies upon awakening. A sweet connection between the sun and Luna brings a joyful energy to your interactions, encouraging you to circulate and be on the lookout for new friends. Set a good example as the day unfolds, embodying the beliefs and morals you stand for."
 }
 
+{
+  "sign": "aries",
+  "date": "2025-11-26",
+  "horoscope": "Let others into your comfort zone, dearest Aries, as Venus forms a grand trine with Jupiter and Saturn. By cultivating a safe space where vulnerability is encouraged and celebrated, you will deepen connections and strengthen your support network. However, it will also be essential to focus on simpler relationships once the Aquarius moon and Mars align. These vibes boost your popularity, helping you find your tribe and welcome new members. Companions who have betrayed your trust may come back for a second chance when Mercury rx stirs this evening, but some bridges are too broken to mend. Be a source of healing for yourself and others when Chiron activates later tonight."
+}
+
