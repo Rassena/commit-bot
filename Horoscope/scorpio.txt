@@ -65,3 +65,9 @@
   "horoscope": "How you feel about others comes into focus, dear Scorpio, as the Capricorn moon aligns with Uranus and Neptune before entering Aquarius early this morning. Spend a few moments connecting with loved ones as the day begins, offering words of encouragement or sweet messages to boost morale. Your eye for beauty sharpens while the Sagittarius sun and Luna align, allowing you to access gratitude with ease. However, a hunger for the finer things also emerges, and new money-making schemes could arise as a result. Let your intuition guide you through the following steps, but remain practical in the process of building."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2025-11-26",
+  "horoscope": "Like a spider weaving its web, your efforts connect to form a brilliant master plan. Get ready to push for your goals in a professional, gracious, and calculated manner as Venus, Jupiter, and Saturn form a grand trine. The universe will be eager to help you right now, beloved scorpion, as will your friends. Pitch collaboration or cross-promotion ideas to expand your presence while elevating others. Take mental notes of your surroundings once the Aquarius moon aspects Mars, enjoying the process of building yourself up. Honor your intuition and make a few adjustments once Mercury Rx begins to stir this evening. Make wellness a household activity later tonight when Chiron brings healing to your space."
+}
+
