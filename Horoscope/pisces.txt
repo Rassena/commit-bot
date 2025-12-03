@@ -71,3 +71,16 @@
   "horoscope": "The planets offer up celestial reinforcements, sweet Pisces, as Venus, Jupiter, and Saturn form a grand trine. Though your steadfast desire to manifest dreams will be enough to push your agenda to the next level, the universe offers a little extra help to get the ball rolling. Life-changing opportunities could arrive without much notice while the Aquarius moon aspects Mars, but take a few moments to think through major decisions. Divine forces echo your wishes once Mercury rx stirs this evening, so keep your eyes peeled for signs of confirmation. Schedule some &quot;me time&quot; with your coziest clothes and favorite creature comforts when Chiron activates tonight."
 }
 
+{
+  "sign": "pisces",
+  "date": "2025-11-27",
+  "horoscope": ""
+}
+
+{
+  "sign": "pisces",{
+  "sign": "pisces",
+  "date": "2025-12-03",
+  "horoscope": ""
+}
+
