@@ -59,3 +59,21 @@
   "horoscope": "Lack of organization and procrastination will catch up with you, dear Cancer, as Mars squares off with the nodes of fate. Try not to get flustered as tasks pile up, and prioritize important tasks and ask for help as needed. The Capricorn moon offers a path toward harmony, reminding you that it's okay to rely on those who love you. You'll benefit from a second wind while Mercury rx and Venus unite, especially when you open your heart to support from others. Try not to close off from wonder, sweetness, or joy as Luna aspects Chiron, Jupiter, and Saturn throughout the afternoon."
 }
 
+{
+  "sign": "cancer",
+  "date": "2025-11-27",
+  "horoscope": ""
+}
+
+{
+  "sign": "cancer",
+  "date": "2025-11-29",
+  "horoscope": ""
+}
+
+{
+  "sign": "cancer",
+  "date": "2025-12-03",
+  "horoscope": ""
+}
+
