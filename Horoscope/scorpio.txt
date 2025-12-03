@@ -71,3 +71,33 @@
   "horoscope": "Like a spider weaving its web, your efforts connect to form a brilliant master plan. Get ready to push for your goals in a professional, gracious, and calculated manner as Venus, Jupiter, and Saturn form a grand trine. The universe will be eager to help you right now, beloved scorpion, as will your friends. Pitch collaboration or cross-promotion ideas to expand your presence while elevating others. Take mental notes of your surroundings once the Aquarius moon aspects Mars, enjoying the process of building yourself up. Honor your intuition and make a few adjustments once Mercury Rx begins to stir this evening. Make wellness a household activity later tonight when Chiron brings healing to your space."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2025-11-27",
+  "horoscope": ""
+}
+
+{
+  "sign": "scorpio",
+  "date": "2025-11-29",
+  "horoscope": ""
+}
+
+{
+  "sign": "scorpio",
+  "date": "2025-12-01",
+  "horoscope": ""
+}
+
+{
+  "sign": "scorpio",
+  "date": "2025-12-01",
+  "horoscope": ""
+}
+
+{
+  "sign": "scorpio",
+  "date": "2025-12-03",
+  "horoscope": ""
+}
+
