@@ -94,3 +94,27 @@
   "horoscope": "You'll gain a renewed appreciation for all the challenges, heartbreak, and karmic plot twists that have led you to this point, sweet lion. As Venus forms a delicious grand trine with Jupiter and Saturn, such lessons allow you to identify what you want and how to get it. Emotional refinement coincides with these vibes, maturing your approach to partnerships. Meanwhile, the Aquarius moon and Mars bring vibrancy to your interactions, making it easier to love yourself and others fully. You may need to do some unlearning once Mercury Rx brews tension. Recognize if you backslide toward behaviors you fought to outgrow. A mystical and romantic ambiance coats your evening, thanks to a soft alliance between Luna and Chiron."
 }
 
+{
+  "sign": "leo",
+  "date": "2025-11-27",
+  "horoscope": ""
+}
+
+{
+  "sign": "leo",
+  "date": "2025-11-28",
+  "horoscope": ""
+}
+
+{
+  "sign": "leo",
+  "date": "2025-11-30",
+  "horoscope": ""
+}
+
+{
+  "sign": "leo",
+  "date": "2025-12-03",
+  "horoscope": ""
+}
+
