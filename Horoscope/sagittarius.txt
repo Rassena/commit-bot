@@ -77,3 +77,27 @@
   "horoscope": "You'll crave the support only a parental figure or mentor can provide, sweet Sagittarius. As Venus, Saturn, and Jupiter form a rare grand trine, reach out for advice from those who know you best. Open up about your dreams, apprehensions, and unresolved issues, allowing hope to take the place of fear. The Aquarius moon and Mars align to reinforce your mind and sense of self, helping you take thoughtful action, even if you're still collecting some of the facts. Don't bother faking what you do not know. Once Mercury Rx activates this evening, choose to pull back and research rather than talk out of turn. Seek activities that are creative to balance the spirit when Chiron stirs tonight."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2025-11-27",
+  "horoscope": ""
+}
+
+{
+  "sign": "sagittarius",
+  "date": "2025-11-30",
+  "horoscope": ""
+}
+
+{
+  "sign": "sagittarius",
+  "date": "2025-12-02",
+  "horoscope": ""
+}
+
+{
+  "sign": "sagittarius",
+  "date": "2025-12-03",
+  "horoscope": ""
+}
+
