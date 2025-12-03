@@ -46,3 +46,21 @@
   "horoscope": "The Capricorn moon aligns with Uranus and Neptune before entering Aquarius, dear Gemini, clearing away restrictive thoughts and emotions. You should wake up feeling refreshed and optimistic, inspired by the possibilities your day could bring. Take a few moments to set intentions and connect with the divine, opening yourself up to messages from beyond while outlining a clear agenda. A sweet connection between the sun and Luna opens the door to softness, encouraging you to embrace romantic interactions or a bit of self-care. Search for vibrancy wherever you go as the hours pass, and you'll be reminded of how much magick our world truly holds."
 }
 
+{
+  "sign": "gemini",
+  "date": "2025-12-02",
+  "horoscope": ""
+}
+
+{
+  "sign": "gemini",
+  "date": "2025-12-02",
+  "horoscope": ""
+}
+
+{
+  "sign": "gemini",
+  "date": "2025-12-03",
+  "horoscope": ""
+}
+
