@@ -125,3 +125,9 @@
   "horoscope": "Too many ideas or opinions could cause you to freeze up, dearest Scorpio, as the Gemini Full Moon enters a grand cross with the nodes of fate. You'll be eager to improve and find better prospects, but will struggle to choose a path if loved ones offer opposing advice. Romantic partnerships may further complicate your decision-making process, forcing you to account for yourself and that special someone. Rather than letting other people's views clutter your mind, pull away from the noise and reconnect with your passions. Engaging with creative outlets and working with your hands will help you focus on your situation and determine the best way forward."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2025-12-04",
+  "horoscope": "Too many ideas or opinions could cause you to freeze up, dearest Scorpio, as the Gemini Full Moon enters a grand cross with the nodes of fate. You'll be eager to improve and find better prospects, but will struggle to choose a path if loved ones offer opposing advice. Romantic partnerships may further complicate your decision-making process, forcing you to account for yourself and that special someone. Rather than letting other people's views clutter your mind, pull away from the noise and reconnect with your passions. Engaging with creative outlets and working with your hands will help you focus on your situation and determine the best way forward."
+}
+
