@@ -84,3 +84,33 @@
   "horoscope": "You should feel more aware of what you want and deserve, dear Aquarius. As the Capricorn moon aspects Uranus and Neptune before entering your sign, it's essential to put an end to restrictive situations. Whether colleagues, fear, lack of motivation, or your own internal dialogue have been holding you back, combat these issues and reconnect with core desires. It can also be helpful to recognize patterns that have led you to sidestep your own needs to meet others. Luckily, a sweet connection between the Sagittarius sun and Luna highlights the communities you can rely on, encouraging you to let others lift you."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2025-11-27",
+  "horoscope": ""
+}
+
+{
+  "sign": "aquarius",
+  "date": "2025-11-28",
+  "horoscope": ""
+}
+
+{
+  "sign": "aquarius",
+  "date": "2025-12-01",
+  "horoscope": ""
+}
+
+{
+  "sign": "aquarius",
+  "date": "2025-12-02",
+  "horoscope": ""
+}
+
+{
+  "sign": "aquarius",
+  "date": "2025-12-04",
+  "horoscope": "You may feel torn between embracing the person you wish to become and living up to the expectations society has placed on you. As the Gemini Full Moon forms a rare grand cross with the nodes of fate, try to pinpoint where your authentic self stems from. Youll likely conclude that no singular label or personality type can encapsulate your diverse nature, darling Aquarius. Rather than picking and choosing which mask you wear at any given time, find a new way forward, one that celebrates your eclectic tastes and interests. If certain relationships fall apart because youve chosen to live your truth, say your farewells and be on your own fabulous way."
+}
+
