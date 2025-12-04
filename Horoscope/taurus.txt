@@ -35,3 +35,9 @@
   "horoscope": "You could awaken to messages of support and pleasant surprises, dear Taurus, as the Capricorn moon makes elevating connections with Uranus and Neptune early this morning. The ambiance shifts once Luna enters Aquarius and aligns with the Sagittarius sun, placing focus on your big picture and partnerships that will help you achieve it. Use this energy to propel agreements forward, giving a little so you can receive in return. Fresh proposals may emerge to reshape your agenda, and you may need to adapt on the fly. Wherever these vibes take you, try to collaborate with peers you can level with."
 }
 
+{
+  "sign": "taurus",
+  "date": "2025-12-04",
+  "horoscope": "A thick energy hangs in the atmosphere, dearest Taurus, as the Gemini quarter moon forms a challenging grand cross with the nodes of fate. This lunation could trigger serious doubts around commitments you made over the last six months. Romantic and financial partnerships may be the source of your woes, but placing blame without accepting your own won't solve any issues. Avoid confiding in friends who show support by telling you what you want to hear, even if you need a morale boost. Instead, examine your options while taking notes from peers who have overcome similar obstacles."
+}
+
