@@ -114,3 +114,9 @@
   "horoscope": "You may feel torn between embracing the person you wish to become and living up to the expectations society has placed on you. As the Gemini Full Moon forms a rare grand cross with the nodes of fate, try to pinpoint where your authentic self stems from. Youll likely conclude that no singular label or personality type can encapsulate your diverse nature, darling Aquarius. Rather than picking and choosing which mask you wear at any given time, find a new way forward, one that celebrates your eclectic tastes and interests. If certain relationships fall apart because youve chosen to live your truth, say your farewells and be on your own fabulous way."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2025-12-05",
+  "horoscope": "                                                                "
+}
+
