@@ -64,3 +64,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "gemini",
+  "date": "2025-12-05",
+  "horoscope": "                                                                "
+}
+
