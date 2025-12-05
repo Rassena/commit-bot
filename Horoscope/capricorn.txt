@@ -59,3 +59,33 @@
   "horoscope": "Your gift for cutting through drama and mending fences comes in handy, dear Capricorn, as Venus, Jupiter, and Saturn form a grand trine. With a bit of patience and a lot of compassion, you'll succeed at repairing rifts and forging faithful alliances. Remember to take action in service of your own manifestation goals while the Aquarius moon and Mars are in alignment, streamlining your visions into the earthly realm. Don't get distracted when Mercury rx brings a whisper of chaos to the air this evening. Luckily, Chiron grants permission to keep a low profile at home tonight, encouraging you to recharge in the lap of luxury."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2025-11-27",
+  "horoscope": ""
+}
+
+{
+  "sign": "capricorn",
+  "date": "2025-11-28",
+  "horoscope": ""
+}
+
+{
+  "sign": "capricorn",
+  "date": "2025-11-28",
+  "horoscope": ""
+}
+
+{
+  "sign": "capricorn",
+  "date": "2025-12-02",
+  "horoscope": ""
+}
+
+{
+  "sign": "capricorn",
+  "date": "2025-12-05",
+  "horoscope": "                                                                "
+}
+
