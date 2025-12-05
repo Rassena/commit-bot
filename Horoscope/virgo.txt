@@ -47,3 +47,27 @@
   "horoscope": "Stay true to your message and embrace fresh faces within your community, dear Virgo, as Venus, Jupiter, and Saturn form a brilliant grand trine. This cosmic climate helps restore your faith in humanity, especially if you reinforce bonds with those who view the world through a similar lens. Center part of your day around healthy activities that build strength and relieve stress, as the Aquarius moon and Mars push you toward wellness. You could become confused or tongue-tied once Mercury Rx activates, and you should double-check the facts before speaking or drawing conclusions. Cleansing vibes emerge when Chiron stirs tonight, helping you drift to sleep with a clear mind."
 }
 
+{
+  "sign": "virgo",
+  "date": "2025-11-27",
+  "horoscope": ""
+}
+
+{
+  "sign": "virgo",
+  "date": "2025-12-01",
+  "horoscope": ""
+}
+
+{
+  "sign": "virgo",
+  "date": "2025-12-02",
+  "horoscope": ""
+}
+
+{
+  "sign": "virgo",
+  "date": "2025-12-05",
+  "horoscope": "                                                                "
+}
+
