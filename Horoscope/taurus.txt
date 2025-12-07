@@ -41,3 +41,9 @@
   "horoscope": "A thick energy hangs in the atmosphere, dearest Taurus, as the Gemini quarter moon forms a challenging grand cross with the nodes of fate. This lunation could trigger serious doubts around commitments you made over the last six months. Romantic and financial partnerships may be the source of your woes, but placing blame without accepting your own won't solve any issues. Avoid confiding in friends who show support by telling you what you want to hear, even if you need a morale boost. Instead, examine your options while taking notes from peers who have overcome similar obstacles."
 }
 
+{
+  "sign": "taurus",
+  "date": "2025-12-07",
+  "horoscope": "                                                                "
+}
+
