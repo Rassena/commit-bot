@@ -89,3 +89,9 @@
   "horoscope": "                                                                "
 }
 
+{
+  "sign": "capricorn",
+  "date": "2025-12-08",
+  "horoscope": "                                                                "
+}
+
