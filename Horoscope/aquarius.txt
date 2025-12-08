@@ -132,3 +132,9 @@
   "horoscope": "                                                                "
 }
 
+{
+  "sign": "aquarius",
+  "date": "2025-12-08",
+  "horoscope": "                                                                "
+}
+
