@@ -130,3 +130,9 @@
   "horoscope": "                                                                "
 }
 
+{
+  "sign": "leo",
+  "date": "2025-12-08",
+  "horoscope": "                                                                "
+}
+
