@@ -89,3 +89,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "libra",
+  "date": "2025-12-08",
+  "horoscope": "                                                                "
+}
+
