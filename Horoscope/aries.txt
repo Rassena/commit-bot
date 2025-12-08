@@ -85,3 +85,33 @@
   "horoscope": "Let others into your comfort zone, dearest Aries, as Venus forms a grand trine with Jupiter and Saturn. By cultivating a safe space where vulnerability is encouraged and celebrated, you will deepen connections and strengthen your support network. However, it will also be essential to focus on simpler relationships once the Aquarius moon and Mars align. These vibes boost your popularity, helping you find your tribe and welcome new members. Companions who have betrayed your trust may come back for a second chance when Mercury rx stirs this evening, but some bridges are too broken to mend. Be a source of healing for yourself and others when Chiron activates later tonight."
 }
 
+{
+  "sign": "aries",
+  "date": "2025-11-30",
+  "horoscope": ""
+}
+
+{
+  "sign": "aries",
+  "date": "2025-11-30",
+  "horoscope": ""
+}
+
+{
+  "sign": "aries",
+  "date": "2025-12-02",
+  "horoscope": ""
+}
+
+{
+  "sign": "aries",
+  "date": "2025-12-02",
+  "horoscope": ""
+}
+
+{
+  "sign": "aries",
+  "date": "2025-12-08",
+  "horoscope": "                                                                "
+}
+
