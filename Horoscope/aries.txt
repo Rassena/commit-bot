@@ -121,3 +121,9 @@
   "horoscope": "                                                                "
 }
 
+{
+  "sign": "aries",
+  "date": "2025-12-10",
+  "horoscope": "                                                                "
+}
+
