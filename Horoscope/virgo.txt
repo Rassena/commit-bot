@@ -107,3 +107,9 @@
   "horoscope": "                                                                "
 }
 
+{
+  "sign": "virgo",
+  "date": "2025-12-12",
+  "horoscope": "There will be many emotions and needs to contend with this morning, dearest Virgo. As Luna takes her final steps through your sign, aspects with Mars, Uranus, and Neptune will highlight the role you play in other people's lives. Luckily, you'll feel capable of doing and having it all if you take each moment in stride while maintaining an optimistic attitude. You'll have a chance to slow down and collect your thoughts once Luna enters Libra and aligns with Mercury. Draft an organized to-do list when Pluto activates this afternoon to ensure you don't miss important details."
+}
+
