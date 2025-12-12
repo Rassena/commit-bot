@@ -137,3 +137,9 @@
   "horoscope": "                                                                "
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2025-12-12",
+  "horoscope": "It may be necessary to improvise, dear archer, as the Virgo Moon aligns with Mars, Uranus, and Neptune. Sudden roadblocks, fear of failure, and emotional strain all threaten to cloud your vision. Focus on what you can do in the moment to improve your situation, no matter how small the task. A breath of fresh air sharpens your perspective and alleviates stress once Luna enters Libra and aspects Mercury. Connect with positive influences if you need a morale boost. You'll have the power to transfix and transform minds while Pluto activates this afternoon, getting your agenda back on track."
+}
+
