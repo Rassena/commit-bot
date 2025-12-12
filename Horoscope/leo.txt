@@ -136,3 +136,9 @@
   "horoscope": "                                                                "
 }
 
+{
+  "sign": "leo",
+  "date": "2025-12-12",
+  "horoscope": "Set a specific intention to avoid being pulled in too many directions, dear Leo. As the Virgo Moon aspects Mars, Uranus, and Neptune, it would be easy to get distracted by side quests, pleasure, and confrontation. An easier, more playful energy emerges once Luna enters Libra and aligns with Mercury. Ideas you've been sitting on will begin to take shape if you pursue them with a unique artistic perspective. Peer interactions can also help you take your vision to the next level. Flirtations could evolve into something more serious while Pluto activates this afternoon."
+}
+
