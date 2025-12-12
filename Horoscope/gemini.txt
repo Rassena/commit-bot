@@ -100,3 +100,9 @@
   "horoscope": "                                                                "
 }
 
+{
+  "sign": "gemini",
+  "date": "2025-12-12",
+  "horoscope": "The Virgo Moon aligns with Mars, Uranus, and Neptune early this morning, peaking your intuition. A desire to change course could have you bending a few rules, but do your due diligence to ensure you don't get caught. Luckily, your ability to smooth over potential consequences increases once Luna enters Libra and aspects Mercury. If you need to do some damage control, these vibes help you prevail. Now is also a good time to flirt with your sweetheart or latest crush, elevating your own mood in the process. Honor your ancestors when Pluto stirs this afternoon, and they may grant your wishes."
+}
+
