@@ -95,3 +95,9 @@
   "horoscope": "                                                                "
 }
 
+{
+  "sign": "libra",
+  "date": "2025-12-12",
+  "horoscope": "Focus on what you can remove from your plate, rather than adding more steps to your agenda, dear Libra. As the Virgo Moon aspects Mars, Uranus, and Neptune, find growth through calculated moves instead of spreading yourself too thin. Peers will recognize your efforts once Luna enters your sign and aligns with Mercury, marking the perfect time to self-promote. You should also be mindful of what you do not know, filling in the missing pieces with thoughtful questions. Build confidence by embracing what gives you power and releasing self-doubt when Pluto stirs this afternoon."
+}
+
