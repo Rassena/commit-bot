@@ -157,3 +157,9 @@
   "horoscope": "You won't have much time to rest this morning, dear Aries. As the Virgo Moon aligns with Mars, Uranus, and Neptune, surprise opportunities could pile additional work onto existing agendas. Luckily, you'll flow easily between tasks once Luna enters Libra and aspects Mercury, emphasizing your gift for staying balanced when pressure rises. Tackle major projects with someone you trust to elevate your ambitions even further, sharing the rewards you've earned as a pair. Powerful new allies may find you while Pluto stirs this afternoon, transforming your position and social sphere in the process. Close out your Friday with some well-deserved self-care or a romantic date night."
 }
 
+{
+  "sign": "aries",
+  "date": "2025-12-13",
+  "horoscope": ""
+}
+
