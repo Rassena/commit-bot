@@ -155,3 +155,9 @@
   "horoscope": "                                                                "
 }
 
+{
+  "sign": "scorpio",
+  "date": "2025-12-13",
+  "horoscope": ""
+}
+
