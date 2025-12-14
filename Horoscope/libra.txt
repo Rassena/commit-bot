@@ -107,3 +107,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "libra",
+  "date": "2025-12-14",
+  "horoscope": "Try not to rush through tasks as Mars and Neptune square off, darling Libra. You'll be eager to get chores and errands out of the way, so you can enjoy what remains of the weekend. However, haste could trigger bigger issues that take longer to correct. Luckily, as the Moon moves through your sign, the universe will be on your side. Aspects with Chiron, the Sun, and Jupiter encourage you to know your own mind, making decisions accordingly. Seek indulgences that offer comfort once Luna enters Scorpio this evening. Your home life gets busy throughout the coming weeks after Mars migrates into Capricorn, though you might require additional rest as well."
+}
+
