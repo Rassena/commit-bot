@@ -154,3 +154,9 @@
   "horoscope": "Try not to operate on instinct alone, dear Leo, as Mars and Neptune Square off. Though your intuition spikes under these cosmic conditions, not all messages will be easy to understand. If a sense of urgency washes over you, take it as a sign to chat with your emotions before making a move. Ask for guidance from your higher power or seek advice from your most logical friends as a Libra Moon aligns with Chiron, the Sun, and Jupiter. Rest up at home once Luna enters Scorpio this evening, ensuring you can greet Monday feeling refreshed and motivated. Mars debuts into Capricorn and strengthens your work ethic throughout the coming weeks, marking the perfect time to outline and execute a plan that will propel you further."
 }
 
+{
+  "sign": "leo",
+  "date": "2025-12-14",
+  "horoscope": "Try not to operate on instinct alone, dear Leo, as Mars and Neptune Square off. Though your intuition spikes under these cosmic conditions, not all messages will be easy to understand. If a sense of urgency washes over you, take it as a sign to chat with your emotions before making a move. Ask for guidance from your higher power or seek advice from your most logical friends as a Libra Moon aligns with Chiron, the Sun, and Jupiter. Rest up at home once Luna enters Scorpio this evening, ensuring you can greet Monday feeling refreshed and motivated. Mars debuts into Capricorn and strengthens your work ethic throughout the coming weeks, marking the perfect time to outline and execute a plan that will propel you further."
+}
+
