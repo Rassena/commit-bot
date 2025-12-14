@@ -144,3 +144,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "aquarius",
+  "date": "2025-12-14",
+  "horoscope": "Step away from your screens and head outside, dear Aquarius, as Mars and Neptune Square off. These vibes highlight the downfall of technology and its ability to make us detach from the beauty of our natural world. Luckily, the Libra Moon reinforces the divine energy that flows through you, taking you on a mystical journey. Aspects with Chiron, the Sun, and Jupiter encourage you to seek camaraderie with people who hold similar philosophies. Get a head start on your responsibilities for the work week ahead once Luna debuts in Scorpio this evening, reminding you that cultivating success is an ongoing process. Many of your moves throughout the coming weeks take place from behind the scenes after Mars enters Capricorn later tonight."
+}
+
