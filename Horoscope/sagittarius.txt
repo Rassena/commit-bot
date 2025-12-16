@@ -167,3 +167,9 @@
   "horoscope": "You may feel guarded and somewhat out of sorts, dear Sagittarius, as the Sun and Saturn square off. Strained relationships can be a source of frustration that's hard to digest, and you may struggle to identify your role in mending fences. As the Moon moves through Scorpio, it might be best to lie low instead of forcing reconciliation. Thoughtfully review your situation from multiple perspectives, finding forgiveness within before extending it outwards. The energy improves when Luna aspects Jupiter and Saturn this evening, filling your space with warmth. Harness these vibes by initiating discussions that can resolve issues or find comfort amongst family and friends."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2025-12-16",
+  "horoscope": "You may feel guarded and somewhat out of sorts, dear Sagittarius, as the Sun and Saturn square off. Strained relationships can be a source of frustration that's hard to digest, and you may struggle to identify your role in mending fences. As the Moon moves through Scorpio, it might be best to lie low instead of forcing reconciliation. Thoughtfully review your situation from multiple perspectives, finding forgiveness within before extending it outwards. The energy improves when Luna aspects Jupiter and Saturn this evening, filling your space with warmth. Harness these vibes by initiating discussions that can resolve issues or find comfort amongst family and friends."
+}
+
