@@ -119,3 +119,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "capricorn",
+  "date": "2025-12-17",
+  "horoscope": "Avoid playing into social hierarchies that brew jealousy, dearest Capricorn, as the Scorpio Moon aspects Uranus and Neptune. You'll have a chance to diffuse drama by highlighting admirable qualities in others, or steering negative discussions toward more positive topics. Your efforts to mitigate tension could result in mental or emotional burnout once Luna enters Sagittarius. Luckily, this lunar placement gives you permission to hide away and reflect on what offers you a renewed sense of hope. Weigh desires against any potential sacrifices you might be called to make while Pluto stirs this afternoon, taking steps that can help you manifest goals. "
+}
+
