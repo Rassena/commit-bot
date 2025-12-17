@@ -161,3 +161,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "scorpio",
+  "date": "2025-12-17",
+  "horoscope": "Don't let others gloss over the qualities that make you special, dear Scorpio. As Luna moves through your sign to align with Uranus and Neptune, a playful yet unpredictable vibe emerges. As excitement builds, it will be tempting to go with the flow, but don't skip past the ideas or skills that help you stand out. The energy slows once Luna enters Sagittarius, though magic continues to fill the air. Be resourceful with your options and resources as you build toward a bigger picture. Support from a family member could give you a leg up when Pluto stirs this afternoon."
+}
+
