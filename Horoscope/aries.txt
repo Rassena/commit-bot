@@ -187,3 +187,9 @@
   "horoscope": "Recent wins could make it difficult to predict future obstacles, dear Aries. As the Sagittarius Sun and Saturn square off, recognize that the wheel of fortune goes up and down. Avoid relying on luck alone if you hope to maintain upward momentum. Take responsibility for unlocking new layers of potential to ensure your successes continue to grow. Invite someone special into your home to fortify bonds while the Scorpio Moon aligns with Jupiter this evening. Scrap visions that have become overly complicated or return to the drawing board when Luna and Saturn align later tonight, encouraging you to evolve your perspective. "
 }
 
+{
+  "sign": "aries",
+  "date": "2025-12-17",
+  "horoscope": "Be mindful of your spending and how it affects loved ones and your long-term goals, Aries. As the Scorpio Moon aspects Uranus and Neptune, financial mismanagement could trigger personal setbacks or tension within relationships. Tapping into your gratitude can renew your appreciation for family and friends, inspiring you to compromise and embrace true partnership. A higher calling appeals to you once Luna enters Sagittarius, and curious developments or signs from beyond may set you on a new journey. Pluto activates in your solar eleventh house this afternoon, asking you to back up your beliefs by giving back to the community. "
+}
+
