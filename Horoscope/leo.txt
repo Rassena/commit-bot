@@ -178,3 +178,9 @@
   "horoscope": "Pull creative ideas from your dreams, dear Leo, as the Sagittarius Moon and Mercury unite early this morning. These vibes illuminate untapped parts of the imagination, amplifying your uniqueness. Don't let your ego get in the way of compromise while Luna squares the nodes of fate. Failing to negotiate could cause potential opportunities to dissolve before your eyes. You'll feel more open-hearted and equipped to play nice once afternoon rolls in, thanks to a sweet exchange between Venus and Chiron. This energy can also be beneficial for receiving spiritual healing and strengthening bonds with your higher power."
 }
 
+{
+  "sign": "leo",
+  "date": "2025-12-18",
+  "horoscope": "Pull creative ideas from your dreams, dear Leo, as the Sagittarius Moon and Mercury unite early this morning. These vibes illuminate untapped parts of the imagination, amplifying your uniqueness. Don't let your ego get in the way of compromise while Luna squares the nodes of fate. Failing to negotiate could cause potential opportunities to dissolve before your eyes. You'll feel more open-hearted and equipped to play nice once afternoon rolls in, thanks to a sweet exchange between Venus and Chiron. This energy can also be beneficial for receiving spiritual healing and strengthening bonds with your higher power."
+}
+
