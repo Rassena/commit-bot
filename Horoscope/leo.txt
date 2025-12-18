@@ -172,3 +172,9 @@
   "horoscope": "Break molds that aren't serving you, dear Leo. As the Scorpio Moon aligns with Uranus and Neptune, you'll have a choice between staying in unhelpful cycles or empowering yourself to evolve. Be extra mindful of how family and professional demands weigh on you, working toward improved structures or boundaries. Holding yourself back could also be a major contributor to the disappointments you've been battling, and it might be time to get stricter with your personal goals. A boost in confidence helps with creative follow-through once Luna enters Sagittarius. Romantic connections intensify while Pluto stirs this afternoon."
 }
 
+{
+  "sign": "leo",
+  "date": "2025-12-18",
+  "horoscope": "Pull creative ideas from your dreams, dear Leo, as the Sagittarius Moon and Mercury unite early this morning. These vibes illuminate untapped parts of the imagination, amplifying your uniqueness. Don't let your ego get in the way of compromise while Luna squares the nodes of fate. Failing to negotiate could cause potential opportunities to dissolve before your eyes. You'll feel more open-hearted and equipped to play nice once afternoon rolls in, thanks to a sweet exchange between Venus and Chiron. This energy can also be beneficial for receiving spiritual healing and strengthening bonds with your higher power."
+}
+
