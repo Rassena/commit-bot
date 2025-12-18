@@ -185,3 +185,9 @@
   "horoscope": "Try to make family and close friends feel seen, dear Sagittarius, as the Scorpio Moon aspects Uranus and Neptune. Failing to appreciate the people who enrich your life may cause you to detach or become irritable. It can also be beneficial to discuss shared goals related to health or the home. You'll glow with little effort once Luna enters your sign, but you can maximize the Sunny vibes your aura gives off by reinforcing your confidence and image. Use your voice for good while Pluto stirs this afternoon, emphasizing your ability to open minds and deliver important messages."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2025-12-18",
+  "horoscope": "Luna and Mercury unite in your sign early this morning, dear archer. You could wake up with much to say and think about, but you should maintain a positive outlook as you approach either. A harsh T-square with the nodes of fate highlights how hangups from the past might be preventing you from moving forward. Put in the effort to resolve disappointments or missed opportunities so you can prepare for better outcomes in the future. Warming vibes fill your heart once Venus and Chiron align this afternoon. Give energy to people and passionate projects that make you feel seen. "
+}
+
