@@ -125,3 +125,9 @@
   "horoscope": "Look for love and luck in every direction, dear Virgo, as the Scorpio Moon aligns with Uranus and Neptune. Your perspective shifts in unexpected ways, especially when the heart is granted permission to soften. Communicating with your higher power can bring major blessings, but your wishes should stem from a genuine, kind place. You'll feel responsible for supporting loved ones once Luna enters Sagittarius, finding a deep satisfaction from lifting others. Try something new and beneficial to your health while Pluto activates this afternoon. If you've been trying to break a bad habit, invest in activities or tools that might help you succeed."
 }
 
+{
+  "sign": "virgo",
+  "date": "2025-12-18",
+  "horoscope": "The Sagittarius Moon and Mercury unite early this morning, dear Virgo, resetting the mind as you slumber. Set an intention that supports your mental and emotional needs upon waking to absorb these supportive vibes fully. A harsh connection between Luna and the nodes of fate could stir up drama within your closest relationships. Fears of losing yourself in another may lead you to second-guess certain connections, but try to remember that all dynamics are meant to evolve us in some way. Be vulnerable with someone you trust when Venus and Chiron form a healing aspect this afternoon."
+}
+
