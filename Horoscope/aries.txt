@@ -199,3 +199,9 @@
   "horoscope": "Spiritual epiphanies could creep into your dreams early this morning, dear Aries, thanks to a sweet union between the Sagittarius Moon and Mercury. Reflect on which areas of your life need more growth or adventure before you start the day. You may feel caught in a rut while Luna and the nodes of fate form a harsh T-square. Don't be afraid to stir up excitement, even if you're not always comfortable deviating from routine. A harmonious and healing energy emerges once Venus aspects Chiron this afternoon. Bring mindfulness into your agenda and interaction to make the most of these vibes."
 }
 
+{
+  "sign": "aries",
+  "date": "2025-12-18",
+  "horoscope": "Spiritual epiphanies could creep into your dreams early this morning, dear Aries, thanks to a sweet union between the Sagittarius Moon and Mercury. Reflect on which areas of your life need more growth or adventure before you start the day. You may feel caught in a rut while Luna and the nodes of fate form a harsh T-square. Don't be afraid to stir up excitement, even if you're not always comfortable deviating from routine. A harmonious and healing energy emerges once Venus aspects Chiron this afternoon. Bring mindfulness into your agenda and interaction to make the most of these vibes."
+}
+
