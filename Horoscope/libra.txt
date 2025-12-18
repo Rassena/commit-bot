@@ -119,3 +119,9 @@
   "horoscope": "You may find yourself wrestling with difficult emotions or stubborn partners, dear Libra, as the Scorpio Moon aspects Uranus and Neptune. Focus on what is healthiest for you, rather than fighting battles that are likely to result in a stalemate or fracture connections. It will be easier to get your point across once Luna enters Sagittarius, helping you and those around you access a higher perspective. Rise above clouds of miscommunication by delivering your messages with a positive and inspiring twist. Life-changing opportunities could emerge while Pluto stirs this afternoon, urging you to chase passion projects boldly. "
 }
 
+{
+  "sign": "libra",
+  "date": "2025-12-18",
+  "horoscope": "The Sagittarius Moon and Mercury unite early this morning, darling Libra, lifting mental blocks. Document solutions to your problems as they arise, especially if you cannot take action in the moment. A harsh T-square between Luna and the nodes of fate brings consequences to unhealthy behaviors. If you've been ignoring essential tasks, mistreating your body, or stretching yourself too thin, you may have some messes to clean up. Getting organized and creating more sustainable routines will help you regain control. You'll be reminded that love heals while Venus and Chiron align this afternoon, inspiring you to open up with a loved one."
+}
+
