@@ -65,3 +65,9 @@
   "horoscope": "                                                                "
 }
 
+{
+  "sign": "taurus",
+  "date": "2025-12-18",
+  "horoscope": "Find solace by letting go of anger, grief, or negativity, dear Taurus. As the Sagittarius Moon and Mercury unite early this morning, you'll have a chance to move on from anything or anyone that's been bogging your mind down. Connecting with others could prove difficult while Luna squares the nodes of fate. Instead of forcing pleasantries, recognize when you need some space. Acknowledge your shadow when Venus and Chiron align this afternoon, and consider ways to channel your energy into more positive and empowering outlets. Releasing drama to focus on elevating yourself will serve you in the long run."
+}
+
