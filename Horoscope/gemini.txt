@@ -112,3 +112,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "gemini",
+  "date": "2025-12-18",
+  "horoscope": "The Sagittarius Moon and Mercury join forces early this morning, dear Gemini, helping you greet the day with a balanced and clear mind. Allow your heart to have a say as well, making decisions that balance logic and emotion. Don't be afraid to break the mold when it comes to your closest relationships once Luna and the nodes of fate form a T-square. You'll realize that bulldozing structures and erecting new ones may be the only way to move forward with particular companions. People will be surprisingly cooperative while Venus and Chiron align, allowing you to heal and evolve connections."
+}
+
