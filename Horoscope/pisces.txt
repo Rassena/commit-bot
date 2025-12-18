@@ -132,3 +132,9 @@
   "horoscope": "Try not to panic if obstacles arise, dear Pisces, as Mars and Neptune square off. The hurdles you face will seem more daunting than they actually are, but you'll need to calm down and outline a plan of action to prevail. As the Libra Moon aligns with Chiron, the Sun, and Jupiter, set your ego to the side and look at your situation from a practical lens to find the best way forward. Blessings will be abundant once Luna enters Scorpio this evening, reinvigorating your spirit with hope. Your social status elevates throughout the coming weeks after Mars debuts in Capricorn later tonight."
 }
 
+{
+  "sign": "pisces",
+  "date": "2025-12-18",
+  "horoscope": "You could awaken to an official offer or career breakthrough, dear Pisces, thanks to a sweet union between the Sagittarius Moon and Mercury. Try not to let reservations around change put a damper on these developments when Luna squares off with the nodes of fate. Though you might suffer from a touch of imposter syndrome or fear of losing control, remember that most transitions come with some form of discomfort. Stay positive and confident as you put one foot in front of the other. Venus and Chiron enter a supportive aspect this afternoon, reminding you to value your worth as you advance in your field."
+}
+
