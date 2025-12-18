@@ -119,3 +119,9 @@
   "horoscope": "Strokes of genius find you early this morning, dear Cancer, thanks to a sweet union between the Sagittarius Moon and Mercury. If your thoughts begin to speed up, take notes to ensure none of your ideas are lost. Collaborate with the universe by asking for signs or guidance while Luna aspects the nodes of fate, but remember that you alone are responsible for following through on opportunities that arise. If you still feel stuck, give yourself a breather and look for magick in the world around you until inspiration strikes. Heal your relationship with success by evaluating the expectations you place on yourself and others when Venus aligns with Chiron."
 }
 
+{
+  "sign": "cancer",
+  "date": "2025-12-18",
+  "horoscope": "Strokes of genius find you early this morning, dear Cancer, thanks to a sweet union between the Sagittarius Moon and Mercury. If your thoughts begin to speed up, take notes to ensure none of your ideas are lost. Collaborate with the universe by asking for signs or guidance while Luna aspects the nodes of fate, but remember that you alone are responsible for following through on opportunities that arise. If you still feel stuck, give yourself a breather and look for magick in the world around you until inspiration strikes. Heal your relationship with success by evaluating the expectations you place on yourself and others when Venus aligns with Chiron."
+}
+
