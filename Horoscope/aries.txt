@@ -193,3 +193,9 @@
   "horoscope": "Be mindful of your spending and how it affects loved ones and your long-term goals, Aries. As the Scorpio Moon aspects Uranus and Neptune, financial mismanagement could trigger personal setbacks or tension within relationships. Tapping into your gratitude can renew your appreciation for family and friends, inspiring you to compromise and embrace true partnership. A higher calling appeals to you once Luna enters Sagittarius, and curious developments or signs from beyond may set you on a new journey. Pluto activates in your solar eleventh house this afternoon, asking you to back up your beliefs by giving back to the community. "
 }
 
+{
+  "sign": "aries",
+  "date": "2025-12-18",
+  "horoscope": "Spiritual epiphanies could creep into your dreams early this morning, dear Aries, thanks to a sweet union between the Sagittarius Moon and Mercury. Reflect on which areas of your life need more growth or adventure before you start the day. You may feel caught in a rut while Luna and the nodes of fate form a harsh T-square. Don't be afraid to stir up excitement, even if you're not always comfortable deviating from routine. A harmonious and healing energy emerges once Venus aspects Chiron this afternoon. Bring mindfulness into your agenda and interaction to make the most of these vibes."
+}
+
