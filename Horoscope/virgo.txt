@@ -131,3 +131,9 @@
   "horoscope": "The Sagittarius Moon and Mercury unite early this morning, dear Virgo, resetting the mind as you slumber. Set an intention that supports your mental and emotional needs upon waking to absorb these supportive vibes fully. A harsh connection between Luna and the nodes of fate could stir up drama within your closest relationships. Fears of losing yourself in another may lead you to second-guess certain connections, but try to remember that all dynamics are meant to evolve us in some way. Be vulnerable with someone you trust when Venus and Chiron form a healing aspect this afternoon."
 }
 
+{
+  "sign": "virgo",
+  "date": "2025-12-19",
+  "horoscope": ""
+}
+
