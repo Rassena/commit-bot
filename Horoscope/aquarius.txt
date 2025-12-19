@@ -156,3 +156,9 @@
   "horoscope": "You'll have a grounding effect on those who feel unbalanced, dear Aquarius, as the Scorpio Moon aspects Uranus and Neptune. Hold space for healing when you can, reinforcing your own sense of calm during this process. Put simplicity and beauty first, and harmony will follow. You'll perk up once Luna enters Sagittarius, stirring up a desire for connection and attention. Build your reputation by getting involved with community events, and try expanding your friendship circle. Consider how you'd like to evolve on a personal level as Pluto stirs this afternoon, and surround yourself with people and environments that mirror these aspirations."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2025-12-19",
+  "horoscope": ""
+}
+
