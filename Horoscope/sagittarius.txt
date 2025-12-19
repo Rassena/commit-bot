@@ -191,3 +191,9 @@
   "horoscope": "Luna and Mercury unite in your sign early this morning, dear archer. You could wake up with much to say and think about, but you should maintain a positive outlook as you approach either. A harsh T-square with the nodes of fate highlights how hangups from the past might be preventing you from moving forward. Put in the effort to resolve disappointments or missed opportunities so you can prepare for better outcomes in the future. Warming vibes fill your heart once Venus and Chiron align this afternoon. Give energy to people and passionate projects that make you feel seen. "
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2025-12-19",
+  "horoscope": ""
+}
+
