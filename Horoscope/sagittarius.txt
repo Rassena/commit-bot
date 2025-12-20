@@ -197,3 +197,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2025-12-20",
+  "horoscope": ""
+}
+
