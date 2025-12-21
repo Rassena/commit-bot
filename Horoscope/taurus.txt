@@ -77,3 +77,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "taurus",
+  "date": "2025-12-21",
+  "horoscope": ""
+}
+
