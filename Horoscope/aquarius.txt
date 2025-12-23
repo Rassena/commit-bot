@@ -162,3 +162,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "aquarius",
+  "date": "2025-12-23",
+  "horoscope": "Luna shimmers in your sign, dear Aquarius, recalibrating your priorities after a period of introspection. Harness these vibes by letting your visions see the light of day and putting action behind the endeavors you've recently resolved to embark upon. You'll gain traction quickly, and shortcuts you once overlooked could emerge. Rub elbows later this afternoon when Mercury activates, making an honest effort to better understand peers. If you appear genuinely interested in the people around you, they will reciprocate. Don't fall into targeted ads or online shopping sprees while Venus squares Neptune tonight, or you might find yourself in a financial bind down the road."
+}
+
