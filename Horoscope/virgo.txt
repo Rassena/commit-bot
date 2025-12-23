@@ -137,3 +137,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "virgo",
+  "date": "2025-12-23",
+  "horoscope": "The Aquarius Moon helps you play catch-up, dear Virgo, motivating you to work hard while improving the systems you rely on each day. Trust new ideas as they arise, especially ones that might simplify your life. Implementing consistent wellness routines can also help improve overall mental clarity. You'll become more aware of what your body and mind need to thrive when Luna and Mercury align later today. Use this energy to determine how to harmonize healthy living with personal goals. Melt into the comforts of home and allow others to dote on you once Venus aspects Neptune this evening."
+}
+
