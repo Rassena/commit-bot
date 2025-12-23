@@ -196,3 +196,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "leo",
+  "date": "2025-12-23",
+  "horoscope": "Let your fanciful side lead the way, dear Leo, as the Aquarius Moon provides loving and harmonious vibes. This energy is perfect for grabbing a partner and seeking excitement. Keep your mind engaged to maintain lively connections, and don't be afraid of healthy debate as long as it stays friendly. Your heart opens while Luna aspects Mercury later today, but you'll prefer creative forms of expression in lieu of direct communication. Show others how you feel with kind gestures, flirtatious interactions, and passion-fueled embraces. Fantasies around commitment and lasting love fill your thoughts when Venus and Neptune align tonight."
+}
+
