@@ -211,3 +211,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "aries",
+  "date": "2025-12-23",
+  "horoscope": "You'll synchronize seamlessly with the people and communities you encounter, dear Aries, as the Moon continues through Aquarius. Use this luminary placement to your advantage by surrounding yourself with peers who may become valuable connections down the line. Lead with benevolence when Luna and Mercury form a soft aspect later today. If you put in the effort to spread kindness and joy, rewards will follow. Your daydreams become more vibrant once Venus squares Neptune tonight, but layering too many details onto existing aspirations could cause you to feel scattered. Let hope be a guiding force, but don't rely on luck alone."
+}
+
