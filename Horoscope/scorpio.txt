@@ -167,3 +167,9 @@
   "horoscope": "Don't let others gloss over the qualities that make you special, dear Scorpio. As Luna moves through your sign to align with Uranus and Neptune, a playful yet unpredictable vibe emerges. As excitement builds, it will be tempting to go with the flow, but don't skip past the ideas or skills that help you stand out. The energy slows once Luna enters Sagittarius, though magic continues to fill the air. Be resourceful with your options and resources as you build toward a bigger picture. Support from a family member could give you a leg up when Pluto stirs this afternoon."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2025-12-23",
+  "horoscope": "Don't take family and close friends for granted, dear Scorpio, as the Aquarius Moon activates your solar fourth house. These vibes are perfect for introducing play into dynamics that have grown stale or predictable, especially if you've felt emotionally disconnected recently. Liven up your day by going out of your way to brighten someone else's. Your mind craves simple indulgences when Luna and Mercury align later today. Try viewing your surroundings from a new perspective, appreciating details you'd normally gloss over. Indulge harmless fantasies as a way to boost the ego once Venus aspects Neptune tonight."
+}
+
