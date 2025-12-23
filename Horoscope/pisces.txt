@@ -138,3 +138,9 @@
   "horoscope": "You could awaken to an official offer or career breakthrough, dear Pisces, thanks to a sweet union between the Sagittarius Moon and Mercury. Try not to let reservations around change put a damper on these developments when Luna squares off with the nodes of fate. Though you might suffer from a touch of imposter syndrome or fear of losing control, remember that most transitions come with some form of discomfort. Stay positive and confident as you put one foot in front of the other. Venus and Chiron enter a supportive aspect this afternoon, reminding you to value your worth as you advance in your field."
 }
 
+{
+  "sign": "pisces",
+  "date": "2025-12-23",
+  "horoscope": "Your mind cooks up brilliant ideas, dear Pisces, as the Moon moves through Aquarius and your solar twelfth house. However, external distractions may cause you to miss important brainstorming sessions that are crucial to actualizing your vision. Slip into the shadows and enjoy more private time without compromising your focus. Your plans gain meaningful structure while Luna aspects Mercury later this afternoon. Put eyes on your schedule for the next few weeks, peppering in realistic milestones you can aim for. It might be necessary to break your own rules when Venus and Neptune square off tonight."
+}
+
