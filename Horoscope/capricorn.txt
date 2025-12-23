@@ -125,3 +125,9 @@
   "horoscope": "Avoid playing into social hierarchies that brew jealousy, dearest Capricorn, as the Scorpio Moon aspects Uranus and Neptune. You'll have a chance to diffuse drama by highlighting admirable qualities in others, or steering negative discussions toward more positive topics. Your efforts to mitigate tension could result in mental or emotional burnout once Luna enters Sagittarius. Luckily, this lunar placement gives you permission to hide away and reflect on what offers you a renewed sense of hope. Weigh desires against any potential sacrifices you might be called to make while Pluto stirs this afternoon, taking steps that can help you manifest goals. "
 }
 
+{
+  "sign": "capricorn",
+  "date": "2025-12-23",
+  "horoscope": "Your surroundings light up if you tap into the present, dear Capricorn. As the Aquarius Moon travels through your solar second house, rediscover details you take for granted that bring magick to your life. This luminary placement brings a charge to your manifestation game, offering up quick blessings if you dare to wish upon a star. Opportunities to clear away stagnancy can also emerge if you act on brilliant ideas once they arise. Streamline your visions into the material realms by removing distractions and brainstorming next steps while Luna aspects Mercury later today. Just be mindful of what is realistic versus fantasy when Venus squares Neptune tonight."
+}
+
