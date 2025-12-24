@@ -203,3 +203,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2025-12-24",
+  "horoscope": "Offer words of encouragement to boost your own confidence, dear archer, as the Aquarius Moon and Chiron align. Financial growth should be a priority once Venus enters Capricorn, helping you build wealth throughout the coming weeks. If you're in a relationship, take steps to ensure you and your sweetheart are on the same page where money is concerned. Touch base with your physical needs before tackling obstacles when Uranus activates midafternoon. Work on cultivating a harmonious home while Luna debuts in Pisces and aspects Venus this evening. If you're in need of extra TLC, allow loved ones to nurture you."
+}
+
