@@ -202,3 +202,9 @@
   "horoscope": "Let your fanciful side lead the way, dear Leo, as the Aquarius Moon provides loving and harmonious vibes. This energy is perfect for grabbing a partner and seeking excitement. Keep your mind engaged to maintain lively connections, and don't be afraid of healthy debate as long as it stays friendly. Your heart opens while Luna aspects Mercury later today, but you'll prefer creative forms of expression in lieu of direct communication. Show others how you feel with kind gestures, flirtatious interactions, and passion-fueled embraces. Fantasies around commitment and lasting love fill your thoughts when Venus and Neptune align tonight."
 }
 
+{
+  "sign": "leo",
+  "date": "2025-12-24",
+  "horoscope": "The Aquarius Moon and Chiron seek to heal and harmonize your spirit, dear Leo. Connect with your higher power before starting the day to find peace and clarity. Venus's debut into Capricorn triggers a renewed devotion to your work and health goals. Focus on cultivating routines that bring out your most efficient and best life. Now is also a good time to master skills that can help you get ahead professionally. Avoid rocking the boat when Luna squares Uranus midafternoon, especially where love or business is concerned. Release stress to support your thoughts and emotions while Luna enters Pisces and aspects Venus this evening."
+}
+
