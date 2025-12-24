@@ -143,3 +143,9 @@
   "horoscope": "The Aquarius Moon helps you play catch-up, dear Virgo, motivating you to work hard while improving the systems you rely on each day. Trust new ideas as they arise, especially ones that might simplify your life. Implementing consistent wellness routines can also help improve overall mental clarity. You'll become more aware of what your body and mind need to thrive when Luna and Mercury align later today. Use this energy to determine how to harmonize healthy living with personal goals. Melt into the comforts of home and allow others to dote on you once Venus aspects Neptune this evening."
 }
 
+{
+  "sign": "virgo",
+  "date": "2025-12-24",
+  "horoscope": "Make healthy choices to start the day out right, dear Virgo, as the Aquarius Moon and Chiron align. Your priorities shift once Venus debuts in Capricorn, highlighting the importance of merging creativity with professional aspirations. Put a unique spin on your work throughout the coming weeks to stand apart from colleagues. Where matters of the heart are concerned, you'll feel most secure with someone you can let your hair down with. Prepare to pivot when Uranus activates midafternoon, testing your adaptability. Enjoy sweet moments while Luna enters Pisces and aligns with Venus this evening, honoring what your soul desires."
+}
+
