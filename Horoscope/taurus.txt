@@ -89,3 +89,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "taurus",
+  "date": "2025-12-24",
+  "horoscope": "The Aquarius Moon and Chiron align early this morning, dear Taurus, wiring your psyche for success. Kick off the day with words of affirmation while setting clear goals. Venus, your planetary ruler, debuts into Capricorn to expand your spiritual practices and capacity for love. Be inclusive, optimistic, and imaginative throughout the coming weeks to harness these auspicious vibes. Curb rebellious urges when Uranus activates midafternoon, or you could set yourself back. Find comfort in connection as evening sets in and Luna enters Pisces, forming a soft aspect with Venus."
+}
+
