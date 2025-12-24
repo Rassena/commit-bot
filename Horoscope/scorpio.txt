@@ -173,3 +173,9 @@
   "horoscope": "Don't take family and close friends for granted, dear Scorpio, as the Aquarius Moon activates your solar fourth house. These vibes are perfect for introducing play into dynamics that have grown stale or predictable, especially if you've felt emotionally disconnected recently. Liven up your day by going out of your way to brighten someone else's. Your mind craves simple indulgences when Luna and Mercury align later today. Try viewing your surroundings from a new perspective, appreciating details you'd normally gloss over. Indulge harmless fantasies as a way to boost the ego once Venus aspects Neptune tonight."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2025-12-24",
+  "horoscope": "Provide yourself with the same level of care you'd offer a beloved family member, dear Scorpio, as the Aquarius Moon and Chiron align early this morning. Venus's debut into Capricorn brings sophistication and poetry to your words throughout the coming weeks, making it easier to forge bonds and sell visions. Take your studies more seriously under this planetary placement, especially if you're hoping to draw in a mate or strengthen self-love. Unpredictable moods could plague your interactions when Uranus becomes agitated midafternoon, and you should avoid feeding conflict. Your heart opens wide, and flirty vibes flow while Luna enters Pisces and aspects Venus tonight."
+}
+
