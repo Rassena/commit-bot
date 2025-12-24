@@ -131,3 +131,9 @@
   "horoscope": "Your surroundings light up if you tap into the present, dear Capricorn. As the Aquarius Moon travels through your solar second house, rediscover details you take for granted that bring magick to your life. This luminary placement brings a charge to your manifestation game, offering up quick blessings if you dare to wish upon a star. Opportunities to clear away stagnancy can also emerge if you act on brilliant ideas once they arise. Streamline your visions into the material realms by removing distractions and brainstorming next steps while Luna aspects Mercury later today. Just be mindful of what is realistic versus fantasy when Venus squares Neptune tonight."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2025-12-24",
+  "horoscope": "Appreciate the support systems that help you stay emotionally healthy, dear Capricorn, as the Aquarius Moon and Chiron connect. Venus debuts in your sign to improve your love life throughout the coming weeks, but you'll need to decide what truly matters where romance is concerned. If you're currently single, build up self-esteem through self-love until the right person comes along. Putting yourself out there can also lead to higher success in finding a match. Keep your ego in check when Uranus activates midafternoon. Speak highly of others to create a kind environment while Luna enters Pisces and aspects Venus this evening."
+}
+
