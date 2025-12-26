@@ -118,3 +118,9 @@
   "horoscope": "The Sagittarius Moon and Mercury join forces early this morning, dear Gemini, helping you greet the day with a balanced and clear mind. Allow your heart to have a say as well, making decisions that balance logic and emotion. Don't be afraid to break the mold when it comes to your closest relationships once Luna and the nodes of fate form a T-square. You'll realize that bulldozing structures and erecting new ones may be the only way to move forward with particular companions. People will be surprisingly cooperative while Venus and Chiron align, allowing you to heal and evolve connections."
 }
 
+{
+  "sign": "gemini",
+  "date": "2025-12-26",
+  "horoscope": "The Pisces Moon and Mercury square off this morning, dear Gemini, triggering mental fatigue. If you feel out of sorts, take a social breather and enjoy a bit of pampering. Your fortunes improve when Jupiter activates, so be mindful to document money-making ideas and keep watch for new opportunities. A sensible yet compassionate energy finds you while Saturn stirs this evening, inspiring you to impart valuable advice to someone who views you as a mentor. Return to your own aspirations once Luna aspects Uranus and Neptune later tonight, filling potential gaps in your long-term plans with constructive brainstorming."
+}
+
