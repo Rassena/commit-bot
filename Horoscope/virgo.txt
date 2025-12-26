@@ -155,3 +155,9 @@
   "horoscope": "Too much time with family could grate on your nerves this morning, beloved Virgo. As the Pisces Moon and Mercury square off, it would be easy to catch yourself bickering or lashing out emotionally. Get some fresh air to lighten the mood once Jupiter activates, putting you in a social and explorative headspace. Venting to friends or sneaking away with your sweetheart can also help alleviate holiday season burnout. A structured approach toward self-care further restores harmony this evening, thanks to a helping hand from Saturn. Unexpected blessings or surprises within matters of the heart sweep you off your feet when Luna aspects Uranus and Neptune tonight."
 }
 
+{
+  "sign": "virgo",
+  "date": "2025-12-26",
+  "horoscope": "Too much time with family could grate on your nerves this morning, beloved Virgo. As the Pisces Moon and Mercury square off, it would be easy to catch yourself bickering or lashing out emotionally. Get some fresh air to lighten the mood once Jupiter activates, putting you in a social and explorative headspace. Venting to friends or sneaking away with your sweetheart can also help alleviate holiday season burnout. A structured approach toward self-care further restores harmony this evening, thanks to a helping hand from Saturn. Unexpected blessings or surprises within matters of the heart sweep you off your feet when Luna aspects Uranus and Neptune tonight."
+}
+
