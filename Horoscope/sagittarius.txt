@@ -209,3 +209,9 @@
   "horoscope": "Offer words of encouragement to boost your own confidence, dear archer, as the Aquarius Moon and Chiron align. Financial growth should be a priority once Venus enters Capricorn, helping you build wealth throughout the coming weeks. If you're in a relationship, take steps to ensure you and your sweetheart are on the same page where money is concerned. Touch base with your physical needs before tackling obstacles when Uranus activates midafternoon. Work on cultivating a harmonious home while Luna debuts in Pisces and aspects Venus this evening. If you're in need of extra TLC, allow loved ones to nurture you."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2025-12-26",
+  "horoscope": "The Pisces Moon aligns with Mercury and Jupiter this morning, darling Sagittarius, bringing many emotions to the surface. Notice if you become temperamental or defensive, especially when loved ones are simply showing concern or care. Choose how the day looks for you by actively releasing tension rather than letting it build. Should you catch yourself lashing out, a quick apology will squash drama before it takes root. You'll feel more aligned with and supported by family once Saturn stirs this evening. Orchestrate group efforts to tidy up your home while Luna aspects Uranus and Neptune tonight."
+}
+
