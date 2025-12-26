@@ -149,3 +149,9 @@
   "horoscope": "Make healthy choices to start the day out right, dear Virgo, as the Aquarius Moon and Chiron align. Your priorities shift once Venus debuts in Capricorn, highlighting the importance of merging creativity with professional aspirations. Put a unique spin on your work throughout the coming weeks to stand apart from colleagues. Where matters of the heart are concerned, you'll feel most secure with someone you can let your hair down with. Prepare to pivot when Uranus activates midafternoon, testing your adaptability. Enjoy sweet moments while Luna enters Pisces and aligns with Venus this evening, honoring what your soul desires."
 }
 
+{
+  "sign": "virgo",
+  "date": "2025-12-26",
+  "horoscope": "Too much time with family could grate on your nerves this morning, beloved Virgo. As the Pisces Moon and Mercury square off, it would be easy to catch yourself bickering or lashing out emotionally. Get some fresh air to lighten the mood once Jupiter activates, putting you in a social and explorative headspace. Venting to friends or sneaking away with your sweetheart can also help alleviate holiday season burnout. A structured approach toward self-care further restores harmony this evening, thanks to a helping hand from Saturn. Unexpected blessings or surprises within matters of the heart sweep you off your feet when Luna aspects Uranus and Neptune tonight."
+}
+
