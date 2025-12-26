@@ -101,3 +101,9 @@
   "horoscope": "A temperamental energy could emerge while the Pisces Moon and Mercury square off, dear Taurus. Recognize your need for space, and don't succumb to people who intentionally push buttons. Loved ones will feel more at ease and in the mood to harmoniously gather once Jupiter stirs. If you're still in the holiday spirit, these vibes are perfect for a cozy brunch with family. Be the embodiment of maturity and refinement when Saturn activates this evening, encouraging others to put their best selves forward. Your whimsical side makes an appearance as Luna aspects Uranus and Neptune tonight, helping you enchant the masses."
 }
 
+{
+  "sign": "taurus",
+  "date": "2025-12-26",
+  "horoscope": "A temperamental energy could emerge while the Pisces Moon and Mercury square off, dear Taurus. Recognize your need for space, and don't succumb to people who intentionally push buttons. Loved ones will feel more at ease and in the mood to harmoniously gather once Jupiter stirs. If you're still in the holiday spirit, these vibes are perfect for a cozy brunch with family. Be the embodiment of maturity and refinement when Saturn activates this evening, encouraging others to put their best selves forward. Your whimsical side makes an appearance as Luna aspects Uranus and Neptune tonight, helping you enchant the masses."
+}
+
