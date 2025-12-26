@@ -179,3 +179,9 @@
   "horoscope": "Provide yourself with the same level of care you'd offer a beloved family member, dear Scorpio, as the Aquarius Moon and Chiron align early this morning. Venus's debut into Capricorn brings sophistication and poetry to your words throughout the coming weeks, making it easier to forge bonds and sell visions. Take your studies more seriously under this planetary placement, especially if you're hoping to draw in a mate or strengthen self-love. Unpredictable moods could plague your interactions when Uranus becomes agitated midafternoon, and you should avoid feeding conflict. Your heart opens wide, and flirty vibes flow while Luna enters Pisces and aspects Venus tonight."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2025-12-26",
+  "horoscope": "Don't read too closely between the lines, dear Scorpio, or your mind could play tricks on you. As the Pisces Moon aligns with Mercury and Jupiter, your thoughts will expand in multiple directions. Avoid giving too much attention to obstacles or insecurities, as you're more likely to benefit from an optimistic disposition. Spending may become problematic under these vibes, so try not to shop for the time being. Saturn presses you to approach passion projects and personal interests with discipline this evening. Escape with someone special when Luna aspects Uranus and Neptune tonight, strengthening bonds in your own little world."
+}
+
