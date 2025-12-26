@@ -143,3 +143,9 @@
   "horoscope": "It might be best to keep some opinions to yourself this morning, dear Capricorn, as the Pisces Moon and Mercury square off. Feeling off your game could lead to unwelcome remarks, so be mindful to find harmony within before interacting with others. Your sense of balance is restored once Jupiter activates, and you'll enjoy the encouragement loved ones provide. Serious discussions arise when Saturn stirs this evening, and focusing on a specific goal can help you map out realistic plans. Don't shy away from collaboration while Luna aspects Uranus and Neptune tonight, understanding the value of harnessing multiple perspectives."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2025-12-26",
+  "horoscope": "It might be best to keep some opinions to yourself this morning, dear Capricorn, as the Pisces Moon and Mercury square off. Feeling off your game could lead to unwelcome remarks, so be mindful to find harmony within before interacting with others. Your sense of balance is restored once Jupiter activates, and you'll enjoy the encouragement loved ones provide. Serious discussions arise when Saturn stirs this evening, and focusing on a specific goal can help you map out realistic plans. Don't shy away from collaboration while Luna aspects Uranus and Neptune tonight, understanding the value of harnessing multiple perspectives."
+}
+
