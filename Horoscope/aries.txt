@@ -217,3 +217,9 @@
   "horoscope": "You'll synchronize seamlessly with the people and communities you encounter, dear Aries, as the Moon continues through Aquarius. Use this luminary placement to your advantage by surrounding yourself with peers who may become valuable connections down the line. Lead with benevolence when Luna and Mercury form a soft aspect later today. If you put in the effort to spread kindness and joy, rewards will follow. Your daydreams become more vibrant once Venus squares Neptune tonight, but layering too many details onto existing aspirations could cause you to feel scattered. Let hope be a guiding force, but don't rely on luck alone."
 }
 
+{
+  "sign": "aries",
+  "date": "2025-12-26",
+  "horoscope": "Give yourself space to decompress while the Pisces Moon and Mercury square off, dear Aries, especially if you've been socializing overtime. You'll benefit from relaxing and intimate interactions that nurture the spirit once Jupiter stirs, so consider staying close to home. Privately recalibrate this evening when Saturn emphasizes the importance of privacy and introspection. If half-baked visions for the future dominate your thoughts, these vibes ask you to outline a realistic strategy, so you might manifest them. Luna aligns with Uranus and Neptune later tonight, triggering eureka moments. Though pursuing dreams could rock your foundations, don't be shy about betting on yourself."
+}
+
