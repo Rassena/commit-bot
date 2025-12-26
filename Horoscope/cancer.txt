@@ -137,3 +137,9 @@
   "horoscope": "You could feel slightly overwhelmed by the tasks that lie ahead, dearest Cancer, especially if you're still tidying up from holiday festivities. As the Pisces Moon aspects Mercury and Jupiter, don't hesitate to assign loved ones chores, but have a bit of patience until everyone's had a chance to fully wake up. Family and friends will seem more cooperative once Saturn injects a sense of responsibility into the collective this evening. Venture away from your home base to enjoy community-based activities when Luna aligns with Uranus and Neptune tonight. As magick fills the air, unexpected encounters will prove quite thrilling."
 }
 
+{
+  "sign": "cancer",
+  "date": "2025-12-26",
+  "horoscope": "You could feel slightly overwhelmed by the tasks that lie ahead, dearest Cancer, especially if you're still tidying up from holiday festivities. As the Pisces Moon aspects Mercury and Jupiter, don't hesitate to assign loved ones chores, but have a bit of patience until everyone's had a chance to fully wake up. Family and friends will seem more cooperative once Saturn injects a sense of responsibility into the collective this evening. Venture away from your home base to enjoy community-based activities when Luna aligns with Uranus and Neptune tonight. As magick fills the air, unexpected encounters will prove quite thrilling."
+}
+
