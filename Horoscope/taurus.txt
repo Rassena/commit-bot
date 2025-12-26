@@ -95,3 +95,9 @@
   "horoscope": "The Aquarius Moon and Chiron align early this morning, dear Taurus, wiring your psyche for success. Kick off the day with words of affirmation while setting clear goals. Venus, your planetary ruler, debuts into Capricorn to expand your spiritual practices and capacity for love. Be inclusive, optimistic, and imaginative throughout the coming weeks to harness these auspicious vibes. Curb rebellious urges when Uranus activates midafternoon, or you could set yourself back. Find comfort in connection as evening sets in and Luna enters Pisces, forming a soft aspect with Venus."
 }
 
+{
+  "sign": "taurus",
+  "date": "2025-12-26",
+  "horoscope": "A temperamental energy could emerge while the Pisces Moon and Mercury square off, dear Taurus. Recognize your need for space, and don't succumb to people who intentionally push buttons. Loved ones will feel more at ease and in the mood to harmoniously gather once Jupiter stirs. If you're still in the holiday spirit, these vibes are perfect for a cozy brunch with family. Be the embodiment of maturity and refinement when Saturn activates this evening, encouraging others to put their best selves forward. Your whimsical side makes an appearance as Luna aspects Uranus and Neptune tonight, helping you enchant the masses."
+}
+
