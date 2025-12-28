@@ -185,3 +185,9 @@
   "horoscope": "Don't read too closely between the lines, dear Scorpio, or your mind could play tricks on you. As the Pisces Moon aligns with Mercury and Jupiter, your thoughts will expand in multiple directions. Avoid giving too much attention to obstacles or insecurities, as you're more likely to benefit from an optimistic disposition. Spending may become problematic under these vibes, so try not to shop for the time being. Saturn presses you to approach passion projects and personal interests with discipline this evening. Escape with someone special when Luna aspects Uranus and Neptune tonight, strengthening bonds in your own little world."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2025-12-28",
+  "horoscope": "Stop thinking about your to-do lists and take initiative to tackle them, dear Scorpio. As the Aries Moon travels through your solar sixth house, staying idle will stir up anxiety. You'll be surprised by how quickly tasks are accomplished once you get moving, and you should celebrate your feats while Jupiter and Chiron activate midafternoon. Don't lose momentum simply because chores have been completed, funneling these efficient vibes toward personal projects or long-term goals. Map out your agenda and prepare for the upcoming week when Luna aspects Mercury this evening, sprinkling simple pleasures into your schedule."
+}
+
