@@ -155,3 +155,9 @@
   "horoscope": "The Aries Moon reminds you that there is a first for everything, dear Capricorn. Direct these sentiments toward your home life and family bonds, livening the vibe by venturing beyond your usual Sunday plans. Intense emotions wash over you while Luna aspects Jupiter and Chiron midafternoon, revealing the softie within. Give loved ones a glimpse into your heart by sharing feelings or childhood memories. Maintain a peaceful space when Mercury stirs this evening, filling your abode with a sweet yet chatty ambiance. Make the most of this cosmic climate by dimming the lights and arranging a cozy dinner."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2025-12-30",
+  "horoscope": "                                                                "
+}
+
