@@ -167,3 +167,9 @@
   "horoscope": "You'll feel impatient for results as the Taurus Moon squares Pluto, dear Virgo. It may seem as though recent efforts aren't yielding big enough rewards, leading you to question current methods. Play with your routines and consider where tasks can be cut or offloaded onto someone else. Inspiration strikes while Venus and the sun activate later today, revitalizing your passion and motivation to chase dreams. Romantic developments could also occur, adding even more pep to your step. Visions for the future take new shapes once Luna, the nodes of fate, and Mars align in a brilliant kite formation. Watch out for mood swings and try not to be hard on loved ones when Mercury and Saturn square off."
 }
 
+{
+  "sign": "virgo",
+  "date": "2025-12-30",
+  "horoscope": "                                                                "
+}
+
