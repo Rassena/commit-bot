@@ -208,3 +208,9 @@
   "horoscope": "The Aquarius Moon and Chiron seek to heal and harmonize your spirit, dear Leo. Connect with your higher power before starting the day to find peace and clarity. Venus's debut into Capricorn triggers a renewed devotion to your work and health goals. Focus on cultivating routines that bring out your most efficient and best life. Now is also a good time to master skills that can help you get ahead professionally. Avoid rocking the boat when Luna squares Uranus midafternoon, especially where love or business is concerned. Release stress to support your thoughts and emotions while Luna enters Pisces and aspects Venus this evening."
 }
 
+{
+  "sign": "leo",
+  "date": "2025-12-30",
+  "horoscope": "                                                                "
+}
+
