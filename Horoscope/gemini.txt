@@ -124,3 +124,9 @@
   "horoscope": "The Pisces Moon and Mercury square off this morning, dear Gemini, triggering mental fatigue. If you feel out of sorts, take a social breather and enjoy a bit of pampering. Your fortunes improve when Jupiter activates, so be mindful to document money-making ideas and keep watch for new opportunities. A sensible yet compassionate energy finds you while Saturn stirs this evening, inspiring you to impart valuable advice to someone who views you as a mentor. Return to your own aspirations once Luna aspects Uranus and Neptune later tonight, filling potential gaps in your long-term plans with constructive brainstorming."
 }
 
+{
+  "sign": "gemini",
+  "date": "2025-12-30",
+  "horoscope": "                                                                "
+}
+
