@@ -131,3 +131,9 @@
   "horoscope": "Ego bruises may be inevitable this morning, dear Libra, as the Taurus Moon and Pluto square off. Don't let others bully you, but make sure your facts are in order before engaging in power struggles. Give yourself a break when Venus and the sun stir later today, and confide in loved ones who allow you to feel validated and nurtured. You'll sense new beginnings on the horizon while Luna, the nodes of fate, and Mars enter a kite formation. Handle unfinished business so you're ready for what comes next, and mentally prepare to embrace change once Mercury squares Saturn."
 }
 
+{
+  "sign": "libra",
+  "date": "2025-12-30",
+  "horoscope": "                                                                "
+}
+
