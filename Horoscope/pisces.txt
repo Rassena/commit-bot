@@ -144,3 +144,9 @@
   "horoscope": "Your mind cooks up brilliant ideas, dear Pisces, as the Moon moves through Aquarius and your solar twelfth house. However, external distractions may cause you to miss important brainstorming sessions that are crucial to actualizing your vision. Slip into the shadows and enjoy more private time without compromising your focus. Your plans gain meaningful structure while Luna aspects Mercury later this afternoon. Put eyes on your schedule for the next few weeks, peppering in realistic milestones you can aim for. It might be necessary to break your own rules when Venus and Neptune square off tonight."
 }
 
+{
+  "sign": "pisces",
+  "date": "2025-12-30",
+  "horoscope": "                                                                "
+}
+
