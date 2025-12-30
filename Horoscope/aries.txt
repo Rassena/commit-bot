@@ -223,3 +223,9 @@
   "horoscope": "Give yourself space to decompress while the Pisces Moon and Mercury square off, dear Aries, especially if you've been socializing overtime. You'll benefit from relaxing and intimate interactions that nurture the spirit once Jupiter stirs, so consider staying close to home. Privately recalibrate this evening when Saturn emphasizes the importance of privacy and introspection. If half-baked visions for the future dominate your thoughts, these vibes ask you to outline a realistic strategy, so you might manifest them. Luna aligns with Uranus and Neptune later tonight, triggering eureka moments. Though pursuing dreams could rock your foundations, don't be shy about betting on yourself."
 }
 
+{
+  "sign": "aries",
+  "date": "2025-12-30",
+  "horoscope": "                                                                "
+}
+
