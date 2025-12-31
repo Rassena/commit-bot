@@ -168,3 +168,9 @@
   "horoscope": "Luna shimmers in your sign, dear Aquarius, recalibrating your priorities after a period of introspection. Harness these vibes by letting your visions see the light of day and putting action behind the endeavors you've recently resolved to embark upon. You'll gain traction quickly, and shortcuts you once overlooked could emerge. Rub elbows later this afternoon when Mercury activates, making an honest effort to better understand peers. If you appear genuinely interested in the people around you, they will reciprocate. Don't fall into targeted ads or online shopping sprees while Venus squares Neptune tonight, or you might find yourself in a financial bind down the road."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2025-12-31",
+  "horoscope": "Excitement fills your home early this morning, dearest Aquarius, as the Taurus Moon aligns with Uranus and Neptune before entering Gemini. Take the lead on organizing fun and delegating tasks to ensure everyone gets involved. Be true to yourself while Pluto stirs in your sign, but recognize how change fits into your soul's evolution. You'll feel lighter and more at peace when you acknowledge where improvements can be made to maximize your power and potential. An outgoing yet private energy surrounds you once the sun, Moon, and nodes of fate stir later tonight, nudging you to ring in the new year with close friends."
+}
+
