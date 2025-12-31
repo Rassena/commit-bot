@@ -143,3 +143,9 @@
   "horoscope": "You could feel slightly overwhelmed by the tasks that lie ahead, dearest Cancer, especially if you're still tidying up from holiday festivities. As the Pisces Moon aspects Mercury and Jupiter, don't hesitate to assign loved ones chores, but have a bit of patience until everyone's had a chance to fully wake up. Family and friends will seem more cooperative once Saturn injects a sense of responsibility into the collective this evening. Venture away from your home base to enjoy community-based activities when Luna aligns with Uranus and Neptune tonight. As magick fills the air, unexpected encounters will prove quite thrilling."
 }
 
+{
+  "sign": "cancer",
+  "date": "2025-12-31",
+  "horoscope": "A boost in popularity may have you waking up to an influx of well-wishes, dear Cancer, as the Taurus Moon aspects Uranus and Neptune. Luna's debut in Gemini puts you in a solitary yet social mood, creating the ideal conditions for online correspondence. Get your correspondence out of the way early and spread New Year cheer with thoughtful texts and emails. As Pluto activates in the sector of your chart that governs transformation, you'll feel inspired to make resolutions that involve both sacrifice and gain. Plan an intimate, sweet celebration as the sun and Moon align with the nodes of fate."
+}
+
