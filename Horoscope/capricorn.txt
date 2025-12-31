@@ -179,3 +179,9 @@
   "horoscope": "                                                                "
 }
 
+{
+  "sign": "capricorn",
+  "date": "2025-12-31",
+  "horoscope": "An innovative and orderly energy surrounds you this morning, dear Capricorn, as the Taurus Moon aspects Uranus and Neptune before entering Gemini. Now is your chance to improve upon ideas and passion projects. Review the work you've completed thus far and make edits that reflect the evolution of your vision. You might be tempted to start from scratch while Pluto stirs, but you should try to salvage some of the foundations you've already laid. The sun, Moon, and nodes of fate align as holiday festivities kick off, placing luck on your side as you say goodbye to the past and welcome in the new year."
+}
+
