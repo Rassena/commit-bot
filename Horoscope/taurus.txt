@@ -107,3 +107,9 @@
   "horoscope": "A temperamental energy could emerge while the Pisces Moon and Mercury square off, dear Taurus. Recognize your need for space, and don't succumb to people who intentionally push buttons. Loved ones will feel more at ease and in the mood to harmoniously gather once Jupiter stirs. If you're still in the holiday spirit, these vibes are perfect for a cozy brunch with family. Be the embodiment of maturity and refinement when Saturn activates this evening, encouraging others to put their best selves forward. Your whimsical side makes an appearance as Luna aspects Uranus and Neptune tonight, helping you enchant the masses."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-01-01",
+  "horoscope": "A preference for romance might cause you to miss red flags, dearest Taurus, as Mercury and Neptune form a deceptive aspect. The universe will guide you toward truth once Mercury debuts in Capricorn midafternoon, maximizing the contrast between light and dark. Though everyone has a shadow, it's vital not to let others steal your shine. Reflect on the qualities that make you a solid partner while the Gemini Moon and Chiron align this evening, considering if these traits are being reciprocated. Elevate your social standing by aligning yourself with kindred spirits when Venus aspects the nodes of fate. Avoid those who trigger a sense of unease whilst Saturn stirs tonight."
+}
+
