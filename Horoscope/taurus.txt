@@ -113,3 +113,9 @@
   "horoscope": "A preference for romance might cause you to miss red flags, dearest Taurus, as Mercury and Neptune form a deceptive aspect. The universe will guide you toward truth once Mercury debuts in Capricorn midafternoon, maximizing the contrast between light and dark. Though everyone has a shadow, it's vital not to let others steal your shine. Reflect on the qualities that make you a solid partner while the Gemini Moon and Chiron align this evening, considering if these traits are being reciprocated. Elevate your social standing by aligning yourself with kindred spirits when Venus aspects the nodes of fate. Avoid those who trigger a sense of unease whilst Saturn stirs tonight."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-01-01",
+  "horoscope": "A preference for romance might cause you to miss red flags, dearest Taurus, as Mercury and Neptune form a deceptive aspect. The universe will guide you toward truth once Mercury debuts in Capricorn midafternoon, maximizing the contrast between light and dark. Though everyone has a shadow, it's vital not to let others steal your shine. Reflect on the qualities that make you a solid partner while the Gemini Moon and Chiron align this evening, considering if these traits are being reciprocated. Elevate your social standing by aligning yourself with kindred spirits when Venus aspects the nodes of fate. Avoid those who trigger a sense of unease whilst Saturn stirs tonight."
+}
+
