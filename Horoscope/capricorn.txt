@@ -185,3 +185,9 @@
   "horoscope": "An innovative and orderly energy surrounds you this morning, dear Capricorn, as the Taurus Moon aspects Uranus and Neptune before entering Gemini. Now is your chance to improve upon ideas and passion projects. Review the work you've completed thus far and make edits that reflect the evolution of your vision. You might be tempted to start from scratch while Pluto stirs, but you should try to salvage some of the foundations you've already laid. The sun, Moon, and nodes of fate align as holiday festivities kick off, placing luck on your side as you say goodbye to the past and welcome in the new year."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-01-01",
+  "horoscope": "It will feel as though you're emerging from a dream, dear Capricorn, as Mercury squares Neptune before entering your sign. You may come to realize that the scenarios you've held onto weren't exactly as you believed they were, forcing you to brainstorm a new way forward. Prioritize logical goals, desires, and personal needs over the coming weeks, and ask for clarity when needed. Work toward healing the body and your emotions will catch up once the Gemini Moon and Chiron align this evening. You'll see glimmers of a brighter future while Venus, the nodes of fate, and Saturn activate later tonight, generating a sense of relief that certain dreams never came to fruition."
+}
+
