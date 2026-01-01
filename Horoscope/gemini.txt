@@ -130,3 +130,9 @@
   "horoscope": "                                                                "
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-01-01",
+  "horoscope": "Avoid feeding unrealistic fantasies while Mercury squares Neptune this morning, dear Gemini, especially when it comes to romance. Value reliability over flowery promises that never come to fruition, even if reality isn't as glamorous as your daydreams. You'll benefit from a perspective shift after Mercury enters Capricorn midafternoon, and won't be afraid to have difficult discussions around commitment. As Luna moves through your sign, it's time to put your needs first. Disappointments can be neutralized if you connect with the community once Chiron stirs this evening. Be mindful of how love shapes destiny when Venus aspects the nodes of fate and Saturn activates tonight."
+}
+
