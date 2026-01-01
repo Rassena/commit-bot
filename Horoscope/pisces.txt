@@ -150,3 +150,9 @@
   "horoscope": "                                                                "
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-01-01",
+  "horoscope": "Recognize if you've been working overtime to impress people who aren't worth the effort, dearest Pisces. As Mercury squares Neptune before entering Capricorn, you'll become less concerned with status and more invested in finding kindred spirits. Bring structure to your quest for community expansion by researching local groups, organizations, or classes to get involved with. Embrace your sentimental side by indulging in nostalgic comforts and little treats while the Gemini Moon and Chiron align this evening. Honor your truth and surround yourself with supportive companions when Venus aspects the nodes of fate tonight. Prepare to draw lines with family who hold you to unreasonable expectations once Saturn becomes agitated."
+}
+
