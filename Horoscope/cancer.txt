@@ -155,3 +155,9 @@
   "horoscope": "Focus on the minor details that make your dreams attainable, dear Cancer, as Mercury squares Neptune before entering practical Capricorn. This planetary shift emphasizes the importance of having a workable plan to ensure your goals can be reached without risking burnout. Meanwhile, the Gemini Moon throws neurons into hyperdrive, triggering overstimulation and distractions with ease. Chiron steps in to help you regain control, but you'll need solid structures to operate from. Romance fills the air once Venus aspects the nodes of fate, asking you to manifest your own fairytale. Avoid entertaining doubts while Saturn stirs tonight, or you could stunt progress."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-01-02",
+  "horoscope": "Youll need to break cycles of escapism, dear Cancer, as the Gemini Moon squares Neptune before entering your sign. You could emerge from hiding to find yourself in hot water with someone special, due to a harsh opposition between Luna and Mercury. Rather than attempting to placate your companion with hollow apologies or pleas for forgiveness, quiet down and fully hear them out. It never hurts to acknowledge how others see you, even if the process isnt always pleasant. Joy takes the place of conflict when the nodes of fate activate tonight, putting you in the mood to celebrate."
+}
+
