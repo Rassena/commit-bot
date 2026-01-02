@@ -179,3 +179,9 @@
   "horoscope": "Don't let a fear of being alone guide your romantic decisions, dear Virgo. As Mercury squares Neptune before entering Capricorn. Actively working on yourself instead of chasing unworthy partners will build confidence and attract better options down the line. Prioritize strengthening your mind throughout the coming weeks to make the most of this planetary shift. Professional developments boost morale once the Gemini Moon and Chiron align this evening, motivating you to outline major career goals for 2026. Venus and the nodes of fate bring a sense of fulfillment later tonight, hinting that your happily ever after lies over the horizon. Update your expectations when Luna and Saturn square off."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-01-02",
+  "horoscope": "You may sense certain relationships eroding, dear Virgo, especially if youve been hyper-focused on developing new ones. As the Gemini Moon squares Neptune before entering Cancer, be considerate of loved ones who are beginning to feel left out. Evolving interests will create an organic ebb and flow within your social sphere, but Mercury cautions against neglecting loyal friends in the process. Connections youve made recently might not be fully trustworthy, particularly where there is underlying competition. Try to have the best of both worlds by hosting a large gathering and merging communities when the nodes of fate activate tonight."
+}
+
