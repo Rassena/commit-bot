@@ -203,3 +203,9 @@
   "horoscope": "                                                                "
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-01-02",
+  "horoscope": "The Gemini Moon squares Neptune early this morning, dear Scorpio, triggering internal power struggles. Try to accept that competition with peers and potential conflict might only exist in your head. Your higher self makes an appearance once Luna enters Cancer and opposes Mercury, helping you recognize that fortune moves on its own timeline. Opportunities will ebb and flow, but there are certainly enough to go around. If youre dissatisfied with current circumstances, it is your responsibility to strategize a different approach toward success. Forgotten contacts could resurface with an intriguing offer while the nodes of fate activate later tonight."
+}
+
