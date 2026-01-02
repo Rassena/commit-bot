@@ -215,3 +215,9 @@
   "horoscope": "The Pisces Moon aligns with Mercury and Jupiter this morning, darling Sagittarius, bringing many emotions to the surface. Notice if you become temperamental or defensive, especially when loved ones are simply showing concern or care. Choose how the day looks for you by actively releasing tension rather than letting it build. Should you catch yourself lashing out, a quick apology will squash drama before it takes root. You'll feel more aligned with and supported by family once Saturn stirs this evening. Orchestrate group efforts to tidy up your home while Luna aspects Uranus and Neptune tonight."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-01-02",
+  "horoscope": "Romantic whirlwinds come and go, dear Sagittarius, but true partnership is gritty and real. As the Gemini Moon squares Neptune and moves into Cancer, youll begin to wonder if current love interests might go all the way. Acknowledge how safe your sweetheart makes you feel while Mercury activates, and how they respond to your insecurities. Its also important to recognize if old wounds have made it difficult to trust again. You could receive answers around what the future holds once the nodes of fate activate tonight, and you should take notes on how comfortable your connection feels when silence fills the room."
+}
+
