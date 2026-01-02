@@ -229,3 +229,9 @@
   "horoscope": "                                                                "
 }
 
+{
+  "sign": "aries",
+  "date": "2026-01-02",
+  "horoscope": "The fog of slumber could prove difficult to shake this morning, darling Aries, due to a harsh connection between the Gemini Moon and Neptune. New emotions rise to the surface as Luna enters Cancer and opposes Mercury, testing the walls youve built up internally. Lack of satisfaction at work or boredom at the home may be the source of your woes. Its important to cultivate a well-rounded existence by ensuring no singular area of your life consumes the bulk of your focus. Test out different nighttime routines when the nodes of fate stir tonight, inviting more softness into your rituals."
+}
+
