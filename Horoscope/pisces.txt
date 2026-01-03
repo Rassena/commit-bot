@@ -162,3 +162,9 @@
   "horoscope": "Recognize if you've been working overtime to impress people who aren't worth the effort, dearest Pisces. As Mercury squares Neptune before entering Capricorn, you'll become less concerned with status and more invested in finding kindred spirits. Bring structure to your quest for community expansion by researching local groups, organizations, or classes to get involved with. Embrace your sentimental side by indulging in nostalgic comforts and little treats while the Gemini Moon and Chiron align this evening. Honor your truth and surround yourself with supportive companions when Venus aspects the nodes of fate tonight. Prepare to draw lines with family who hold you to unreasonable expectations once Saturn becomes agitated."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-01-03",
+  "horoscope": "Get comfortable with increased attention under the Cancer Full Moon, dearest Pisces. Projects you've been working hard on will soon see the light of day and will likely propel you toward new levels of success. As one of the most psychic signs in the zodiac, it will be difficult to ignore jealous whispers circulating amongst peers. Remember that notoriety comes with perks and pitfalls, so make a vow to protect yourself from those whose aspirations don't match their abilities. Appreciate your talents and willingness to work for recognition, even if a few friends fall off during your upward ascent."
+}
+
