@@ -197,3 +197,9 @@
   "horoscope": "It will feel as though you're emerging from a dream, dear Capricorn, as Mercury squares Neptune before entering your sign. You may come to realize that the scenarios you've held onto weren't exactly as you believed they were, forcing you to brainstorm a new way forward. Prioritize logical goals, desires, and personal needs over the coming weeks, and ask for clarity when needed. Work toward healing the body and your emotions will catch up once the Gemini Moon and Chiron align this evening. You'll see glimmers of a brighter future while Venus, the nodes of fate, and Saturn activate later tonight, generating a sense of relief that certain dreams never came to fruition."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-01-03",
+  "horoscope": "It will be difficult to hide amorous feelings toward others, dear Capricorn. As the Cancer Full Moon brings out your inner romantic, you'll have the confidence to pursue love and your happily ever after. Though it's important to stir up passions when courting a potential mate, going overboard could make you look like an insincere showoff. Rather than assuming what your beloved desires, put in the effort to better understand their interests and emotions. If you're already coupled up, ensure both your needs and your partner's are being met. No matter your relationship status, this lunation also encourages self-care indulgences."
+}
+
