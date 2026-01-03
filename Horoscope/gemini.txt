@@ -136,3 +136,9 @@
   "horoscope": "Avoid feeding unrealistic fantasies while Mercury squares Neptune this morning, dear Gemini, especially when it comes to romance. Value reliability over flowery promises that never come to fruition, even if reality isn't as glamorous as your daydreams. You'll benefit from a perspective shift after Mercury enters Capricorn midafternoon, and won't be afraid to have difficult discussions around commitment. As Luna moves through your sign, it's time to put your needs first. Disappointments can be neutralized if you connect with the community once Chiron stirs this evening. Be mindful of how love shapes destiny when Venus aspects the nodes of fate and Saturn activates tonight."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-01-03",
+  "horoscope": "Identify drains on your resources, dearest Gemini, as the Cancer Full Moon emphasizes the importance of smart financial planning. As the Capricorn sun, Venus, and Mars stand in opposition to Luna, conflict could erupt if you're in a committed partnership. Address issues around spending, saving, and mounting debts, even if the discussion becomes heated. Ignoring cycles of monetary mismanagement will only inflame the issue over time, adding further strain to your relationship that may be too difficult to reverse down the road. If you're unfamiliar with savvy financial practices, it might be necessary to seek counsel from a professional."
+}
+
