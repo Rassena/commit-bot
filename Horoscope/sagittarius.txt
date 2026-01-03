@@ -221,3 +221,9 @@
   "horoscope": "Romantic whirlwinds come and go, dear Sagittarius, but true partnership is gritty and real. As the Gemini Moon squares Neptune and moves into Cancer, youll begin to wonder if current love interests might go all the way. Acknowledge how safe your sweetheart makes you feel while Mercury activates, and how they respond to your insecurities. Its also important to recognize if old wounds have made it difficult to trust again. You could receive answers around what the future holds once the nodes of fate activate tonight, and you should take notes on how comfortable your connection feels when silence fills the room."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-01-03",
+  "horoscope": "The Cancer Full Moon stirs up many emotions for you, dear Sagittarius, shining a light on your loyalties, jealousies, and hunger for power. Transformative moments present themselves with each high and low that surfaces. The way you react to drama or opportunities will impact how your story develops throughout the next six months. Recognize when instincts become destructive and whether acting on impulse is in your best interest. If you don't have a specific end goal in mind, barreling ahead might not be worth the potential fallout. If you've grown impatient with people or situations you've invested a lot of energy in, forcing progress could undo your efforts."
+}
+
