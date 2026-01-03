@@ -142,3 +142,9 @@
   "horoscope": "Identify drains on your resources, dearest Gemini, as the Cancer Full Moon emphasizes the importance of smart financial planning. As the Capricorn sun, Venus, and Mars stand in opposition to Luna, conflict could erupt if you're in a committed partnership. Address issues around spending, saving, and mounting debts, even if the discussion becomes heated. Ignoring cycles of monetary mismanagement will only inflame the issue over time, adding further strain to your relationship that may be too difficult to reverse down the road. If you're unfamiliar with savvy financial practices, it might be necessary to seek counsel from a professional."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-01-03",
+  "horoscope": "Identify drains on your resources, dearest Gemini, as the Cancer Full Moon emphasizes the importance of smart financial planning. As the Capricorn sun, Venus, and Mars stand in opposition to Luna, conflict could erupt if you're in a committed partnership. Address issues around spending, saving, and mounting debts, even if the discussion becomes heated. Ignoring cycles of monetary mismanagement will only inflame the issue over time, adding further strain to your relationship that may be too difficult to reverse down the road. If you're unfamiliar with savvy financial practices, it might be necessary to seek counsel from a professional."
+}
+
