@@ -227,3 +227,9 @@
   "horoscope": "The Cancer Full Moon stirs up many emotions for you, dear Sagittarius, shining a light on your loyalties, jealousies, and hunger for power. Transformative moments present themselves with each high and low that surfaces. The way you react to drama or opportunities will impact how your story develops throughout the next six months. Recognize when instincts become destructive and whether acting on impulse is in your best interest. If you don't have a specific end goal in mind, barreling ahead might not be worth the potential fallout. If you've grown impatient with people or situations you've invested a lot of energy in, forcing progress could undo your efforts."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-01-03",
+  "horoscope": "The Cancer Full Moon stirs up many emotions for you, dear Sagittarius, shining a light on your loyalties, jealousies, and hunger for power. Transformative moments present themselves with each high and low that surfaces. The way you react to drama or opportunities will impact how your story develops throughout the next six months. Recognize when instincts become destructive and whether acting on impulse is in your best interest. If you don't have a specific end goal in mind, barreling ahead might not be worth the potential fallout. If you've grown impatient with people or situations you've invested a lot of energy in, forcing progress could undo your efforts."
+}
+
