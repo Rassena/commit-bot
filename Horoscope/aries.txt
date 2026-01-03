@@ -235,3 +235,9 @@
   "horoscope": "The fog of slumber could prove difficult to shake this morning, darling Aries, due to a harsh connection between the Gemini Moon and Neptune. New emotions rise to the surface as Luna enters Cancer and opposes Mercury, testing the walls youve built up internally. Lack of satisfaction at work or boredom at the home may be the source of your woes. Its important to cultivate a well-rounded existence by ensuring no singular area of your life consumes the bulk of your focus. Test out different nighttime routines when the nodes of fate stir tonight, inviting more softness into your rituals."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-01-03",
+  "horoscope": "The Cancer Full Moon forces you to accept buried emotions, dearest Aries, and how they impact your relationships, family, and aspirations. Though you're one of the bravest and most ambitious members of the zodiac, these qualities can be a detriment if they cause you to move past feelings before you've taken time to fully process them. Stay close to home so you can safely explore the inner workings of your mind. Loved ones will come to your aid if you ask them to. Abandon facades you've been projecting in the hope that you'll come across as unfazed whenever disappointments arise."
+}
+
