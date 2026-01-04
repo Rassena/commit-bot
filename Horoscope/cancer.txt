@@ -161,3 +161,9 @@
   "horoscope": "Youll need to break cycles of escapism, dear Cancer, as the Gemini Moon squares Neptune before entering your sign. You could emerge from hiding to find yourself in hot water with someone special, due to a harsh opposition between Luna and Mercury. Rather than attempting to placate your companion with hollow apologies or pleas for forgiveness, quiet down and fully hear them out. It never hurts to acknowledge how others see you, even if the process isnt always pleasant. Joy takes the place of conflict when the nodes of fate activate tonight, putting you in the mood to celebrate."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-01-04",
+  "horoscope": "Luna concludes her journey through your sign this morning, dear Cancer, aspecting Uranus and Neptune before moving on. Social breakthroughs may have occurred without your knowledge, though you'll be privy to these developments soon enough. Take note of any messages you receive from unexpected sources, and how they tie into personal interests or aspirations. You'll feel both apprehensive and eager about developing new connections once Luna enters Leo and opposes Pluto, especially when such alliances can add value to your life or work. Hold space for friendships to develop while the Moon and Mercury form an unbalanced aspect, but keep your guard up for now."
+}
+
