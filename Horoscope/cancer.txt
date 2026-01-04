@@ -167,3 +167,9 @@
   "horoscope": "Luna concludes her journey through your sign this morning, dear Cancer, aspecting Uranus and Neptune before moving on. Social breakthroughs may have occurred without your knowledge, though you'll be privy to these developments soon enough. Take note of any messages you receive from unexpected sources, and how they tie into personal interests or aspirations. You'll feel both apprehensive and eager about developing new connections once Luna enters Leo and opposes Pluto, especially when such alliances can add value to your life or work. Hold space for friendships to develop while the Moon and Mercury form an unbalanced aspect, but keep your guard up for now."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-01-04",
+  "horoscope": "Luna concludes her journey through your sign this morning, dear Cancer, aspecting Uranus and Neptune before moving on. Social breakthroughs may have occurred without your knowledge, though you'll be privy to these developments soon enough. Take note of any messages you receive from unexpected sources, and how they tie into personal interests or aspirations. You'll feel both apprehensive and eager about developing new connections once Luna enters Leo and opposes Pluto, especially when such alliances can add value to your life or work. Hold space for friendships to develop while the Moon and Mercury form an unbalanced aspect, but keep your guard up for now."
+}
+
