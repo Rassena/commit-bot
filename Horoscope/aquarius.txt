@@ -174,3 +174,9 @@
   "horoscope": "Excitement fills your home early this morning, dearest Aquarius, as the Taurus Moon aligns with Uranus and Neptune before entering Gemini. Take the lead on organizing fun and delegating tasks to ensure everyone gets involved. Be true to yourself while Pluto stirs in your sign, but recognize how change fits into your soul's evolution. You'll feel lighter and more at peace when you acknowledge where improvements can be made to maximize your power and potential. An outgoing yet private energy surrounds you once the sun, Moon, and nodes of fate stir later tonight, nudging you to ring in the new year with close friends."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-01-04",
+  "horoscope": "The Cancer Moon aspects Uranus and Neptune early this morning, dear Aquarius, triggering necessary reality checks. You're called to take action on dreams you've been harboring, acknowledging your role in stepping up to the plate. Luckily, you'll feel invigorated by the idea of creating change, and can accelerate progress with a bit of planning and sustainable effort. Finding your flow won't seem very challenging once Luna enters Leo, offering ego boosts with each small accomplishment you reach. A harsh opposition with Pluto may cause you to pause and consider if you're ready for the transformations that lie ahead, but try not to let fears get in the way of success."
+}
+
