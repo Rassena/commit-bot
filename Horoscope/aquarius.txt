@@ -198,3 +198,9 @@
   "horoscope": "You might begin to question professional and romantic decisions, dear Aquarius, as the Leo Moon forms unbalanced aspects with the Sun and Venus. Dissatisfaction may stem from a loss of identity or lack of creative outlets, causing you to unfairly project your own unhappiness onto others. Recognize what is actually holding you back, and what can be done to course-correct. Express your concerns to loved ones and gauge their response. If ideas or goals are shut down, it could be a sign that your dynamic has grown codependent or unhealthy. Healing conversations find you when Chiron stirs tonight, helping you establish genuine support systems."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-01-05",
+  "horoscope": "You might begin to question professional and romantic decisions, dear Aquarius, as the Leo Moon forms unbalanced aspects with the Sun and Venus. Dissatisfaction may stem from a loss of identity or lack of creative outlets, causing you to unfairly project your own unhappiness onto others. Recognize what is actually holding you back, and what can be done to course-correct. Express your concerns to loved ones and gauge their response. If ideas or goals are shut down, it could be a sign that your dynamic has grown codependent or unhealthy. Healing conversations find you when Chiron stirs tonight, helping you establish genuine support systems."
+}
+
