@@ -180,3 +180,9 @@
   "horoscope": "The Cancer Moon aspects Uranus and Neptune early this morning, dear Aquarius, triggering necessary reality checks. You're called to take action on dreams you've been harboring, acknowledging your role in stepping up to the plate. Luckily, you'll feel invigorated by the idea of creating change, and can accelerate progress with a bit of planning and sustainable effort. Finding your flow won't seem very challenging once Luna enters Leo, offering ego boosts with each small accomplishment you reach. A harsh opposition with Pluto may cause you to pause and consider if you're ready for the transformations that lie ahead, but try not to let fears get in the way of success."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-01-05",
+  "horoscope": "You might begin to question professional and romantic decisions, dear Aquarius, as the Leo Moon forms unbalanced aspects with the Sun and Venus. Dissatisfaction may stem from a loss of identity or lack of creative outlets, causing you to unfairly project your own unhappiness onto others. Recognize what is actually holding you back, and what can be done to course-correct. Express your concerns to loved ones and gauge their response. If ideas or goals are shut down, it could be a sign that your dynamic has grown codependent or unhealthy. Healing conversations find you when Chiron stirs tonight, helping you establish genuine support systems."
+}
+
