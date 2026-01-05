@@ -173,3 +173,9 @@
   "horoscope": "Luna concludes her journey through your sign this morning, dear Cancer, aspecting Uranus and Neptune before moving on. Social breakthroughs may have occurred without your knowledge, though you'll be privy to these developments soon enough. Take note of any messages you receive from unexpected sources, and how they tie into personal interests or aspirations. You'll feel both apprehensive and eager about developing new connections once Luna enters Leo and opposes Pluto, especially when such alliances can add value to your life or work. Hold space for friendships to develop while the Moon and Mercury form an unbalanced aspect, but keep your guard up for now."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-01-05",
+  "horoscope": "You could feel slightly disconnected this morning, dear Cancer, as the Leo Moon forms unbalanced aspects with the Sun and Venus. Lofty daydreams or a need for solitude will make it difficult to stay focused, especially when dealing with loved ones. Head outside to settle your thoughts and ground. Your senses gradually awaken, bringing you back into the present moment. Your materialistic side makes an appearance as the stars grant permission to treat yourself within reason. If you do a bit of shopping, gravitate toward purchases that boost confidence or can increase your earning potential. Know your value to heal issues around success or imposter syndrome while Chiron activates tonight."
+}
+
