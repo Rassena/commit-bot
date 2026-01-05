@@ -209,3 +209,9 @@
   "horoscope": "The Gemini Moon squares Neptune early this morning, dear Scorpio, triggering internal power struggles. Try to accept that competition with peers and potential conflict might only exist in your head. Your higher self makes an appearance once Luna enters Cancer and opposes Mercury, helping you recognize that fortune moves on its own timeline. Opportunities will ebb and flow, but there are certainly enough to go around. If youre dissatisfied with current circumstances, it is your responsibility to strategize a different approach toward success. Forgotten contacts could resurface with an intriguing offer while the nodes of fate activate later tonight."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-01-05",
+  "horoscope": "The Leo Moon forms unbalanced aspects with the Capricorn Sun and Venus this morning, dear Scorpio, triggering mental blocks. You might come to realize you're stuck in a holding pattern, unsure how to move forward. A resistance to change or outside advice may be contributing to these issues. Though you're partial to doing your own research via personal experience, valuable insights slip through the cracks if you close yourself off to other people's wisdom. Finding a mentor won't only expand your perspective but could also unlock opportunities down the line. Stay busy with simple tasks to recalibrate once Chiron stirs tonight."
+}
+
