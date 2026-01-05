@@ -239,3 +239,9 @@
   "horoscope": "Celebrate the ways you've learned to evolve and overcome hardships, dearest archer, as the Cancer Moon aspects Uranus and Neptune. These vibes highlight the journey from childhood to the present, and how you managed to break inherited cycles while developing your own identity. Karmic rewards manifest and fill your heart with joy once Luna enters Leo and opposes Pluto. Recommit to spiritual practices that have carried you through dark times, especially if you've fallen out of step with your higher power recently. Connecting with ancestors will feel particularly empowering, and can provide guidance as you continue to chase your dreams."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-01-05",
+  "horoscope": "The vibe will be extravagant and sensual, dear Sagittarius, as the Leo Moon aligns with the Capricorn Sun and Venus. You'll be eager to project success through material expression, motivating you to invest in wardrobe upgrades and accessories. However, these extravagances could prove to be bad investments, throwing your bank account off balance. Making large purchases without the input of your significant other will trigger even bigger issues. Instead of shopping to find pleasure, rediscover awe by heading out into nature. A bit of fresh air will charge your aura, bringing out the true magick within. Chiron stirs up artistic inspiration tonight, inspiring you to create."
+}
+
