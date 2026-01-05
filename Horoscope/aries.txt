@@ -241,3 +241,9 @@
   "horoscope": "The Cancer Full Moon forces you to accept buried emotions, dearest Aries, and how they impact your relationships, family, and aspirations. Though you're one of the bravest and most ambitious members of the zodiac, these qualities can be a detriment if they cause you to move past feelings before you've taken time to fully process them. Stay close to home so you can safely explore the inner workings of your mind. Loved ones will come to your aid if you ask them to. Abandon facades you've been projecting in the hope that you'll come across as unfazed whenever disappointments arise."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-01-05",
+  "horoscope": "Egos clash as the Leo Moon forms unbalanced aspects with the Capricorn Sun and Venus, dear Aries. Colleagues and loved ones will struggle to think outside the box, unable to digest the ideas you throw their way. Your ability to communicate could diminish as a result, and it may be best to reorganize thoughts before sharing them. The vibe will feel easier once the hours pass, and a bit of fun or comic relief can help clear away lingering frustrations. Be kind to yourself and seek activities that give you a chance to be creative when Luna aligns with Chiron tonight."
+}
+
