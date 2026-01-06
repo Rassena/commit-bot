@@ -214,3 +214,9 @@
   "horoscope": "                                                                "
 }
 
+{
+  "sign": "leo",
+  "date": "2026-01-06",
+  "horoscope": "The universe might test you this morning, dear Leo, as the Moon and Uranus square off. A lack of direction or irresponsible behaviors will leave you in a corner, forcing you to make real decisions about long-term goals and what comes next. It's important not to feel rushed as the stars reshape your path. However, Luna's debut into Virgo stresses the importance of practical planning, which includes outlining sustainable timelines. Focus on building a stable foundation, then graduate to filling in details. The Capricorn Sun and Venus offer encouragement, bringing blessings and confidence boosts with each positive step you take."
+}
+
