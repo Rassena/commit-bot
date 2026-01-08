@@ -174,3 +174,9 @@
   "horoscope": "Get comfortable with increased attention under the Cancer Full Moon, dearest Pisces. Projects you've been working hard on will soon see the light of day and will likely propel you toward new levels of success. As one of the most psychic signs in the zodiac, it will be difficult to ignore jealous whispers circulating amongst peers. Remember that notoriety comes with perks and pitfalls, so make a vow to protect yourself from those whose aspirations don't match their abilities. Appreciate your talents and willingness to work for recognition, even if a few friends fall off during your upward ascent."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-01-08",
+  "horoscope": "Catch up with causes that are important to you, dear Pisces, as Mercury aligns with the Nodes of Fate. Consider the communities you hope to gain more notoriety and friendships within, and focus your studies accordingly. As the Virgo Moon aspects Saturn, Uranus, and Neptune, the conversations you have with loved ones will change your perspective. A boost to your wits makes you a worthy adversary, though you should be mindful to keep debates friendly. Seek quieter interactions once Luna enters Libra, emphasizing the importance of feeling safe. You'll feel both vulnerable and empowered when Pluto stirs tonight, directing you toward transformation."
+}
+
