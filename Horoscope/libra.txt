@@ -137,3 +137,9 @@
   "horoscope": "                                                                "
 }
 
+{
+  "sign": "libra",
+  "date": "2026-01-08",
+  "horoscope": "Allow your intuition to guide you, dear Libra, establishing new routines in the process. As Mercury aspects the Nodes of Fate, you're being asked to snap out of autopilot. Predictability at work and home may be causing you to disengage without realizing how much you're truly missing. Meanwhile, the Virgo Moon aligns with Saturn, Uranus, and Neptune, reinforcing your soul's desire for change. Transformation can be messy and challenging, but it is sure to alleviate boredom. You'll feel refreshed and fundamentally committed to self-improvement once Luna enters your sign. Get creative with the next stage of your life while Pluto stirs later tonight."
+}
+
