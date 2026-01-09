@@ -185,3 +185,9 @@
   "horoscope": "You may sense certain relationships eroding, dear Virgo, especially if youve been hyper-focused on developing new ones. As the Gemini Moon squares Neptune before entering Cancer, be considerate of loved ones who are beginning to feel left out. Evolving interests will create an organic ebb and flow within your social sphere, but Mercury cautions against neglecting loyal friends in the process. Connections youve made recently might not be fully trustworthy, particularly where there is underlying competition. Try to have the best of both worlds by hosting a large gathering and merging communities when the nodes of fate activate tonight."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-01-09",
+  "horoscope": "Your artistic determination skyrockets, dear Virgo, thanks to a sweet union between the Capricorn Sun and fiery Mars. Trust that you have the skills and discipline to make your ideas a success, and throw momentum behind the dreams you've been too apprehensive to pursue until now. Remember that recognition is short-lived when plans are executed at an unsustainable pace while Venus and Jupiter face off. Approval from peers will come and go in waves, but don't let your ambition falter as a result. Insecurities could emerge once the Libra Moon squares Mercury, making it important that you maintain a supportive internal dialogue."
+}
+
