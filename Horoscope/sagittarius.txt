@@ -245,3 +245,9 @@
   "horoscope": "The vibe will be extravagant and sensual, dear Sagittarius, as the Leo Moon aligns with the Capricorn Sun and Venus. You'll be eager to project success through material expression, motivating you to invest in wardrobe upgrades and accessories. However, these extravagances could prove to be bad investments, throwing your bank account off balance. Making large purchases without the input of your significant other will trigger even bigger issues. Instead of shopping to find pleasure, rediscover awe by heading out into nature. A bit of fresh air will charge your aura, bringing out the true magick within. Chiron stirs up artistic inspiration tonight, inspiring you to create."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-01-09",
+  "horoscope": "Even small actions will feel like power moves, dear Sagittarius, as the Capricorn Sun and Mars unite overhead. Your agenda unfolds steadily as the hours pass, with bursts of activity to keep you interested in the tasks ahead. Calculated risks come with rewards, but it's important to know your limitations while relying on proven expertise. Avoid gambling with your finances when Venus opposes Jupiter, especially if you share resources with a romantic or business partner. Gossip circulates once the Libra Moon squares Mercury later today, but try not to let your opinions be swayed by petty feuds or half-truths."
+}
+
