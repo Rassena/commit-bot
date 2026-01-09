@@ -209,3 +209,9 @@
   "horoscope": "Systems you're used to relying on could fail this morning, dear Capricorn, as the Leo Moon forms unbalanced aspects with the Sun and Venus. An inability to pivot throws you deeper into chaos, further depleting your sense of control. Remember that true power stems from one's ability to evolve. Though you're a creature of habit, it's time to consider how change will benefit you in the long run. A lack of cooperation from romantic or business partners will slow this process, so be mindful to get everyone on board. Chiron fills your home with healing energy tonight, helping you release stress."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-01-09",
+  "horoscope": "The Sun and Mars unite in your sign, dear Capricorn, signaling that it's time to move. Decipher which decisions serve you best by honoring gut instincts, especially where passion projects and professional gains are concerned. Your actions will draw plenty of attention, but staying focused on a singular goal helps you gain momentum and respect. Loved ones cheer you on while Venus and Jupiter align, but remember that it's okay to ask for space if you get distracted or feel smothered. Just be mindful of how you draw lines once the Libra Moon squares Mercury, taking care not to hurt anyone's feelings."
+}
+
