@@ -247,3 +247,9 @@
   "horoscope": "Egos clash as the Leo Moon forms unbalanced aspects with the Capricorn Sun and Venus, dear Aries. Colleagues and loved ones will struggle to think outside the box, unable to digest the ideas you throw their way. Your ability to communicate could diminish as a result, and it may be best to reorganize thoughts before sharing them. The vibe will feel easier once the hours pass, and a bit of fun or comic relief can help clear away lingering frustrations. Be kind to yourself and seek activities that give you a chance to be creative when Luna aligns with Chiron tonight."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-01-09",
+  "horoscope": "Power grabs manifest within your professional path, dear Aries, as the Capricorn Sun and Mars collide. You might need to tap into your competitive side to ensure colleagues don't bully you or stifle growth opportunities. Focus primarily on where you can gain more recognition and authority, and outline next steps accordingly. Remember that your ability to cultivate success impacts those you love, and that you can feel motivated by the promise of providing a better life for yourself and your loved ones. Try not to burn bridges while fighting your way to the top as the Libra Moon squares Mercury later today."
+}
+
