@@ -180,3 +180,9 @@
   "horoscope": "Catch up with causes that are important to you, dear Pisces, as Mercury aligns with the Nodes of Fate. Consider the communities you hope to gain more notoriety and friendships within, and focus your studies accordingly. As the Virgo Moon aspects Saturn, Uranus, and Neptune, the conversations you have with loved ones will change your perspective. A boost to your wits makes you a worthy adversary, though you should be mindful to keep debates friendly. Seek quieter interactions once Luna enters Libra, emphasizing the importance of feeling safe. You'll feel both vulnerable and empowered when Pluto stirs tonight, directing you toward transformation."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-01-10",
+  "horoscope": "The Libra Moon challenges certain connections, dear Pisces, as it squares off with Jupiter, Mars, the Sun, and Venus. Competition, possessiveness, and jealousy intermingle, forcing clashes that have been building for some time. Though part of you will feel like ignoring peers to avoid drama, standing your ground can evolve friendships that actually matter. Identifying who is and isn't worth the energy to make amends will help you discern who you're truly committed to. Notice how your emotions trigger spending or indulgences when Chiron stirs this afternoon. Good vibes flow once Luna, Saturn, and Uranus form a yod later tonight, helping you connect and be seen."
+}
+
