@@ -179,3 +179,9 @@
   "horoscope": "You could feel slightly disconnected this morning, dear Cancer, as the Leo Moon forms unbalanced aspects with the Sun and Venus. Lofty daydreams or a need for solitude will make it difficult to stay focused, especially when dealing with loved ones. Head outside to settle your thoughts and ground. Your senses gradually awaken, bringing you back into the present moment. Your materialistic side makes an appearance as the stars grant permission to treat yourself within reason. If you do a bit of shopping, gravitate toward purchases that boost confidence or can increase your earning potential. Know your value to heal issues around success or imposter syndrome while Chiron activates tonight."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-01-10",
+  "horoscope": "A sense of unease could make your social interactions somewhat uncomfortable this morning, dear Cancer. As the Libra Moon squares Jupiter, Mars, the Sun, and Venus, try not to overanalyze tense emotions that haven't been officially addressed. Underlying emotional strain may be causing you or loved ones to feel on edge, but it doesn't indicate trouble in paradise. Navigate this energy by balancing your own feelings. Though you'll want to nurture the people around you while Chiron stirs this afternoon, your kindness might be misconstrued as overbearing. Find safety within your spiritual community when Luna, Saturn, and Uranus form a yod tonight."
+}
+
