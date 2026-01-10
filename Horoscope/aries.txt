@@ -253,3 +253,9 @@
   "horoscope": "Power grabs manifest within your professional path, dear Aries, as the Capricorn Sun and Mars collide. You might need to tap into your competitive side to ensure colleagues don't bully you or stifle growth opportunities. Focus primarily on where you can gain more recognition and authority, and outline next steps accordingly. Remember that your ability to cultivate success impacts those you love, and that you can feel motivated by the promise of providing a better life for yourself and your loved ones. Try not to burn bridges while fighting your way to the top as the Libra Moon squares Mercury later today."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-01-10",
+  "horoscope": "A series of obstacles throws you off balance this morning, dear Aries. As the Libra Moon squares Jupiter, Mars, the Sun, and Venus, it will be difficult to understand why things aren't going your way. Though accepting defeat won't be an option, try to acknowledge when a compromise is. If family and friends feel heard and that their needs are being met, you'll have a higher success rate for defeating challenges. The afternoon could bring one final showdown while Luna opposes Chiron, intensifying love and hurt feelings. Clear the slate with a structured apology and sweet gesture once a yod forms between the Moon, Saturn, and Uranus later this evening."
+}
+
