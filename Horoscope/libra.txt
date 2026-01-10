@@ -149,3 +149,9 @@
   "horoscope": "It may fall on you to take charge of pressing family affairs, dear Libra. As the Capricorn Sun and Mars unite, your ability to stay focused while others are emotional puts you in a position of authority, whether you like it or not. Cut through the nonsense to keep your home life moving smoothly. As Venus and Jupiter face off, you'll gain respect easily if you rule with compassion and grace. With Luna active in your sign, it won't be difficult to command attention when you need it. Though a harsh square with Mercury could stir up some pushback later today."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-01-10",
+  "horoscope": "The emotions that swirl internally and around you could trigger confusion this morning, dear Libra. As Luna moves through your sign and squares Jupiter, Mars, the Sun, and Venus, you'll want to tread carefully as feelings inflate. Fatigue or the pressure of maintaining responsibilities can weigh heavily on everyone's shoulders, leading to unpredictable mood swings. Give everyone space to vent frustrations, but stand your ground against over-the-top lashing out. Focus on healing yourself and the relationships that matter most once Chiron stirs this afternoon. Discuss healthy changes with your partner in crime when Luna, Saturn, and Uranus form a yod this evening."
+}
+
