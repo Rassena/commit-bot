@@ -215,3 +215,9 @@
   "horoscope": "The Sun and Mars unite in your sign, dear Capricorn, signaling that it's time to move. Decipher which decisions serve you best by honoring gut instincts, especially where passion projects and professional gains are concerned. Your actions will draw plenty of attention, but staying focused on a singular goal helps you gain momentum and respect. Loved ones cheer you on while Venus and Jupiter align, but remember that it's okay to ask for space if you get distracted or feel smothered. Just be mindful of how you draw lines once the Libra Moon squares Mercury, taking care not to hurt anyone's feelings."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-01-10",
+  "horoscope": "You may feel as though loved ones are relying too heavily on your support, dear Capricorn, as the Libra Moon squares Jupiter, Mars, the Sun, and Venus. Do what you can to pass along lessons that will help others build their own success, offering encouragement and wisdom to boost morale. Matters of the heart could get complicated if you have been carrying more than your sweetheart. If they can't match your financial or professional contributions, try to acknowledge where they compensate for these shortcomings. Trust your creative ideas when Luna, Saturn, and Uranus enter a yod tonight, applying structure to these visions so they can fully manifest."
+}
+
