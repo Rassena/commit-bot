@@ -155,3 +155,9 @@
   "horoscope": "The emotions that swirl internally and around you could trigger confusion this morning, dear Libra. As Luna moves through your sign and squares Jupiter, Mars, the Sun, and Venus, you'll want to tread carefully as feelings inflate. Fatigue or the pressure of maintaining responsibilities can weigh heavily on everyone's shoulders, leading to unpredictable mood swings. Give everyone space to vent frustrations, but stand your ground against over-the-top lashing out. Focus on healing yourself and the relationships that matter most once Chiron stirs this afternoon. Discuss healthy changes with your partner in crime when Luna, Saturn, and Uranus form a yod this evening."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-01-10",
+  "horoscope": "The emotions that swirl internally and around you could trigger confusion this morning, dear Libra. As Luna moves through your sign and squares Jupiter, Mars, the Sun, and Venus, you'll want to tread carefully as feelings inflate. Fatigue or the pressure of maintaining responsibilities can weigh heavily on everyone's shoulders, leading to unpredictable mood swings. Give everyone space to vent frustrations, but stand your ground against over-the-top lashing out. Focus on healing yourself and the relationships that matter most once Chiron stirs this afternoon. Discuss healthy changes with your partner in crime when Luna, Saturn, and Uranus form a yod this evening."
+}
+
