@@ -257,3 +257,9 @@
   "horoscope": "Even small actions will feel like power moves, dear Sagittarius, as the Capricorn Sun and Mars unite overhead. Your agenda unfolds steadily as the hours pass, with bursts of activity to keep you interested in the tasks ahead. Calculated risks come with rewards, but it's important to know your limitations while relying on proven expertise. Avoid gambling with your finances when Venus opposes Jupiter, especially if you share resources with a romantic or business partner. Gossip circulates once the Libra Moon squares Mercury later today, but try not to let your opinions be swayed by petty feuds or half-truths."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-01-10",
+  "horoscope": "Loved ones will grow frustrated with a lack of presence on your end, dear archer. As the Libra Moon squares Jupiter, Mars, the Sun, and Venus, put away your screens and focus on spending quality time with the people right in front of you. Attempts to build yourself up on social media are likely to trigger fixations, while appreciating the moment with others is sure to strengthen bonds. Recognize if your ego has become too wrapped up in gaining the acceptance of peers when Chiron stirs this afternoon. Shift your perspective by embracing healthy activities at home once Luna, Saturn, and Uranus enter a yod formation later this evening."
+}
+
