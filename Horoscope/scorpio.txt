@@ -227,3 +227,9 @@
   "horoscope": "Ideas that have been percolating will quickly gain momentum, dear Scorpio, as the Libra Moon aspects Jupiter, Mars, the Sun, and Venus. It may feel as though time is speeding up, leaving your mind overwhelmed by too many options or agendas. It will be important to take solitary breaks throughout the day to ensure your focus stays intact. Touch base with your body to acknowledge the signals it's sending and release stress while Chiron stirs this afternoon. Refresh the psyche and enjoy a bit of creative fun with your favorite person once Luna, Saturn, and Uranus enter a yod formation tonight."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-01-11",
+  "horoscope": "The Moon enters your sign and squares intense Pluto, dear Scorpio, forcing buried emotions to the surface. Find a healthy way to resolve issues as they arise, or your relationships could suffer. If you start to detach or act irrationally, pull back and rest to reassess your options. A harsh aspect between Venus and Chiron stirs up additional tension, especially if you haven't been able to keep up with your to-do lists. Problems alleviate as the hours pass, but you'll need to prioritize decisions that are best for you. Seek activities that boost the ego when Luna aspects the Nodes of Fate tonight."
+}
+
