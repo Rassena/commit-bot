@@ -269,3 +269,9 @@
   "horoscope": "Loved ones will grow frustrated with a lack of presence on your end, dear archer. As the Libra Moon squares Jupiter, Mars, the Sun, and Venus, put away your screens and focus on spending quality time with the people right in front of you. Attempts to build yourself up on social media are likely to trigger fixations, while appreciating the moment with others is sure to strengthen bonds. Recognize if your ego has become too wrapped up in gaining the acceptance of peers when Chiron stirs this afternoon. Shift your perspective by embracing healthy activities at home once Luna, Saturn, and Uranus enter a yod formation later this evening."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-01-11",
+  "horoscope": "Monitor where the mind leads you this morning, darling Sagittarius, as the Scorpio Moon and Pluto square off. These vibes can trigger obsessive thought patterns, causing you to fixate on questions you may never find the answer to. Putting information together in your head without gathering facts or initiating direct conversations will be particularly unsettling. Venus and Chiron threaten to stir up insecurities, potentially damaging romantic relationships. Emotional spending should also be avoided. If you continue to struggle, try connecting with nature or artistic outlets. Pursue homey activities to reset once Luna aspects the Nodes of Fate tonight."
+}
+
