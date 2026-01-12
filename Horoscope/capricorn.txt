@@ -227,3 +227,9 @@
   "horoscope": "Emotional uncertainty will cause you to clam up, dear Capricorn, as the Sun and Chiron square off. Loved ones who make you feel unsafe won't be an option for confiding your vulnerabilities to, but it's important to be mindful of who is. Trusted allies can offer the comfort you need, even if you're used to sorting through your own feelings. The Scorpio Moon and Mercury emphasize the importance of social interaction midafternoon, making it easier to express yourself. An overwhelming sense of love and support elevates your morale and energy levels, thanks to sweet connections between Luna, Jupiter, and Mars."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-01-12",
+  "horoscope": "Emotional uncertainty will cause you to clam up, dear Capricorn, as the Sun and Chiron square off. Loved ones who make you feel unsafe won't be an option for confiding your vulnerabilities to, but it's important to be mindful of who is. Trusted allies can offer the comfort you need, even if you're used to sorting through your own feelings. The Scorpio Moon and Mercury emphasize the importance of social interaction midafternoon, making it easier to express yourself. An overwhelming sense of love and support elevates your morale and energy levels, thanks to sweet connections between Luna, Jupiter, and Mars."
+}
+
