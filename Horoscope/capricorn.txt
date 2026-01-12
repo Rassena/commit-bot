@@ -221,3 +221,9 @@
   "horoscope": "You may feel as though loved ones are relying too heavily on your support, dear Capricorn, as the Libra Moon squares Jupiter, Mars, the Sun, and Venus. Do what you can to pass along lessons that will help others build their own success, offering encouragement and wisdom to boost morale. Matters of the heart could get complicated if you have been carrying more than your sweetheart. If they can't match your financial or professional contributions, try to acknowledge where they compensate for these shortcomings. Trust your creative ideas when Luna, Saturn, and Uranus enter a yod tonight, applying structure to these visions so they can fully manifest."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-01-12",
+  "horoscope": "Emotional uncertainty will cause you to clam up, dear Capricorn, as the Sun and Chiron square off. Loved ones who make you feel unsafe won't be an option for confiding your vulnerabilities to, but it's important to be mindful of who is. Trusted allies can offer the comfort you need, even if you're used to sorting through your own feelings. The Scorpio Moon and Mercury emphasize the importance of social interaction midafternoon, making it easier to express yourself. An overwhelming sense of love and support elevates your morale and energy levels, thanks to sweet connections between Luna, Jupiter, and Mars."
+}
+
