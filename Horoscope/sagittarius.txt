@@ -275,3 +275,9 @@
   "horoscope": "Monitor where the mind leads you this morning, darling Sagittarius, as the Scorpio Moon and Pluto square off. These vibes can trigger obsessive thought patterns, causing you to fixate on questions you may never find the answer to. Putting information together in your head without gathering facts or initiating direct conversations will be particularly unsettling. Venus and Chiron threaten to stir up insecurities, potentially damaging romantic relationships. Emotional spending should also be avoided. If you continue to struggle, try connecting with nature or artistic outlets. Pursue homey activities to reset once Luna aspects the Nodes of Fate tonight."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-01-12",
+  "horoscope": "Trust your process and recognize the important role failure plays in facilitating growth, dear archer. As the Capricorn Sun and Chiron square off, past disappointments could stir up insecurities. If you've been struggling with a lack of motivation or diminished confidence, find gratitude for qualities you genuinely appreciate about yourself. Your thoughts have a direct impact on how you see the world when the Scorpio Moon and Mercury align midafternoon. Stay positive to rediscover the beauty that flows within and around you. Spend time with a trusted companion while Luna aspects Jupiter and Mars this evening to stabilize your emotions and reestablish bravery."
+}
+
