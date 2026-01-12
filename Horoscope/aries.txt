@@ -259,3 +259,9 @@
   "horoscope": "A series of obstacles throws you off balance this morning, dear Aries. As the Libra Moon squares Jupiter, Mars, the Sun, and Venus, it will be difficult to understand why things aren't going your way. Though accepting defeat won't be an option, try to acknowledge when a compromise is. If family and friends feel heard and that their needs are being met, you'll have a higher success rate for defeating challenges. The afternoon could bring one final showdown while Luna opposes Chiron, intensifying love and hurt feelings. Clear the slate with a structured apology and sweet gesture once a yod forms between the Moon, Saturn, and Uranus later this evening."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-01-12",
+  "horoscope": "Filling your head with unreasonable expectations will only dampen your morale, darling Aries. As the Capricorn Sun and Chiron square off, don't put success over your own well-being. Strong professional partnerships form while the Scorpio Moon and Mercury align midafternoon, alleviating some of the pressure you've been carrying. Your focus shifts toward intimate connections once Jupiter stirs, putting you in the mood for a cozy evening at home with family and close friends. Empowering vibes find you when Luna aspects Mars later tonight, inspiring new goals that honor your need for growth without pushing your endurance to the extreme."
+}
+
