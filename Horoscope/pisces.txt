@@ -193,3 +193,9 @@
 }
 
 
+{
+  "sign": "pisces",
+  "date": "2026-01-13",
+  "horoscope": "Luck comes in waves, and today you'll hit a swell, darling Pisces. As the Scorpio Moon aligns with Sun, Venus, Saturn, Uranus, and Neptune, believe in your dreams to increase their chances of materializing. Community interaction will be huge for advancing your goals, giving you a chance to network and self-promote. If you spot opportunities to spread around, do so to improve karma and peer relationships. Beware of investing too much energy into flaky people or situations while Mars squares Chiron, or you could miss out on something bigger. Luna enters Sagittarius and aspects Pluto tonight, encouraging you to decompress in private."
+}
+
