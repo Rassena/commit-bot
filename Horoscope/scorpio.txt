@@ -233,3 +233,9 @@
   "horoscope": "The Moon enters your sign and squares intense Pluto, dear Scorpio, forcing buried emotions to the surface. Find a healthy way to resolve issues as they arise, or your relationships could suffer. If you start to detach or act irrationally, pull back and rest to reassess your options. A harsh aspect between Venus and Chiron stirs up additional tension, especially if you haven't been able to keep up with your to-do lists. Problems alleviate as the hours pass, but you'll need to prioritize decisions that are best for you. Seek activities that boost the ego when Luna aspects the Nodes of Fate tonight."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-01-13",
+  "horoscope": "Luna voices many opinions while traveling through your sign, dearest Scorpio, aligning with the Sun, Venus, Saturn, Uranus, and Neptune. Though you'll feel inclined to speak up, be mindful of your motives when addressing certain topics that might rock the boat. Attempts at being shocking will either make you seem like a visionary creative or an unpredictable rebel. Know your audience to ensure the former outshines the latter. As fierceness builds, you'll act quickly as fresh ideas emerge. However, a harsh square between Mars and Chiron emphasizes the importance of having a plan if the stakes are high. Slow down and mindfully release the day's activities once the Moon enters Sagittarius and aspects Pluto tonight."
+}
+
