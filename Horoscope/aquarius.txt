@@ -210,3 +210,9 @@
   "horoscope": "You could feel tempted to tear down structures and start anew, dear Aquarius, as the Scorpio Moon and Pluto square off. Though readjusting your expectations or goals can be a challenge on its own, ignoring what you've managed to accomplish thus far will only create bigger issues. Instead of giving up on these aspirations, give yourself a chance to reshape them first. A harsh aspect between Venus and Chiron might trigger your inner critic, making it difficult to stay positive. If negative thoughts creep in, balance them with lighter sentiments and self-praise. You'll feel stronger and more secure once Luna aligns with the Nodes of Fate later tonight."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-01-13",
+  "horoscope": "You'll feel secretive about recent successes, dear Aquarius, as the Scorpio Moon aligns with the Sun, Venus, Saturn, Uranus, and Neptune. While modesty can be character-building, remember that it's also important to take credit for your work in order to receive the rewards you deserve. Top-secret projects will become a higher priority as you prepare to make a big splash in your career. Notice you start to feel rushed or on edge when Mars squares Chiron, doing what you must to bring the mind back into balance. Your social sphere evolves as you move up in the world once Luna enters Sagittarius and aspects Pluto tonight."
+}
+
