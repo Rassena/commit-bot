@@ -119,3 +119,9 @@
   "horoscope": "A preference for romance might cause you to miss red flags, dearest Taurus, as Mercury and Neptune form a deceptive aspect. The universe will guide you toward truth once Mercury debuts in Capricorn midafternoon, maximizing the contrast between light and dark. Though everyone has a shadow, it's vital not to let others steal your shine. Reflect on the qualities that make you a solid partner while the Gemini Moon and Chiron align this evening, considering if these traits are being reciprocated. Elevate your social standing by aligning yourself with kindred spirits when Venus aspects the nodes of fate. Avoid those who trigger a sense of unease whilst Saturn stirs tonight."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-01-13",
+  "horoscope": "Allow your heart to be guided by spiritual forces, dearest Taurus, as the Scorpio Moon aligns with the Sun, Venus, and Saturn. Ask your higher power for guidance on close relationships, and put in the effort to better understand other people's philosophical beliefs. You could feel as though you've been struck by love at first sight while Uranus and Neptune activate, bringing a dreamy and romantic energy to the air. However, it's important to pace yourself while Mars and Chiron square off, especially if you have a history of ignoring red flags. Focus on personal growth and empowerment once Luna enters Sagittarius and aspects of transformative Pluto."
+}
+
