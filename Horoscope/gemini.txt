@@ -166,3 +166,9 @@
   "horoscope": "You could feel pressured by loved ones to fit into their mold, dear Gemini, as the Libra Moon aspects Jupiter, Mars, the Sun, and Venus. A desire to make everyone happy will strain your financial and energy resources, leaving you with nothing to offer yourself. Recognize that while it's important to evolve and grow with the passage of time, you must do so on your own terms. Steer clear of bad influences and superficial social spheres when Chiron stirs this afternoon, or your confidence may take a hit. Hide away from the world and allow your imagination to play once Luna, Saturn, and Uranus form a yod tonight."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-01-13",
+  "horoscope": "Gravitate toward healthy influences, dearest Gemini. As the Scorpio Moon aligns with the Sun, Venus, Saturn, Uranus, and Neptune throughout the day, who you keep company with will have a direct impact on your efficiency and evolution. When it comes to romantic or business partners, it's especially important to find someone who matches your effort. A harsh square between Mars and Chiron warns against forming connections with people you can't personally vouch for. You'll feel uplifted and soft once Luna enters Sagittarius. Tap into your spirituality to cultivate balance and gain enlightenment while Pluto activates later tonight."
+}
+
