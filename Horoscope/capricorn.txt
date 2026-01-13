@@ -233,3 +233,9 @@
   "horoscope": "Emotional uncertainty will cause you to clam up, dear Capricorn, as the Sun and Chiron square off. Loved ones who make you feel unsafe won't be an option for confiding your vulnerabilities to, but it's important to be mindful of who is. Trusted allies can offer the comfort you need, even if you're used to sorting through your own feelings. The Scorpio Moon and Mercury emphasize the importance of social interaction midafternoon, making it easier to express yourself. An overwhelming sense of love and support elevates your morale and energy levels, thanks to sweet connections between Luna, Jupiter, and Mars."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-01-13",
+  "horoscope": "Your reputation builds throughout the day, darling sea-goat, as the Scorpio Moon aligns with the Sun, Venus, Saturn, Uranus, and Neptune. Enjoy your influence and knack for setting trends or shaping minds, and don't feel guilty for indulging in a bit of self-promotion. You could receive pushback when egos clash, but you should harness these vibes to boost motivation rather than letting your confidence take a hit. A harsh square between Mars and Chiron recommends licking wounds, then getting back in the saddle if your morale dips. You'll benefit from some alone time to reflect on when to pivot or charge forward once Luna enters Sagittarius and aspects Pluto later tonight."
+}
+
