@@ -239,3 +239,9 @@
   "horoscope": "Your reputation builds throughout the day, darling sea-goat, as the Scorpio Moon aligns with the Sun, Venus, Saturn, Uranus, and Neptune. Enjoy your influence and knack for setting trends or shaping minds, and don't feel guilty for indulging in a bit of self-promotion. You could receive pushback when egos clash, but you should harness these vibes to boost motivation rather than letting your confidence take a hit. A harsh square between Mars and Chiron recommends licking wounds, then getting back in the saddle if your morale dips. You'll benefit from some alone time to reflect on when to pivot or charge forward once Luna enters Sagittarius and aspects Pluto later tonight."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-01-14",
+  "horoscope": "You could feel uneasy with the way others glorify you, darling Capricorn. As Mercury and Jupiter face off, heightened emotions will inspire loved ones to sing your praises. Instead of shrinking away from compliments, give yourself permission to fully absorb them. Quiet down once the Sagittarius Moon aspects the Nodes of Fate this afternoon, creating a sense that wishes you made might soon manifest. Watch for signs that confirm such hunches and make your way toward these blessings. Your words come across loud and clear when Venus and Saturn align, making it easier to get peers on your side."
+}
+
