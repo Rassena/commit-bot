@@ -197,3 +197,9 @@
   "horoscope": "You'll feel inspired to make a mark, dear Virgo, as Mercury and Jupiter face off. You'll need to go all in when showcasing the skills, interests, or projects that set you apart, because people won't be easily impressed. A fear of being ridiculed or the subject of gossip could cause your confidence to slip. Instead of worrying about what others say or think, applaud your own bravery and willingness to put yourself out there. Your heart softens while the Sagittarius Moon aspects the Nodes of Fate this afternoon, though there's a risk you might sacrifice your needs to satisfy loved ones. Create healthy relationship structures by sharing your desires once Venus aligns with Saturn."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-01-14",
+  "horoscope": "You'll feel inspired to make a mark, dear Virgo, as Mercury and Jupiter face off. You'll need to go all in when showcasing the skills, interests, or projects that set you apart, because people won't be easily impressed. A fear of being ridiculed or the subject of gossip could cause your confidence to slip. Instead of worrying about what others say or think, applaud your own bravery and willingness to put yourself out there. Your heart softens while the Sagittarius Moon aspects the Nodes of Fate this afternoon, though there's a risk you might sacrifice your needs to satisfy loved ones. Create healthy relationship structures by sharing your desires once Venus aligns with Saturn."
+}
+
