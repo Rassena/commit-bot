@@ -191,3 +191,9 @@
   "horoscope": "Your artistic determination skyrockets, dear Virgo, thanks to a sweet union between the Capricorn Sun and fiery Mars. Trust that you have the skills and discipline to make your ideas a success, and throw momentum behind the dreams you've been too apprehensive to pursue until now. Remember that recognition is short-lived when plans are executed at an unsustainable pace while Venus and Jupiter face off. Approval from peers will come and go in waves, but don't let your ambition falter as a result. Insecurities could emerge once the Libra Moon squares Mercury, making it important that you maintain a supportive internal dialogue."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-01-14",
+  "horoscope": "You'll feel inspired to make a mark, dear Virgo, as Mercury and Jupiter face off. You'll need to go all in when showcasing the skills, interests, or projects that set you apart, because people won't be easily impressed. A fear of being ridiculed or the subject of gossip could cause your confidence to slip. Instead of worrying about what others say or think, applaud your own bravery and willingness to put yourself out there. Your heart softens while the Sagittarius Moon aspects the Nodes of Fate this afternoon, though there's a risk you might sacrifice your needs to satisfy loved ones. Create healthy relationship structures by sharing your desires once Venus aligns with Saturn."
+}
+
