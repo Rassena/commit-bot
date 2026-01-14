@@ -172,3 +172,9 @@
   "horoscope": "Gravitate toward healthy influences, dearest Gemini. As the Scorpio Moon aligns with the Sun, Venus, Saturn, Uranus, and Neptune throughout the day, who you keep company with will have a direct impact on your efficiency and evolution. When it comes to romantic or business partners, it's especially important to find someone who matches your effort. A harsh square between Mars and Chiron warns against forming connections with people you can't personally vouch for. You'll feel uplifted and soft once Luna enters Sagittarius. Tap into your spirituality to cultivate balance and gain enlightenment while Pluto activates later tonight."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-01-14",
+  "horoscope": "Finding time to appreciate your blessings will make you less inclined to focus on what's lacking, dear Gemini. As Mercury and Jupiter face off, you'll gain more when approaches to prosperity come from a place that's rooted in experience. Reassess what's worked for you in the past to decipher the best way forward. New partnerships or investments in your vision could also emerge to strengthen your position. It may be necessary to hush your sentimental side while the Sagittarius Moon squares the Nodes of Fate this afternoon. Fears around success and failure need to be addressed if you're to overcome them. Give love to those who have your back and can offer sound advice once Venus aspects Saturn tonight."
+}
+
