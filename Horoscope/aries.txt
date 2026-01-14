@@ -265,3 +265,9 @@
   "horoscope": "Filling your head with unreasonable expectations will only dampen your morale, darling Aries. As the Capricorn Sun and Chiron square off, don't put success over your own well-being. Strong professional partnerships form while the Scorpio Moon and Mercury align midafternoon, alleviating some of the pressure you've been carrying. Your focus shifts toward intimate connections once Jupiter stirs, putting you in the mood for a cozy evening at home with family and close friends. Empowering vibes find you when Luna aspects Mars later tonight, inspiring new goals that honor your need for growth without pushing your endurance to the extreme."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-01-14",
+  "horoscope": "The stakes are high within your professional goals and private relationships, dear Aries. As Mercury and Jupiter face off, recognize if you require more guidance or support while building success or a home to call your own. You could hit a fork in the road once the Sagittarius Moon squares the Nodes of Fate this afternoon, bringing contrast to alternate paths that lie ahead. Trusting in your ability to adapt will make it easier to swim in uncharted territories that will likely offer the biggest rewards. A mentor figure may deliver valuable but off-the-table insights when Venus aspects Saturn later tonight."
+}
+
