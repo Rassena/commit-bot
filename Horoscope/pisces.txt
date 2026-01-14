@@ -205,3 +205,9 @@
   "horoscope": "Be mindful of who you share ideas with or pull inspiration from, dear Pisces. As Mercury and Jupiter face off, people will feel entitled to your creativity and possessive of their own. If you're involved in a collaboration, set clear ground rules for how credit and rewards will be shared. You might struggle to step into authoritative roles once the Sagittarius Moon squares the Nodes of Fate this afternoon, but failing to do so could hinder personal progress. The vibe feels more constructive and communal later tonight, thanks to a sweet aspect between Venus and Saturn."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-01-14",
+  "horoscope": "Be mindful of who you share ideas with or pull inspiration from, dear Pisces. As Mercury and Jupiter face off, people will feel entitled to your creativity and possessive of their own. If you're involved in a collaboration, set clear ground rules for how credit and rewards will be shared. You might struggle to step into authoritative roles once the Sagittarius Moon squares the Nodes of Fate this afternoon, but failing to do so could hinder personal progress. The vibe feels more constructive and communal later tonight, thanks to a sweet aspect between Venus and Saturn."
+}
+
