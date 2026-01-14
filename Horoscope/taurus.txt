@@ -125,3 +125,9 @@
   "horoscope": "Allow your heart to be guided by spiritual forces, dearest Taurus, as the Scorpio Moon aligns with the Sun, Venus, and Saturn. Ask your higher power for guidance on close relationships, and put in the effort to better understand other people's philosophical beliefs. You could feel as though you've been struck by love at first sight while Uranus and Neptune activate, bringing a dreamy and romantic energy to the air. However, it's important to pace yourself while Mars and Chiron square off, especially if you have a history of ignoring red flags. Focus on personal growth and empowerment once Luna enters Sagittarius and aspects of transformative Pluto."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-01-14",
+  "horoscope": "Expand your mind to discover untapped possibilities, dear Taurus, as Mercury and Jupiter face off. Taking in new ideas or knowledge will be beneficial for elevating existing goals, though paths you've never considered before could prove quite alluring. Your voice is an important instrument, and your messages will ripple to reach far corners. A touch of luck allows your visions to intersect with the right people who might help materialize your dreams. Tinges of guilt may arise while the Sagittarius Moon squares the Nodes of Fate, especially if you begin to surpass former collaborators or peers. Luckily, you'll find the reinforcement you need from loved ones who only want the best for you when Venus and Saturn align later tonight."
+}
+
