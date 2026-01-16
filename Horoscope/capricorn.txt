@@ -245,3 +245,9 @@
   "horoscope": "You could feel uneasy with the way others glorify you, darling Capricorn. As Mercury and Jupiter face off, heightened emotions will inspire loved ones to sing your praises. Instead of shrinking away from compliments, give yourself permission to fully absorb them. Quiet down once the Sagittarius Moon aspects the Nodes of Fate this afternoon, creating a sense that wishes you made might soon manifest. Watch for signs that confirm such hunches and make your way toward these blessings. Your words come across loud and clear when Venus and Saturn align, making it easier to get peers on your side."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-01-16",
+  "horoscope": "Emotional chapters close during the peaceful, morning hours, dear Capricorn, as the Sagittarius Moon and Neptune align. You should awaken feeling refreshed and at ease while Luna begins her journey through your sign. Take a few quiet moments for yourself before starting the day, setting a specific intention that centers on your needs, not on what others expect from you. Keeping tabs on your thoughts and feelings throughout the day will make it easier to decide where you truly want to be. Important conversations could change the trajectory of your path when the Nodes of Fate stir later tonight."
+}
+
