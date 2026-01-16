@@ -173,3 +173,9 @@
   "horoscope": "Your nerves could feel frayed as the Capricorn Sun and Chiron square off, darling Libra. Excessive demands from loved ones will leave you with little time for yourself, causing you to fall way behind in your self-care. Remember that if you give others a chance to fend for themselves, they'll find a way to do so. The Scorpio Moon and Mercury bring out your sensual side this afternoon, urging you to seek fresh air, comfort, and luxury. Your fortunes may improve while Jupiter activates this evening, rewarding your hard work and experience. A passionate energy fills your home later tonight when Luna and Mars align."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-01-16",
+  "horoscope": "Touch base with your emotions upon awakening, dear Libra. As the Sagittarius Moon squares Neptune, then debuts in Capricorn, it's important to fully understand where you're at before greeting the day. It's likely you need extra rest and quiet time at home. Allow yourself to rely more heavily on loved ones to ensure your needs are met. Emotional ties in your professional world can benefit you, but it is also necessary to maintain a healthy work/life balance. Keep busy with your favorite domestic activities to reset your body and mind while the Nodes of Fate stir later tonight."
+}
+
