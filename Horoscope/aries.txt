@@ -277,3 +277,9 @@
   "horoscope": "Venus nods sweetly to Neptune on her way into Aquarius, dearest Aries, inspiring you to be moved by love. Bursts of affection will cause you to act on romantic notions, which can be applied to pursuing relationships and manifesting dreams. Meanwhile, the Sun aligns with Saturn and Uranus, helping you make peace with immediate changes that must be made to further these visions. Control your emotions when the Capricorn Moon opposes Jupiter this evening, emphasizing the importance of composure. Mercury and Mars join forces later tonight, giving you the tools to outline smart strategies that will help you overcome odds."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-01-17",
+  "horoscope": "Venus nods sweetly to Neptune on her way into Aquarius, dearest Aries, inspiring you to be moved by love. Bursts of affection will cause you to act on romantic notions, which can be applied to pursuing relationships and manifesting dreams. Meanwhile, the Sun aligns with Saturn and Uranus, helping you make peace with immediate changes that must be made to further these visions. Control your emotions when the Capricorn Moon opposes Jupiter this evening, emphasizing the importance of composure. Mercury and Mars join forces later tonight, giving you the tools to outline smart strategies that will help you overcome odds."
+}
+
