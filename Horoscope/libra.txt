@@ -179,3 +179,9 @@
   "horoscope": "Touch base with your emotions upon awakening, dear Libra. As the Sagittarius Moon squares Neptune, then debuts in Capricorn, it's important to fully understand where you're at before greeting the day. It's likely you need extra rest and quiet time at home. Allow yourself to rely more heavily on loved ones to ensure your needs are met. Emotional ties in your professional world can benefit you, but it is also necessary to maintain a healthy work/life balance. Keep busy with your favorite domestic activities to reset your body and mind while the Nodes of Fate stir later tonight."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-01-17",
+  "horoscope": "Linger in moments of comfort while tending to your body through gentle stretches and deep breathing, dear Libra. You'll need your endurance as Venus aspects Neptune before entering Aquarius, inspiring you to create something beautiful. Focus on highlighting skills you've been honing to shape projects and build confidence. Staying busy at home will reset your nervous system when the Sun aligns with Saturn and Uranus. Tackling chores with someone special will remind you of how secure your bond is. Be mindful to declutter once the Capricorn Moon opposes Jupiter this evening. Consider hosting a lively game night with friends as Mercury and Mars join forces."
+}
+
