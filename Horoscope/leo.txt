@@ -226,3 +226,9 @@
   "horoscope": "News travels fast as Mercury and Jupiter face off, dearest Leo, though important details could get lost along the way. If you sense flaws in someone else's story, it might be worth asking follow-up questions. However, trying to fill in holes on your own may trigger obsessive spirals. Your heart will feel pulled in opposing directions when the Sagittarius Moon enters a t-square with the Nodes of Fate. Recognize if your comfort level is truly sustainable, or prevents you from evolving over time. Meanwhile, Venus and Saturn align to remind you that love should motivate you to mature and build success."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-01-17",
+  "horoscope": "Simplify relationships that have become too intense, dear Leo. As Venus aspects Neptune before entering Aquarius, it's better to enjoy romantic moments than overanalyze them or push for commitments. Prioritizing your own independence and intellectual growth will also make you more alluring to others. Focus on professional goals to reassess your priorities while the Sun aligns with Saturn and Uranus. Play by the rules and work hard to manifest opportunities. New ideas brew beneath the surface once the Capricorn Moon opposes Jupiter this evening, but certain doors may need closing so another can open. An energizing rush of motivation keeps you busy through the night when Mercury and Mars unite."
+}
+
