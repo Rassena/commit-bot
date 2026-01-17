@@ -251,3 +251,9 @@
   "horoscope": "Emotional chapters close during the peaceful, morning hours, dear Capricorn, as the Sagittarius Moon and Neptune align. You should awaken feeling refreshed and at ease while Luna begins her journey through your sign. Take a few quiet moments for yourself before starting the day, setting a specific intention that centers on your needs, not on what others expect from you. Keeping tabs on your thoughts and feelings throughout the day will make it easier to decide where you truly want to be. Important conversations could change the trajectory of your path when the Nodes of Fate stir later tonight."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-01-17",
+  "horoscope": "Venus takes a bow in your sign this morning, dear Capricorn, nodding to Neptune before stepping into revolutionary Aquarius. This cosmic shift creates a window for manifestation, asking you to step out of hypothesis and experiment with materialization. Your desire will come to be in unexpected ways, and thinking outside of the box will only further your chances of striking gold. The Sun, Saturn, and Uranus align to boost your intellect and confidence. Take structured chances while still leaving space to evolve or improvise. Be mindful to praise loved ones when Luna opposes Jupiter this evening, especially if you've been wrapped up in your own agenda. Mercury and Mars unite later tonight, helping you put ideas into motion."
+}
+
