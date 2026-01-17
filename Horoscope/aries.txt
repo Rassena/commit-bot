@@ -271,3 +271,9 @@
   "horoscope": "The stakes are high within your professional goals and private relationships, dear Aries. As Mercury and Jupiter face off, recognize if you require more guidance or support while building success or a home to call your own. You could hit a fork in the road once the Sagittarius Moon squares the Nodes of Fate this afternoon, bringing contrast to alternate paths that lie ahead. Trusting in your ability to adapt will make it easier to swim in uncharted territories that will likely offer the biggest rewards. A mentor figure may deliver valuable but off-the-table insights when Venus aspects Saturn later tonight."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-01-17",
+  "horoscope": "Venus nods sweetly to Neptune on her way into Aquarius, dearest Aries, inspiring you to be moved by love. Bursts of affection will cause you to act on romantic notions, which can be applied to pursuing relationships and manifesting dreams. Meanwhile, the Sun aligns with Saturn and Uranus, helping you make peace with immediate changes that must be made to further these visions. Control your emotions when the Capricorn Moon opposes Jupiter this evening, emphasizing the importance of composure. Mercury and Mars join forces later tonight, giving you the tools to outline smart strategies that will help you overcome odds."
+}
+
