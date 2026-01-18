@@ -184,3 +184,9 @@
   "horoscope": "Finding time to appreciate your blessings will make you less inclined to focus on what's lacking, dear Gemini. As Mercury and Jupiter face off, you'll gain more when approaches to prosperity come from a place that's rooted in experience. Reassess what's worked for you in the past to decipher the best way forward. New partnerships or investments in your vision could also emerge to strengthen your position. It may be necessary to hush your sentimental side while the Sagittarius Moon squares the Nodes of Fate this afternoon. Fears around success and failure need to be addressed if you're to overcome them. Give love to those who have your back and can offer sound advice once Venus aspects Saturn tonight."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-01-18",
+  "horoscope": "The Capricorn New Moon aligns with Mars, Mercury, Saturn, and Uranus, dear Gemini, bringing major transformations your way. Now is the time to take action on changes you've been considering in private, even if the path ahead is unclear. Recognize that stepping into the unknown is as empowering as it is daunting. Experiences accumulated to this point will give you the strength to persevere. Luna's debut into Aquarius provides a celestial safety net if you dare to take a leap of faith. Venus and Pluto offer additional aid, allowing you to smoothly transition into more powerful roles."
+}
+
