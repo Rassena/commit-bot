@@ -281,3 +281,9 @@
   "horoscope": "Trust your process and recognize the important role failure plays in facilitating growth, dear archer. As the Capricorn Sun and Chiron square off, past disappointments could stir up insecurities. If you've been struggling with a lack of motivation or diminished confidence, find gratitude for qualities you genuinely appreciate about yourself. Your thoughts have a direct impact on how you see the world when the Scorpio Moon and Mercury align midafternoon. Stay positive to rediscover the beauty that flows within and around you. Spend time with a trusted companion while Luna aspects Jupiter and Mars this evening to stabilize your emotions and reestablish bravery."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-01-18",
+  "horoscope": "Your finances will require extra attention throughout the next six months, dear Sagittarius. As the Capricorn New Moon aligns with Mars, Mercury, Saturn, and Uranus, you're being guided toward prosperous opportunities. If family members rely on you for support, set ground rules to monitor how resources are distributed. Assigning chores will be particularly helpful for creating more fair and balanced dynamics. Additional downtime will benefit you when seeking higher pay and better positions. Communicating what you need to feel supported will be easier to do once Luna enters Aquarius. Sweet alliances with Venus and Pluto foster loyal, encouraging attitudes from loved ones."
+}
+
