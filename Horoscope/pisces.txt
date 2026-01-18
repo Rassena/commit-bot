@@ -217,3 +217,9 @@
   "horoscope": "You'll be in a position of influence, dear Pisces, as the Capricorn New Moon aspects Mars, Mercury, Saturn, and Uranus. These vibes are perfect for bringing structure to your goals. Request support from your community, even if you're not certain you need it. Reach out for help tackling projects or promoting your work, and peers will surely rally to your side. Be open to feedback and don't hesitate to ask for advice from those whose opinion you value. You'll want alone time once Luna enters Aquarius, uniting with Venus and Pluto throughout the envying. Use this energy to revise and evolve your visions."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-01-18",
+  "horoscope": "You'll be in a position of influence, dear Pisces, as the Capricorn New Moon aspects Mars, Mercury, Saturn, and Uranus. These vibes are perfect for bringing structure to your goals. Request support from your community, even if you're not certain you need it. Reach out for help tackling projects or promoting your work, and peers will surely rally to your side. Be open to feedback and don't hesitate to ask for advice from those whose opinion you value. You'll want alone time once Luna enters Aquarius, uniting with Venus and Pluto throughout the envying. Use this energy to revise and evolve your visions."
+}
+
