@@ -232,3 +232,9 @@
   "horoscope": "Simplify relationships that have become too intense, dear Leo. As Venus aspects Neptune before entering Aquarius, it's better to enjoy romantic moments than overanalyze them or push for commitments. Prioritizing your own independence and intellectual growth will also make you more alluring to others. Focus on professional goals to reassess your priorities while the Sun aligns with Saturn and Uranus. Play by the rules and work hard to manifest opportunities. New ideas brew beneath the surface once the Capricorn Moon opposes Jupiter this evening, but certain doors may need closing so another can open. An energizing rush of motivation keeps you busy through the night when Mercury and Mars unite."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-01-18",
+  "horoscope": "You will feel more in sync with the universe and plans you've laid out, dear Leo. As the Capricorn New Moon aligns with Mars, Mercury, Saturn, and Uranus, focus on building up your agenda without disrupting the flow you've so carefully curated. The ambitious nature of this lunation urges you to push for higher aspirations. However, certain structures will need to be adjusted to ensure your health and existing workloads are not compromised. Consider who you can rely on for extra support once Luna enters Aquarius, aligning with Venus and Pluto throughout the evening. If you've been developing romantic ties, now is a good time to discuss shared goals and responsibilities."
+}
+
