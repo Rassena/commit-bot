@@ -216,3 +216,9 @@
   "horoscope": "You'll feel secretive about recent successes, dear Aquarius, as the Scorpio Moon aligns with the Sun, Venus, Saturn, Uranus, and Neptune. While modesty can be character-building, remember that it's also important to take credit for your work in order to receive the rewards you deserve. Top-secret projects will become a higher priority as you prepare to make a big splash in your career. Notice you start to feel rushed or on edge when Mars squares Chiron, doing what you must to bring the mind back into balance. Your social sphere evolves as you move up in the world once Luna enters Sagittarius and aspects Pluto tonight."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-01-18",
+  "horoscope": "You'll feel cozy, vibrant, and nurturing, dear Aquarius, as the Capricorn New Moon aspects Mars, Mercury, Saturn, and Uranus. This lunation lulls you into a relaxed yet playful mood, creating the perfect tone for getting together with loved ones at home. Use this energy to follow through on household projects, chores, or gatherings that have lingered too long. A dash of luxury takes your day up a notch, so be mindful to have plenty of delicious foods around. Luna's debut in your sign perks you up. You'll feel deeply connected to yourself and the people you love as Venus and Pluto stir this evening."
+}
+
