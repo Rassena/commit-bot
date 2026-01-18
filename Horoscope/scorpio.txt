@@ -251,3 +251,9 @@
   "horoscope": "The agreements you make today will take on a life of their own, darling Scorpio, as Mercury opposes Jupiter. Initiate discussions about your hopes and dreams to hold yourself accountable. When others learn of your aspirations, the threat of losing face will motivate you to see them through. Be mindful of who you invest your energy in while the Sagittarius Moon squares off with the Nodes of Fate, as these connections could soon prove to be quite consuming. Sweet yet realistic conversations can strengthen blossoming relationships once Venus and Saturn align later tonight, especially where romance is concerned."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-01-18",
+  "horoscope": "You'll be eager to express yourself under the Capricorn New Moon, dear Scorpio. Forming supportive aspects with Mars, Mercury, Saturn, and Uranus, this lunation asks you to be anything but conventional. Authenticity is key to finding your voice, and you'll feel more comfortable without censoring yourself to please others. Loved ones who truly support you won't hesitate to cheer you on, especially when you embark upon creative or educational endeavors. Get cozy at home with your favorite people once Luna enters Aquarius, aspecting Venus and Pluto this evening. Your intuition grows as you enjoy intimate moments with family and friends."
+}
+
