@@ -283,3 +283,9 @@
   "horoscope": "Venus nods sweetly to Neptune on her way into Aquarius, dearest Aries, inspiring you to be moved by love. Bursts of affection will cause you to act on romantic notions, which can be applied to pursuing relationships and manifesting dreams. Meanwhile, the Sun aligns with Saturn and Uranus, helping you make peace with immediate changes that must be made to further these visions. Control your emotions when the Capricorn Moon opposes Jupiter this evening, emphasizing the importance of composure. Mercury and Mars join forces later tonight, giving you the tools to outline smart strategies that will help you overcome odds."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-01-18",
+  "horoscope": "The Capricorn New Moon pinpoints which areas of your life require more structure, dear Aries. Considering Mars, Mercury, Saturn, and Uranus, you'll need to look within to fully understand present circumstances. Accountability is key to unlocking the door to success. If you are generally hesitant to accept blame, take on responsibilities, or acknowledge failure, you may be holding yourself back. Luna shifts into Aquarius midafternoon, offering swift solutions through eureka moments. If you're in a relationship, discuss lifestyle changes you're hoping to make while Venus and Pluto stir this evening. By getting your partner on board, you're more likely to succeed."
+}
+
