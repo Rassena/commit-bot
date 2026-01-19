@@ -257,3 +257,9 @@
   "horoscope": "Venus takes a bow in your sign this morning, dear Capricorn, nodding to Neptune before stepping into revolutionary Aquarius. This cosmic shift creates a window for manifestation, asking you to step out of hypothesis and experiment with materialization. Your desire will come to be in unexpected ways, and thinking outside of the box will only further your chances of striking gold. The Sun, Saturn, and Uranus align to boost your intellect and confidence. Take structured chances while still leaving space to evolve or improvise. Be mindful to praise loved ones when Luna opposes Jupiter this evening, especially if you've been wrapped up in your own agenda. Mercury and Mars unite later tonight, helping you put ideas into motion."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-01-19",
+  "horoscope": "The Sun takes a bow in your sign, dearest Capricorn, forming a dreamy connection with Neptune. Use the final moments of your birthday season to enchant others with your hopes and dreams. Sharing aspirations aloud will make it easier to manifest them. Blessings could emerge suddenly once the Aquarius season kicks off this evening. Money will come and go throughout the coming weeks, and you should prioritize financially savvy decisions. Prosperous ideas may strike when Saturn, Uranus, and Mars form electrifying aspects. Romantic bonds deepen while Venus and Pluto join forces tonight. Create a space where vulnerabilities can be shared to ensure emotional security."
+}
+
