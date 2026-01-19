@@ -287,3 +287,9 @@
   "horoscope": "Your finances will require extra attention throughout the next six months, dear Sagittarius. As the Capricorn New Moon aligns with Mars, Mercury, Saturn, and Uranus, you're being guided toward prosperous opportunities. If family members rely on you for support, set ground rules to monitor how resources are distributed. Assigning chores will be particularly helpful for creating more fair and balanced dynamics. Additional downtime will benefit you when seeking higher pay and better positions. Communicating what you need to feel supported will be easier to do once Luna enters Aquarius. Sweet alliances with Venus and Pluto foster loyal, encouraging attitudes from loved ones."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-01-19",
+  "horoscope": "Update your home's interior with a few ethereal touches, dear archer. A sweet connection between the Capricorn Sun and Neptune adds magick to your domestic realms, encouraging you to fill your space with dreamy scents, fabrics, and design choices. Your capacity to learn increases once the Aquarius season begins this evening. The conversations you engage with throughout the coming weeks will be particularly illuminating. Surround yourself with interesting people and focus on stimulating topics to boost your intellect. Look for ways to infuse your routines and wellness journey with more excitement when Saturn, Uranus, and Mars align. Intense romantic interactions bring a rush to the head while Venus and Pluto unite."
+}
+
