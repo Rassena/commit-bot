@@ -196,3 +196,9 @@
   "horoscope": "The Capricorn New Moon aligns with Mars, Mercury, Saturn, and Uranus, dear Gemini, bringing major transformations your way. Now is the time to take action on changes you've been considering in private, even if the path ahead is unclear. Recognize that stepping into the unknown is as empowering as it is daunting. Experiences accumulated to this point will give you the strength to persevere. Luna's debut into Aquarius provides a celestial safety net if you dare to take a leap of faith. Venus and Pluto offer additional aid, allowing you to smoothly transition into more powerful roles."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-01-19",
+  "horoscope": "Strategic sacrifices bring you closer to your dreams, dearest Gemini. As the Capricorn Sun and Neptune align, consider how you can better organize your time to prioritize agendas that matter most. Luck is on your side throughout the coming weeks once Aquarius season kicks off this evening. Enter this astrological era with a clean slate and solid goals to ensure you reach the top. Meanwhile, Saturn, Uranus, and Mars form electrifying connections, inviting you to reinvent the wheel your life spins upon. You'll feel overcome with love when Venus and Pluto unite tonight, softening and shifting your perspective."
+}
+
