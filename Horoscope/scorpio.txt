@@ -257,3 +257,9 @@
   "horoscope": "You'll be eager to express yourself under the Capricorn New Moon, dear Scorpio. Forming supportive aspects with Mars, Mercury, Saturn, and Uranus, this lunation asks you to be anything but conventional. Authenticity is key to finding your voice, and you'll feel more comfortable without censoring yourself to please others. Loved ones who truly support you won't hesitate to cheer you on, especially when you embark upon creative or educational endeavors. Get cozy at home with your favorite people once Luna enters Aquarius, aspecting Venus and Pluto this evening. Your intuition grows as you enjoy intimate moments with family and friends."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-01-19",
+  "horoscope": "Fantasy and strategy collide, darling Scorpio, as the Capricorn Sun and Neptune align. Now is your chance to back up dreamy visions with practical planning. Honor your heart to determine where the mind should focus. Speaking with passion can also be beneficial if you're hoping to gain support for specific goals or projects. Plan for a restorative night at home once Aquarius season begins this evening. You'll require more rest and compassion throughout the coming months. Emotional breakthroughs will help you shed layers while evolving your perspective. Work on transforming romantic or family ties when Venus and Pluto join forces."
+}
+
