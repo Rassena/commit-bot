@@ -209,3 +209,9 @@
   "horoscope": "Romantic notions you've been nurturing will seem within reach, dear Virgo, as Venus aspects Neptune before entering Aquarius. Now is the time to get strategic, actively pursuing personal goals or intimate relationships. Make decisions that support the health of these aspirations, recognizing where compromise and work are needed to establish harmony. You'll dazzle when others are granted a glimpse into your heart, thanks to sweet connections between the Sun, Saturn, and Uranus. Don't be afraid to take charge while loved ones are under your spell. Pull back on social engagements if you need more space to focus on passion projects when the Capricorn Moon opposes Jupiter. You'll hit a creative flow once Mercury and Mars unite tonight."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-01-20",
+  "horoscope": "Your inner poet makes an appearance this morning, beloved Virgo, as Mercury aspects Neptune before entering Aquarius. Increased charms make it easy to enchant others, but the spell will be broken if your words aren't reinforced with action. Keep your goals and promises rooted in reality, then outline plans to move forward. Admit when you need help and consider shifting strategies while Chiron activates. Luna and Uranus align to shower you with luck this evening, though too many blessings could cause you to feel overwhelmed. The Moon migrates into Pisces later tonight, inviting you to melt into softness."
+}
+
