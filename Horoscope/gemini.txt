@@ -208,3 +208,9 @@
   "horoscope": "Goals you've worked diligently toward show signs of paying off this morning, dearest Gemini. As Mercury aligns with Neptune before entering Aquarius, reflect on and recommit to big aspirations. The Aquarius Moon and Chiron bring luck and healing your way, helping you shed fears and social anxieties. Uranus activates this evening, infusing your psyche with an extra dose of enlightenment. Take time to visualize your dreams coming to fruition, noting any new ideas that emerge. The universe asks you to act responsibly once Luna enters Pisces later tonight. Use this energy to make significant career moves during the next two days."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-01-20",
+  "horoscope": "Goals you've worked diligently toward show signs of paying off this morning, dearest Gemini. As Mercury aligns with Neptune before entering Aquarius, reflect on and recommit to big aspirations. The Aquarius Moon and Chiron bring luck and healing your way, helping you shed fears and social anxieties. Uranus activates this evening, infusing your psyche with an extra dose of enlightenment. Take time to visualize your dreams coming to fruition, noting any new ideas that emerge. The universe asks you to act responsibly once Luna enters Pisces later tonight. Use this energy to make significant career moves during the next two days."
+}
+
