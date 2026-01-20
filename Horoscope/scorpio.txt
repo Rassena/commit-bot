@@ -263,3 +263,9 @@
   "horoscope": "Fantasy and strategy collide, darling Scorpio, as the Capricorn Sun and Neptune align. Now is your chance to back up dreamy visions with practical planning. Honor your heart to determine where the mind should focus. Speaking with passion can also be beneficial if you're hoping to gain support for specific goals or projects. Plan for a restorative night at home once Aquarius season begins this evening. You'll require more rest and compassion throughout the coming months. Emotional breakthroughs will help you shed layers while evolving your perspective. Work on transforming romantic or family ties when Venus and Pluto join forces."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-01-20",
+  "horoscope": "Consider how you can nurture grand visions without losing rest or compromising relationships, dear Scorpio. As Mercury aspects Neptune before entering Aquarius, channel your focus wisely to avoid chaos. Take care of yourself while Chiron activates, building stamina to ensure goals and connections don't fall through the cracks. Now is also a good time to ask for help or release yourself from obligations you don't have the bandwidth for. A lack of nurturing could lead to restlessness and mood swings when Luna squares Uranus this evening. Work on releasing stress and opening the heart once the Moon enters Pisces tonight."
+}
+
