@@ -222,3 +222,9 @@
   "horoscope": "You'll feel cozy, vibrant, and nurturing, dear Aquarius, as the Capricorn New Moon aspects Mars, Mercury, Saturn, and Uranus. This lunation lulls you into a relaxed yet playful mood, creating the perfect tone for getting together with loved ones at home. Use this energy to follow through on household projects, chores, or gatherings that have lingered too long. A dash of luxury takes your day up a notch, so be mindful to have plenty of delicious foods around. Luna's debut in your sign perks you up. You'll feel deeply connected to yourself and the people you love as Venus and Pluto stir this evening."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-01-20",
+  "horoscope": "Make a wish and visualize your goals coming to fruition, dear Aquarius, as Mercury aspects Neptune before entering your sign. This celestial shift streamlines your hopes into the present, but you'll need to use your voice and think critically about these desires. Healing conversations boost confidence and bring clarity when Chiron stirs. You may feel as though your reputation is at risk while Luna and Uranus square off this evening. Instead of pushing to be understood, take a step back and nurture your emotions. The Moon exits your sign and debuts into Pisces later tonight, asking you to slow down and enjoy rest."
+}
+
