@@ -263,3 +263,9 @@
   "horoscope": "The Sun takes a bow in your sign, dearest Capricorn, forming a dreamy connection with Neptune. Use the final moments of your birthday season to enchant others with your hopes and dreams. Sharing aspirations aloud will make it easier to manifest them. Blessings could emerge suddenly once the Aquarius season kicks off this evening. Money will come and go throughout the coming weeks, and you should prioritize financially savvy decisions. Prosperous ideas may strike when Saturn, Uranus, and Mars form electrifying aspects. Romantic bonds deepen while Venus and Pluto join forces tonight. Create a space where vulnerabilities can be shared to ensure emotional security."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-01-21",
+  "horoscope": "Check in with your budget as the Aquarius Sun and Mercury join forces, dear Capricorn. This celestial union seeks to level up your financial standing, but you'll need to examine exactly where you're at in the present. It might be necessary to change your spending habits if unexpected costs or the holidays throw you off course. Money-making ideas could also arise, so remember to take your thoughts seriously. Though new ventures may emerge quickly, time and patience will lead you to rewards. Trust your intuition and connect with your higher power while the Pisces Moon aspects the nodes of fate later today."
+}
+
