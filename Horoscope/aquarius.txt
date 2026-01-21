@@ -228,3 +228,9 @@
   "horoscope": "Make a wish and visualize your goals coming to fruition, dear Aquarius, as Mercury aspects Neptune before entering your sign. This celestial shift streamlines your hopes into the present, but you'll need to use your voice and think critically about these desires. Healing conversations boost confidence and bring clarity when Chiron stirs. You may feel as though your reputation is at risk while Luna and Uranus square off this evening. Instead of pushing to be understood, take a step back and nurture your emotions. The Moon exits your sign and debuts into Pisces later tonight, asking you to slow down and enjoy rest."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-01-21",
+  "horoscope": "The Sun and Mercury unite in your sign, dearest Aquarius, giving you a significant platform to stand on. Getting others to listen will come easily, but deciphering which topics to prioritize might prove more challenging. If you don't have a specific agenda to push forward, simply showcase your intellect and unique perspective. Colleagues or peers who need help seeing their own visions through will find value in your ideas. Speaking up at work or when socializing could trigger unexpected opportunities for those who need a partner or additional support. Discussions around money may increase your financial position while the Pisces Moon aligns with the nodes of fate later today."
+}
+
