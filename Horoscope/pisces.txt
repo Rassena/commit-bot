@@ -235,3 +235,9 @@
   "horoscope": "Put kindness into the world to elevate your reputation, dear Pisces. As Mercury aligns with Neptune before entering Aquarius, you'll have a chance to gain the respect of peers without working overtime to socialize. You'll feel increasingly elusive and selective of who you spend time with throughout the coming weeks. Allow others to see your shine as you prepare for hibernation. Work on increasing your sense of value while Chiron stirs, recognizing your worth. Combat negative thoughts when Luna squares Uranus, keeping busy with more exciting topics to rise above drama or negativity. The universe lends support and asks you to love yourself wholly once the Moon enters your sign tonight."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-01-21",
+  "horoscope": "The Aquarius Sun and Mercury dig new pathways of the mind, dear Pisces, causing thoughts to move quickly. You'll feel mentally agile and capable of connecting dots that once seemed unrelated. Trust your instincts and take notes to ensure you don't miss important details. Taking a back seat to observe certain people or situations will make it easier to determine where you stand and the best path forward. Meditation could unlock dormant psychic gifts, so remember to nurture your spirituality and intuition. Fate calls out to you while Luna and the north node unite in your sign later today, and even minor decisions may trigger big impacts."
+}
+
