@@ -289,3 +289,9 @@
   "horoscope": "The Capricorn New Moon pinpoints which areas of your life require more structure, dear Aries. Considering Mars, Mercury, Saturn, and Uranus, you'll need to look within to fully understand present circumstances. Accountability is key to unlocking the door to success. If you are generally hesitant to accept blame, take on responsibilities, or acknowledge failure, you may be holding yourself back. Luna shifts into Aquarius midafternoon, offering swift solutions through eureka moments. If you're in a relationship, discuss lifestyle changes you're hoping to make while Venus and Pluto stir this evening. By getting your partner on board, you're more likely to succeed."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-01-21",
+  "horoscope": "You'll have a gift for making friends and bringing brightness to others, dear Aries. As Mercury and the Sun join forces in Aquarius, now is the time to get out and socialize. Rather than waiting for invitations from peers, take charge and bring loved ones together. If you're in a more exploratory mood, attend local events, seek new experiences, or look for opportunities to network with unfamiliar faces. It might require extra effort on your end to explore outside your comfort zone as the Pisces Moon aligns with the nodes of fate later today. However, delving into the unknown is sure to trigger pleasant surprises."
+}
+
