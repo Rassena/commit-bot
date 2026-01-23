@@ -275,3 +275,9 @@
   "horoscope": "Consider how you can nurture grand visions without losing rest or compromising relationships, dear Scorpio. As Mercury aspects Neptune before entering Aquarius, channel your focus wisely to avoid chaos. Take care of yourself while Chiron activates, building stamina to ensure goals and connections don't fall through the cracks. Now is also a good time to ask for help or release yourself from obligations you don't have the bandwidth for. A lack of nurturing could lead to restlessness and mood swings when Luna squares Uranus this evening. Work on releasing stress and opening the heart once the Moon enters Pisces tonight."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-01-23",
+  "horoscope": "Find a way to make fun, romance, and creativity a part of each day, darling Scorpio. As the Pisces Moon aligns with Uranus, Saturn, and Neptune before entering Aries, youll have the power to manifest your best life. Begin by making improvements at home once Mars enters Aquarius. Your family and domestic affairs will require more attention, though youll gain just as much nurturing as you put into these realms. Honor your ancestors while appreciating what makes you unique when the Sun and Pluto unite. Play with your routines when Mercury and Venus activate later today, adding extra socialization and self-care into the mix."
+}
+
