@@ -227,3 +227,9 @@
   "horoscope": "The universe takes matters into its own hands to restore balance. Watch for signs that its time to make changes, dear Virgo, as the Pisces Moon aspects Uranus, Saturn, and Neptune before entering Aries. Marss debut into Aquarius helps you find order amongst chaos, though it may take some time to catch your bearings. Cut out unnecessary steps while the Sun and Pluto unite, and honor your physical needs. Ask colleagues to help you get back on track once Mercury activates midafternoon. Put self-care and stress relief at the top of your agenda when Venus stirs this evening, and allow loved ones to dote on you."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-01-23",
+  "horoscope": "The universe takes matters into its own hands to restore balance. Watch for signs that its time to make changes, dear Virgo, as the Pisces Moon aspects Uranus, Saturn, and Neptune before entering Aries. Marss debut into Aquarius helps you find order amongst chaos, though it may take some time to catch your bearings. Cut out unnecessary steps while the Sun and Pluto unite, and honor your physical needs. Ask colleagues to help you get back on track once Mercury activates midafternoon. Put self-care and stress relief at the top of your agenda when Venus stirs this evening, and allow loved ones to dote on you."
+}
+
