@@ -185,3 +185,9 @@
   "horoscope": "A sense of unease could make your social interactions somewhat uncomfortable this morning, dear Cancer. As the Libra Moon squares Jupiter, Mars, the Sun, and Venus, try not to overanalyze tense emotions that haven't been officially addressed. Underlying emotional strain may be causing you or loved ones to feel on edge, but it doesn't indicate trouble in paradise. Navigate this energy by balancing your own feelings. Though you'll want to nurture the people around you while Chiron stirs this afternoon, your kindness might be misconstrued as overbearing. Find safety within your spiritual community when Luna, Saturn, and Uranus form a yod tonight."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-01-23",
+  "horoscope": "Random acts of kindness circulate the air and bring her rewards, darling Cancer, as the Pisces Moon aspects Uranus, Saturn, and Neptune before entering Aries. Now is also a good time to call in favors from those who owe you one. Youll experience much movement and transformation throughout the coming weeks once Mars debuts in Aquarius. Put your ego to the side and dont resist change. Mentally prepare to act quickly if opportunities arise. Release versions of yourself that prevent you from leveling up while the Sun and Pluto unite. Prioritize your needs while honoring what others require to feel secure when Mercury and Venus activate later today."
+}
+
