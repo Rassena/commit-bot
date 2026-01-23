@@ -295,3 +295,9 @@
   "horoscope": "You'll have a gift for making friends and bringing brightness to others, dear Aries. As Mercury and the Sun join forces in Aquarius, now is the time to get out and socialize. Rather than waiting for invitations from peers, take charge and bring loved ones together. If you're in a more exploratory mood, attend local events, seek new experiences, or look for opportunities to network with unfamiliar faces. It might require extra effort on your end to explore outside your comfort zone as the Pisces Moon aligns with the nodes of fate later today. However, delving into the unknown is sure to trigger pleasant surprises."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-01-23",
+  "horoscope": "Sudden shifts in your circumstances force you to recalibrate, dear Aries. Its important to get your affairs in order while the Pisces Moon aspects Uranus, Saturn, and Neptune before entering your sign. Marss debut into Aquarius expands your reach throughout the coming weeks. The spotlight is yours for the taking. Be mindful to present a powerful, determined image to gain colleagues' approval. Cut out anyone who might hold you back while the Sun and Pluto unite, giving more time to those who wish to empower and be empowered. Plant seeds to grow your network when Mercury activates this afternoon. Enjoy a bit of flirting as the evening wraps up and Venus fills the air with romance."
+}
+
