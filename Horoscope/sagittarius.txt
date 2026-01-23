@@ -299,3 +299,9 @@
   "horoscope": "Make yourself a part of the conversation, dear Sagittarius, as the Aquarius Sun and Mercury unite. Sharing goals and creative visions will increase your investment in making them a reality. Bouncing ideas off peers can open the door to valuable feedback and potential collaborations. If you're promoting a project, ask friends to help you spread the word. Ingenious thoughts trickle in as the hours unfold, and it would be wise to notate ideas that stand out. Freshen up the energy at home by trying something new with family once the Pisces Moon aspects the nodes of fate later today."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-01-23",
+  "horoscope": "Bring balance to your body and emotions, dear Sagittarius, recognizing how interconnected they are. As the Pisces Moon aspects Uranus, Saturn, and Neptune before entering Aries, increase energy with a holistic approach. Youll need your endurance once Mars enters Aquarius, providing an abundance of ideas and the motivation to see them through. The world expects much of you throughout the coming weeks, and you'll be happy to showcase personalized talents. Think empowering thoughts while the Sun and Pluto unite, emphasizing the power of the mind. Track interesting conversations or epiphanies that find you when Mercury and Venus activate later today."
+}
+
