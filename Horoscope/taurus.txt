@@ -137,3 +137,9 @@
   "horoscope": "Today marks one of the most spiritually charged days of the year for you, dear Taurus. As the Capricorn New Moon rises in your solar ninth house, the universe will bend more easily to your will. Sweet connections with Mars, Mercury, Saturn, and Uranus ask you to elevate your social sphere as higher aspirations are chased. While you don't need to leave loyal friends behind, aligning yourself with successful allies can make it easier to actualize your dreams. You'll feel eager to outline a plan of action once Luna enters Aquarius, uniting with Venus and Pluto throughout the night."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-01-24",
+  "horoscope": "You'll be in a solitary mood as the Moon moves through Aries, dear Taurus. Don't hesitate to strike out on your own, especially if you crave space. Introspection may lead you to realize it's time to embrace fresh starts. Focus on tying up loose ends before moving forward. New discoveries will alter your bigger picture while Luna squares Jupiter midafternoon. Follow your hunches and ask questions to fill in the missing pieces. Chiron stirs later tonight, reminding you that every healing journey begins within. Meditate on what you need to feel whole and ready for the next chapter."
+}
+
