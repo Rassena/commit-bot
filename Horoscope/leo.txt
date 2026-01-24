@@ -238,3 +238,9 @@
   "horoscope": "You will feel more in sync with the universe and plans you've laid out, dear Leo. As the Capricorn New Moon aligns with Mars, Mercury, Saturn, and Uranus, focus on building up your agenda without disrupting the flow you've so carefully curated. The ambitious nature of this lunation urges you to push for higher aspirations. However, certain structures will need to be adjusted to ensure your health and existing workloads are not compromised. Consider who you can rely on for extra support once Luna enters Aquarius, aligning with Venus and Pluto throughout the evening. If you've been developing romantic ties, now is a good time to discuss shared goals and responsibilities."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-01-24",
+  "horoscope": "Plant many seeds as the Moon continues through Aries, dear Leo, even if not all of them are destined to take root and sprout. Every wonderful experience or opportunity has an origin story, and now is your moment to start the first chapter. Be mindful of your deepest desires and where they stem from while Luna aspects Jupiter midafternoon. If you begin to feel rushed, out of control, or spread thin, these vibes urge you to come back to yourself. Your perspective broadens once Chiron stirs tonight, helping you see challenging situations from a new light to find healing and solutions."
+}
+
