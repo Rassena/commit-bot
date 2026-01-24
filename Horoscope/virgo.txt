@@ -239,3 +239,9 @@
   "horoscope": "Deepen your relationships by giving everyone space to evolve and follow their own paths, dear Virgo. As the Aries Moon travels through your solar eighth house, the energy surrounding you cycles in new directions. The desire to harness your power increases, shifting your priorities toward a higher purpose. You may sense distance growing between you and certain friends while Luna squares Jupiter midafternoon. It will become increasingly difficult to relate to those who harbor petty attitudes, engage in unnecessary competition, or resist change. You'll be reminded that healing is often a solitary yet rewarding process when Chiron activates tonight."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-01-24",
+  "horoscope": "Deepen your relationships by giving everyone space to evolve and follow their own paths, dear Virgo. As the Aries Moon travels through your solar eighth house, the energy surrounding you cycles in new directions. The desire to harness your power increases, shifting your priorities toward a higher purpose. You may sense distance growing between you and certain friends while Luna squares Jupiter midafternoon. It will become increasingly difficult to relate to those who harbor petty attitudes, engage in unnecessary competition, or resist change. You'll be reminded that healing is often a solitary yet rewarding process when Chiron activates tonight."
+}
+
