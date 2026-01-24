@@ -281,3 +281,9 @@
   "horoscope": "Find a way to make fun, romance, and creativity a part of each day, darling Scorpio. As the Pisces Moon aligns with Uranus, Saturn, and Neptune before entering Aries, youll have the power to manifest your best life. Begin by making improvements at home once Mars enters Aquarius. Your family and domestic affairs will require more attention, though youll gain just as much nurturing as you put into these realms. Honor your ancestors while appreciating what makes you unique when the Sun and Pluto unite. Play with your routines when Mercury and Venus activate later today, adding extra socialization and self-care into the mix."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-01-24",
+  "horoscope": "Get a productive start to your weekend and put your life in order, dearest Scorpio. The Aries Moon offers a boost in motivation, energy, and practicality, helping you tighten the reins to feel more in control. If you've been sitting on projects that haven't left the ground, now is your moment to push onwards. Simpler actions will also bring rewards, so be sure to check in with your chores and to-do lists. Touch base with your overall health once Chiron stirs tonight to identify where you require extra support. Take the first steps toward implementing changes that will elevate your wellness journey."
+}
+
