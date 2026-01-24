@@ -269,3 +269,9 @@
   "horoscope": "Check in with your budget as the Aquarius Sun and Mercury join forces, dear Capricorn. This celestial union seeks to level up your financial standing, but you'll need to examine exactly where you're at in the present. It might be necessary to change your spending habits if unexpected costs or the holidays throw you off course. Money-making ideas could also arise, so remember to take your thoughts seriously. Though new ventures may emerge quickly, time and patience will lead you to rewards. Trust your intuition and connect with your higher power while the Pisces Moon aspects the nodes of fate later today."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-01-24",
+  "horoscope": "The Aries Moon presents a chance to recharge, encouraging you to stay close to home. Fuel your mind, body, and soul, darling Capricorn, giving into your needs with the utmost care. You'll crave connection once Luna aspects Jupiter midafternoon, and will benefit from inviting a small group of friends over. Step away from your usual activities and try something new to elevate bonds and keep everyone engaged. If you're not in a position to host, throw yourself into a restorative self-care session. A healing energy takes hold when Chiron stirs later tonight, nudging you to get cozy and relax."
+}
+
