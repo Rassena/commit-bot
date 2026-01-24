@@ -305,3 +305,9 @@
   "horoscope": "Bring balance to your body and emotions, dear Sagittarius, recognizing how interconnected they are. As the Pisces Moon aspects Uranus, Saturn, and Neptune before entering Aries, increase energy with a holistic approach. Youll need your endurance once Mars enters Aquarius, providing an abundance of ideas and the motivation to see them through. The world expects much of you throughout the coming weeks, and you'll be happy to showcase personalized talents. Think empowering thoughts while the Sun and Pluto unite, emphasizing the power of the mind. Track interesting conversations or epiphanies that find you when Mercury and Venus activate later today."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-01-24",
+  "horoscope": "Take stock of your multiple interests and passions, dear archer. As the Aries Moon travels through your house of talent and self-expression, creative juices flow freely. However, lacking a specific vision could leave you with half-finished projects that never reach their full potential. Narrow down artistic visions to fully dedicate yourself to one or two goals. The energy grows restless once Luna squares Jupiter midafternoon, and you may need a breather to blow off steam. Go out and have fun with friends, but avoid competitive dynamics. Connect with your heart center and acknowledge what it needs to heal when Chiron stirs later tonight."
+}
+
