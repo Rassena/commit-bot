@@ -234,3 +234,9 @@
   "horoscope": "The Sun and Mercury unite in your sign, dearest Aquarius, giving you a significant platform to stand on. Getting others to listen will come easily, but deciphering which topics to prioritize might prove more challenging. If you don't have a specific agenda to push forward, simply showcase your intellect and unique perspective. Colleagues or peers who need help seeing their own visions through will find value in your ideas. Speaking up at work or when socializing could trigger unexpected opportunities for those who need a partner or additional support. Discussions around money may increase your financial position while the Pisces Moon aligns with the nodes of fate later today."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-01-24",
+  "horoscope": "The Aries Moon invites you to see the world through fresh eyes, dear Aquarius. Try to approach each situation and conversation with an open mind, even if you struggle to push your own opinions to the side. The fiery nature of this lunar placement might feel combative at times, but resist the urge to debate. Giving others a chance to speak will allow you to better understand family and friends. Seek healthy activities and conversations while Luna squares Jupiter midafternoon, releasing stress before you become too wound up. Set a new intellectual goal as part of your healing journey once Chiron stirs tonight."
+}
+
