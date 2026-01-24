@@ -247,3 +247,9 @@
   "horoscope": "Trust your instincts and lay foundations for your latest schemes, dear Pisces. As Luna aspects Uranus, Saturn, and Neptune before entering Aries, a window of opportunity emerges. You'll need to follow through on your visions for the next several weeks once Mars debuts in Aquarius. It may be necessary to take a step back from the limelight to maintain focus. A powerful union between the Sun and Pluto helps you release unhelpful patterns, paving the way to stark epiphanies and true empowerment. Recognize how your thoughts shape your world and show compassion for yourself while Mercury and Venus stir later today."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-01-24",
+  "horoscope": "Take your senses on a journey, dear Pisces, as the Aries Moon travels through your solar second house. These vibes bring novelty to your environment if you choose to explore them with a fresh perspective. Try to pick out details you've never noticed before, recognizing how our fast-paced world can cause our surroundings to blur. Themes around money and luxury also come into play, heightening your taste for the finer things. Watch your spending while Jupiter stirs, as it would be easy to venture outside realistic financial bounds. Connect with Earth's healing energy later tonight when Chiron activates."
+}
+
