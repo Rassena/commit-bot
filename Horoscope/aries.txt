@@ -301,3 +301,9 @@
   "horoscope": "Sudden shifts in your circumstances force you to recalibrate, dear Aries. Its important to get your affairs in order while the Pisces Moon aspects Uranus, Saturn, and Neptune before entering your sign. Marss debut into Aquarius expands your reach throughout the coming weeks. The spotlight is yours for the taking. Be mindful to present a powerful, determined image to gain colleagues' approval. Cut out anyone who might hold you back while the Sun and Pluto unite, giving more time to those who wish to empower and be empowered. Plant seeds to grow your network when Mercury activates this afternoon. Enjoy a bit of flirting as the evening wraps up and Venus fills the air with romance."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-01-24",
+  "horoscope": "Luna continues through your sign, dear Aries, highlighting your goals. You'll feel mentally, physically, and emotionally invested in carving out your own path, letting no one and nothing stand in your way. However, it's important to recognize when feelings become overly inflated. A harsh square between Luna and Jupiter may cause you to lash out at loved ones who seem to question your decisions. Try to appreciate that feedback from family and friends usually stems from a good place, even if you don't like what you hear. Work on healing and supporting yourself once Chiron activates tonight."
+}
+
