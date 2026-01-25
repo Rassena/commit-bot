@@ -185,3 +185,9 @@
   "horoscope": "Linger in moments of comfort while tending to your body through gentle stretches and deep breathing, dear Libra. You'll need your endurance as Venus aspects Neptune before entering Aquarius, inspiring you to create something beautiful. Focus on highlighting skills you've been honing to shape projects and build confidence. Staying busy at home will reset your nervous system when the Sun aligns with Saturn and Uranus. Tackling chores with someone special will remind you of how secure your bond is. Be mindful to declutter once the Capricorn Moon opposes Jupiter this evening. Consider hosting a lively game night with friends as Mercury and Mars join forces."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-01-25",
+  "horoscope": "Your standards elevate as Luna enters Taurus, darling Libra, making it easier to release unnecessary baggage. As you ease toward self-improvement, certain commitments come into focus. Exercise discernment when choosing who and what receives the bulk of your attention moving forward. Monitor your mood and endurance as Mars activates midafternoon, noting whether anyone or anything has been depleting your energy. Possessive or jealous tendencies rise to the surface once Pluto becomes agitated, helping you identify toxic dynamics. Tonight's quarter Moon brings an intoxicating ambiance to the air, tempting you to hide away and lose yourself in another."
+}
+
