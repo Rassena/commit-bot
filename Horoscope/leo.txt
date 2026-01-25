@@ -244,3 +244,9 @@
   "horoscope": "Plant many seeds as the Moon continues through Aries, dear Leo, even if not all of them are destined to take root and sprout. Every wonderful experience or opportunity has an origin story, and now is your moment to start the first chapter. Be mindful of your deepest desires and where they stem from while Luna aspects Jupiter midafternoon. If you begin to feel rushed, out of control, or spread thin, these vibes urge you to come back to yourself. Your perspective broadens once Chiron stirs tonight, helping you see challenging situations from a new light to find healing and solutions."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-01-25",
+  "horoscope": "Celebrate recent wins with a bit of leisure, dear Leo. As Luna enters earthy Taurus, you're reminded of the importance of taking breaks to appreciate your accomplishments. It may be difficult to fully relax while Mars and Pluto activate throughout the afternoon, especially when in the company of others. Surround yourself with people who bring a sense of ease, or your Sunday could quickly head south. Placing too much pressure on yourself will also threaten your peace, challenging your ability to rest. Use tonight's quarter Moon to catch up on self-care, keeping a pen and paper handy as new ideas or strategies come through."
+}
+
