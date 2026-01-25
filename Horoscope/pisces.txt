@@ -253,3 +253,9 @@
   "horoscope": "Take your senses on a journey, dear Pisces, as the Aries Moon travels through your solar second house. These vibes bring novelty to your environment if you choose to explore them with a fresh perspective. Try to pick out details you've never noticed before, recognizing how our fast-paced world can cause our surroundings to blur. Themes around money and luxury also come into play, heightening your taste for the finer things. Watch your spending while Jupiter stirs, as it would be easy to venture outside realistic financial bounds. Connect with Earth's healing energy later tonight when Chiron activates."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-01-25",
+  "horoscope": "Luna makes her debut in Taurus, dear Pisces, asking you to communicate with your surroundings. The universe draws a direct correlation between the material realms and your internal dialogue, making the world seem more alive. Your senses heighten, and new details come into focus, allowing you to ground. Enjoy some fresh air and listen for messages from Mother Nature. Retreat to a space that is yours alone while Mars and Pluto activate this afternoon, stirring up the psyche. Tonight's quarter Moon asks your shadow to come out to play, and it's important that you feel safe in your environment."
+}
+
