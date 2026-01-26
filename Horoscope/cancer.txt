@@ -197,3 +197,9 @@
   "horoscope": "Take the reins to bring structure to your weekend plans, dearest Cancer. As the Aries Moon moves through your solar tenth house, scattered minds will need help staying focused. However, you should also give others the freedom to do as they please. A challenging square between Luna and Jupiter may cause your enthusiasm to come across as overbearing. Manage your expectations of loved ones to ensure your emotions stay balanced. Set an agenda, spread the word, and see who comes along for the ride. Be open to giving and receiving advice when Chiron activates later tonight, offering healing and wisdom."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-01-26",
+  "horoscope": "Fated encounters may cause you to second-guess commitments you've made, dear Cancer. As the Taurus Moon aspects the nodes of fate, Mercury, and Venus, give yourself permission to level up, even if doing so results in a broken promise or two. Rules you've been living by are cosmically poised to change significantly as Neptune enters Aries. The next fourteen years will bring major changes to the world, and you'll need to adapt and find your own baseline to operate from. Your attention-seeking side comes out to play while Luna and Jupiter offer a popularity boost this evening."
+}
+
