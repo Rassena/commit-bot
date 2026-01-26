@@ -257,3 +257,9 @@
   "horoscope": "A generous energy builds within, dear Virgo, as the Moon enters Taurus and your solar ninth house. Recent wins put you in the mood to share, though you should do so with discernment. Your well-meaning gestures could come across as boastful while Mars and Pluto stir up drama this afternoon. An urge to elevate loved ones may also be met with resistance, so tread lightly when offering help or advice. You might begin to feel scattered as the day speeds up. Use tonight's quarter Moon to reassess your position and organize your next moves to ensure continued success."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-01-26",
+  "horoscope": "You could feel slightly frazzled this morning, Virgo, as the Taurus Moon aspects the nodes of fate, Mercury, and Venus. Increased luck often comes with new problems, and it's important to adjust and find your flow as change propels you forward. An era of empowerment and transformation kicks off for you once Neptune enters Aries. The next fourteen years will have you heavily focused on evolving the spirit, causing relationships and commitments to filter in or fall off to the side. Send love to your community as the evening rolls in, and Luna blows a kiss to Jupiter."
+}
+
