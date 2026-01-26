@@ -275,3 +275,9 @@
   "horoscope": "The Aries Moon presents a chance to recharge, encouraging you to stay close to home. Fuel your mind, body, and soul, darling Capricorn, giving into your needs with the utmost care. You'll crave connection once Luna aspects Jupiter midafternoon, and will benefit from inviting a small group of friends over. Step away from your usual activities and try something new to elevate bonds and keep everyone engaged. If you're not in a position to host, throw yourself into a restorative self-care session. A healing energy takes hold when Chiron stirs later tonight, nudging you to get cozy and relax."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-01-26",
+  "horoscope": "Unexpected developments could prolong your plans, dearest Capricorn. Critical thinking will help you escape stagnant situations while the Taurus Moon aspects the nodes of fate, Mercury, and Venus. You'll need to move slowly and with purpose to ensure no further missteps emerge. Brace for new beginnings once Neptune enters Aries, merging imagination and determination. Changes at home and within your family structure will reshape your world throughout the next fourteen years. Be mindful of the life you wish to build and who you hope to share it with during this time. Give love, and you will receive it in abundance when Luna aligns with Jupiter this evening."
+}
+
