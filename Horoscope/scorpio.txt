@@ -293,3 +293,9 @@
   "horoscope": "Release yourself from sentimental ties that have been holding you back, dearest Scorpio. Though it can be painful to move on from people or situations that were once meaningful, it's important to honor your heart and explore. As the Taurus Moon aspects the nodes of fate, Mercury, and Venus, they carry fond memories with you into the future. You'll feel lighter and ready to establish your best life after Neptune enters Aries. This planetary shift emphasizes the importance of living healthily and working toward your dreams, bringing major changes over the next 14 years. Seek harmony and make a wish when Luna aligns with Jupiter this evening."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-01-26",
+  "horoscope": "Release yourself from sentimental ties that have been holding you back, dearest Scorpio. Though it can be painful to move on from people or situations that were once meaningful, it's important to honor your heart and explore. As the Taurus Moon aspects the nodes of fate, Mercury, and Venus, they carry fond memories with you into the future. You'll feel lighter and ready to establish your best life after Neptune enters Aries. This planetary shift emphasizes the importance of living healthily and working toward your dreams, bringing major changes over the next 14 years. Seek harmony and make a wish when Luna aligns with Jupiter this evening."
+}
+
