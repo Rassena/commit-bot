@@ -143,3 +143,9 @@
   "horoscope": "You'll be in a solitary mood as the Moon moves through Aries, dear Taurus. Don't hesitate to strike out on your own, especially if you crave space. Introspection may lead you to realize it's time to embrace fresh starts. Focus on tying up loose ends before moving forward. New discoveries will alter your bigger picture while Luna squares Jupiter midafternoon. Follow your hunches and ask questions to fill in the missing pieces. Chiron stirs later tonight, reminding you that every healing journey begins within. Meditate on what you need to feel whole and ready for the next chapter."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-01-26",
+  "horoscope": "Your morning gets off to a disjointed start, dear Taurus, as Luna aspects the nodes of fate, Mercury, and Venus. Plans you've been diligently working on from behind the scenes could hit unforeseen snags, forcing you to retreat and reevaluate. Major shifts are underway once Neptune enters Aries, marking a significant period of introspection and mental readjustment. The next fourteen years will dramatically reshape how you feel about yourself, your dreams, and the cycles that rule your life. Allow your optimistic side to lead the way and cook up new ventures when Luna aligns with Jupiter this evening."
+}
+
