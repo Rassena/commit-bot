@@ -287,3 +287,9 @@
   "horoscope": "Get a productive start to your weekend and put your life in order, dearest Scorpio. The Aries Moon offers a boost in motivation, energy, and practicality, helping you tighten the reins to feel more in control. If you've been sitting on projects that haven't left the ground, now is your moment to push onwards. Simpler actions will also bring rewards, so be sure to check in with your chores and to-do lists. Touch base with your overall health once Chiron stirs tonight to identify where you require extra support. Take the first steps toward implementing changes that will elevate your wellness journey."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-01-26",
+  "horoscope": "Release yourself from sentimental ties that have been holding you back, dearest Scorpio. Though it can be painful to move on from people or situations that were once meaningful, it's important to honor your heart and explore. As the Taurus Moon aspects the nodes of fate, Mercury, and Venus, they carry fond memories with you into the future. You'll feel lighter and ready to establish your best life after Neptune enters Aries. This planetary shift emphasizes the importance of living healthily and working toward your dreams, bringing major changes over the next 14 years. Seek harmony and make a wish when Luna aligns with Jupiter this evening."
+}
+
