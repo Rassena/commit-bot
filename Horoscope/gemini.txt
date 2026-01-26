@@ -226,3 +226,9 @@
   "horoscope": "Plans made this morning are liable to fall through due to this morning's void-of-course Moon. Relief washes in as your schedule frees up and Luna enters Taurus, putting you in a reserved and quiet mood. Make stillness a priority by retreating to spaces that help you feel calm and connected to nature. The universe mimics your deepest thoughts and feelings while Mars and Pluto activate, sharpening your instincts in the process. These vibes could trigger your primal side, giving you permission to fight for your needs. Tend the light within under tonight's quarter Moon by aligning with your higher self."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-01-26",
+  "horoscope": "Reality checks are in store, darling Gemini, as the Taurus Moon aspects the nodes of fate, Mercury, and Venus. Though it's important to approach major goals through a mindful or spiritual lens, these vibes force you to take matters into your own hands. Everyone's luck runs out at some point, but responsible planning and a willingness to grow will help you achieve success on your own terms. Meanwhile, Neptune migrates into Aries, altering the way we perceive dreams, hope, and collective consciousness throughout the next fourteen years. Your social sphere is likely to shift, bringing dreamy, exuberant connections your way. Meditate on what you're grateful for to call in more blessings while Luna aligns with Jupiter this evening."
+}
+
