@@ -307,3 +307,9 @@
   "horoscope": "Luna continues through your sign, dear Aries, highlighting your goals. You'll feel mentally, physically, and emotionally invested in carving out your own path, letting no one and nothing stand in your way. However, it's important to recognize when feelings become overly inflated. A harsh square between Luna and Jupiter may cause you to lash out at loved ones who seem to question your decisions. Try to appreciate that feedback from family and friends usually stems from a good place, even if you don't like what you hear. Work on healing and supporting yourself once Chiron activates tonight."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-01-27",
+  "horoscope": "A strange and spiritually charged energy surrounds you, dear Aries, as the Taurus Moon aspects Uranus and Saturn. Expand your perception of reality and look for tiny miracles. You'll feel elevated when in the presence of peers once Luna enters Gemini and aligns with visionary Neptune. These vibes are perfect for taking on leadership or public speaking roles. Allow your light to shine as you share knowledge, spread ideas, or spearhead collaborations. Your social position shifts while Mars and Pluto unite, though some bridges may collapse as you step onto higher ground. Don't let a fear of losing friends stop you from seeking the status you desire, trusting that true allies will stand by you."
+}
+
