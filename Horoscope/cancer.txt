@@ -203,3 +203,9 @@
   "horoscope": "Fated encounters may cause you to second-guess commitments you've made, dear Cancer. As the Taurus Moon aspects the nodes of fate, Mercury, and Venus, give yourself permission to level up, even if doing so results in a broken promise or two. Rules you've been living by are cosmically poised to change significantly as Neptune enters Aries. The next fourteen years will bring major changes to the world, and you'll need to adapt and find your own baseline to operate from. Your attention-seeking side comes out to play while Luna and Jupiter offer a popularity boost this evening."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-01-27",
+  "horoscope": "The Taurus Moon aspects Uranus and Saturn, encouraging you to enjoy the community you've cultivated. While it may feel as though you're living in a bubble at times, try to appreciate how necessary it is to step back from the bigger picture and retreat to safe spaces. Just remember to expand upon your circle to ensure your world doesn't get too small. The energy shifts once Luna enters Gemini and connects with Neptune this afternoon. Sneak away to focus on your long-term goals, using your imagination and practical mind to build a solid path toward tomorrow. You'll find power in transformation when Mars and Pluto unite later today."
+}
+
