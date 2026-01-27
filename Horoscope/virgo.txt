@@ -269,3 +269,9 @@
   "horoscope": "Work on building structures that bring more balance to your life, dearest Virgo, as the Taurus Moon, Uranus, and Saturn activate. The universe will be eager to shower you with blessings, but only if you can maintain what's already on your plate. Consider teaming up with someone who shares similar goals once Luna enters Gemini and aligns with Neptune. With a business or romantic partner available to shoulder burdens and share responsibilities, you'll gain enough freedom to explore and evolve. Meanwhile, Mars and Pluto unite in your solar sixth house. Focus on establishing routines that streamline your schedule and offer convenience without taking a toll on your health."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-01-27",
+  "horoscope": "Work on building structures that bring more balance to your life, dearest Virgo, as the Taurus Moon, Uranus, and Saturn activate. The universe will be eager to shower you with blessings, but only if you can maintain what's already on your plate. Consider teaming up with someone who shares similar goals once Luna enters Gemini and aligns with Neptune. With a business or romantic partner available to shoulder burdens and share responsibilities, you'll gain enough freedom to explore and evolve. Meanwhile, Mars and Pluto unite in your solar sixth house. Focus on establishing routines that streamline your schedule and offer convenience without taking a toll on your health."
+}
+
