@@ -209,3 +209,9 @@
   "horoscope": "The Taurus Moon aspects Uranus and Saturn, encouraging you to enjoy the community you've cultivated. While it may feel as though you're living in a bubble at times, try to appreciate how necessary it is to step back from the bigger picture and retreat to safe spaces. Just remember to expand upon your circle to ensure your world doesn't get too small. The energy shifts once Luna enters Gemini and connects with Neptune this afternoon. Sneak away to focus on your long-term goals, using your imagination and practical mind to build a solid path toward tomorrow. You'll find power in transformation when Mars and Pluto unite later today."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-01-28",
+  "horoscope": "Themes around commitment and personal growth come into view, dear Cancer, as the Gemini Moon, Aquarius Sun, and nodes of fate activate. It may take some effort to evolve your routines and ways of thinking, but the health of your relationships likely depends on your ability to grow. If you feel secure in romantic or professional partnerships, trust that you're on the right track. Internal shifts act as a starting point, so be mindful to initiate change from within. Keep a positive outlook and practice self-love to support yourself through upcoming transitions while Mercury and Venus stir this afternoon."
+}
+
