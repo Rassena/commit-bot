@@ -246,3 +246,9 @@
   "horoscope": "Focus on beautifying your home, dearest Aquarius, as Luna enters Taurus and your solar fourth house. This luminary placement emphasizes the importance of ambiance and how one's space acts as the backdrop for major life moments. Improving your surroundings will benefit your mood and confidence, and make it easier to relax during your downtime. Drama could unfold when Mars and Pluto become agitated this afternoon, especially with family or housemates. If you're going to take charge and make interior changes, try not to ruffle feathers. Tonight's quarter Moon may leave you feeling exhausted, so be mindful to get plenty of rest."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-01-28",
+  "horoscope": "The heart and ego may be at odds this morning, dear Aquarius, as the Gemini Moon, Sun, and nodes of fate align. If conflict arises, try to examine if you're fighting for a good reason or simply digging your heels in. Breaking your own stubborn patterns could inspire others to do the same, leading to important shifts in your relationships. Joyful vibes flow once afternoon rolls in, thanks to sweet connections between Luna, Mercury, and Venus. Coax peers out of their shells with a bit of playful banter to lighten the mood. Your flirty side might also make an appearance, and you'll easily enchant those you set your eye on."
+}
+
