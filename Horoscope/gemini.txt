@@ -238,3 +238,9 @@
   "horoscope": "Reality checks are in store, darling Gemini, as the Taurus Moon aspects the nodes of fate, Mercury, and Venus. Though it's important to approach major goals through a mindful or spiritual lens, these vibes force you to take matters into your own hands. Everyone's luck runs out at some point, but responsible planning and a willingness to grow will help you achieve success on your own terms. Meanwhile, Neptune migrates into Aries, altering the way we perceive dreams, hope, and collective consciousness throughout the next fourteen years. Your social sphere is likely to shift, bringing dreamy, exuberant connections your way. Meditate on what you're grateful for to call in more blessings while Luna aligns with Jupiter this evening."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-01-28",
+  "horoscope": "You may become overwhelmed by too many options, dearest Gemini, as Luna aspects the Sun and nodes of fate. Your emotional and practical minds could pull you in various directions, hindering your ability to move forward. If you cannot find the answers within, consider stepping back to meditate or seek advice. Wise counsel will be easy to gain when Luna aligns with Mercury and Venus this afternoon. Bring your questions to a trusted advisor or mentor, but remember that you must draw your own conclusions. With the Moon active in your sign, trust that your intuition will not lead you astray."
+}
+
