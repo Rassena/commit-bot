@@ -305,3 +305,9 @@
   "horoscope": "Prioritize comfort over acceptance, dearest Scorpio. As the Gemini Moon, Aquarius Sun, and nodes of fate align, your ability to read others increases. Unfortunately, you won't like everything you see or hear, and you'll prefer cozy environments to crowded ones. Feeling disenchanted with peers may also cause you to feel lost in a sea of faces you're not keen on impressing in the first place. Instead of putting yourself out there, relish the ease that exists within your own little world. Intimate interactions lift your spirits while Mercury and Venus activate this afternoon, nudging you toward those you love."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-01-28",
+  "horoscope": "Prioritize comfort over acceptance, dearest Scorpio. As the Gemini Moon, Aquarius Sun, and nodes of fate align, your ability to read others increases. Unfortunately, you won't like everything you see or hear, and you'll prefer cozy environments to crowded ones. Feeling disenchanted with peers may also cause you to feel lost in a sea of faces you're not keen on impressing in the first place. Instead of putting yourself out there, relish the ease that exists within your own little world. Intimate interactions lift your spirits while Mercury and Venus activate this afternoon, nudging you toward those you love."
+}
+
