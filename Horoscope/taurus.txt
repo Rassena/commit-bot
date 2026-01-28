@@ -149,3 +149,9 @@
   "horoscope": "Your morning gets off to a disjointed start, dear Taurus, as Luna aspects the nodes of fate, Mercury, and Venus. Plans you've been diligently working on from behind the scenes could hit unforeseen snags, forcing you to retreat and reevaluate. Major shifts are underway once Neptune enters Aries, marking a significant period of introspection and mental readjustment. The next fourteen years will dramatically reshape how you feel about yourself, your dreams, and the cycles that rule your life. Allow your optimistic side to lead the way and cook up new ventures when Luna aligns with Jupiter this evening."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-01-28",
+  "horoscope": "Stand your ground to avoid unnecessary trouble, dear Taurus, as the Gemini Moon, Aquarius Sun, and nodes of fate activate. Peers could lead you into precarious situations, triggering harsh realizations around who is and isn't looking out for you. Luckily, you'll have a chance to explain yourself and evade bigger issues once Mercury stirs this afternoon. Take accountability for any poor choices you made, but don't assume blame that isn't fully yours. A boost to your financial situation may emerge while Venus is activated. Speak up if you spot an opportunity to earn more money or gain professional recognition."
+}
+
