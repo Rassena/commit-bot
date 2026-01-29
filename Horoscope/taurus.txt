@@ -155,3 +155,9 @@
   "horoscope": "Stand your ground to avoid unnecessary trouble, dear Taurus, as the Gemini Moon, Aquarius Sun, and nodes of fate activate. Peers could lead you into precarious situations, triggering harsh realizations around who is and isn't looking out for you. Luckily, you'll have a chance to explain yourself and evade bigger issues once Mercury stirs this afternoon. Take accountability for any poor choices you made, but don't assume blame that isn't fully yours. A boost to your financial situation may emerge while Venus is activated. Speak up if you spot an opportunity to earn more money or gain professional recognition."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-01-29",
+  "horoscope": "Professional alliances come in handy, dear Taurus, as Mercury and Venus unite. Remember that individual success is typically part of a greater effort, and appreciate the support network that helps you move upwards. When it comes to matters of the heart, touch base with your partner about shared goals and the time it will take to achieve them. A gentle connection between the Gemini Moon and Chiron reinforces your self-worth, making it easier to honor and articulate what you deserve. You could feel slightly out of place when Saturn stirs this afternoon, but don't bend over backwards trying to fit in where you're not comfortable. Luna's debut into Cancer brings compassion to the air, softening your interactions."
+}
+
