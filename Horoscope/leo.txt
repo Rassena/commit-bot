@@ -250,3 +250,9 @@
   "horoscope": "Celebrate recent wins with a bit of leisure, dear Leo. As Luna enters earthy Taurus, you're reminded of the importance of taking breaks to appreciate your accomplishments. It may be difficult to fully relax while Mars and Pluto activate throughout the afternoon, especially when in the company of others. Surround yourself with people who bring a sense of ease, or your Sunday could quickly head south. Placing too much pressure on yourself will also threaten your peace, challenging your ability to rest. Use tonight's quarter Moon to catch up on self-care, keeping a pen and paper handy as new ideas or strategies come through."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-01-29",
+  "horoscope": "You'll be in bubbly and loving spirits today, dearest Leo, thanks to a sweet union between Mercury and Venus. Show kindness to everyone you encounter, and your actions will be enthusiastically mirrored. Clarity and harmony fill you with ease, and you'll have a gift for helping loved ones find their own peace. Try to see the good in humanity while the Gemini Moon and Chiron align, and perpetuate messages of acceptance and compassion. Jealousy could brew amongst those who are unsatisfied when Saturn becomes agitated this afternoon, but don't let peers dampen your successes. Get home early and enjoy some quiet time once Luna enters Cancer."
+}
+
