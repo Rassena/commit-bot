@@ -287,3 +287,9 @@
   "horoscope": "A lack of optimism could prevent you from receiving blessings or signs from beyond, dearest Capricorn. Do your best to maintain a mindful and grateful disposition while the Gemini Moon, Aquarius Sun, and nodes of fate activate this morning. Support your body to ensure clarity of mind when Mercury and Venus stir this afternoon. Treat yourself to a nutritious yet tasty lunch, and try to get in a short walk before returning to daily tasks. Though gentle movement might not be part of your usual midday routine, this simple act of self-care will provide immediate benefits to your overall well-being."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-01-29",
+  "horoscope": "You'll be a smooth talker as Mercury and Venus unite, dearest Capricorn, making it easier to get what you want. Know what you bring to the table and don't be afraid to push for better opportunities or compensation. The correlation between words and manifestation will also be magnified, marking the ideal time to speak your desires to the other side. Visualizing or journaling your dreams coming to fruition in great detail can be helpful as well. Be of service to loved ones while the Gemini Moon and Chiron align, showing love through thoughtful gestures. Don't lose track of your own agenda once Saturn activates this afternoon. Romance finds you later today when Luna enters Cancer."
+}
+
