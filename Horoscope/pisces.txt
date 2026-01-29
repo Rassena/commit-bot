@@ -259,3 +259,9 @@
   "horoscope": "Luna makes her debut in Taurus, dear Pisces, asking you to communicate with your surroundings. The universe draws a direct correlation between the material realms and your internal dialogue, making the world seem more alive. Your senses heighten, and new details come into focus, allowing you to ground. Enjoy some fresh air and listen for messages from Mother Nature. Retreat to a space that is yours alone while Mars and Pluto activate this afternoon, stirring up the psyche. Tonight's quarter Moon asks your shadow to come out to play, and it's important that you feel safe in your environment."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-01-29",
+  "horoscope": "You'll feel happiest within your own little world, dear Pisces. As Mercury and Venus join forces in the sector of your chart that governs introspection, solitude offers major benefits. Your focus sharpens with no distractions to steer you off course, helping you gain traction to manifest big visions. A desire to connect with trusted allies will remain present, so take small breaks to interact with your closest companions. Feed your heart with nostalgic pleasures while the Gemini Moon and Chiron align. Saturn activates this afternoon, reminding you that you're responsible for your own path to success. Shift gears and prioritize fun once Luna enters Cancer later today."
+}
+
