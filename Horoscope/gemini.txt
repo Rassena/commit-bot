@@ -244,3 +244,9 @@
   "horoscope": "You may become overwhelmed by too many options, dearest Gemini, as Luna aspects the Sun and nodes of fate. Your emotional and practical minds could pull you in various directions, hindering your ability to move forward. If you cannot find the answers within, consider stepping back to meditate or seek advice. Wise counsel will be easy to gain when Luna aligns with Mercury and Venus this afternoon. Bring your questions to a trusted advisor or mentor, but remember that you must draw your own conclusions. With the Moon active in your sign, trust that your intuition will not lead you astray."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-01-29",
+  "horoscope": "Mercury and Venus unite in your solar ninth house, dear Gemini, asking you to believe in magick. Now is the time to make wishes, set high hopes, and push yourself to go the distance. You'll receive guidance and blessings along the way if you proceed mindfully and with an open heart. As Luna continues through your sign and aligns with Chiron, helping hands will emerge. Don't be embarrassed to ask your community for help when you need it. Try not to be discouraged if not everyone is in your corner while Saturn becomes agitated. Top of your day with a nurturing treat once Luna enters Cancer."
+}
+
