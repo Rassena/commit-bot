@@ -197,3 +197,9 @@
   "horoscope": "Your heart shines brightly and attracts positive attention, dearest Libra. As Mercury and Venus unite in your solar fifth house, live authentically to call in your tribe. Romantic connections heat up, especially when you devote more time and energy to your own interests and passions. Continue down the path of character development, and your relationships will surely thrive. A spiritual charge softens your interactions while the Gemini Moon and Chiron align, presenting a chance to bury conflict and soothe wounds. Saturn nudges you to focus on bigger dreams this afternoon, insisting that you get your affairs in order. Work on building stability at home once Luna enters Cancer later today."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-01-29",
+  "horoscope": "Your heart shines brightly and attracts positive attention, dearest Libra. As Mercury and Venus unite in your solar fifth house, live authentically to call in your tribe. Romantic connections heat up, especially when you devote more time and energy to your own interests and passions. Continue down the path of character development, and your relationships will surely thrive. A spiritual charge softens your interactions while the Gemini Moon and Chiron align, presenting a chance to bury conflict and soothe wounds. Saturn nudges you to focus on bigger dreams this afternoon, insisting that you get your affairs in order. Work on building stability at home once Luna enters Cancer later today."
+}
+
