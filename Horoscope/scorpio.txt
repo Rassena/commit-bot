@@ -341,3 +341,9 @@
   "horoscope": "Show extra attention to your family and childhood friends, beloved Scorpio, as Mercury and Venus join forces. This celestial union radiates warmth from your home and your close connections, qualities that cannot be replicated elsewhere. If you've been feeling blue or out of sorts, allow love to set you right. Giving in to rest can also be beneficial if your energy levels have recently dipped. A sweet connection between the Gemini Moon and Chiron encourages you to sprinkle small moments of wellness into your agenda. The ambiance may grow rigid once Saturn activates this afternoon, but it's important to focus on yourself rather than push others to open up. Your world becomes lighter and full of possibilities after Luna enters Cancer later today."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-01-31",
+  "horoscope": "Make health and wellness part of your spiritual journey, dear Scorpio, as the Cancer Moon and Chiron align. You'll be in a thrill-seeking mood once Uranus and Saturn activate this afternoon, and loved ones will eagerly explore by your side. Creative pursuits should also be nurtured, especially if you've been discussing potential collaborations. The vibes are right for bringing artistic minds together, but it may fall on you to take charge. Outline a structured plan that aligns schedules and visions so the real work can begin. Pieces of your puzzle snap seamlessly into place when Luna enters Leo and aspects Neptune. Pull back to rest at home while Pluto stirs tonight, or you could hit an emotional wall."
+}
+
