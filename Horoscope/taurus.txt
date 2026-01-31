@@ -161,3 +161,9 @@
   "horoscope": "Professional alliances come in handy, dear Taurus, as Mercury and Venus unite. Remember that individual success is typically part of a greater effort, and appreciate the support network that helps you move upwards. When it comes to matters of the heart, touch base with your partner about shared goals and the time it will take to achieve them. A gentle connection between the Gemini Moon and Chiron reinforces your self-worth, making it easier to honor and articulate what you deserve. You could feel slightly out of place when Saturn stirs this afternoon, but don't bend over backwards trying to fit in where you're not comfortable. Luna's debut into Cancer brings compassion to the air, softening your interactions."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-01-31",
+  "horoscope": "Recite positive mantras and set clear intentions for the day, dear Taurus, as the Cancer Moon and Chiron square off. You'll be in need of playful distractions while Uranus and Saturn stir this afternoon, and you should make arrangements to meet up with friends. Think outside the box when making plans, giving your brain new sights and sounds to take in. The ambiance will be warm and mellow as evening descends and Luna enters Leo. A sweet connection with Neptune lures you toward solitude and the safety of home. Unchecked emotions could grow destructive later tonight once Pluto grows restless."
+}
+
