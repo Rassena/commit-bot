@@ -167,3 +167,9 @@
   "horoscope": "Recite positive mantras and set clear intentions for the day, dear Taurus, as the Cancer Moon and Chiron square off. You'll be in need of playful distractions while Uranus and Saturn stir this afternoon, and you should make arrangements to meet up with friends. Think outside the box when making plans, giving your brain new sights and sounds to take in. The ambiance will be warm and mellow as evening descends and Luna enters Leo. A sweet connection with Neptune lures you toward solitude and the safety of home. Unchecked emotions could grow destructive later tonight once Pluto grows restless."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-02-01",
+  "horoscope": "Mars grows agitated early this morning, creating a sense of urgency. Have patience for your journey and approach each obstacle with respect, darling bull. Calculated problem-solving will get you further than barreling forward without a plan, even if the process unfolds more slowly. The importance of rest is highlighted while the Leo Full Moon rises later today. This astrological event may trigger exhaustion and unpredictable moods, making self-care extremely important. Ignoring your needs won't make them disappear, and Luna's glow urges you to slow down. Retreat to your home, unapologetically embracing all that is cozy and restorative to end your Sunday on a high note."
+}
+
