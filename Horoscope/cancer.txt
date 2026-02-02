@@ -227,3 +227,9 @@
   "horoscope": "Themes around commitment and personal growth come into view, dear Cancer, as the Gemini Moon, Aquarius Sun, and nodes of fate activate. It may take some effort to evolve your routines and ways of thinking, but the health of your relationships likely depends on your ability to grow. If you feel secure in romantic or professional partnerships, trust that you're on the right track. Internal shifts act as a starting point, so be mindful to initiate change from within. Keep a positive outlook and practice self-love to support yourself through upcoming transitions while Mercury and Venus stir this afternoon."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-02-02",
+  "horoscope": "You are entitled to say &quot;no,&quot; take space, and set boundaries, dearest Cancer. As the energy of yesterday's Full Moon settles, create an environment that is comfortable for you. Venus, Mercury, Chiron, and Uranus activate throughout the day, stirring up tensions and unpredictable behaviors. Tending to your heart, body, and mind is the only surefire way to stay in control of your own emotions. Healthy partners will reinforce your position and do what they can to make your life easier. Your thoughts become clearer once Luna enters Virgo later tonight, helping you identify a way around obstacles or personal problems."
+}
+
