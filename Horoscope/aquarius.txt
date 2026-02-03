@@ -252,3 +252,9 @@
   "horoscope": "The heart and ego may be at odds this morning, dear Aquarius, as the Gemini Moon, Sun, and nodes of fate align. If conflict arises, try to examine if you're fighting for a good reason or simply digging your heels in. Breaking your own stubborn patterns could inspire others to do the same, leading to important shifts in your relationships. Joyful vibes flow once afternoon rolls in, thanks to sweet connections between Luna, Mercury, and Venus. Coax peers out of their shells with a bit of playful banter to lighten the mood. Your flirty side might also make an appearance, and you'll easily enchant those you set your eye on."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-02-03",
+  "horoscope": "Youll crave change as the Virgo Moon forms unbalanced aspects with Mars and Pluto, but may struggle to reinvent yourself. Try to keep in mind that true transformation is an incremental process, sweet Aquarius. Rushing progress could make you appear inauthentic, while appreciating the journey will provide invaluable wisdom. The universe also highlights how certain relationships or commitments can stifle growth. If youve missed out on important opportunities due to conflicting agreements, you may need to shift your priorities. Releasing dead weight will help you gain momentum on the path ahead when the nodes of fate stir."
+}
+
