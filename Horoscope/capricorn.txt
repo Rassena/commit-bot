@@ -293,3 +293,9 @@
   "horoscope": "You'll be a smooth talker as Mercury and Venus unite, dearest Capricorn, making it easier to get what you want. Know what you bring to the table and don't be afraid to push for better opportunities or compensation. The correlation between words and manifestation will also be magnified, marking the ideal time to speak your desires to the other side. Visualizing or journaling your dreams coming to fruition in great detail can be helpful as well. Be of service to loved ones while the Gemini Moon and Chiron align, showing love through thoughtful gestures. Don't lose track of your own agenda once Saturn activates this afternoon. Romance finds you later today when Luna enters Cancer."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-02-03",
+  "horoscope": "Show gratitude for what you already have before asking the universe to provide additional blessings. As the Virgo Moon forms unbalanced aspects to Pluto and Mars, dreaming of greener pastures may leave your surroundings feeling desolate. You could also lose sight of valuable resources at your disposal, leading to an unnecessary drain on your finances. Make an attempt to give old items, projects, or goals new life before blazing new trails. Luck is on your side while the nodes of fate stir. Past wishes could finally manifest, even if your sighs have turned to other aspirations."
+}
+
