@@ -256,3 +256,9 @@
   "horoscope": "Mercury and Venus unite in your solar ninth house, dear Gemini, asking you to believe in magick. Now is the time to make wishes, set high hopes, and push yourself to go the distance. You'll receive guidance and blessings along the way if you proceed mindfully and with an open heart. As Luna continues through your sign and aligns with Chiron, helping hands will emerge. Don't be embarrassed to ask your community for help when you need it. Try not to be discouraged if not everyone is in your corner while Saturn becomes agitated. Top of your day with a nurturing treat once Luna enters Cancer."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-02-03",
+  "horoscope": "Dont let minor inconveniences become a stopping point for you today, dear Gemini. As the Virgo Moon forms unbalanced aspects with Pluto and Mars, stress multiplies and perfectionist attitudes rise to the surface. While its important to treat your dreams with the care and respect they deserve, you should also be mindful to go with the flow when plans cant be perfectly executed. You may decide that its time to start fresh while the nodes of fate activate. Though youll feel tempted to reevaluate and edit your work, heightened emotions could cause you to self-restrict in the process."
+}
+
