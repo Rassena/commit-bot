@@ -258,3 +258,9 @@
   "horoscope": "Youll crave change as the Virgo Moon forms unbalanced aspects with Mars and Pluto, but may struggle to reinvent yourself. Try to keep in mind that true transformation is an incremental process, sweet Aquarius. Rushing progress could make you appear inauthentic, while appreciating the journey will provide invaluable wisdom. The universe also highlights how certain relationships or commitments can stifle growth. If youve missed out on important opportunities due to conflicting agreements, you may need to shift your priorities. Releasing dead weight will help you gain momentum on the path ahead when the nodes of fate stir."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-02-03",
+  "horoscope": "Youll crave change as the Virgo Moon forms unbalanced aspects with Mars and Pluto, but may struggle to reinvent yourself. Try to keep in mind that true transformation is an incremental process, sweet Aquarius. Rushing progress could make you appear inauthentic, while appreciating the journey will provide invaluable wisdom. The universe also highlights how certain relationships or commitments can stifle growth. If youve missed out on important opportunities due to conflicting agreements, you may need to shift your priorities. Releasing dead weight will help you gain momentum on the path ahead when the nodes of fate stir."
+}
+
