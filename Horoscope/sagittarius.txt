@@ -311,3 +311,9 @@
   "horoscope": "Take stock of your multiple interests and passions, dear archer. As the Aries Moon travels through your house of talent and self-expression, creative juices flow freely. However, lacking a specific vision could leave you with half-finished projects that never reach their full potential. Narrow down artistic visions to fully dedicate yourself to one or two goals. The energy grows restless once Luna squares Jupiter midafternoon, and you may need a breather to blow off steam. Go out and have fun with friends, but avoid competitive dynamics. Connect with your heart center and acknowledge what it needs to heal when Chiron stirs later tonight."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-02-03",
+  "horoscope": "Youll be eager to build a strong reputation, dear archer, as the Virgo Moon aligns with Pluto, Mars, and the nodes of fate. However, this sense of urgency can easily mislead you, leading to embarrassing fumbles while all eyes are on you. Remember that good ideas take significant time and patience to execute. Rushing toward the finish line wont make you look refined or responsible to your peers. When inspiration strikes, let plans marinate so you can fill in the missing details. Take the night off to rest, then get back to work feeling renewed and in control."
+}
+
