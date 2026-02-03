@@ -256,3 +256,9 @@
   "horoscope": "You'll be in bubbly and loving spirits today, dearest Leo, thanks to a sweet union between Mercury and Venus. Show kindness to everyone you encounter, and your actions will be enthusiastically mirrored. Clarity and harmony fill you with ease, and you'll have a gift for helping loved ones find their own peace. Try to see the good in humanity while the Gemini Moon and Chiron align, and perpetuate messages of acceptance and compassion. Jealousy could brew amongst those who are unsatisfied when Saturn becomes agitated this afternoon, but don't let peers dampen your successes. Get home early and enjoy some quiet time once Luna enters Cancer."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-02-03",
+  "horoscope": "Dont waste your time on relationships that have repeatedly caused you to feel insecure. As the Virgo Moon aspects Pluto, Mars, and the nodes of fate, youre called upon to make tough decisions. Choose paths that will empower you in the end, fierce lion. The process of ending unhealthy cycles is rarely an easy one, especially when they are of the romantic variety. Try not to be swayed by smooth talkers, but consider giving others a chance to prove themselves through concrete action. If true love is at stake, you should be mindful of how your own jealousy or insecurities play into the overall picture."
+}
+
