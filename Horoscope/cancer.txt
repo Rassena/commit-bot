@@ -245,3 +245,9 @@
   "horoscope": "You are entitled to say &quot;no,&quot; take space, and set boundaries, dearest Cancer. As the energy of yesterday's Full Moon settles, create an environment that is comfortable for you. Venus, Mercury, Chiron, and Uranus activate throughout the day, stirring up tensions and unpredictable behaviors. Tending to your heart, body, and mind is the only surefire way to stay in control of your own emotions. Healthy partners will reinforce your position and do what they can to make your life easier. Your thoughts become clearer once Luna enters Virgo later tonight, helping you identify a way around obstacles or personal problems."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-02-04",
+  "horoscope": "The Virgo Moon and Jupiter align early this morning, expanding your mind while building confidence. Use this energy to elaborate on ideas or personal goals you've been working on, dearest Cancer, trusting your visions will go far. Supportive alliances will give you the courage to overcome self-restricting cycles, thanks to a yod between Luna, Venus, and Chiron this afternoon. Negotiations, commitments, and partnerships will all work in your favor under these cosmic conditions. Seek company with your weirdest and most brilliant companions when Uranus activates this evening. Connect with your spirituality and show devotion to your higher power once Saturn stirs tonight."
+}
+
