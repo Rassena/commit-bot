@@ -264,3 +264,9 @@
   "horoscope": "Youll crave change as the Virgo Moon forms unbalanced aspects with Mars and Pluto, but may struggle to reinvent yourself. Try to keep in mind that true transformation is an incremental process, sweet Aquarius. Rushing progress could make you appear inauthentic, while appreciating the journey will provide invaluable wisdom. The universe also highlights how certain relationships or commitments can stifle growth. If youve missed out on important opportunities due to conflicting agreements, you may need to shift your priorities. Releasing dead weight will help you gain momentum on the path ahead when the nodes of fate stir."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-02-04",
+  "horoscope": "Small changes amount to major transformations if you have the patience to see them through, dear Aquarius. As the Virgo Moon and Jupiter align, follow the path that leads to your best life. Clearly articulate your needs and desires when Luna, Venus, and Chiron form a rare yod this afternoon. If you've been going with the flow or feel consistently brushed aside, now is the time for self-advocacy. Business and romantic partnerships will be especially important to focus on as you navigate these themes. Avoid digging your heels in and take space to rest once Uranus and Saturn stir tonight."
+}
+
