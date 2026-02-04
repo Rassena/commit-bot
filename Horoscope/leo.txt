@@ -262,3 +262,9 @@
   "horoscope": "Dont waste your time on relationships that have repeatedly caused you to feel insecure. As the Virgo Moon aspects Pluto, Mars, and the nodes of fate, youre called upon to make tough decisions. Choose paths that will empower you in the end, fierce lion. The process of ending unhealthy cycles is rarely an easy one, especially when they are of the romantic variety. Try not to be swayed by smooth talkers, but consider giving others a chance to prove themselves through concrete action. If true love is at stake, you should be mindful of how your own jealousy or insecurities play into the overall picture."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-02-04",
+  "horoscope": "You could awaken to pleasant surprises, dear Leo, as the Virgo Moon and Jupiter conspire to make dreams come true. Pass along your good fortune when Luna, Venus, and Chiron form a rare yod this afternoon. Showering loved ones with affection, kindness, and compassion will go far in elevating important relationships. Soul connections also benefit from these vibes, and romantic developments may send tingles down your spine. Act quickly if financial or professional opportunities arise after Uranus activates later this evening. Just be mindful to advocate for yourself if negotiations arise while Saturn becomes disgruntled tonight."
+}
+
