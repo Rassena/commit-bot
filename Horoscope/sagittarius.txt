@@ -317,3 +317,9 @@
   "horoscope": "Youll be eager to build a strong reputation, dear archer, as the Virgo Moon aligns with Pluto, Mars, and the nodes of fate. However, this sense of urgency can easily mislead you, leading to embarrassing fumbles while all eyes are on you. Remember that good ideas take significant time and patience to execute. Rushing toward the finish line wont make you look refined or responsible to your peers. When inspiration strikes, let plans marinate so you can fill in the missing details. Take the night off to rest, then get back to work feeling renewed and in control."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-02-04",
+  "horoscope": "The Virgo Moon and Jupiter align early this morning, asking you to approach the day with a refined and empowered attitude. Simplify your agenda by focusing on small yet significant tasks that will keep you moving in the right direction. You'll feel more aware of just how valuable your talents, intellect, and experiences are when Luna, Venus, and Chiron enter a rare yod formation this afternoon. Now is a good time to push for your own ideas or projects, especially if they can lead to a boost in status or career growth. Work toward building consistent nighttime routines to promote emotional balance once Uranus and Saturn activate tonight."
+}
+
