@@ -173,3 +173,9 @@
   "horoscope": "Mars grows agitated early this morning, creating a sense of urgency. Have patience for your journey and approach each obstacle with respect, darling bull. Calculated problem-solving will get you further than barreling forward without a plan, even if the process unfolds more slowly. The importance of rest is highlighted while the Leo Full Moon rises later today. This astrological event may trigger exhaustion and unpredictable moods, making self-care extremely important. Ignoring your needs won't make them disappear, and Luna's glow urges you to slow down. Retreat to your home, unapologetically embracing all that is cozy and restorative to end your Sunday on a high note."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-02-05",
+  "horoscope": "Embrace activities that help you feel your best, dear Taurus. As Luna enters Libra and the sector of your chart that governs health, work, and routine, wellness becomes a top priority. Take steps to improve your physical state and sense of order to ensure you thrive each day. Competitive peers may try to plant seeds of doubt when Mercury and Uranus square off. Brush negative comments to the side, ensuring they don't lead to self-restricting behaviors. Make adjustments to your highest aspirations while Pluto and Mars stir this evening, rekindling the determination to see them through."
+}
+
