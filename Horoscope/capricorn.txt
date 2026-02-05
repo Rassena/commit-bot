@@ -317,3 +317,9 @@
   "horoscope": "Sometimes love grows during the quiet and still moments, dear Capricorn. As the Virgo Moon and Jupiter align early this morning, you will awaken with a deepened gratitude for those you adore most. Enter the day with a warm heart and mindful disposition to spread these harmonious vibes. Release emotions that negatively impact your self-worth when Luna, Venus, and Chiron create a rare yod formation this afternoon. If you are willing to believe in yourself and look on the bright side of life, you could receive major blessings. Bring structure to your creative ideas once Uranus and Saturn activate tonight."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-02-05",
+  "horoscope": "Lead with grace but don't lose your authority, dear Capricorn. As the Moon enters Libra, you have the ability to rise within your field. Show that you're not afraid to take charge, elevating your expectations and those of your peers without putting unnecessary pressure on them. Avoid commenting on other people's spending habits when Mercury squares Uranus, or unexpected drama could erupt. Focus on grounding and creative projects if your own world starts to speed up. Make a plan to clear away debts once Pluto stirs this evening. Get serious about money-making goals while Mars is activated, outlining a workable strategy you can move forward with."
+}
+
