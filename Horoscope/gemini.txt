@@ -262,3 +262,9 @@
   "horoscope": "Dont let minor inconveniences become a stopping point for you today, dear Gemini. As the Virgo Moon forms unbalanced aspects with Pluto and Mars, stress multiplies and perfectionist attitudes rise to the surface. While its important to treat your dreams with the care and respect they deserve, you should also be mindful to go with the flow when plans cant be perfectly executed. You may decide that its time to start fresh while the nodes of fate activate. Though youll feel tempted to reevaluate and edit your work, heightened emotions could cause you to self-restrict in the process."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-02-05",
+  "horoscope": "You'll benefit from some extra pep in your step as the Moon enters Libra, dearest Gemini. View the world through a creative lens, and direct more energy toward recreational activities. The universe sends many messages your way while Mercury squares Uranus. Document ideas or epiphanies as they emerge for later review. Spending time with friends acts as a cathartic experience when Luna aspects Pluto and Mars this evening. Matters of the heart may also intensify, putting you and your partner in a passionate, intimate mood. If you're hoping to level up your connections, arrange an adventure with your sweetheart."
+}
+
