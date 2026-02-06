@@ -265,3 +265,9 @@
   "horoscope": "You'll feel happiest within your own little world, dear Pisces. As Mercury and Venus join forces in the sector of your chart that governs introspection, solitude offers major benefits. Your focus sharpens with no distractions to steer you off course, helping you gain traction to manifest big visions. A desire to connect with trusted allies will remain present, so take small breaks to interact with your closest companions. Feed your heart with nostalgic pleasures while the Gemini Moon and Chiron align. Saturn activates this afternoon, reminding you that you're responsible for your own path to success. Shift gears and prioritize fun once Luna enters Cancer later today."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-02-06",
+  "horoscope": "Seek private spaces where you are free to artistically explore, darling Pisces, as the Libra Moon aspects Jupiter and the Aquarius Sun. Creative thoughts flow freely, but peer competition will heat up. Without the pressure of leering eyes, you'll feel more comfortable honing skills and embracing self-expression. There will be many opportunities to capture the attention of others throughout the coming weeks, thanks to Mercury's debut in your sign. Refine your goals and messages before making them public, but don't hold back when you're ready to be seen. Work on healing financial trauma while Chiron stirs later tonight."
+}
+
