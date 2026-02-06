@@ -329,3 +329,9 @@
   "horoscope": "Prepare to make some adjustments, darling Capricorn, as the Libra Moon aligns with Jupiter and the Aquarius Sun. Professional breakthroughs linger on the horizon, increasing your responsibilities and notoriety. The thrill of fresh success helps you navigate changes as they come, but you'll need to be mindful of how to maintain balance in the long term. Meanwhile, Mercury debuts into sensitive Pisces, helping you open up to loved ones throughout the coming weeks. Share your feelings so others will do the same, solidifying friendships for life. Work on healing disappointments that stem from your childhood when Chiron stirs later tonight."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-02-06",
+  "horoscope": "Prepare to make some adjustments, darling Capricorn, as the Libra Moon aligns with Jupiter and the Aquarius Sun. Professional breakthroughs linger on the horizon, increasing your responsibilities and notoriety. The thrill of fresh success helps you navigate changes as they come, but you'll need to be mindful of how to maintain balance in the long term. Meanwhile, Mercury debuts into sensitive Pisces, helping you open up to loved ones throughout the coming weeks. Share your feelings so others will do the same, solidifying friendships for life. Work on healing disappointments that stem from your childhood when Chiron stirs later tonight."
+}
+
