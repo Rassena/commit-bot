@@ -209,3 +209,9 @@
   "horoscope": "The Moon keeps busy in your sign this morning, sweet Libra, aligning with Jupiter and the Aquarius Sun. A burst of motivation inspires you to take on more projects or responsibilities, helping you break out of stagnant cycles. However, its important to consider what you can realistically take on, or you will soon hit an energetic wall that is difficult to overcome. Elevate your wellness practices by focusing on mind-body integration throughout the coming weeks once Mercury enters Pisces this afternoon. Loved ones may require extra attention when Chiron stirs later tonight, but dont compromise your own sense of balance while tending to others."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-02-06",
+  "horoscope": "The Moon keeps busy in your sign this morning, sweet Libra, aligning with Jupiter and the Aquarius Sun. A burst of motivation inspires you to take on more projects or responsibilities, helping you break out of stagnant cycles. However, its important to consider what you can realistically take on, or you will soon hit an energetic wall that is difficult to overcome. Elevate your wellness practices by focusing on mind-body integration throughout the coming weeks once Mercury enters Pisces this afternoon. Loved ones may require extra attention when Chiron stirs later tonight, but dont compromise your own sense of balance while tending to others."
+}
+
