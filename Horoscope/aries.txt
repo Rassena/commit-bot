@@ -313,3 +313,9 @@
   "horoscope": "A strange and spiritually charged energy surrounds you, dear Aries, as the Taurus Moon aspects Uranus and Saturn. Expand your perception of reality and look for tiny miracles. You'll feel elevated when in the presence of peers once Luna enters Gemini and aligns with visionary Neptune. These vibes are perfect for taking on leadership or public speaking roles. Allow your light to shine as you share knowledge, spread ideas, or spearhead collaborations. Your social position shifts while Mars and Pluto unite, though some bridges may collapse as you step onto higher ground. Don't let a fear of losing friends stop you from seeking the status you desire, trusting that true allies will stand by you."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-02-06",
+  "horoscope": "Spend time with people who celebrate your most authentic self, darling Aries. As the Libra Moon aligns with Jupiter and the Aquarius Sun, emotional grievances dissipate with each positive encounter you seek. Issues at home or conflict with family could be weighing on your psyche, and youll need a change of scenery to alleviate such woes. Mercurys debut into Pisces later today triggers a period of deep introspection, asking you to consider how your own patterns contribute to messy situations. Be extra kind to yourself when Luna and Chiron face off tonight. Offer yourself the grace and forgiveness you would bestow upon your closest companions."
+}
+
