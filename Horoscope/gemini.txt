@@ -268,3 +268,9 @@
   "horoscope": "You'll benefit from some extra pep in your step as the Moon enters Libra, dearest Gemini. View the world through a creative lens, and direct more energy toward recreational activities. The universe sends many messages your way while Mercury squares Uranus. Document ideas or epiphanies as they emerge for later review. Spending time with friends acts as a cathartic experience when Luna aspects Pluto and Mars this evening. Matters of the heart may also intensify, putting you and your partner in a passionate, intimate mood. If you're hoping to level up your connections, arrange an adventure with your sweetheart."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-02-06",
+  "horoscope": "Abundance must be found internally before it can hold meaning in the material realms, sweet Gemini. Boost confidence and invite in blessings by opening your heart to all of the beauty that flows within. Trust that even when circumstances spiral out of control, you have the power to support and elevate yourself. Youll mature emotionally throughout the coming weeks once Mercury enters Pisces midafternoon. Work on setting boundaries without dismissing what others are saying, thinking, or feeling. Take a social media cleanse and devote more time to artistic endeavors or personal interests while Luna and Chiron face off later tonight."
+}
+
