@@ -268,3 +268,9 @@
   "horoscope": "You could awaken to pleasant surprises, dear Leo, as the Virgo Moon and Jupiter conspire to make dreams come true. Pass along your good fortune when Luna, Venus, and Chiron form a rare yod this afternoon. Showering loved ones with affection, kindness, and compassion will go far in elevating important relationships. Soul connections also benefit from these vibes, and romantic developments may send tingles down your spine. Act quickly if financial or professional opportunities arise after Uranus activates later this evening. Just be mindful to advocate for yourself if negotiations arise while Saturn becomes disgruntled tonight."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-02-06",
+  "horoscope": "Youll feel deeply today, warm lion, but will struggle to express what lingers within. As the Libra Moon aspects Jupiter and the Aquarius Sun, romantic entanglements may preoccupy your thoughts. Unfortunately, it can be difficult to discern exactly what your heart desires. If youre not ready to bare your soul, seek soft moments with someone special. Or, find clarity through self-care practices. Focus heavily on long-term plans throughout the coming weeks once Mercury enters Pisces. Rather than rushing the seriousness of your relationships, build yourself up and work toward professional growth. Honor the magick within and embrace healing from the universe when Chiron stirs tonight."
+}
+
