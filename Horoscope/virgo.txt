@@ -281,3 +281,9 @@
   "horoscope": "Honor your instincts to avoid unnecessary messes, dear Virgo. As the Gemini Moon, Aquarius Sun, and nodes of fate align, well-meaning advice could lead you astray. Though you'll be tempted to go with the flow, stop to consider all the options before moving forward. Even minor decisions have the potential to snowball, so remember to take your time. If chaos prevails in the end, trust that you have the skills to solve issues as they arise. Mercury and Venus activate this afternoon, highlighting your superior organization and work ethic. Take charge of putting out fires, and you'll win the admiration of peers and gain praise from influential colleagues."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-02-06",
+  "horoscope": "Give extra attention to your body and less to your devices, beloved Virgo. Alleviate screen fatigue and sharpen focus as the Libra Moon aligns with Jupiter and the Aquarius Sun. This cosmic climate serves as a reminder that the material world offers much more than the digital one. A period of romance kicks off for you once Mercury enters Pisces later today. If youre in a relationship, feed your connection with late-night talks, romantic dates, and plenty of flirting. If youre single and looking for love, get proactive about meeting new people. Balancing your heart and mind will be the key to maintaining healthy dynamics."
+}
+
