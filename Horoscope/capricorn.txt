@@ -323,3 +323,9 @@
   "horoscope": "Lead with grace but don't lose your authority, dear Capricorn. As the Moon enters Libra, you have the ability to rise within your field. Show that you're not afraid to take charge, elevating your expectations and those of your peers without putting unnecessary pressure on them. Avoid commenting on other people's spending habits when Mercury squares Uranus, or unexpected drama could erupt. Focus on grounding and creative projects if your own world starts to speed up. Make a plan to clear away debts once Pluto stirs this evening. Get serious about money-making goals while Mars is activated, outlining a workable strategy you can move forward with."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-02-06",
+  "horoscope": "Prepare to make some adjustments, darling Capricorn, as the Libra Moon aligns with Jupiter and the Aquarius Sun. Professional breakthroughs linger on the horizon, increasing your responsibilities and notoriety. The thrill of fresh success helps you navigate changes as they come, but you'll need to be mindful of how to maintain balance in the long term. Meanwhile, Mercury debuts into sensitive Pisces, helping you open up to loved ones throughout the coming weeks. Share your feelings so others will do the same, solidifying friendships for life. Work on healing disappointments that stem from your childhood when Chiron stirs later tonight."
+}
+
