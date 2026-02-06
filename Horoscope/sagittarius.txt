@@ -323,3 +323,9 @@
   "horoscope": "The Virgo Moon and Jupiter align early this morning, asking you to approach the day with a refined and empowered attitude. Simplify your agenda by focusing on small yet significant tasks that will keep you moving in the right direction. You'll feel more aware of just how valuable your talents, intellect, and experiences are when Luna, Venus, and Chiron enter a rare yod formation this afternoon. Now is a good time to push for your own ideas or projects, especially if they can lead to a boost in status or career growth. Work toward building consistent nighttime routines to promote emotional balance once Uranus and Saturn activate tonight."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-02-06",
+  "horoscope": "Analyze any recent connections that have gotten too close too quickly, dear Sagittarius. The Libra Moon, Jupiter, and Aquarius Sun encourage you to look beyond the surface before inviting new people into your life. Tread carefully if you cant find much background information online and dont have any mutual friends. Quiet the mind, and your intuition will guide you once Mercury enters Pisces. You will crave more time at home and with family throughout the coming weeks, making it easier to create distance with anyone you are unsure about. Try not to obsess over what others might think or say about you when Chiron challenges your ego tonight."
+}
+
