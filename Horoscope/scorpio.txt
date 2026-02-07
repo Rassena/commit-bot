@@ -353,3 +353,9 @@
   "horoscope": "Your connections prove valuable this morning, dear Scorpio, thanks to a sweet connection between the Virgo Moon and Jupiter. Get up to date with peers and you may learn of exciting opportunities. Gravitate toward circles where compassion and healthy living are a priority once afternoon rolls in. Luna forms a rare yod with Venus and Chiron, putting you in the mood for community and wellness. Love connections and flirty interactions could emerge out of the blue when Uranus activates this evening. Resist the urge to stay up late scrolling feeds or messaging friends while the Moon opposes responsible Saturn tonight."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-02-07",
+  "horoscope": "You'll crave warm and homey environments this morning, dear Scorpio, as the Libra Moon and Venus align. Put off checking your phone or connecting with the outside world for as long as possible. Relishing simple moments with family will breathe sweetness into the soul. You'll have plenty of time to mingle and seek attention once Luna enters your sign. Start making plans to meet with friends as the afternoon creeps in. Mercury stirs later today, setting the scene for heartfelt interactions and belly laughs. Dark clouds emerge when Pluto becomes agitated this evening, but try to have compassion for yourself and others."
+}
+
