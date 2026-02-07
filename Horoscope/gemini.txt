@@ -286,3 +286,9 @@
   "horoscope": "Abundance must be found internally before it can hold meaning in the material realms, sweet Gemini. Boost confidence and invite in blessings by opening your heart to all of the beauty that flows within. Trust that even when circumstances spiral out of control, you have the power to support and elevate yourself. Youll mature emotionally throughout the coming weeks once Mercury enters Pisces midafternoon. Work on setting boundaries without dismissing what others are saying, thinking, or feeling. Take a social media cleanse and devote more time to artistic endeavors or personal interests while Luna and Chiron face off later tonight."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-02-07",
+  "horoscope": "Allow yourself to dream this morning, dear Gemini, as the Libra Moon and Venus align. Establish personal balance and an optimistic attitude as you work toward manifesting goals. You'll need to operate on a more practical wavelength once Luna enters Scorpio, emphasizing the importance of strategy and consistent effort. Share your plans with someone whose opinion you respect while Mercury stirs midafternoon. Soaking up the wisdom of a mentor will streamline your agenda to new heights. Identify generational habits that aren't serving you when Pluto activates this evening, vowing to break free from cycles that might otherwise hold you back."
+}
+
