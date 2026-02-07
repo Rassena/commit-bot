@@ -335,3 +335,9 @@
   "horoscope": "Prepare to make some adjustments, darling Capricorn, as the Libra Moon aligns with Jupiter and the Aquarius Sun. Professional breakthroughs linger on the horizon, increasing your responsibilities and notoriety. The thrill of fresh success helps you navigate changes as they come, but you'll need to be mindful of how to maintain balance in the long term. Meanwhile, Mercury debuts into sensitive Pisces, helping you open up to loved ones throughout the coming weeks. Share your feelings so others will do the same, solidifying friendships for life. Work on healing disappointments that stem from your childhood when Chiron stirs later tonight."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-02-07",
+  "horoscope": "The Libra Moon and Venus encourage you to reward yourself, darling Capricorn. As the weekend kicks off, don't feel guilty about enjoying the fruits of your labor. If you've been denying yourself simple pleasures, correct these behaviors immediately. Investigate unfamiliar pockets of your community once Luna enters Scorpio and aligns with Mercury this afternoon. New age stores, oddities shops, old cemeteries, gardens, caves, and exotic restaurants are all great places to start. Wherever the day leads you, make sure to feed your curious nature. Stay off your screens and find depth in your surroundings while Pluto stirs this evening."
+}
+
