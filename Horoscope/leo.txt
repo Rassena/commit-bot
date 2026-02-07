@@ -274,3 +274,9 @@
   "horoscope": "Youll feel deeply today, warm lion, but will struggle to express what lingers within. As the Libra Moon aspects Jupiter and the Aquarius Sun, romantic entanglements may preoccupy your thoughts. Unfortunately, it can be difficult to discern exactly what your heart desires. If youre not ready to bare your soul, seek soft moments with someone special. Or, find clarity through self-care practices. Focus heavily on long-term plans throughout the coming weeks once Mercury enters Pisces. Rather than rushing the seriousness of your relationships, build yourself up and work toward professional growth. Honor the magick within and embrace healing from the universe when Chiron stirs tonight."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-02-07",
+  "horoscope": "Romantic dreams and early morning cuddle sessions put you in a sweet mood, dearest Leo. Spread love and create harmonious environments as the Libra Moon and Venus align. Check in with yourself once Luna enters Scorpio, forcing you to face feelings you've been avoiding. Lying low at home can be helpful if you need extra rest or feel emotionally tender. Get to know loved ones better by asking deep questions when Mercury activates midafternoon. If others seem shy, volunteer your own stories first. Jealousy or possessiveness could impart serious damage to your relationships while Pluto becomes agitated this evening."
+}
+
