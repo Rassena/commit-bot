@@ -271,3 +271,9 @@
   "horoscope": "Seek private spaces where you are free to artistically explore, darling Pisces, as the Libra Moon aspects Jupiter and the Aquarius Sun. Creative thoughts flow freely, but peer competition will heat up. Without the pressure of leering eyes, you'll feel more comfortable honing skills and embracing self-expression. There will be many opportunities to capture the attention of others throughout the coming weeks, thanks to Mercury's debut in your sign. Refine your goals and messages before making them public, but don't hold back when you're ready to be seen. Work on healing financial trauma while Chiron stirs later tonight."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-02-07",
+  "horoscope": "A quiet and harmonious energy blesses you early this morning, Pisces, thanks to a sweet aspect between the Libra Moon and Venus. You should awaken feeling rested, but you may need extra time alone with your thoughts before interacting with others. A burst of joy puts you in the mood to connect on a soul level once Luna enters Scorpio. Grab a friend and do something adventurous to expand your horizons. Your influence reaches far corners when Mercury stirs midafternoon, so use your voice wisely. Release dark patterns and allow your light to flourish while Pluto activates this evening."
+}
+
