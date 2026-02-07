@@ -221,3 +221,9 @@
   "horoscope": "Enjoy soft moments that support your heart center, dear Libra. As Luna takes her final steps in your sign, a sweet aspect with Venus brings you closer to peace. A boost in creativity triggers exciting new visions and ventures. Follow through on these ideas as the Moon enters Scorpio, amplifying your connection with the material realms. Working with your hands will be particularly satisfying. Challenge your skill level and try to learn fresh techniques while Mercury activates midafternoon. Self-doubt could creep in when Pluto becomes agitated this evening. Pull back and rest if you start to lose patience with yourself."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-02-07",
+  "horoscope": "Enjoy soft moments that support your heart center, dear Libra. As Luna takes her final steps in your sign, a sweet aspect with Venus brings you closer to peace. A boost in creativity triggers exciting new visions and ventures. Follow through on these ideas as the Moon enters Scorpio, amplifying your connection with the material realms. Working with your hands will be particularly satisfying. Challenge your skill level and try to learn fresh techniques while Mercury activates midafternoon. Self-doubt could creep in when Pluto becomes agitated this evening. Pull back and rest if you start to lose patience with yourself."
+}
+
