@@ -251,3 +251,9 @@
   "horoscope": "The Virgo Moon and Jupiter align early this morning, expanding your mind while building confidence. Use this energy to elaborate on ideas or personal goals you've been working on, dearest Cancer, trusting your visions will go far. Supportive alliances will give you the courage to overcome self-restricting cycles, thanks to a yod between Luna, Venus, and Chiron this afternoon. Negotiations, commitments, and partnerships will all work in your favor under these cosmic conditions. Seek company with your weirdest and most brilliant companions when Uranus activates this evening. Connect with your spirituality and show devotion to your higher power once Saturn stirs tonight."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-02-08",
+  "horoscope": "An erratic and destructive energy permeates the air, dear Cancer. As Venus and Uranus square off,  harmonious relationships may suddenly feel unstable. Avoid tense topics and any surprises that might not be well-received. The Scorpio Moon and nodes of fate offer an alternate route, asking you to adopt a mindful and compassionate disposition. If others try to provoke you, respond with peacefulness. Your patience wears thin when Mars becomes agitated this afternoon. Stay busy with healthy activities to channel frustrations and sidestep drama. Jupiter activates in your sign this evening, encouraging you to make a heartfelt wish."
+}
+
