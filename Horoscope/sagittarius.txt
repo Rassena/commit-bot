@@ -335,3 +335,9 @@
   "horoscope": "Wishful thinking wont get you where you want to be, dear Archer, and could trigger major disappointments. As Venus and Uranus square off, acknowledge all of the nitty-gritty details that make goals cohesive and workable. You might decide that its time to let go of certain aspirations to make way for more realistic ones. The Scorpio Moon aspects the nodes of fate, unlocking your emotional core to reveal the souls purpose. Internal struggles trigger further questions when Mars grows restless this afternoon. Dont pressure yourself to take action or find all the answers just now; focus on cultivating inner peace instead. Partnering up with someone you trust provides glimmers of hope once Jupiter activates this evening."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-02-08",
+  "horoscope": "Wishful thinking wont get you where you want to be, dear Archer, and could trigger major disappointments. As Venus and Uranus square off, acknowledge all of the nitty-gritty details that make goals cohesive and workable. You might decide that its time to let go of certain aspirations to make way for more realistic ones. The Scorpio Moon aspects the nodes of fate, unlocking your emotional core to reveal the souls purpose. Internal struggles trigger further questions when Mars grows restless this afternoon. Dont pressure yourself to take action or find all the answers just now; focus on cultivating inner peace instead. Partnering up with someone you trust provides glimmers of hope once Jupiter activates this evening."
+}
+
