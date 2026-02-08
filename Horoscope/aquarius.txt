@@ -270,3 +270,9 @@
   "horoscope": "Small changes amount to major transformations if you have the patience to see them through, dear Aquarius. As the Virgo Moon and Jupiter align, follow the path that leads to your best life. Clearly articulate your needs and desires when Luna, Venus, and Chiron form a rare yod this afternoon. If you've been going with the flow or feel consistently brushed aside, now is the time for self-advocacy. Business and romantic partnerships will be especially important to focus on as you navigate these themes. Avoid digging your heels in and take space to rest once Uranus and Saturn stir tonight."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-02-08",
+  "horoscope": "Set aside extra time for rest and recognize if you need a mental health day, dear Aquarius. A harsh square between Venus and Uranus exacerbates lifestyle imbalances, depleting your emotional and energetic reserves. Failing to take care of yourself could lead to meltdowns or lashing out at loved ones. The Scorpio Moon and nodes of fate offer reprieve, encouraging you to indulge in little luxuries and fresh air. You'll struggle to follow the rules when Mars grows restless this afternoon, but you should pick your battles wisely. Draw lines with the outside world and give fully to wellness practices while Jupiter stirs this evening."
+}
+
