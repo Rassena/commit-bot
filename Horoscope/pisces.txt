@@ -277,3 +277,9 @@
   "horoscope": "A quiet and harmonious energy blesses you early this morning, Pisces, thanks to a sweet aspect between the Libra Moon and Venus. You should awaken feeling rested, but you may need extra time alone with your thoughts before interacting with others. A burst of joy puts you in the mood to connect on a soul level once Luna enters Scorpio. Grab a friend and do something adventurous to expand your horizons. Your influence reaches far corners when Mercury stirs midafternoon, so use your voice wisely. Release dark patterns and allow your light to flourish while Pluto activates this evening."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-02-08",
+  "horoscope": "Work with positive affirmations to maintain a healthy internal dialogue, darling fishy. As Venus and Uranus square off, intrusive thoughts could lead to dark places. Luckily, the Scorpio Moon and nodes of fate help you stay committed to optimism. Use mindfulness techniques and spiritual practices to sustain an upward trajectory throughout the day. A bit of luck hangs in the air during this time, and wishes may be granted if you share them with the universe. Creative breakthroughs motivate you to work on passion projects in private when Mars activates this afternoon. Showcase your creations to family and friends while Jupiter stirs tonight."
+}
+
