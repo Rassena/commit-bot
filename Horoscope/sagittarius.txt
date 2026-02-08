@@ -329,3 +329,9 @@
   "horoscope": "Analyze any recent connections that have gotten too close too quickly, dear Sagittarius. The Libra Moon, Jupiter, and Aquarius Sun encourage you to look beyond the surface before inviting new people into your life. Tread carefully if you cant find much background information online and dont have any mutual friends. Quiet the mind, and your intuition will guide you once Mercury enters Pisces. You will crave more time at home and with family throughout the coming weeks, making it easier to create distance with anyone you are unsure about. Try not to obsess over what others might think or say about you when Chiron challenges your ego tonight."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-02-08",
+  "horoscope": "Wishful thinking wont get you where you want to be, dear Archer, and could trigger major disappointments. As Venus and Uranus square off, acknowledge all of the nitty-gritty details that make goals cohesive and workable. You might decide that its time to let go of certain aspirations to make way for more realistic ones. The Scorpio Moon aspects the nodes of fate, unlocking your emotional core to reveal the souls purpose. Internal struggles trigger further questions when Mars grows restless this afternoon. Dont pressure yourself to take action or find all the answers just now; focus on cultivating inner peace instead. Partnering up with someone you trust provides glimmers of hope once Jupiter activates this evening."
+}
+
