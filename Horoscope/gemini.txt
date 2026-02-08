@@ -292,3 +292,9 @@
   "horoscope": "Allow yourself to dream this morning, dear Gemini, as the Libra Moon and Venus align. Establish personal balance and an optimistic attitude as you work toward manifesting goals. You'll need to operate on a more practical wavelength once Luna enters Scorpio, emphasizing the importance of strategy and consistent effort. Share your plans with someone whose opinion you respect while Mercury stirs midafternoon. Soaking up the wisdom of a mentor will streamline your agenda to new heights. Identify generational habits that aren't serving you when Pluto activates this evening, vowing to break free from cycles that might otherwise hold you back."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-02-08",
+  "horoscope": "The universe takes you for a ride today, darling Gemini, as Venus and Uranus square off. Youll feel inclined to honor each whim that strikes your fancy, but try to avoid risky situations. The Scorpio Moon and nodes of fate appeal to your sensible side. If you must do something bold, put some forethought into your plans. Acting on impulse could backfire when Mars grows agitated this afternoon, though you may discover blessings within chaos. Jupiter asks you to slow down and enjoy a little treat before Monday rolls in, granting permission to cap off your weekend with a bit of luxury."
+}
+
