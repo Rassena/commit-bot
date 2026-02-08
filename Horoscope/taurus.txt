@@ -179,3 +179,9 @@
   "horoscope": "Embrace activities that help you feel your best, dear Taurus. As Luna enters Libra and the sector of your chart that governs health, work, and routine, wellness becomes a top priority. Take steps to improve your physical state and sense of order to ensure you thrive each day. Competitive peers may try to plant seeds of doubt when Mercury and Uranus square off. Brush negative comments to the side, ensuring they don't lead to self-restricting behaviors. Make adjustments to your highest aspirations while Pluto and Mars stir this evening, rekindling the determination to see them through."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-02-08",
+  "horoscope": "Relationship hurdles will be difficult to navigate, dear Taurus, as Venus and Uranus square off. Luckily, the Scorpio Moon and nodes of fate align to level the playing field. Though you may want to call on a third party to mediate a major conflict. Going out of your way to see the situation with fresh eyes will show your companion that you are willing to hear them out, even if you dont fully understand their disposition. Practice self-care to avoid energetic burnout when Mars activates this afternoon. Mind-expanding conversations elevate your heart and connections once Jupiter stirs this evening."
+}
+
