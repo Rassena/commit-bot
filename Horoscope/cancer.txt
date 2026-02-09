@@ -257,3 +257,9 @@
   "horoscope": "An erratic and destructive energy permeates the air, dear Cancer. As Venus and Uranus square off,  harmonious relationships may suddenly feel unstable. Avoid tense topics and any surprises that might not be well-received. The Scorpio Moon and nodes of fate offer an alternate route, asking you to adopt a mindful and compassionate disposition. If others try to provoke you, respond with peacefulness. Your patience wears thin when Mars becomes agitated this afternoon. Stay busy with healthy activities to channel frustrations and sidestep drama. Jupiter activates in your sign this evening, encouraging you to make a heartfelt wish."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-02-09",
+  "horoscope": ""
+}
+
