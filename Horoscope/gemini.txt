@@ -298,3 +298,9 @@
   "horoscope": "The universe takes you for a ride today, darling Gemini, as Venus and Uranus square off. Youll feel inclined to honor each whim that strikes your fancy, but try to avoid risky situations. The Scorpio Moon and nodes of fate appeal to your sensible side. If you must do something bold, put some forethought into your plans. Acting on impulse could backfire when Mars grows agitated this afternoon, though you may discover blessings within chaos. Jupiter asks you to slow down and enjoy a little treat before Monday rolls in, granting permission to cap off your weekend with a bit of luxury."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-02-09",
+  "horoscope": ""
+}
+
