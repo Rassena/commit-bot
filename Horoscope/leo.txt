@@ -280,3 +280,9 @@
   "horoscope": "Romantic dreams and early morning cuddle sessions put you in a sweet mood, dearest Leo. Spread love and create harmonious environments as the Libra Moon and Venus align. Check in with yourself once Luna enters Scorpio, forcing you to face feelings you've been avoiding. Lying low at home can be helpful if you need extra rest or feel emotionally tender. Get to know loved ones better by asking deep questions when Mercury activates midafternoon. If others seem shy, volunteer your own stories first. Jealousy or possessiveness could impart serious damage to your relationships while Pluto becomes agitated this evening."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-02-09",
+  "horoscope": ""
+}
+
