@@ -293,3 +293,9 @@
   "horoscope": "Not all mistakes are unlucky, dear Virgo, if you find a way to make them work. As Venus and Uranus square off, youre blessed with an exceptional gift for turning sawdust into diamonds. Meanwhile, the Scorpio Moon and nodes of fate elevate your conversations, changing the way you view certain people. Allow your perspective to evolve, and ask new questions to deepen your understanding. You may feel as though youre short-circuiting when Mars grows restless this afternoon. If your thoughts start to scramble, take it as a sign to stop and regroup. Close out your weekend in good company as a way to clear your head once Jupiter stirs this evening."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-02-09",
+  "horoscope": ""
+}
+
