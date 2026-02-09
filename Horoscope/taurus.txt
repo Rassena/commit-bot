@@ -185,3 +185,9 @@
   "horoscope": "Relationship hurdles will be difficult to navigate, dear Taurus, as Venus and Uranus square off. Luckily, the Scorpio Moon and nodes of fate align to level the playing field. Though you may want to call on a third party to mediate a major conflict. Going out of your way to see the situation with fresh eyes will show your companion that you are willing to hear them out, even if you dont fully understand their disposition. Practice self-care to avoid energetic burnout when Mars activates this afternoon. Mind-expanding conversations elevate your heart and connections once Jupiter stirs this evening."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-02-09",
+  "horoscope": ""
+}
+
