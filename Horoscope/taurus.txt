@@ -191,3 +191,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-02-10",
+  "horoscope": "Dreams guide you toward empowerment and release early this morning, dear Taurus, as the Sagittarius Moon and Neptune align. Mars motivates you to take long-term goals more seriously, increasing stamina so you can pick up the pace where you've been lagging. Meanwhile, Venus makes her way into Pisces, sweetening your interactions throughout the coming weeks. Your aura glows under this planetary placement, helping you attract new friends, professional connections, and admirers. Avoid gossip when Mercury activates this afternoon, as your words might not stay confidential. Be mindful of who you put your faith in while Luna squares the nodes of fate."
+}
+
