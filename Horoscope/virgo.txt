@@ -299,3 +299,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-02-10",
+  "horoscope": "Get an early start and eliminate items from your to-do list, dear Virgo. As the Sagittarius Moon aligns with Neptune and Mars, you'll grow restless without a productive outlet to focus on. Romance could prove increasingly distracting throughout the coming weeks once Venus enters Pisces. Melt into your partner, moments of sweetness, and self-care practices whenever possible to make the most of this planetary shift. Emotionally charged declarations of admiration may cause you to feel skittish when Luna squares Mercury this afternoon. If your feelings get muddled, take space to recharge at home while the nodes of fate stir this evening."
+}
+
