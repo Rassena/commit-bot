@@ -310,3 +310,9 @@
   "horoscope": "The Sagittarius Moon aligns with Neptune and Mars this morning, darling Gemini, encouraging you to get active within your community. You'll benefit from an energetic boost when connecting with loved ones. The coming weeks bring professional advancements, thanks to Venus' debut in Pisces. Determine what success looks like to you, and begin taking steps in that direction. Where love is concerned, long-term commitment could be on the table. Be mindful of what others are going through before speaking harshly, while Mercury becomes agitated this afternoon. Conflict at home threatens your peace once Luna squares the nodes of fate this evening."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-02-10",
+  "horoscope": "The Sagittarius Moon aligns with Neptune and Mars this morning, darling Gemini, encouraging you to get active within your community. You'll benefit from an energetic boost when connecting with loved ones. The coming weeks bring professional advancements, thanks to Venus' debut in Pisces. Determine what success looks like to you, and begin taking steps in that direction. Where love is concerned, long-term commitment could be on the table. Be mindful of what others are going through before speaking harshly, while Mercury becomes agitated this afternoon. Conflict at home threatens your peace once Luna squares the nodes of fate this evening."
+}
+
