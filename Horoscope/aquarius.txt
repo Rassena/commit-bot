@@ -282,3 +282,9 @@
   "horoscope": "The Sagittarius Moon aspects Neptune and Mars this morning, dear Aquarius, helping you feel seen. Get out and about to gain influence, notoriety, and new connections. Venus exits your sign and makes her way into Pisces, bringing a sense of security to your heart. This planetary placement also levels up your manifestation skills, so be mindful of what you truly want. Money ebbs and flows during this time, so remember to squirrel away some cash. Head outside while Mercury stirs this afternoon, especially if you work with screens all day. You may realize you need a technological detox when the nodes of fate activate tonight."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-02-10",
+  "horoscope": "The Sagittarius Moon aspects Neptune and Mars this morning, dear Aquarius, helping you feel seen. Get out and about to gain influence, notoriety, and new connections. Venus exits your sign and makes her way into Pisces, bringing a sense of security to your heart. This planetary placement also levels up your manifestation skills, so be mindful of what you truly want. Money ebbs and flows during this time, so remember to squirrel away some cash. Head outside while Mercury stirs this afternoon, especially if you work with screens all day. You may realize you need a technological detox when the nodes of fate activate tonight."
+}
+
