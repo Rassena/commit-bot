@@ -359,3 +359,9 @@
   "horoscope": "You'll crave warm and homey environments this morning, dear Scorpio, as the Libra Moon and Venus align. Put off checking your phone or connecting with the outside world for as long as possible. Relishing simple moments with family will breathe sweetness into the soul. You'll have plenty of time to mingle and seek attention once Luna enters your sign. Start making plans to meet with friends as the afternoon creeps in. Mercury stirs later today, setting the scene for heartfelt interactions and belly laughs. Dark clouds emerge when Pluto becomes agitated this evening, but try to have compassion for yourself and others."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-02-10",
+  "horoscope": "The Sagittarius Moon aspects Neptune and Mars this morning, sweet scorpion, steadying your focus. Expend your energy wisely by taking an organized approach to your personal and financial goals. If certain skills need sharpening, get back to basics and work your way up. Invest more time in friendship throughout the coming weeks after Venus enters Pisces. You may have become emotionally closed off recently, but this planetary placement is all about opening the heart. Beware of those who build confidence by putting others down when Mercury stirs up insecurities this afternoon. Set aside your devices and work with your hands while the nodes of fate stir tonight."
+}
+
