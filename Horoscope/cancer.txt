@@ -275,3 +275,9 @@
   "horoscope": "Get an early start while the Sagittarius Moon aligns with Neptune and Mars, dear Cancer. These vibes are perfect for chasing professional wins, giving you an edge when negotiating or closing deals. Meanwhile, Venus drifts into Pisces, increasing your luck throughout the coming weeks. Follow your dreams and stay connected with your higher power to manifest major breakthroughs. Staying balanced and believing that you are worthy of blessings will take you even further. A plethora of new information comes to light once Mercury stirs this afternoon, and you may need some time to organize your thoughts. Luna aspects the nodes of fate this evening, asking you to merge spirituality and wellness."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-02-11",
+  "horoscope": "Youll benefit from immediate results when healthy habits are embraced, dear Cancer, as the Sagittarius Moon and Mars form an invigorating aspect. Set clear intentions for the day, ensuring your body has the fuel, hydration, and pampering it needs to function at its best. Time moves quickly, and your motivation increases once youve hit a fluid workflow. Your prospects elevate in the process, and a sweet connection between the Aquarius Sim and Chiron helps alleviate issues around impostor syndrome. Use your voice to bring wishes closer to reality while Mercury aligns with the nodes of fate later tonight."
+}
+
