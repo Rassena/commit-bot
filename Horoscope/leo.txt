@@ -286,3 +286,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "leo",
+  "date": "2026-02-11",
+  "horoscope": "Fall back in love with life by broadening your horizons, warm lion. As the Sagittarius Moon and Mars align, adventure whispers your name. Passions intensify if you take steps to keep your partner on their toes, and they will gladly return the favor. If youve been feeling low energy and need an ego boost, spend some time working on character-building personal goals. Youll crave the type of understanding that can only be found amongst those you connect with on a philosophical level once the Aquarius Sun and Chiron align. Consider how moving away from your comfort zone can empower you when Mercury aspects the nodes of fate later tonight."
+}
+
