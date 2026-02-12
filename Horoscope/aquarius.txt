@@ -288,3 +288,9 @@
   "horoscope": "The Sagittarius Moon aspects Neptune and Mars this morning, dear Aquarius, helping you feel seen. Get out and about to gain influence, notoriety, and new connections. Venus exits your sign and makes her way into Pisces, bringing a sense of security to your heart. This planetary placement also levels up your manifestation skills, so be mindful of what you truly want. Money ebbs and flows during this time, so remember to squirrel away some cash. Head outside while Mercury stirs this afternoon, especially if you work with screens all day. You may realize you need a technological detox when the nodes of fate activate tonight."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-02-12",
+  "horoscope": "Learn from the mistakes others make instead of finding out for yourself, dear Aquarius. As the Sagittarius Moon and Saturn square off, reckless behaviors will be met with serious consequences. Stand up against peer pressure by drawing hard boundaries. You'll have no issue walking away from precarious situations once Luna enters Capricorn this afternoon. Just try not to overthink this morning's events as Neptune stirs, threatening to play tricks on your mind. Seek softness and grounding activities to reclaim harmony when Venus activates this evening. Indulging in luxury with someone special offers a much-needed reprieve from outside noise."
+}
+
