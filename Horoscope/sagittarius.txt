@@ -347,3 +347,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-02-12",
+  "horoscope": "The Moon clashes with Saturn before exiting your sign, dear archer, testing your emotional resilience. Disappointments youve brought upon yourself will be difficult to swallow, though a lack of accountability will breed further embarrassment. Lick your wounds in private once Luna enters Capricorn and aspects Neptune, but steer clear of unhealthy indulgences. Get moving outside or engage with activities youre naturally skilled at to lift the spirits. Avoid spending money you do not have or making promises youre not certain you can keep, or you'll face additional setbacks. Slow down and enjoy nostalgic comforts to recalibrate your heart and mind when Venus stirs this evening."
+}
+
