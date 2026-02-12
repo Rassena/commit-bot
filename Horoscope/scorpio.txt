@@ -365,3 +365,9 @@
   "horoscope": "The Sagittarius Moon aspects Neptune and Mars this morning, sweet scorpion, steadying your focus. Expend your energy wisely by taking an organized approach to your personal and financial goals. If certain skills need sharpening, get back to basics and work your way up. Invest more time in friendship throughout the coming weeks after Venus enters Pisces. You may have become emotionally closed off recently, but this planetary placement is all about opening the heart. Beware of those who build confidence by putting others down when Mercury stirs up insecurities this afternoon. Set aside your devices and work with your hands while the nodes of fate stir tonight."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-02-12",
+  "horoscope": "You could find yourself in a financial bind as the Sagittarius Moon and Saturn square off, dear Scorpio. These cosmic conditions act as a wake-up call to spend more responsibly and build up your savings. Forgetful vibes flow once Luna enters Capricorn and aspects Neptune this afternoon. Assess your to-do list and review projects that still need to be completed. It might be helpful to check for errors or ask peers to look over your work. A weightless energy surrounds you while Venus stirs this evening, flooding your mind with romantic notions. Enjoy sweet interaction with your favorite people to close out the day on a high note."
+}
+
