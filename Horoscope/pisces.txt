@@ -295,3 +295,9 @@
   "horoscope": "Efforts to control extraordinary circumstances will backfire, dear Pisces, as the Sagittarius Moon and Saturn square off. Events already set in motion will need to play out, no matter how difficult it is to let fate take its course. If serious consequences are on the line, be mindful of who is at fault. Peers might try to pin their troubles on you once Luna enters Capricorn and squares Neptune this afternoon. Fabricated versions of the truth may buy you some time, but eventually the facts will emerge. The energy improves while Venus stirs this evening, reinforcing your belief that all will be well in the end."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-02-12",
+  "horoscope": "Efforts to control extraordinary circumstances will backfire, dear Pisces, as the Sagittarius Moon and Saturn square off. Events already set in motion will need to play out, no matter how difficult it is to let fate take its course. If serious consequences are on the line, be mindful of who is at fault. Peers might try to pin their troubles on you once Luna enters Capricorn and squares Neptune this afternoon. Fabricated versions of the truth may buy you some time, but eventually the facts will emerge. The energy improves while Venus stirs this evening, reinforcing your belief that all will be well in the end."
+}
+
