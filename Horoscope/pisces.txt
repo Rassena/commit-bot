@@ -283,3 +283,9 @@
   "horoscope": "Work with positive affirmations to maintain a healthy internal dialogue, darling fishy. As Venus and Uranus square off, intrusive thoughts could lead to dark places. Luckily, the Scorpio Moon and nodes of fate help you stay committed to optimism. Use mindfulness techniques and spiritual practices to sustain an upward trajectory throughout the day. A bit of luck hangs in the air during this time, and wishes may be granted if you share them with the universe. Creative breakthroughs motivate you to work on passion projects in private when Mars activates this afternoon. Showcase your creations to family and friends while Jupiter stirs tonight."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-02-12",
+  "horoscope": "Efforts to control extraordinary circumstances will backfire, dear Pisces, as the Sagittarius Moon and Saturn square off. Events already set in motion will need to play out, no matter how difficult it is to let fate take its course. If serious consequences are on the line, be mindful of who is at fault. Peers might try to pin their troubles on you once Luna enters Capricorn and squares Neptune this afternoon. Fabricated versions of the truth may buy you some time, but eventually the facts will emerge. The energy improves while Venus stirs this evening, reinforcing your belief that all will be well in the end."
+}
+
