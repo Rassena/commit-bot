@@ -203,3 +203,9 @@
   "horoscope": "Youll crave escape from outside noise as the Sagittarius Moon and Saturn square off. Get necessary interactions out of the way early, so you can devote extra time to peace and quiet later. Dreamy vibes surround you this afternoon when Luna enters Capricorn and aligns with Neptune. The universe lures you away from reality and brings vibrancy to the imagination. Find sanctuary in your own little bubble, and use mindfulness techniques to reconnect with your deepest self. Youll feel more openhearted once Venus stirs this evening. Make plans to meet up with friends for dinner or a quick hangout session."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-02-13",
+  "horoscope": "Important conversations find you throughout the day, darling Taurus, as the Capricorn Moon aspects the nodes of fate and Mercury. Use this energy to circulate ideas and messages that matter to you, rallying peers to these causes. Auspicious collaborations could emerge, but you'll need to master the art of being heard without silencing others. Major shifts occur internally over the next two years once Saturn enters Aries this evening. Success and failures will reshape your perspective and usher in an era of refinement. The universe will be in the mood to grant wishes while Luna opposes Jupiter later tonight."
+}
+
