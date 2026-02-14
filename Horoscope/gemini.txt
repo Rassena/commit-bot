@@ -322,3 +322,9 @@
   "horoscope": "Tension builds as the Sagittarius Moon and Saturn square off, dearest Gemini, and navigating relationships will prove precarious. Avoid pushing for answers or affection when others close off and resist your attempts to communicate. Though uncertainty could make it difficult to honor boundaries you dont fully understand, time will bring strained dynamics back into balance. You may look for intimacy elsewhere once Luna enters Capricorn and aligns with Neptune this afternoon, but you should be mindful of who you confide in. Deception hangs in the air, and your secrets might not be safe for long if they fall into the wrong hands. Youll feel better this evening while Venus clears away drama and stabilizes important connections."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-02-14",
+  "horoscope": "The Capricorn Moon and Chiron square off this morning, dear Gemini, dusting up bitterness within your community. Jealousy may fester as peers feel the pressure or disappointments Valentines Day can sometimes inflict. Reach out to your single friends to show some love. If you're flying solo, make a date with comrades who are also unattached. Electricity fills the air when Uranus activates this evening, and intimate connections will be particularly exciting. Luna enters Aquarius later tonight, forming sweet aspects with Saturn and Neptune. These vibes bless you with increased luck and a boost to your popularity."
+}
+
