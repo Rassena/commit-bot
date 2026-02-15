@@ -319,3 +319,9 @@
   "horoscope": "Spend time with people who celebrate your most authentic self, darling Aries. As the Libra Moon aligns with Jupiter and the Aquarius Sun, emotional grievances dissipate with each positive encounter you seek. Issues at home or conflict with family could be weighing on your psyche, and youll need a change of scenery to alleviate such woes. Mercurys debut into Pisces later today triggers a period of deep introspection, asking you to consider how your own patterns contribute to messy situations. Be extra kind to yourself when Luna and Chiron face off tonight. Offer yourself the grace and forgiveness you would bestow upon your closest companions."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-02-15",
+  "horoscope": "                                                                "
+}
+
