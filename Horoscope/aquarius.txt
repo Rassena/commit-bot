@@ -294,3 +294,9 @@
   "horoscope": "Learn from the mistakes others make instead of finding out for yourself, dear Aquarius. As the Sagittarius Moon and Saturn square off, reckless behaviors will be met with serious consequences. Stand up against peer pressure by drawing hard boundaries. You'll have no issue walking away from precarious situations once Luna enters Capricorn this afternoon. Just try not to overthink this morning's events as Neptune stirs, threatening to play tricks on your mind. Seek softness and grounding activities to reclaim harmony when Venus activates this evening. Indulging in luxury with someone special offers a much-needed reprieve from outside noise."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-02-15",
+  "horoscope": "                                                                "
+}
+
