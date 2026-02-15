@@ -341,3 +341,9 @@
   "horoscope": "The Libra Moon and Venus encourage you to reward yourself, darling Capricorn. As the weekend kicks off, don't feel guilty about enjoying the fruits of your labor. If you've been denying yourself simple pleasures, correct these behaviors immediately. Investigate unfamiliar pockets of your community once Luna enters Scorpio and aligns with Mercury this afternoon. New age stores, oddities shops, old cemeteries, gardens, caves, and exotic restaurants are all great places to start. Wherever the day leads you, make sure to feed your curious nature. Stay off your screens and find depth in your surroundings while Pluto stirs this evening."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-02-15",
+  "horoscope": "                                                                "
+}
+
