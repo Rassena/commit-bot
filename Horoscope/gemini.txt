@@ -328,3 +328,9 @@
   "horoscope": "The Capricorn Moon and Chiron square off this morning, dear Gemini, dusting up bitterness within your community. Jealousy may fester as peers feel the pressure or disappointments Valentines Day can sometimes inflict. Reach out to your single friends to show some love. If you're flying solo, make a date with comrades who are also unattached. Electricity fills the air when Uranus activates this evening, and intimate connections will be particularly exciting. Luna enters Aquarius later tonight, forming sweet aspects with Saturn and Neptune. These vibes bless you with increased luck and a boost to your popularity."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-02-15",
+  "horoscope": "                                                                "
+}
+
