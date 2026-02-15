@@ -377,3 +377,9 @@
   "horoscope": "You could find yourself in a financial bind as the Sagittarius Moon and Saturn square off, dear Scorpio. These cosmic conditions act as a wake-up call to spend more responsibly and build up your savings. Forgetful vibes flow once Luna enters Capricorn and aspects Neptune this afternoon. Assess your to-do list and review projects that still need to be completed. It might be helpful to check for errors or ask peers to look over your work. A weightless energy surrounds you while Venus stirs this evening, flooding your mind with romantic notions. Enjoy sweet interaction with your favorite people to close out the day on a high note."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-02-15",
+  "horoscope": "                                                                "
+}
+
