@@ -293,3 +293,9 @@
   "horoscope": "It may seem as though the universe is testing you, beloved Cancer, as the Sagittarius Moon and Saturn square off. Access your gratitude and get organized to ensure details dont fall through the cracks, potentially derailing progress. Youll dream of reprieve when Luna enters Capricorn and aspects Neptune this afternoon. Treat yourself to a leisurely lunch break to combat fatigue, find balance, and reestablish endurance. If you dont have time to slow down, promise yourself a special reward after all tasks have been completed. Venus acknowledges your persistence as evening creeps in, bringing blessings and divine support."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-02-15",
+  "horoscope": "                                                                "
+}
+
