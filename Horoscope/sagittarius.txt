@@ -353,3 +353,9 @@
   "horoscope": "The Moon clashes with Saturn before exiting your sign, dear archer, testing your emotional resilience. Disappointments youve brought upon yourself will be difficult to swallow, though a lack of accountability will breed further embarrassment. Lick your wounds in private once Luna enters Capricorn and aspects Neptune, but steer clear of unhealthy indulgences. Get moving outside or engage with activities youre naturally skilled at to lift the spirits. Avoid spending money you do not have or making promises youre not certain you can keep, or you'll face additional setbacks. Slow down and enjoy nostalgic comforts to recalibrate your heart and mind when Venus stirs this evening."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-02-17",
+  "horoscope": "The Aquarius New Moon opens mental pathways that lead to brilliance, Sagittarius. With increased observational and problem-solving skills, youll have no issues navigating whatever is thrown in your direction. This lunation is sure to trigger a few surprises, and peers will be impressed by your ability to think on your feet. Themes around collaboration also come into play. Though youll have a plethora of ideas, remember to let others share as well. Youll need extra rest once Luna enters Pisces, and you should set aside plenty of time to recharge at home. New chapters could present themselves while Venus aspects the nodes of fate later tonight, especially where family is concerned."
+}
+
