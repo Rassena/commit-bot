@@ -353,3 +353,9 @@
   "horoscope": "The universe blesses your financial endeavors with an extra dose of luck, darling Capricorn. As the Aquarius New Moon rises in the sector of your chart that governs money, follow through on ideas you believe will prove prosperous. Though youll likely encounter a series of highs and lows as this energy unfolds, you should be fiscally better off six months from now. Bet on yourself, but proceed with caution when risk is involvedyour intuition spikes once Luna enters Pisces, helping you sync up with family and friends. Brainstorm ways to bring more beauty, harmony, and romance into your life while Venus aspects the nodes of fate later tonight."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-02-17",
+  "horoscope": "The universe blesses your financial endeavors with an extra dose of luck, darling Capricorn. As the Aquarius New Moon rises in the sector of your chart that governs money, follow through on ideas you believe will prove prosperous. Though youll likely encounter a series of highs and lows as this energy unfolds, you should be fiscally better off six months from now. Bet on yourself, but proceed with caution when risk is involvedyour intuition spikes once Luna enters Pisces, helping you sync up with family and friends. Brainstorm ways to bring more beauty, harmony, and romance into your life while Venus aspects the nodes of fate later tonight."
+}
+
