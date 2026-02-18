@@ -311,3 +311,9 @@
   "horoscope": "Issues around control could manifest within your relationships, sweet Virgo, due to a harsh square between the Sagittarius Moon and Saturn. If emotions boil over, take space until both parties have a chance to level out. The heart may play tricks on you once Luna enters Capricorn and aligns with deceptive Neptune this afternoon. Avoid feeding hypothetical scenarios that trigger jealousy or resentment. Its equally important to recognize if youve ignored red flags or bigger problems, in the vain hope that they will resolve themselves. Enjoy lighthearted activities with your significant other while Venus stirs this evening; it will be easier to clear away confusion and communicate openly."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-02-18",
+  "horoscope": "Invest heavily in your relationships throughout the coming weeks, dear Virgo, as the Sun enters Pisces and your solar seventh house. Enjoy flirtatious interactions, let others see new sides of you, and consider what you can learn from loved ones. Above all else, cut out toxic dynamics to make space for healthier connections. If youre on the hunt for love, ask a friend to set you up while Jupiter stirs. Otherwise, brainstorm alternative ways to meet potential mates. The ambience will be chatty and intuitive when the Pisces Moon and Mercury unite later today, making it easier to connect on an emotional level."
+}
+
