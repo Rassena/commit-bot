@@ -359,3 +359,9 @@
   "horoscope": "The Aquarius New Moon opens mental pathways that lead to brilliance, Sagittarius. With increased observational and problem-solving skills, youll have no issues navigating whatever is thrown in your direction. This lunation is sure to trigger a few surprises, and peers will be impressed by your ability to think on your feet. Themes around collaboration also come into play. Though youll have a plethora of ideas, remember to let others share as well. Youll need extra rest once Luna enters Pisces, and you should set aside plenty of time to recharge at home. New chapters could present themselves while Venus aspects the nodes of fate later tonight, especially where family is concerned."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-02-18",
+  "horoscope": "You will require extra rest throughout the coming weeks, dearest archer. As the Sun enters Pisces and winter winds down, its essential to recharge and connect with family. Seeking reprieve now will ensure you are refreshed and ready to charge ahead once Spring emerges. Spend more time at home, and take steps to organize your space. You could discover valuable items lurking in dusty closets while Jupiter brings prosperous vibes to the air. A nurturing energy takes hold when the Pisces Moon and Mercury unite later today. Share your feelings with loved ones to receive compassion where you need it most."
+}
+
