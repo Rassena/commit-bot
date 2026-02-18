@@ -365,3 +365,9 @@
   "horoscope": "You will require extra rest throughout the coming weeks, dearest archer. As the Sun enters Pisces and winter winds down, its essential to recharge and connect with family. Seeking reprieve now will ensure you are refreshed and ready to charge ahead once Spring emerges. Spend more time at home, and take steps to organize your space. You could discover valuable items lurking in dusty closets while Jupiter brings prosperous vibes to the air. A nurturing energy takes hold when the Pisces Moon and Mercury unite later today. Share your feelings with loved ones to receive compassion where you need it most."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-02-18",
+  "horoscope": "You will require extra rest throughout the coming weeks, dearest archer. As the Sun enters Pisces and winter winds down, its essential to recharge and connect with family. Seeking reprieve now will ensure you are refreshed and ready to charge ahead once Spring emerges. Spend more time at home, and take steps to organize your space. You could discover valuable items lurking in dusty closets while Jupiter brings prosperous vibes to the air. A nurturing energy takes hold when the Pisces Moon and Mercury unite later today. Share your feelings with loved ones to receive compassion where you need it most."
+}
+
