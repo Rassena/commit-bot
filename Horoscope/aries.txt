@@ -331,3 +331,9 @@
   "horoscope": "                                                                "
 }
 
+{
+  "sign": "aries",
+  "date": "2026-02-18",
+  "horoscope": "Pisces season kicks off this morning, dearest Aries, marking the final stretch of winter and a time for introspection. Take note of any internal discoveries you make over the coming weeks, and try to facilitate closure where it's needed most. Though you may have a few secrets to hide, it will be difficult to conceal the truth from those who know you best. The energy will be intuitive and compassionate. Confiding in loved ones can help you resolve issues that are too complex to solve on your own. Playful interactions with family lift the spirits and give you hope when Jupiter stirs midmorning. The Pisces Moon and Mercury unite later today, generating ideal conditions for journaling or meditation."
+}
+
