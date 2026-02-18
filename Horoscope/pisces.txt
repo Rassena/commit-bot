@@ -301,3 +301,9 @@
   "horoscope": "Efforts to control extraordinary circumstances will backfire, dear Pisces, as the Sagittarius Moon and Saturn square off. Events already set in motion will need to play out, no matter how difficult it is to let fate take its course. If serious consequences are on the line, be mindful of who is at fault. Peers might try to pin their troubles on you once Luna enters Capricorn and squares Neptune this afternoon. Fabricated versions of the truth may buy you some time, but eventually the facts will emerge. The energy improves while Venus stirs this evening, reinforcing your belief that all will be well in the end."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-02-18",
+  "horoscope": "Happy birthday season, dearest fishy. The Suns debut in your sign brings a spark to the spirit, inspiring forward momentum. Simplify your aspirations to make space for creative pivoting. The cosmic tides you surf throughout the coming weeks will reveal new layers of artistry that could outshine existing visions. Bursts of divine inspiration take your agenda to the next level while Jupiter stirs midmorning. If you need help rallying support for your cause, ask friends to help you promote. People will eat up your words when Luna and Mercury unite in your sign later today, so make the moment count."
+}
+
