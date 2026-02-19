@@ -323,3 +323,9 @@
   "horoscope": "Believe in happy endings as the Pisces Moon and Uranus align, darling Virgo. The universe and loved ones will show support through pleasant surprises, offering a morale boost to keep you on track. Romantic endeavors will prove particularly elevating, so be open to connecting at a heart level. You may cross paths with an influential person once Luna enters Aries, teaming up with Saturn and Neptunefunnel discussions toward your aspirations to make room for wise advice or potential opportunities. As plans develop, be mindful of sacrifices that might be required of you. Start by improving your routines when Pluto stirs later today."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-02-19",
+  "horoscope": "Believe in happy endings as the Pisces Moon and Uranus align, darling Virgo. The universe and loved ones will show support through pleasant surprises, offering a morale boost to keep you on track. Romantic endeavors will prove particularly elevating, so be open to connecting at a heart level. You may cross paths with an influential person once Luna enters Aries, teaming up with Saturn and Neptunefunnel discussions toward your aspirations to make room for wise advice or potential opportunities. As plans develop, be mindful of sacrifices that might be required of you. Start by improving your routines when Pluto stirs later today."
+}
+
