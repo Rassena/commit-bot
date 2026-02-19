@@ -209,3 +209,9 @@
   "horoscope": "Important conversations find you throughout the day, darling Taurus, as the Capricorn Moon aspects the nodes of fate and Mercury. Use this energy to circulate ideas and messages that matter to you, rallying peers to these causes. Auspicious collaborations could emerge, but you'll need to master the art of being heard without silencing others. Major shifts occur internally over the next two years once Saturn enters Aries this evening. Success and failures will reshape your perspective and usher in an era of refinement. The universe will be in the mood to grant wishes while Luna opposes Jupiter later tonight."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-02-19",
+  "horoscope": "Ping your friends with playful messages to start the day on a high note, dearest Taurus, as the Pisces Moon and Uranus align. Loved ones will appreciate you thinking of them and the effort you put into making them smile. You'll feel more reclusive as afternoon creeps in and Luna enters Aries, forming powerful connections with Saturn and Neptune. A newfound motivation to finalize details that have been holding up dreams emerges, and you won't be in the mood for distractions. Watch for signs that change is on the horizon when Pluto stirs, considering how you'll adapt as success and responsibilities increase."
+}
+
