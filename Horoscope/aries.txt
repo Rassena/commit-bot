@@ -343,3 +343,9 @@
   "horoscope": "Gain karma points by performing secret acts of kindness, sweet ram. As the Pisces Moon and Uranus align, the generosity you put into the world will be returned in beautiful ways. Rather than seeking praise for your efforts, enjoy watching the joy you've created from afar. You'll receive plenty of attention once Luna enters your sign, uniting with Saturn and Neptune throughout the afternoon. Don't be surprised if your day suddenly picks up and peers line up to connect. With so many eyes on you, now is a good time to push big goals forward. Nurture online friendships while releasing toxic interactions when Pluto stirs."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-02-19",
+  "horoscope": "Gain karma points by performing secret acts of kindness, sweet ram. As the Pisces Moon and Uranus align, the generosity you put into the world will be returned in beautiful ways. Rather than seeking praise for your efforts, enjoy watching the joy you've created from afar. You'll receive plenty of attention once Luna enters your sign, uniting with Saturn and Neptune throughout the afternoon. Don't be surprised if your day suddenly picks up and peers line up to connect. With so many eyes on you, now is a good time to push big goals forward. Nurture online friendships while releasing toxic interactions when Pluto stirs."
+}
+
