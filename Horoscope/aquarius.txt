@@ -312,3 +312,9 @@
   "horoscope": "Happy endings are within sight, dearest Aquarius, but dont let your surroundings blur by charging forward. As the Sun enters Pisces, its essential to honor this point in your journey fully. Appreciate micro blessings that have peppered your path and led to major manifestations. Small breakthroughs continue to emerge while Jupiter activates midmorning, but youll need to work for significant payoffs. Find value in challenges youve overcome as a way to sharpen skills and prevent difficult lessons from recurring in the future. Money talks when Luna and Mercury join forces later today, granting permission to address whether or not you feel sufficiently valued."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-02-19",
+  "horoscope": "The Pisces Moon and Uranus align this morning, dearest Aquarius, ushering forth psychic downloads. You'll feel highly sensitive to your surroundings and may want to avoid environments with a chaotic or dark history. Family ties will strengthen as well, and you may receive messages about loved ones. You'll perk up once Luna enters Aries, crossing paths with Saturn and Neptune this afternoon. You'll be eager to share the visions and revelations you gained earlier, but you should rehearse your words before you do. Lower guards and give peers a chance to know the real you while Pluto stirs later today."
+}
+
