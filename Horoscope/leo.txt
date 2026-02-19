@@ -322,3 +322,9 @@
   "horoscope": "The Sun debuts in Pisces this morning, dear Leo, highlighting the need for stability and release. Youll experience significant changes over the coming weeks, especially in your emotional growth and partnerships. Intense emotions can trigger obsessive behaviors, and its essential to recognize what or who sends you spiraling. If you suspect that someone isnt telling the whole truth, avoid making accusations without facts to back them up. Focus on cultivating a peaceful baseline when Jupiter activates, helping you shed the unnecessary. Review your options before entering professional negotiations or discussions about commitment, as the Pisces Moon and Mercury unite later today."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-02-19",
+  "horoscope": "Intuitively navigate business negotiations by reading the emotions of others, but keep a few surprises up your own sleeve, Leo. As the Taurus Moon and Uranus align, take a renewed interest in your aspirations by pushing for more. Good news finds you once Luna enters Aries before uniting with Saturn and Neptune. Lady Fortune gazes in your direction, but will hesitate to provide opportunities you're not entirely ready for. Be mindful of where you're at and what realistic growth looks like. Shift gears when Pluto stirs later today, leaning into spiritual practices to release doubt and find empowerment."
+}
+
