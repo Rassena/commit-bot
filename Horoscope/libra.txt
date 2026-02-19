@@ -239,3 +239,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "libra",
+  "date": "2026-02-19",
+  "horoscope": "The Pisces Moon and Uranus shake up your morning plans, dear Libra, asking you to reevaluate procedures you've grown accustomed to. Make mindfulness a part of your routine, connecting with your body, emotions, and surroundings. Remember that you can lean on loved ones when Luna enters Aries, uniting with Saturn and Neptune this afternoon. If you're in a relationship, it's essential to discuss shared goals. Determine what can be done now to improve your situation, then work your way upwards as a team. Having fun or collaborating on creative outlets will be the key to deepening heart bonds while Pluto stirs later today."
+}
+
