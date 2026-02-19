@@ -317,3 +317,9 @@
   "horoscope": "Invest heavily in your relationships throughout the coming weeks, dear Virgo, as the Sun enters Pisces and your solar seventh house. Enjoy flirtatious interactions, let others see new sides of you, and consider what you can learn from loved ones. Above all else, cut out toxic dynamics to make space for healthier connections. If youre on the hunt for love, ask a friend to set you up while Jupiter stirs. Otherwise, brainstorm alternative ways to meet potential mates. The ambience will be chatty and intuitive when the Pisces Moon and Mercury unite later today, making it easier to connect on an emotional level."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-02-19",
+  "horoscope": "Believe in happy endings as the Pisces Moon and Uranus align, darling Virgo. The universe and loved ones will show support through pleasant surprises, offering a morale boost to keep you on track. Romantic endeavors will prove particularly elevating, so be open to connecting at a heart level. You may cross paths with an influential person once Luna enters Aries, teaming up with Saturn and Neptunefunnel discussions toward your aspirations to make room for wise advice or potential opportunities. As plans develop, be mindful of sacrifices that might be required of you. Start by improving your routines when Pluto stirs later today."
+}
+
