@@ -340,3 +340,9 @@
   "horoscope": "                                                                "
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-02-20",
+  "horoscope": "You'll be exposed to new faces as the Moon moves through Aries, dear Gemini. Be mindful of how you present yourself and take steps to ensure you make a great first impression. Though some interactions will be short-lived, others could lead to fascinating plot twists. If you've grown bored in your social sphere, these vibes are perfect for expanding your network. A desire to reinvent yourself may arise while Luna squares Jupiter, but investing in outward appearances won't satisfy this need. Instead of embracing superficial transformations, consider how you might strengthen your position and become a leader in the community."
+}
+
