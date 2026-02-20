@@ -377,3 +377,9 @@
   "horoscope": "Try to see the world through the eyes of your inner child, dear archer, as the Pisces Moon and Uranus align. Nurturing youthful versions of yourself will infuse your work and problem-solving skills with creative brilliance. Your heart receives a celestial boost once Luna enters Aries, helping you find the bravery and motivation to venture down new paths. Saturn and Neptune provide additional reinforcements, making it easier to apply strategy toward dreams that haven't quite taken shape. Recognize the importance of tackling these aspirations consistently while staying flexible. Profound discoveries and deep conversations will shift your perspective when Pluto stirs later today."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-02-20",
+  "horoscope": "You'll crave fun and a change of scenery, dearest Sagittarius, as the Aries Moon builds heat within. As the weekend inches nearer and nearer, make plans to blow off steam with friends. Your spark grows with each moment of pleasure that is embraced, but try not to get too sidetracked before the workday concludes. Professional and romantic partners will grow frustrated if you allow responsibilities to slip while Luna squares Jupiter midafternoon. Stay loyal to your commitments, and you'll be rewarded with strengthened connections. You'll have the freedom to enjoy yourself guilt-free once all tasks have been completed."
+}
+
