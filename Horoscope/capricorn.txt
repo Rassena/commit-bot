@@ -365,3 +365,9 @@
   "horoscope": "You'll be full of life, curiosity, and creativity this morning, dear sea-goat. As the Pisces Moon and Uranus form an invigorating aspect, move away from what you're used to. Feed the mind with new experiences to unleash sharpened wits and renewed inspiration. When it comes to love, consider surprising your sweetie with a thoughtful gesture. You'll crave more laid-back scenery once Luna enters Aries this afternoon, uniting with Saturn and Neptune. Retreat to comfortable spaces and channel your visions productively. When free from external disturbances, you'll feel at ease and determined to level up. Release unhealthy expectations of yourself and loved ones through gratitude practices while Pluto stirs."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-02-20",
+  "horoscope": "Catering to the individual needs of loved ones will be a top priority, dear Capricorn. As the Aries Moon puts you in a compassionate and nurturing headspace, doting on family and close friends brings a satisfying sense of purpose. Take breaks throughout the day to ensure your own desires are met. Depleting your resources while pampering others could brew resentment if you're not careful. Your balance will be tested when Luna squares Jupiter midafternoon. Recognize where you're at to stay aligned and avoid disharmony. Keep a low profile and enjoy a warm night at home to cap off the work week."
+}
+
