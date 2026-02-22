@@ -299,3 +299,9 @@
   "horoscope": "                                                                "
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-02-22",
+  "horoscope": "Recognize that you have influence and be mindful of how you use it, dearest Cancer. As the Taurus Moon aligns with the nodes of fate, refine your message and work toward elevating your community. Meanwhile, Mars and Chiron ask you to resolve the insecurities that prevent you from pursuing better opportunities. Get comfortable with owning your power by appreciating the skills you've gained over time. Your afternoon is filled with magick while Venus and Jupiter align. Explore new horizons, make wishes, and embrace spiritual practices. Exchange philosophical views with friends to close out the weekend on an inspiring note."
+}
+
