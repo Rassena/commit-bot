@@ -383,3 +383,9 @@
   "horoscope": "You'll crave fun and a change of scenery, dearest Sagittarius, as the Aries Moon builds heat within. As the weekend inches nearer and nearer, make plans to blow off steam with friends. Your spark grows with each moment of pleasure that is embraced, but try not to get too sidetracked before the workday concludes. Professional and romantic partners will grow frustrated if you allow responsibilities to slip while Luna squares Jupiter midafternoon. Stay loyal to your commitments, and you'll be rewarded with strengthened connections. You'll have the freedom to enjoy yourself guilt-free once all tasks have been completed."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-02-22",
+  "horoscope": "Don't let Monday's looming presence distract you from Sunday bliss, darling Sagittarius. As the Taurus Moon aligns with the nodes of fate, family, household duties, and wellness practices should take precedence. If you keep busy within these realms, the work week won't feel so long. Interpersonal tensions can be hashed out while Mars and Chiron align. Staying active as you sort through issues will prevent problems from escalating, so consider hiking, cooking, or tackling a project as you discuss. Celebrate meaningful partnerships once Venus aspects Jupiter this afternoon to elevate and strengthen essential bonds. Recommit to shared goals before closing out the weekend."
+}
+
