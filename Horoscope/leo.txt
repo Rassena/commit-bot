@@ -328,3 +328,9 @@
   "horoscope": "Intuitively navigate business negotiations by reading the emotions of others, but keep a few surprises up your own sleeve, Leo. As the Taurus Moon and Uranus align, take a renewed interest in your aspirations by pushing for more. Good news finds you once Luna enters Aries before uniting with Saturn and Neptune. Lady Fortune gazes in your direction, but will hesitate to provide opportunities you're not entirely ready for. Be mindful of where you're at and what realistic growth looks like. Shift gears when Pluto stirs later today, leaning into spiritual practices to release doubt and find empowerment."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-02-23",
+  "horoscope": "Charisma alone won't help you progress this morning, dear Leo; you'll need solid bargaining chips to push your agenda through. As the Taurus Moon aligns with Mercury and Mars, negotiate for your goals with practical arguments. Understanding and articulating what you bring to the table will yield significant results if your statements are factual. Breakthrough moments arrive quickly when Uranus activates midafternoon, though a few surprises may be in store. Leave business behind and enjoy time with friends once Luna enters Gemini this evening. Take a spiritual approach toward manifesting dreams while Neptune and Saturn stir later tonight."
+}
+
