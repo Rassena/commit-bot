@@ -349,3 +349,9 @@
   "horoscope": "Gain karma points by performing secret acts of kindness, sweet ram. As the Pisces Moon and Uranus align, the generosity you put into the world will be returned in beautiful ways. Rather than seeking praise for your efforts, enjoy watching the joy you've created from afar. You'll receive plenty of attention once Luna enters your sign, uniting with Saturn and Neptune throughout the afternoon. Don't be surprised if your day suddenly picks up and peers line up to connect. With so many eyes on you, now is a good time to push big goals forward. Nurture online friendships while releasing toxic interactions when Pluto stirs."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-02-23",
+  "horoscope": "Think before acting, dearest Aries, as the Taurus Moon aspects Mercury and Mars this morning. Though you'll be determined to shape reality, not everyone will be on board with your vision. Instead of digging your heels in, get experimental when Uranus activates midafternoon. Expanding your perspective reveals unexpected blessings under these cosmic conditions. Luna debuts in Gemini this evening, putting you in a more inquisitive and collaborative mood. Create a neutral environment to exchange perspectives with peers while avoiding ego clashes. Promoting open dialogues will gain you the respect and admiration of others once Neptune and Saturn activate later tonight."
+}
+
