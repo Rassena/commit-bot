@@ -305,3 +305,9 @@
   "horoscope": "Recognize that you have influence and be mindful of how you use it, dearest Cancer. As the Taurus Moon aligns with the nodes of fate, refine your message and work toward elevating your community. Meanwhile, Mars and Chiron ask you to resolve the insecurities that prevent you from pursuing better opportunities. Get comfortable with owning your power by appreciating the skills you've gained over time. Your afternoon is filled with magick while Venus and Jupiter align. Explore new horizons, make wishes, and embrace spiritual practices. Exchange philosophical views with friends to close out the weekend on an inspiring note."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-02-23",
+  "horoscope": "Live for yourself instead of catering to others, darling Cancer. Connections between the Taurus Moon, Mercury, and Mars suggest compromise might not be in the cards. Rather than trying to force consensus with partners or peers who won't meet you in the middle, create a freeing environment by going your own way. Encouraging loved ones to do the same will alleviate pressure that's been impacting your relationships. Living authentically triggers new and meaningful friendships while Uranus stirs midafternoon. Set aside time to be alone with your thoughts once Luna enters Gemini, aligning with Neptune and Saturn this evening."
+}
+
