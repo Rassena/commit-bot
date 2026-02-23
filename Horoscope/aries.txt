@@ -355,3 +355,9 @@
   "horoscope": "Think before acting, dearest Aries, as the Taurus Moon aspects Mercury and Mars this morning. Though you'll be determined to shape reality, not everyone will be on board with your vision. Instead of digging your heels in, get experimental when Uranus activates midafternoon. Expanding your perspective reveals unexpected blessings under these cosmic conditions. Luna debuts in Gemini this evening, putting you in a more inquisitive and collaborative mood. Create a neutral environment to exchange perspectives with peers while avoiding ego clashes. Promoting open dialogues will gain you the respect and admiration of others once Neptune and Saturn activate later tonight."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-02-23",
+  "horoscope": "Think before acting, dearest Aries, as the Taurus Moon aspects Mercury and Mars this morning. Though you'll be determined to shape reality, not everyone will be on board with your vision. Instead of digging your heels in, get experimental when Uranus activates midafternoon. Expanding your perspective reveals unexpected blessings under these cosmic conditions. Luna debuts in Gemini this evening, putting you in a more inquisitive and collaborative mood. Create a neutral environment to exchange perspectives with peers while avoiding ego clashes. Promoting open dialogues will gain you the respect and admiration of others once Neptune and Saturn activate later tonight."
+}
+
