@@ -330,3 +330,9 @@
   "horoscope": "Take a deep breath before using your voice, dear Aquarius. Excitement builds, wits sharpen, and new ideas rush in, thanks to Luna's journey through Aries. You'll be eager to connect and share your thoughts with others, but speaking too quickly or interrupting peers could make your words fall flat. As the fire within grows, be selective of what you say to ensure the most critical messages land on attentive ears. The energy may frazzle you when the Moon and Jupiter square off midafternoon. Reassess to-do lists and organize your workspace so items or details don't get lost in the shuffle."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-02-23",
+  "horoscope": "You'll require extra support to feel emotionally and mentally balanced, dear Aquarius, as the Taurus Moon aspects Mercury and Mars. Stay grounded by indulging in small pleasures that ignite the senses, and avoid people who tend to push your buttons. If you become irrational or impatient, get some fresh air and slow down with nature. Emotional release emerges when Uranus activates midafternoon. Give yourself space to laugh, cry, or shout as needed. Luna's debut in Gemini elevates your mood and opens the heart this evening. Constructive conversations around your dreams and long-term aspirations help you regain motivation while Neptune and Saturn stir tonight."
+}
+
