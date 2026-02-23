@@ -389,3 +389,9 @@
   "horoscope": "Those who try to dim your shine are sure to fail, dearest Scorpio. As the Pisces season kicks off, youre blessed with increased charisma, creativity, and confidence throughout the coming weeks. Now is the time to reconnect with the goals that stem from your passionate heart, rather than going along with what others expect of you. Luck smiles upon you when Jupiter activates midmorning, marking the perfect occasion to circulate projects or agendas you hope to propel forward. Make yourself part of the conversation while the Pisces Moon and Mercury join forces later today. Once youve stepped into the spotlight, it will be easy to gain favor."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-02-23",
+  "horoscope": "It may be necessary to stand up for yourself against family or close friends, dear Scorpio. Pent-up emotions hit a boiling point as the Taurus Moon aligns with Mercury and Mars, making underlying issues difficult to ignore. Rather than trying to convince others to support your decisions, focus on living authentically as you pursue your best self. You'll feel elevated by those who understand your perspective when Uranus activates midafternoon, and you should seek connection with kindred spirits. Weigh your options without selling yourself short once Luna enters Gemini this evening, aligning with Neptune and Saturn."
+}
+
