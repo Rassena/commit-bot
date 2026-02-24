@@ -389,3 +389,9 @@
   "horoscope": "Don't let Monday's looming presence distract you from Sunday bliss, darling Sagittarius. As the Taurus Moon aligns with the nodes of fate, family, household duties, and wellness practices should take precedence. If you keep busy within these realms, the work week won't feel so long. Interpersonal tensions can be hashed out while Mars and Chiron align. Staying active as you sort through issues will prevent problems from escalating, so consider hiking, cooking, or tackling a project as you discuss. Celebrate meaningful partnerships once Venus aspects Jupiter this afternoon to elevate and strengthen essential bonds. Recommit to shared goals before closing out the weekend."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-02-24",
+  "horoscope": "Kindness will take you much further than conflict, darling Sagittarius. As the Gemini quarter Moon aspects Pluto and the nodes of fate, emotional landmines could implode at any turn. Your response to drama will determine how others view and treat you moving forward. Even long-term connections may be transformed for better or worse. Replace judgment with compassion and understanding, even with those who dont always offer it at first. Set the tone for healthier interactions by breaking cycles of triggering or bickering. When faced with gossip or unkind commentary, change the topic or remove yourself from the situation. In doing so, you will maintain dignity and peace of mind."
+}
+
