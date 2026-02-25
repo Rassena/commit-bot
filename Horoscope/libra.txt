@@ -257,3 +257,9 @@
   "horoscope": "Lack of organization will cause you to feel overstimulated this morning, dear Libra, as the Gemini Moon squares Venus and Mercury. An increase in opportunities may have disrupted your routines, leading to sleepless nights and heightened stress. Embrace mindfulness techniques when Chiron stirs to regroup and find balance. Mars brings a boost of confidence your way midafternoon, giving you the courage and endurance to make bold decisions and catch up with your agenda. Your efforts lead to recognition after Luna enters Cancer this evening. However, it's important to shift gears and nurture supportive relationships and shared dreams once Neptune and Saturn activate."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-02-25",
+  "horoscope": "Lack of organization will cause you to feel overstimulated this morning, dear Libra, as the Gemini Moon squares Venus and Mercury. An increase in opportunities may have disrupted your routines, leading to sleepless nights and heightened stress. Embrace mindfulness techniques when Chiron stirs to regroup and find balance. Mars brings a boost of confidence your way midafternoon, giving you the courage and endurance to make bold decisions and catch up with your agenda. Your efforts lead to recognition after Luna enters Cancer this evening. However, it's important to shift gears and nurture supportive relationships and shared dreams once Neptune and Saturn activate."
+}
+
