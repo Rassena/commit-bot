@@ -251,3 +251,9 @@
   "horoscope": "Opportunities to reinvent yourself come into focus, dear Libra, as the Gemini quarter Moon aspects Pluto. Allow yourself to be guided by creative instincts, transforming your ego as new interests, skills, and passions are fed. However, it will take significant discipline on your end to avoid fleeting results. As the nodes of fate activate, an organized and sustainable effort should be a priority. Its essential to break free from cycles that place relaxation over self-discovery. Revamp your schedule to honor the bodys need for rest without compromising the souls desire to explore and create."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-02-25",
+  "horoscope": "Lack of organization will cause you to feel overstimulated this morning, dear Libra, as the Gemini Moon squares Venus and Mercury. An increase in opportunities may have disrupted your routines, leading to sleepless nights and heightened stress. Embrace mindfulness techniques when Chiron stirs to regroup and find balance. Mars brings a boost of confidence your way midafternoon, giving you the courage and endurance to make bold decisions and catch up with your agenda. Your efforts lead to recognition after Luna enters Cancer this evening. However, it's important to shift gears and nurture supportive relationships and shared dreams once Neptune and Saturn activate."
+}
+
