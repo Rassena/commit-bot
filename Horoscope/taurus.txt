@@ -215,3 +215,9 @@
   "horoscope": "Ping your friends with playful messages to start the day on a high note, dearest Taurus, as the Pisces Moon and Uranus align. Loved ones will appreciate you thinking of them and the effort you put into making them smile. You'll feel more reclusive as afternoon creeps in and Luna enters Aries, forming powerful connections with Saturn and Neptune. A newfound motivation to finalize details that have been holding up dreams emerges, and you won't be in the mood for distractions. Watch for signs that change is on the horizon when Pluto stirs, considering how you'll adapt as success and responsibilities increase."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-02-25",
+  "horoscope": "The Gemini Moon squares Venus and Mercury this morning, dearest Taurus, splitting your focus. It may be challenging to connect with your surroundings with so much happening throughout the world. If you start to disconnect, make a gratitude list to combat grief while Chiron activates. Your determination to build a beautiful life builds once Mars stirs midafternoon. Recognize that you can shape your environment and create beauty. A boost in emotional intelligence helps you see others in a new light after Luna enters Cancer tonight. Though failing to express yourself could cause you to feel overlooked when Neptune and Saturn stir."
+}
+
