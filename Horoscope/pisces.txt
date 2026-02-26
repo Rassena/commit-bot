@@ -313,3 +313,9 @@
   "horoscope": "Seek the comfort and familiarity only family or childhood friends can provide, sweet fishy. Youll be in an emotional and nostalgic headspace while the Gemini quarter Moon aspects Pluto and the nodes of fate. Personal epiphanies also come into focus, helping you gain insight into unresolved trauma. Recognize how you have held yourself back, and the role your upbringing might have played in the equation. Allowing resentment to fester will only create more problems in the future or make it impossible to move forward. Have compassion for others, but not at the expense of your own mental health."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-02-26",
+  "horoscope": "Your perspective on identity shifts throughout the coming weeks, dear Pisces. As Mercury travels retrograde through your sign, you could grow bored with current trends. Explore past versions of yourself to determine if you've veered off course. Avoid making aesthetic decisions that will be difficult to reverse, unless you have Mercury retrograde in your natal chart. Communication snafus may also arise, and it's important to recognize when you start to shut down or bury emotions. Experiment with different modes of expression while the Cancer Moon aspects the Sun and nodes of fate, especially where love is concerned. Have faith in your artistic visions once Luna and Jupiter unite later tonight."
+}
+
