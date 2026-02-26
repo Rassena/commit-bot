@@ -401,3 +401,9 @@
   "horoscope": "Mercury's retrograde journey asks you to reevaluate creative goals throughout the coming weeks, dear Scorpio. Try to diversify your interests to ensure the work you produce stays relevant and fresh. Friendships and blooming relationships could encounter a few bumps. Watch out for competition and miscommunications to avoid bigger drama. Believe in yourself and the universe to receive rewards while the Cancer Moon aspects the Sun and nodes of fate. Your presence will be pronounced, and taking up space can help you gain notoriety you've been craving. Your lucky stars come out to grant wishes when Luna and Jupiter unite tonight."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-02-26",
+  "horoscope": "Mercury's retrograde journey asks you to reevaluate creative goals throughout the coming weeks, dear Scorpio. Try to diversify your interests to ensure the work you produce stays relevant and fresh. Friendships and blooming relationships could encounter a few bumps. Watch out for competition and miscommunications to avoid bigger drama. Believe in yourself and the universe to receive rewards while the Cancer Moon aspects the Sun and nodes of fate. Your presence will be pronounced, and taking up space can help you gain notoriety you've been craving. Your lucky stars come out to grant wishes when Luna and Jupiter unite tonight."
+}
+
