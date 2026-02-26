@@ -311,3 +311,9 @@
   "horoscope": "Live for yourself instead of catering to others, darling Cancer. Connections between the Taurus Moon, Mercury, and Mars suggest compromise might not be in the cards. Rather than trying to force consensus with partners or peers who won't meet you in the middle, create a freeing environment by going your own way. Encouraging loved ones to do the same will alleviate pressure that's been impacting your relationships. Living authentically triggers new and meaningful friendships while Uranus stirs midafternoon. Set aside time to be alone with your thoughts once Luna enters Gemini, aligning with Neptune and Saturn this evening."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-02-26",
+  "horoscope": "You will feel perplexed by the messages the universe sends throughout the coming weeks, darling Cancer. Mercury's retrograde journey in Pisces seeks to rewire your intuition and your connection to the divine. Be mindful of wishes made or signals sent to the other side long ago, as they may come back to you in mysterious ways. Meanwhile, Luna continues through your sign, forming sweet connections with the Sun and nodes of fate. Evolve your perspective by challenging yourself to take chances. Attempts to gain recognition or further personal goals yield fortuitous results when the Moon and Jupiter unite later tonight."
+}
+
