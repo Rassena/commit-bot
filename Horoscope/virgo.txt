@@ -341,3 +341,9 @@
   "horoscope": "Recognize if you're due for a break, sweet Virgo, as the Taurus Moon aspects Mercury and Mars. You may realize that overcommitting to goals has blurred your bigger picture. If you've been caught in a loop, take time to relax and gain a fresh perspective. Connect with your spirituality when Uranus activates midafternoon, and the universe is sure to surprise you. Your practical side resurfaces once Luna enters Gemini this evening, helping you see your position from multiple angles. Mutually beneficial partnerships could form while Neptune and Saturn are activated, bringing your visions closer to reality."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-02-26",
+  "horoscope": "Redefine what it means to love, darling Virgo, as Mercury retrogrades through the sector of your chart that governs relationships. You'll have a chance to correct imbalances within your closest connections, but you will need to examine both sides of the story. Beware of miscommunications, taking care to choose your moment wisely when addressing issues. Friends will have valuable insights to offer while the Cancer Moon aspects the Sun and nodes of fate. Confide in emotionally mature companions to gain a fresh perspective on complex partnerships. Explore new friendships, cultures, and ideologies to elevate your own opinions once Luna and Jupiter unite later tonight."
+}
+
