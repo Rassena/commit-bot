@@ -395,3 +395,9 @@
   "horoscope": "Kindness will take you much further than conflict, darling Sagittarius. As the Gemini quarter Moon aspects Pluto and the nodes of fate, emotional landmines could implode at any turn. Your response to drama will determine how others view and treat you moving forward. Even long-term connections may be transformed for better or worse. Replace judgment with compassion and understanding, even with those who dont always offer it at first. Set the tone for healthier interactions by breaking cycles of triggering or bickering. When faced with gossip or unkind commentary, change the topic or remove yourself from the situation. In doing so, you will maintain dignity and peace of mind."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-02-26",
+  "horoscope": "Reflect often on your formative years throughout the coming weeks, dear Sagittarius. As Mercury travels retrograde through your solar fourth house, you're asked to appreciate where you come from. Your home life will be more demanding under this planetary backspin, and an overhaul of expectations or responsibilities may be necessary. When juggling schedules, catching up on chores, and catering to your own needs becomes too much, hold a family meeting to offload some of your dutiesthe Cancer Moon aspects the Sun and nodes of fate to help you make essential changes. Exciting commitments could emerge tonight while Luna and Jupiter join forces."
+}
+
