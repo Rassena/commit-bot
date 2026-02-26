@@ -395,3 +395,9 @@
   "horoscope": "It may be necessary to stand up for yourself against family or close friends, dear Scorpio. Pent-up emotions hit a boiling point as the Taurus Moon aligns with Mercury and Mars, making underlying issues difficult to ignore. Rather than trying to convince others to support your decisions, focus on living authentically as you pursue your best self. You'll feel elevated by those who understand your perspective when Uranus activates midafternoon, and you should seek connection with kindred spirits. Weigh your options without selling yourself short once Luna enters Gemini this evening, aligning with Neptune and Saturn."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-02-26",
+  "horoscope": "Mercury's retrograde journey asks you to reevaluate creative goals throughout the coming weeks, dear Scorpio. Try to diversify your interests to ensure the work you produce stays relevant and fresh. Friendships and blooming relationships could encounter a few bumps. Watch out for competition and miscommunications to avoid bigger drama. Believe in yourself and the universe to receive rewards while the Cancer Moon aspects the Sun and nodes of fate. Your presence will be pronounced, and taking up space can help you gain notoriety you've been craving. Your lucky stars come out to grant wishes when Luna and Jupiter unite tonight."
+}
+
