@@ -340,3 +340,9 @@
   "horoscope": "The Gemini Moon squares Venus and Mercury this morning, dear Leo, bringing unease to your social sphere. You may feel as though others are pressuring you to make decisions you're not prepared to pull the trigger on. Outside pressures could also negatively impact your relationships, so keep friendships and romantic or business partnerships separate for now. Seek magickal moments while Chiron stirs, sending healing your way. Reinforce your passions by connecting with peers who have similar interests when Mars activates midafternoon. The atmosphere shifts after Luna enters Cancer and aligns with Neptune and Saturn, putting you in a dreamy and spiritual headspace."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-02-26",
+  "horoscope": "A period of renegotiation is upon you, dear Leo. Today marks the first full day of Mercury retrograde, turning your focus toward unfair agreements. Be mindful of where you've made compromises with little return on your efforts, especially in business and matters of the heart. You may also want to consider if specific commitments have inhibited your ability to evolve emotionally or professionally. The Cancer Moon places you in a deeply introspective headspace. Aspects with the Sun and nodes of fate encourage you to view the future with more sincerity. Enlightenment finds you when solitude is embraced while Luna and Jupiter unite tonight."
+}
+
