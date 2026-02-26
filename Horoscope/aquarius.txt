@@ -336,3 +336,9 @@
   "horoscope": "You'll require extra support to feel emotionally and mentally balanced, dear Aquarius, as the Taurus Moon aspects Mercury and Mars. Stay grounded by indulging in small pleasures that ignite the senses, and avoid people who tend to push your buttons. If you become irrational or impatient, get some fresh air and slow down with nature. Emotional release emerges when Uranus activates midafternoon. Give yourself space to laugh, cry, or shout as needed. Luna's debut in Gemini elevates your mood and opens the heart this evening. Constructive conversations around your dreams and long-term aspirations help you regain motivation while Neptune and Saturn stir tonight."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-02-26",
+  "horoscope": "Review the knowledge you've gained over the years, dear Capricorn, using Mercury retrograde's journey to sharpen your intellect. You'll rediscover details that seem simple at first glance, but can dramatically increase your overall expertise. Be mindful of how you communicate, as misunderstandings will be abundant and difficult to correct. Show sweetness to someone special as the Cancer Moon aspects the Sun and the nodes of fate, demonstrating an appreciation for the light they bring to your life. Let others shower you with love in return to find absolute bliss. Heart connections will feel particularly magickal when Luna and Jupiter unite later tonight."
+}
+
