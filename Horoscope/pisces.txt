@@ -319,3 +319,9 @@
   "horoscope": "Your perspective on identity shifts throughout the coming weeks, dear Pisces. As Mercury travels retrograde through your sign, you could grow bored with current trends. Explore past versions of yourself to determine if you've veered off course. Avoid making aesthetic decisions that will be difficult to reverse, unless you have Mercury retrograde in your natal chart. Communication snafus may also arise, and it's important to recognize when you start to shut down or bury emotions. Experiment with different modes of expression while the Cancer Moon aspects the Sun and nodes of fate, especially where love is concerned. Have faith in your artistic visions once Luna and Jupiter unite later tonight."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-02-27",
+  "horoscope": "The Sun and north node unite in your sign, darling Pisces, placing a brighter future at your fingertips. Rely on yourself instead of waiting around for others to meet you halfway. Recognize that its okay to walk your own path as long as you reconnect with loved ones along the way. Resist the temptation to act on each idea that arises while Mars squares Uranus, no matter how brilliant they may seem at the time. These vibes can be reckless and lead to big messes when impulsivity wins. Youll feel tempted to shop while the Cancer Moon squares Chiron, but you should spend time outside instead. Second chances at love could emerge once Mercury RX and Venus connect tonight."
+}
+
