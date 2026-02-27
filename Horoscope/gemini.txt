@@ -370,3 +370,9 @@
   "horoscope": "Emotional shifts bring you closer to success, dear Gemini, as the Pisces Sun aligns with the nodes of fate. Focus on your bigger picture and release cycles that cause you to fixate on small details or seek perfection. You may determine that you've been carrying certain colleagues for too long. Forcing others to fend for themselves will free up space to improve your own standing. Avoid your screens when the Cancer Moon squares Chiron this afternoon, or you could get caught in a loop of doomscrolling. Revisit long-term aspirations with that special someone to strengthen your connection while Mercury retrograde and Venus unite."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-02-27",
+  "horoscope": "Emotional shifts bring you closer to success, dear Gemini, as the Pisces Sun aligns with the nodes of fate. Focus on your bigger picture and release cycles that cause you to fixate on small details or seek perfection. You may determine that you've been carrying certain colleagues for too long. Forcing others to fend for themselves will free up space to improve your own standing. Avoid your screens when the Cancer Moon squares Chiron this afternoon, or you could get caught in a loop of doomscrolling. Revisit long-term aspirations with that special someone to strengthen your connection while Mercury retrograde and Venus unite."
+}
+
