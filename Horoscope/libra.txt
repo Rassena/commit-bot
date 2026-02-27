@@ -263,3 +263,9 @@
   "horoscope": "Lack of organization will cause you to feel overstimulated this morning, dear Libra, as the Gemini Moon squares Venus and Mercury. An increase in opportunities may have disrupted your routines, leading to sleepless nights and heightened stress. Embrace mindfulness techniques when Chiron stirs to regroup and find balance. Mars brings a boost of confidence your way midafternoon, giving you the courage and endurance to make bold decisions and catch up with your agenda. Your efforts lead to recognition after Luna enters Cancer this evening. However, it's important to shift gears and nurture supportive relationships and shared dreams once Neptune and Saturn activate."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-02-27",
+  "horoscope": "Your work ethic improves while the Pisces Sun aligns with the nodes of fate, dear Libra. Flow through to-do lists, staying organized to ensure no tasks fall through the cracks. Tensions could brew within professional partnerships when Mars squares Uranus, and you may be tempted to excuse yourself from specific commitments. Romantic connections could also hit a few snags, especially if there are imbalances around intimacy or financial goals. A harsh aspect between the Cancer Moon and Chiron compounds emotional stressors, and it would be wise to take care of yourself before addressing bigger issues. Find balance by bringing your body and mind into harmonious alignment once Mercury RX and Venus unite tonight."
+}
+
