@@ -221,3 +221,9 @@
   "horoscope": "The Gemini Moon squares Venus and Mercury this morning, dearest Taurus, splitting your focus. It may be challenging to connect with your surroundings with so much happening throughout the world. If you start to disconnect, make a gratitude list to combat grief while Chiron activates. Your determination to build a beautiful life builds once Mars stirs midafternoon. Recognize that you can shape your environment and create beauty. A boost in emotional intelligence helps you see others in a new light after Luna enters Cancer tonight. Though failing to express yourself could cause you to feel overlooked when Neptune and Saturn stir."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-02-27",
+  "horoscope": "Gravitate toward communities that are inspiring, intellectually stimulating, and mutually supportive, darling Taurus. As the Sun aligns with the nodes of fate, it's essential to expand your network and find companionship with those operating on your level. You may get frustrated by gatekeepers that seem to be standing in your way while Mars and Uranus square off. Pull back and reassess to identify another way forward, and avoid angry displays. Be kind to yourself when the Cancer Moon squares Chiron, as negative self-talk will only cause you to backslide further. Old alliances could resurface once Mercury rx and Venus unite, bringing you closer to the status and circles you seek."
+}
+
