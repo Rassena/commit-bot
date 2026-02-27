@@ -401,3 +401,9 @@
   "horoscope": "Reflect often on your formative years throughout the coming weeks, dear Sagittarius. As Mercury travels retrograde through your solar fourth house, you're asked to appreciate where you come from. Your home life will be more demanding under this planetary backspin, and an overhaul of expectations or responsibilities may be necessary. When juggling schedules, catching up on chores, and catering to your own needs becomes too much, hold a family meeting to offload some of your dutiesthe Cancer Moon aspects the Sun and nodes of fate to help you make essential changes. Exciting commitments could emerge tonight while Luna and Jupiter join forces."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-02-27",
+  "horoscope": "Lightbulbs go off while the Pisces Sun aligns with the nodes of fate, Sagittarius. Though you might not fully agree with how you were brought up, youll feel more understanding of the decisions that were made. Try to have compassion for influential figures who werent always perfect but were there for you in the end. Sparks of inspiration throw you into action while Mars squares Uranus, but not every idea is worth following through on. Before going all in on a project or decision, step back to review the facts and potential outcomes. Failing to do so could lead to ego bruises once the Cancer Moon squares Chiron this afternoon. Cozy up with loved ones and nostalgic comforts when Mercury Rx and Venus join forces tonight."
+}
+
