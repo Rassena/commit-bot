@@ -346,3 +346,9 @@
   "horoscope": "A period of renegotiation is upon you, dear Leo. Today marks the first full day of Mercury retrograde, turning your focus toward unfair agreements. Be mindful of where you've made compromises with little return on your efforts, especially in business and matters of the heart. You may also want to consider if specific commitments have inhibited your ability to evolve emotionally or professionally. The Cancer Moon places you in a deeply introspective headspace. Aspects with the Sun and nodes of fate encourage you to view the future with more sincerity. Enlightenment finds you when solitude is embraced while Luna and Jupiter unite tonight."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-02-27",
+  "horoscope": "Stepping out of your comfort zone will lead to empowerment, dear Leo. As the Pisces Sun aligns with the nodes of fate, take charge and build new structures. Though its important to have companions you can rely on, now is the time to invest in your own financial stability and sense of emotional support. Take a spiritual approach toward releasing what does not serve you while the Cancer moon and Chiron square off, but give yourself plenty of grace as emotions swirl. Revisit unresolved issues with romantic or professional partners when Mercury Rx and Venus unite tonight."
+}
+
