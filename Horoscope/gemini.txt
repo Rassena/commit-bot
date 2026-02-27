@@ -358,3 +358,9 @@
   "horoscope": "Dreaming big won't be enough to actualize your dreams, dear Gemini, as the Taurus Moon aspects Mercury and Mars this morning. Though your instincts will guide you toward higher ground, aspirations can only be met when logic is applied. Be mindful of existing responsibilities, potential opportunities, energetic bandwidth, limitations, and realistic time frames to strengthen your agenda. Eureka moments add an extra layer of genius to your plans once Uranus activates midafternoon. You'll be ready to present your ideas after Luna enters your sign this evening, aspecting Neptune and Saturn. Translate your visions into workable strategies to ensure success."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-02-27",
+  "horoscope": "Emotional shifts bring you closer to success, dear Gemini, as the Pisces Sun aligns with the nodes of fate. Focus on your bigger picture and release cycles that cause you to fixate on small details or seek perfection. You may determine that you've been carrying certain colleagues for too long. Forcing others to fend for themselves will free up space to improve your own standing. Avoid your screens when the Cancer Moon squares Chiron this afternoon, or you could get caught in a loop of doomscrolling. Revisit long-term aspirations with that special someone to strengthen your connection while Mercury retrograde and Venus unite."
+}
+
