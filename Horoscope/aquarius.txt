@@ -342,3 +342,9 @@
   "horoscope": "Review the knowledge you've gained over the years, dear Capricorn, using Mercury retrograde's journey to sharpen your intellect. You'll rediscover details that seem simple at first glance, but can dramatically increase your overall expertise. Be mindful of how you communicate, as misunderstandings will be abundant and difficult to correct. Show sweetness to someone special as the Cancer Moon aspects the Sun and the nodes of fate, demonstrating an appreciation for the light they bring to your life. Let others shower you with love in return to find absolute bliss. Heart connections will feel particularly magickal when Luna and Jupiter unite later tonight."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-02-27",
+  "horoscope": "Dont let others force you to change if youre happy with who you are, dear Aquarius. As the Pisces Sun aligns with the nodes of fate, improve connections by laying down ground rules that support your sense of self. Emotional security is built when partners learn to evolve together rather than attempting to shape each other. Avoid the temptation to lash out while Mars squares Uranus, as you could come across as irrational and overly sensitive. Relax your muscles and clear your mind if you still feel upset once the Cancer Moon aspects Chiron this afternoon. Appreciate small blessings when Mercury RX and Venus hold hands tonight."
+}
+
