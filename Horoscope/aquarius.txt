@@ -348,3 +348,9 @@
   "horoscope": "Dont let others force you to change if youre happy with who you are, dear Aquarius. As the Pisces Sun aligns with the nodes of fate, improve connections by laying down ground rules that support your sense of self. Emotional security is built when partners learn to evolve together rather than attempting to shape each other. Avoid the temptation to lash out while Mars squares Uranus, as you could come across as irrational and overly sensitive. Relax your muscles and clear your mind if you still feel upset once the Cancer Moon aspects Chiron this afternoon. Appreciate small blessings when Mercury RX and Venus hold hands tonight."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-02-27",
+  "horoscope": "Dont let others force you to change if youre happy with who you are, dear Aquarius. As the Pisces Sun aligns with the nodes of fate, improve connections by laying down ground rules that support your sense of self. Emotional security is built when partners learn to evolve together rather than attempting to shape each other. Avoid the temptation to lash out while Mars squares Uranus, as you could come across as irrational and overly sensitive. Relax your muscles and clear your mind if you still feel upset once the Cancer Moon aspects Chiron this afternoon. Appreciate small blessings when Mercury RX and Venus hold hands tonight."
+}
+
