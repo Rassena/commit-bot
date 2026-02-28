@@ -347,3 +347,9 @@
   "horoscope": "Redefine what it means to love, darling Virgo, as Mercury retrogrades through the sector of your chart that governs relationships. You'll have a chance to correct imbalances within your closest connections, but you will need to examine both sides of the story. Beware of miscommunications, taking care to choose your moment wisely when addressing issues. Friends will have valuable insights to offer while the Cancer Moon aspects the Sun and nodes of fate. Confide in emotionally mature companions to gain a fresh perspective on complex partnerships. Explore new friendships, cultures, and ideologies to elevate your own opinions once Luna and Jupiter unite later tonight."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-02-28",
+  "horoscope": "Swap secrets, hopes, and dreams with your favorite person, dear Virgo. As the Leo Moon aspects Neptune and Saturn, bonds intensify when visions for tomorrow collide. Letting your guard down will encourage others to do the same, fostering mutual understanding in your relationships. Avoid getting in your own head while Pluto grows restless, which could trigger obsessive tendencies. If you start picking apart conversations or overanalyzing interactions, unfounded suspicions might take root. Allow loved ones to shine once the Sun and Luna form an unbalanced aspect, drawing inspiration from their success instead of wishing it were your own."
+}
+
