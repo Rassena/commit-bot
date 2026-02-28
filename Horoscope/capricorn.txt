@@ -377,3 +377,9 @@
   "horoscope": "Catering to the individual needs of loved ones will be a top priority, dear Capricorn. As the Aries Moon puts you in a compassionate and nurturing headspace, doting on family and close friends brings a satisfying sense of purpose. Take breaks throughout the day to ensure your own desires are met. Depleting your resources while pampering others could brew resentment if you're not careful. Your balance will be tested when Luna squares Jupiter midafternoon. Recognize where you're at to stay aligned and avoid disharmony. Keep a low profile and enjoy a warm night at home to cap off the work week."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-02-28",
+  "horoscope": "The Leo Moon shines a light on your partnerships, dearest Capricorn, aspecting Neptune, Saturn, and Pluto this morning. Avoid power struggles and practice compassion to guard against temper tantrums. Watch your own actions and moods, taking care not to repeat mistakes you saw your parents make. A home-cooked breakfast may offer a simple solution to moody housemates, creating a sense of ease and togetherness. As the hours pass, your ego craves empowerment, which can be found by following your passions. Refine projects or ideas before sharing them while the Sun and Luna form an unbalanced aspect this evening."
+}
+
