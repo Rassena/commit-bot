@@ -352,3 +352,9 @@
   "horoscope": "Stepping out of your comfort zone will lead to empowerment, dear Leo. As the Pisces Sun aligns with the nodes of fate, take charge and build new structures. Though its important to have companions you can rely on, now is the time to invest in your own financial stability and sense of emotional support. Take a spiritual approach toward releasing what does not serve you while the Cancer moon and Chiron square off, but give yourself plenty of grace as emotions swirl. Revisit unresolved issues with romantic or professional partners when Mercury Rx and Venus unite tonight."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-02-28",
+  "horoscope": "Embrace all that makes you glorious and larger than life, dear Leo, as Luna debuts in your sign. Sweet connections with Neptune and Saturn bring structure to dreams you've set but were afraid to believe in fully. Let yourself get carried away on the promise of what's to come, but recognize what it will take to actualize your agenda. As Pluto grows restless, you're reminded that challenges will emerge as you transition toward the next chapter. Don't be dissuaded by discomfort if empowerment lies around the corner. Review your strategy to determine what's missing while the Sun and Moon form an unbalanced aspect this evening."
+}
+
