@@ -269,3 +269,9 @@
   "horoscope": "Your work ethic improves while the Pisces Sun aligns with the nodes of fate, dear Libra. Flow through to-do lists, staying organized to ensure no tasks fall through the cracks. Tensions could brew within professional partnerships when Mars squares Uranus, and you may be tempted to excuse yourself from specific commitments. Romantic connections could also hit a few snags, especially if there are imbalances around intimacy or financial goals. A harsh aspect between the Cancer Moon and Chiron compounds emotional stressors, and it would be wise to take care of yourself before addressing bigger issues. Find balance by bringing your body and mind into harmonious alignment once Mercury RX and Venus unite tonight."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-02-28",
+  "horoscope": "Promote inclusive environments this morning, dearest Libra. As the Leo Moon aligns with Neptune, Saturn, and Pluto, remember that there's enough space for everyone to shine. Expand socially by organizing large gatherings, encouraging your friends to bring along fresh faces. A select few could put you on guard, and it's essential to trust your instincts when they tell you to hold back. Just keep your judgments to a minimum for now, allowing time to reveal true colors. Prioritize your health while the Sun and Luna form an unbalanced aspect this evening, even if doing so means missing out on some fun."
+}
+
