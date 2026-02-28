@@ -354,3 +354,9 @@
   "horoscope": "Dont let others force you to change if youre happy with who you are, dear Aquarius. As the Pisces Sun aligns with the nodes of fate, improve connections by laying down ground rules that support your sense of self. Emotional security is built when partners learn to evolve together rather than attempting to shape each other. Avoid the temptation to lash out while Mars squares Uranus, as you could come across as irrational and overly sensitive. Relax your muscles and clear your mind if you still feel upset once the Cancer Moon aspects Chiron this afternoon. Appreciate small blessings when Mercury RX and Venus hold hands tonight."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-02-28",
+  "horoscope": "You'll feel at ease when in the presence of pure love, dear Aquarius. As the Leo Moon aspects Neptune and Saturn, initiate meaningful discussions with family and friends. Steer clear of those who might try to change you while Pluto becomes agitated. Though the idea of reinventing yourself will inspire you, evolution must occur on your terms alone. Enjoy romantic settings as the hours unfold, seeking beauty with your favorite people. Issues could arise once the Sun and Luna form an unbalanced aspect this evening. Insecurities or financial imbalances within matters of the heart intensify if emotions are pushed aside."
+}
+
