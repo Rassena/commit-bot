@@ -413,3 +413,9 @@
   "horoscope": "Your weekend is poised to be full of adventure and heartfelt moments, dear Sagittarius. Set intentions that revolve around love and exploration as the Leo Moon aligns with Neptune, Saturn, and Pluto. A change in scenery will trigger fresh inspiration, and bring you closer to loved ones. Allow your perspective to evolve by shedding preconceived notions and fully absorbing whatever comes next. If philosophical or political debates arise, express your ideals in a positive light rather than admonishing your counterpart. Keep an eye out for unexpected opportunities while the Sun and Luna form an unbalanced aspect this evening."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-02-28",
+  "horoscope": "Your weekend is poised to be full of adventure and heartfelt moments, dear Sagittarius. Set intentions that revolve around love and exploration as the Leo Moon aligns with Neptune, Saturn, and Pluto. A change in scenery will trigger fresh inspiration, and bring you closer to loved ones. Allow your perspective to evolve by shedding preconceived notions and fully absorbing whatever comes next. If philosophical or political debates arise, express your ideals in a positive light rather than admonishing your counterpart. Keep an eye out for unexpected opportunities while the Sun and Luna form an unbalanced aspect this evening."
+}
+
