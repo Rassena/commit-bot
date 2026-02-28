@@ -376,3 +376,9 @@
   "horoscope": "Emotional shifts bring you closer to success, dear Gemini, as the Pisces Sun aligns with the nodes of fate. Focus on your bigger picture and release cycles that cause you to fixate on small details or seek perfection. You may determine that you've been carrying certain colleagues for too long. Forcing others to fend for themselves will free up space to improve your own standing. Avoid your screens when the Cancer Moon squares Chiron this afternoon, or you could get caught in a loop of doomscrolling. Revisit long-term aspirations with that special someone to strengthen your connection while Mercury retrograde and Venus unite."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-02-28",
+  "horoscope": "Youll be in a dreamy and social mood as the Leo Moon aligns with Neptune and Saturn, dearest Gemini. Make plans with friends that center around whimsical activities and carefree spaces. As Pluto stirs in your solar ninth house, your intuition increases. Your ability to read others grants a gift for facilitating healing, though you should be mindful to honor your own needs as well. If your energy starts to feel polluted, take steps to cleanse the aura. Consider taking on a partner if things get lonely at the top, while the Sun and Luna form an unbalanced aspect this evening. "
+}
+
