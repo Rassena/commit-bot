@@ -353,3 +353,9 @@
   "horoscope": "Swap secrets, hopes, and dreams with your favorite person, dear Virgo. As the Leo Moon aspects Neptune and Saturn, bonds intensify when visions for tomorrow collide. Letting your guard down will encourage others to do the same, fostering mutual understanding in your relationships. Avoid getting in your own head while Pluto grows restless, which could trigger obsessive tendencies. If you start picking apart conversations or overanalyzing interactions, unfounded suspicions might take root. Allow loved ones to shine once the Sun and Luna form an unbalanced aspect, drawing inspiration from their success instead of wishing it were your own."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-02-28",
+  "horoscope": "Swap secrets, hopes, and dreams with your favorite person, dear Virgo. As the Leo Moon aspects Neptune and Saturn, bonds intensify when visions for tomorrow collide. Letting your guard down will encourage others to do the same, fostering mutual understanding in your relationships. Avoid getting in your own head while Pluto grows restless, which could trigger obsessive tendencies. If you start picking apart conversations or overanalyzing interactions, unfounded suspicions might take root. Allow loved ones to shine once the Sun and Luna form an unbalanced aspect, drawing inspiration from their success instead of wishing it were your own."
+}
+
