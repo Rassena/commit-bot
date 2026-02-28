@@ -367,3 +367,9 @@
   "horoscope": "Overanalyzing your relationships could lead to unnecessary strife, dear Aries. As the Gemini Moon squares Venus and Mercury, avoid projecting your fears or trauma onto others. Acknowledge if fixations become unhealthy and find healing while Chiron stirs. Reset your mind by getting out and fully embracing life once Mars activates midafternoon. Connect with friends or seek community recognition to stoke the fire within. You'll feel blissfully worn out and ready for the comforts of home after Luna enters Cancer this evening. Be mindful of the expectations you place on yourself and how they impact your emotions when Saturn and Neptune stir later tonight."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-02-28",
+  "horoscope": "The energy feels warm and inviting as you awaken, dear Aries, as the Leo Moon aspects Neptune and Saturn. A boost in creativity and confidence will put you in the mood to build a dreamier and more successful life. However, you should guard your plans against competitive peers while Pluto grows disgruntled. Those who arent brave enough to chase their own visions might funnel their efforts toward breaking yours down. Outside noise could also prove distracting if you get caught up in gossip or social media feeds. Your discipline may slip once Luna and the Sun form an unbalanced aspect this evening. Outline a strategy to stay on track if you need time to rest."
+}
+
