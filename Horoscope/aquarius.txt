@@ -360,3 +360,9 @@
   "horoscope": "You'll feel at ease when in the presence of pure love, dear Aquarius. As the Leo Moon aspects Neptune and Saturn, initiate meaningful discussions with family and friends. Steer clear of those who might try to change you while Pluto becomes agitated. Though the idea of reinventing yourself will inspire you, evolution must occur on your terms alone. Enjoy romantic settings as the hours unfold, seeking beauty with your favorite people. Issues could arise once the Sun and Luna form an unbalanced aspect this evening. Insecurities or financial imbalances within matters of the heart intensify if emotions are pushed aside."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-03-01",
+  "horoscope": "Love hangs in the air and puts you in a perky mood, dear Aquarius. As the Leo Moon conjures themes around confidence, camaraderie, and passion, let others see your unique shine. Return the favor by celebrating family and friends and showing genuine interest in their latest endeavors. You may discover that the people around you are more interesting than you previously gave them credit for. Just try not to throw your own insecurities into the mix when Mercury Rx and Venus stir up imbalances. Positive affirmations go a long way in boosting your mental state while Chiron stirs this evening."
+}
+
