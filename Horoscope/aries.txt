@@ -373,3 +373,9 @@
   "horoscope": "The energy feels warm and inviting as you awaken, dear Aries, as the Leo Moon aspects Neptune and Saturn. A boost in creativity and confidence will put you in the mood to build a dreamier and more successful life. However, you should guard your plans against competitive peers while Pluto grows disgruntled. Those who arent brave enough to chase their own visions might funnel their efforts toward breaking yours down. Outside noise could also prove distracting if you get caught up in gossip or social media feeds. Your discipline may slip once Luna and the Sun form an unbalanced aspect this evening. Outline a strategy to stay on track if you need time to rest."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-03-02",
+  "horoscope": "An unpredictable energy permeates the air, dear Aries, as the Leo Moon forms challenging aspects with Uranus and Mars this morning. Watch for triggers online and in your vicinity. Bruised egos could lead to knee-jerk reactions and inflate minor dramas. Luna's debut in Virgo offers a welcome change of pace, inspiring you to start the work week on a strong note. Organize your agenda for the next five days to develop a smooth flow. Mars's entrance into Pisces hints that working alone will help you stay motivated. You'll begin to feel the effects of tomorrow's Lunar eclipse while the Moon aligns with the nodes of fate, and you should focus on releasing stress."
+}
+
