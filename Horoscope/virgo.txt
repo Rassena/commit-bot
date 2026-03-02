@@ -359,3 +359,9 @@
   "horoscope": "Swap secrets, hopes, and dreams with your favorite person, dear Virgo. As the Leo Moon aspects Neptune and Saturn, bonds intensify when visions for tomorrow collide. Letting your guard down will encourage others to do the same, fostering mutual understanding in your relationships. Avoid getting in your own head while Pluto grows restless, which could trigger obsessive tendencies. If you start picking apart conversations or overanalyzing interactions, unfounded suspicions might take root. Allow loved ones to shine once the Sun and Luna form an unbalanced aspect, drawing inspiration from their success instead of wishing it were your own."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-03-02",
+  "horoscope": "Cerebral yet spiritually profound dreams could find you early this morning, dear Virgo. As the Leo Moon aspects Uranus and Mars, consider if the universe is guiding you toward new beliefs, routines, or work. Luna's debut into your sign offers additional insights when you focus on personal needs and what sparks drive. Meanwhile, Mars enters Pisces and your solar seventh house. Your sense of balance will heavily impact your resilience and motivation. You may also grow apathetic with people or goals you don't harbor a strong affinity for. Give yourself and loved ones grace to pivot course while the Moon aligns with the nodes of fate this evening."
+}
+
