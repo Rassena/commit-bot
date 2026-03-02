@@ -413,3 +413,9 @@
   "horoscope": "Sometimes finding your purpose requires leaving certain people or situations behind, sweet scorpion. As the Pisces Sun aligns with the nodes of fate, be true to yourself and accept inevitable changes. Your free time and social interactions will evolve as you pursue your most authentic life. Conflict with family could arise while Mars squares Uranus, especially with those who cannot understand your need for freedom. Avoid going out of your way to agitate others, but dont let outside opinions cloud your vision. Calm the body and mind through spiritual practices once the Cancer Moon aspects Chiron this afternoon. Connect with old hobbies or friends when Mercury Rx and Venus unite tonight."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-03-02",
+  "horoscope": "Distance yourself from people or situations that put you on edge, dear Scorpio. As the Leo Moon aspects Uranus and Mars, it will be difficult to exercise restraint once nerves become frayed. Seek communal environments after Luna enters Virgo, rewiring the nervous system within the company of kindred spirits. Even brief moments of validation will do wonders for the soul. Meanwhile, Mars debuts in Pisces, shifting your focus and energetic output. You'll require more social interaction and time for creative outlets throughout the coming weeks. Consider deleting social media apps when Luna aligns with the nodes of fate this evening, freeing up more time for more exciting projects."
+}
+
