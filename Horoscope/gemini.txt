@@ -382,3 +382,9 @@
   "horoscope": "Youll be in a dreamy and social mood as the Leo Moon aligns with Neptune and Saturn, dearest Gemini. Make plans with friends that center around whimsical activities and carefree spaces. As Pluto stirs in your solar ninth house, your intuition increases. Your ability to read others grants a gift for facilitating healing, though you should be mindful to honor your own needs as well. If your energy starts to feel polluted, take steps to cleanse the aura. Consider taking on a partner if things get lonely at the top, while the Sun and Luna form an unbalanced aspect this evening. "
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-03-02",
+  "horoscope": "The Leo Moon forms challenging aspects with Uranus and Mars before entering earthy Virgo, dearest Gemini. An explosion of ideas could cause you to lose focus, leading to overstimulation as the clock speeds up. Though time may feel of the essence, devote a few moments to connect with your breath and spirituality. Your efforts will pay off by ushering forth clarity, calm, and perhaps a message from beyond. Healthy coping mechanisms such as these will be important to utilize once Mars enters Pisces. Major opportunities emerge over the coming weeks, but spreading yourself too thin could lead to costly mistakes."
+}
+
