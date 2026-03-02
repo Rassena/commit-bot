@@ -317,3 +317,9 @@
   "horoscope": "You will feel perplexed by the messages the universe sends throughout the coming weeks, darling Cancer. Mercury's retrograde journey in Pisces seeks to rewire your intuition and your connection to the divine. Be mindful of wishes made or signals sent to the other side long ago, as they may come back to you in mysterious ways. Meanwhile, Luna continues through your sign, forming sweet connections with the Sun and nodes of fate. Evolve your perspective by challenging yourself to take chances. Attempts to gain recognition or further personal goals yield fortuitous results when the Moon and Jupiter unite later tonight."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-03-02",
+  "horoscope": "Big egos, unpredictable behaviors, and tense disagreements throw your morning into a tizzy, dearest Cancer. As the Leo Moon forms harsh aspects with Uranus and Mars, you'll prefer quieter company. Consider starting your day with some fresh air and sunshine, and avoid noise from fussy companions, both online and in your surroundings. Conversation comes more easily once Luna enters Virgo, returning loved ones to their senses. Your own curiosities will put you in an uncharacteristically chatty mood, and people will be eager to dissect interesting topics. Seek new adventures throughout the coming weeks after Mars debuts in Pisces."
+}
+
