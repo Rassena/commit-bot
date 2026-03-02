@@ -281,3 +281,9 @@
   "horoscope": "Be mindful of your triggers this morning, dear Libra. The Leo Moon forms harsh connections with Uranus and Mars. You'll be highly reactive with an impaired ability to control your actions while emotions run high. Luna's debut into Virgo gently nudges you toward solitude. Move your schedule around to avoid interactions that can wait another time. You'll become increasingly aware of how your feelings influence your energy levels once Mars enters Pisces. Prioritize emotional and physical wellness throughout the coming weeks. Start by moving away from unhealthy cycles when the Moon and nodes of fate align this evening."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-03-02",
+  "horoscope": "Be mindful of your triggers this morning, dear Libra. The Leo Moon forms harsh connections with Uranus and Mars. You'll be highly reactive with an impaired ability to control your actions while emotions run high. Luna's debut into Virgo gently nudges you toward solitude. Move your schedule around to avoid interactions that can wait another time. You'll become increasingly aware of how your feelings influence your energy levels once Mars enters Pisces. Prioritize emotional and physical wellness throughout the coming weeks. Start by moving away from unhealthy cycles when the Moon and nodes of fate align this evening."
+}
+
