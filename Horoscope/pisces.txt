@@ -331,3 +331,9 @@
   "horoscope": "The Sun and north node unite in your sign, darling Pisces, placing a brighter future at your fingertips. Rely on yourself instead of waiting around for others to meet you halfway. Recognize that its okay to walk your own path as long as you reconnect with loved ones along the way. Resist the temptation to act on each idea that arises while Mars squares Uranus, no matter how brilliant they may seem at the time. These vibes can be reckless and lead to big messes when impulsivity wins. Youll feel tempted to shop while the Cancer Moon squares Chiron, but you should spend time outside instead. Second chances at love could emerge once Mercury RX and Venus connect tonight."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-03-03",
+  "horoscope": "Believe you can have it all, dear Pisces, but recognize how your partnerships influence aspirations. As the Virgo Lunar Eclipse shines a spotlight on your relationships, you'll feel more aware of what you need from others. If you've been expending too much energy on loved ones, find ways to redirect your focus to your own agenda. It's important to vocalize your needs, especially with those who seem oblivious. Your heart-center opens when Jupiter activates, stirring a deep appreciation for your most loyal companions. Celebrate these bonds by planning a fun excursion with your favorite people. Avoid the temptation to connect with old flames once Luna opposes Mercury Rx tonight."
+}
+
