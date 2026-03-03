@@ -365,3 +365,9 @@
   "horoscope": "Cerebral yet spiritually profound dreams could find you early this morning, dear Virgo. As the Leo Moon aspects Uranus and Mars, consider if the universe is guiding you toward new beliefs, routines, or work. Luna's debut into your sign offers additional insights when you focus on personal needs and what sparks drive. Meanwhile, Mars enters Pisces and your solar seventh house. Your sense of balance will heavily impact your resilience and motivation. You may also grow apathetic with people or goals you don't harbor a strong affinity for. Give yourself and loved ones grace to pivot course while the Moon aligns with the nodes of fate this evening."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-03-03",
+  "horoscope": "You'll move with intensity that others aren't quite sure how to respond to, dearest Virgo. As the Lunar Eclipse rises in your sign, reflect on what purpose and power mean to you. The unpredictable nature of this astrological event brings twists and turns your way. The next six months will reshape your relationships and how others perceive you. If you're ready to reinvent yourself, use this energy to consider what that might look like. Just avoid drastic and impulsive measures for now. Lucky encounters could expand your social reach when Jupiter stirs. Old flames may resurface this evening while Luna opposes Mercury rx."
+}
+
