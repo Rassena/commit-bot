@@ -227,3 +227,9 @@
   "horoscope": "Gravitate toward communities that are inspiring, intellectually stimulating, and mutually supportive, darling Taurus. As the Sun aligns with the nodes of fate, it's essential to expand your network and find companionship with those operating on your level. You may get frustrated by gatekeepers that seem to be standing in your way while Mars and Uranus square off. Pull back and reassess to identify another way forward, and avoid angry displays. Be kind to yourself when the Cancer Moon squares Chiron, as negative self-talk will only cause you to backslide further. Old alliances could resurface once Mercury rx and Venus unite, bringing you closer to the status and circles you seek."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-03-03",
+  "horoscope": "Walk your most authentic path, dearest Taurus, as the Virgo Lunar Eclipse rises in your solar fifth house. You may determine that social demands have kept you from pursuing interests or creative goals. Though it's important to maintain a healthy network of friends, your identity will suffer if hobbies or artistic outlets fade into the background. You'll feel excited by the prospect of taking a step back to focus on yourself when Jupiter stirs. Chase ideas that reinvigorate the spirit. Old dramas could resurface while the Moon opposes Mercury rx this evening, further inspiring you to tighten your friendship circle."
+}
+
