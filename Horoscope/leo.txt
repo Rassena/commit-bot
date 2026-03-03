@@ -358,3 +358,9 @@
   "horoscope": "Embrace all that makes you glorious and larger than life, dear Leo, as Luna debuts in your sign. Sweet connections with Neptune and Saturn bring structure to dreams you've set but were afraid to believe in fully. Let yourself get carried away on the promise of what's to come, but recognize what it will take to actualize your agenda. As Pluto grows restless, you're reminded that challenges will emerge as you transition toward the next chapter. Don't be dissuaded by discomfort if empowerment lies around the corner. Review your strategy to determine what's missing while the Sun and Moon form an unbalanced aspect this evening."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-03-03",
+  "horoscope": "You'll feel present, emotionally charged, and eager to settle uncertain circumstances, dear Leo. As the Virgo Lunar Eclipse rises, you won't be in the mood to downplay desires. You'll see a world of possibility as the Pisces Sun, Mercury rx, Venus, and Mars conjure themes around transformation and investment. Now is the time to consider your options, cutting loose people or situations that continuously string you along. You may be the beneficiary of someone else's generosity while Jupiter is activated. Appreciate blessings as they come, but look for opportunities to pass them on. Assess your finances when Luna opposes Mercury Rx this evening, and make a plan to pay off debts."
+}
+
