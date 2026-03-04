@@ -419,3 +419,9 @@
   "horoscope": "Your weekend is poised to be full of adventure and heartfelt moments, dear Sagittarius. Set intentions that revolve around love and exploration as the Leo Moon aligns with Neptune, Saturn, and Pluto. A change in scenery will trigger fresh inspiration, and bring you closer to loved ones. Allow your perspective to evolve by shedding preconceived notions and fully absorbing whatever comes next. If philosophical or political debates arise, express your ideals in a positive light rather than admonishing your counterpart. Keep an eye out for unexpected opportunities while the Sun and Luna form an unbalanced aspect this evening."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-03-04",
+  "horoscope": "It will fall on you to break free of the monotony that has plagued your home and work environment, dear Sagittarius. As the Virgo Moon aspects Venus and Uranus, look for opportunities to infuse your routines with excitement. Colleagues and family members will delight in your efforts to amuse them. However, you may veer off course once Luna enters Libra, facing off with Neptune and Saturn. Avoiding your responsibilities could have hidden consequences, so remember to finish your to-do list before leaning fully into fun. Make plans to see friends while Pluto stirs tonight, letting your worries melt away."
+}
+
