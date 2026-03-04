@@ -233,3 +233,9 @@
   "horoscope": "Walk your most authentic path, dearest Taurus, as the Virgo Lunar Eclipse rises in your solar fifth house. You may determine that social demands have kept you from pursuing interests or creative goals. Though it's important to maintain a healthy network of friends, your identity will suffer if hobbies or artistic outlets fade into the background. You'll feel excited by the prospect of taking a step back to focus on yourself when Jupiter stirs. Chase ideas that reinvigorate the spirit. Old dramas could resurface while the Moon opposes Mercury rx this evening, further inspiring you to tighten your friendship circle."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-03-04",
+  "horoscope": "Tension builds within your social sphere, darling Taurus, as the Virgo Moon aspects Venus and Uranus. The energy will be exhilarating and disruptive, pushing precarious connections to their brink. Friendships could turn romantic or trigger unexpected rivalries. Youll have a gift for tipping the scales in your favor, but you will need to defy the expectations others have placed on you. Focus on more productive topics once Luna enters Libra, aligning with Neptune and Saturn. Work on improving your workflow to further goals and sustain a harmonious lifestyle. Prepare to break through obstacles while Pluto activates tonight, helping you find empowerment and make your own success."
+}
+
