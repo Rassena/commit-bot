@@ -379,3 +379,9 @@
   "horoscope": "An unpredictable energy permeates the air, dear Aries, as the Leo Moon forms challenging aspects with Uranus and Mars this morning. Watch for triggers online and in your vicinity. Bruised egos could lead to knee-jerk reactions and inflate minor dramas. Luna's debut in Virgo offers a welcome change of pace, inspiring you to start the work week on a strong note. Organize your agenda for the next five days to develop a smooth flow. Mars's entrance into Pisces hints that working alone will help you stay motivated. You'll begin to feel the effects of tomorrow's Lunar eclipse while the Moon aligns with the nodes of fate, and you should focus on releasing stress."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-03-05",
+  "horoscope": "A romantic and psychic charge permeates the air, dearest Aries, as the Pisces Sun and Jupiter form an expansive connection. Extra-sensory vibrations flow, changing the way we perceive emotions, subtle nuances, and each other. At times, it may seem as though you and loved ones are telepathically aligned. However, its important to take time for yourself too. Reflect on your emotional state and where healing is necessary. Be mindful of how you articulate deep sentiments once the Libra Moon and Jupiter square off midafternoon. While baring your soul might seem like the only option for working through your feelings, sharing too much too quickly could prove overwhelming for others."
+}
+
