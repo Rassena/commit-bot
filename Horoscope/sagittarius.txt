@@ -425,3 +425,9 @@
   "horoscope": "It will fall on you to break free of the monotony that has plagued your home and work environment, dear Sagittarius. As the Virgo Moon aspects Venus and Uranus, look for opportunities to infuse your routines with excitement. Colleagues and family members will delight in your efforts to amuse them. However, you may veer off course once Luna enters Libra, facing off with Neptune and Saturn. Avoiding your responsibilities could have hidden consequences, so remember to finish your to-do list before leaning fully into fun. Make plans to see friends while Pluto stirs tonight, letting your worries melt away."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-03-05",
+  "horoscope": "Appreciate the wisdom family and close companions have to offer, dearest Sagittarius. As the Pisces Sun and Jupiter align, emotional growth is imminent. Though youre unafraid to make your own mistakes, you can get ahead of the curve by listening to other peoples tales. Now is also a good time to test your intuition, tapping into the emotions of those you encounter. When you gain a sense of where others are coming from, your ability to ask meaningful questions skyrockets. However, you should tread lightly with peers youre just getting to know while the Libra Moon squares Jupiter later today."
+}
+
