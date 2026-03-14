@@ -242,3 +242,9 @@
 
 
 
+{
+  "sign": "taurus",
+  "date": "2026-03-14",
+  "horoscope": "Strokes of luck will manifest in unexpected ways, dear Taurus, as the Capricorn Moon and Uranus align. Be open to adventure, and all that is strange, collecting exciting stories and opportunities along the way. Proceed with caution once Luna enters Aquarius, aspecting Neptune and Saturn as afternoon unfolds. You'll be intrigued by those who challenge convention, but might prefer to fly under the radar. Observing from the shadows offers a chance to acclimate before lowering your guard in an unfamiliar place. An electric charge could form between you and a mysterious stranger while Luna and Pluto unite this evening."
+}
+
