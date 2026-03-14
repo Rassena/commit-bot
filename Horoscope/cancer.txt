@@ -326,3 +326,9 @@
 
 
 
+{
+  "sign": "cancer",
+  "date": "2026-03-14",
+  "horoscope": "Seek thrills with someone you adore, dearest Cancer, as the Capricorn Moon and Uranus align. Embracing the spirit of adventure will lead to memorable experiences and electrifying romance. Vow to mix up your weekend routines more consistently once Luna enters Aquarius. Soft connections with Neptune and Saturn highlight the importance of expanding your horizons to strengthen bonds and gain life experience. Getting comfortable with the unknown will prepare you for future challenges and may translate to professional growth. Embrace the power of letting go when Luna and Pluto unite tonight, but recommit to what really matters."
+}
+
