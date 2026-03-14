@@ -380,3 +380,9 @@
   "horoscope": "The truth comes out while the Capricorn Moon and Uranus align, dear Aquarius, triggering stark revelations. Emotional shifts will reveal how you really feel about certain people or situations, giving you a chance to move on from that which is not serving you. Prioritizing your needs will come naturally once Luna enters your sign, forming supportive aspects with Neptune and Saturn. Ask yourself pointed questions to affirm what you want and the best way to attain it. You'll need to back up these aspirations with discipline and consistency to ensure success. Get comfortable with the idea of reinventing yourself within the public arena when Luna and Pluto unite tonight."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-03-14",
+  "horoscope": "The truth comes out while the Capricorn Moon and Uranus align, dear Aquarius, triggering stark revelations. Emotional shifts will reveal how you really feel about certain people or situations, giving you a chance to move on from that which is not serving you. Prioritizing your needs will come naturally once Luna enters your sign, forming supportive aspects with Neptune and Saturn. Ask yourself pointed questions to affirm what you want and the best way to attain it. You'll need to back up these aspirations with discipline and consistency to ensure success. Get comfortable with the idea of reinventing yourself within the public arena when Luna and Pluto unite tonight."
+}
+
