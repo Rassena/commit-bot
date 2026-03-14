@@ -368,3 +368,9 @@
 
 
 
+{
+  "sign": "leo",
+  "date": "2026-03-14",
+  "horoscope": "Pay attention to detail and explore unconventional methodologies, dear Leo. As the Capricorn Moon and Uranus align, strokes of genius reveal hidden strengths. Consider how your discoveries can be utilized to cultivate a more convenient and harmonious lifestyle once Luna enters Aquarius. Loved ones offer valuable insights when Neptune and Saturn activate, inspiring you to branch out. If you've been afraid to take a leap of faith, connecting with your spirituality and support systems can provide the courage you need. Matters of the heart intensify while Luna and Pluto join forces this evening, but hasty commitments could result in unhappy endings."
+}
+
