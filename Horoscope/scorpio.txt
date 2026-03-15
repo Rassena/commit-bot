@@ -424,3 +424,9 @@
 
 
 
+{
+  "sign": "scorpio",
+  "date": "2026-03-15",
+  "horoscope": "Reacquaint yourself with passion projects or goals that have lost steam, dear Scorpio. A celestial union between Mercury rx and Mars reinvigorates your spirit when creative endeavors or personal interests are embraced. Editing your work can provide fulfillment and opportunities to hone your craft. Ask a loved one for feedback if you're open to outside opinions once the Aquarius Moon and Venus align. These vibes can also inspire interior design updates within the home. Connect with family while Luna and Jupiter form an unbalanced aspect this afternoon, asking questions to understand each other's world perspective better."
+}
+
