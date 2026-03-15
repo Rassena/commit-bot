@@ -293,3 +293,9 @@
   "horoscope": "Emotional shifts rise to the surface while the Capricorn Moon and Uranus align, dear Libra. Surprising interactions will reveal vulnerabilities, changing the way you feel about others. A sense of comfort washes over you once Luna enters Aquarius, aligning with Neptune and Saturn. Loved ones who appreciate your compassionate nature will be eager to demonstrate their affection and loyalty. Allow yourself to be spoiled and adored, especially if you've earned it. Now is also a good time to share dreams and hidden talents with someone special. Empower yourself through artistic outlets when Luna and Pluto join forces tonight."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-03-15",
+  "horoscope": "It's time to address unsustainable and unhealthy habits, dear Libra. As Mercury rx and Mars join forces, the universe presents an opportunity to change your ways. Understand what it means to fight for yourself, acknowledging behaviors that are a disservice to your physical health. Set realistic goals that don't require much forethought, and build on them from there. Establishing a wellness pact with your best friend or significant other can bring a layer of encouragement to the table when the Aquarius Moon and Venus align. Take a breather and seek quiet spaces while Luna and Jupiter form an unbalanced aspect this afternoon."
+}
+
