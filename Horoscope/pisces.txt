@@ -354,3 +354,9 @@
   "horoscope": "The spirit of revolution is with you this morning, dear Pisces, as the Capricorn Moon and Uranus align. Familiarize yourself with local issues and put in the work to make your community a safe and inclusive place. Retreat from the public eye once Luna enters Aquarius, commanding you to rest and reflect. Outside noise, large crowds, and outlandish opinions will send you spinning if you don't set boundaries. Sweet connections with Neptune and Saturn remind you that it's important to cultivate your own utopia. Face your shadow and allow it to empower you when the Moon and Pluto unite tonight."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-03-16",
+  "horoscope": "Consider where you can draw healing from, dearest Pisces, instead of constantly providing it for everyone else. It's no secret that you have a talent for soothing others. As the Aquarius Moon and Chiron align, direct these gifts inward. You may feel drawn to holistic remedies and should explore what Mother Nature has to offer for emotional, physical, and mental support. The vibe could turn cerebral while Luna squares Uranus this afternoon. New ideas trigger excitement, though you'll burn out quickly if visions lack practical planning. Center yourself and prioritize goals once Luna enters your sign later today."
+}
+
