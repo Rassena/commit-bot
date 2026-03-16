@@ -449,3 +449,9 @@
   "horoscope": "The Capricorn Moon and Uranus trigger your inventive side, dear Sagittarius, helping you take developing ideas to the next level. Experiment with small adjustments that can streamline progress and simplify tasks. Creative insights sharpen your vision once Luna enters Aquarius, aspecting Neptune and Saturn. Be open to suggestions from peers, accepting that you might not have all the solutions. Find time for recreational activities to guard against mental burnout. Taking space from projects that have preoccupied your thoughts can freshen your perspective. You'll feel inspired to cut unfulfilling connections or circumstances from your life when Luna and Pluto unite tonight."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-03-16",
+  "horoscope": "Pursue an unfamiliar topic or hobby, darling Sagittarius. As the Aquarius Moon and Chiron align, support character development by exposing yourself to new and creative challenges. You'll be reminded of how intellectually savvy you truly are, and you'll gain pride along the way. Remember to peel back each layer in stride, as a harsh square between Luna and Uranus could lead to overstimulation this afternoon. Recognize your limits when retaining information to ensure sustainable learning. A nurturing energy descends once Luna enters Pisces, encouraging you to slow down. As you relax, consider what you hope to create."
+}
+
