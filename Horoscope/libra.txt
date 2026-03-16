@@ -311,3 +311,9 @@
   "horoscope": "Be your quirkiest and weirdest self with someone who will match your energy, dearest Libra. As the Aquarius Moon and Chiron align, your heart heals through connection and play. Laughter provides much-needed release, and you'll feel celebrated by those who indulge your unique brand of humor. Unfortunately, not everyone will be in the mood to blow off steam once Luna squares Uranus this afternoon. If a loved one isn't responding to your jests, give them some space or ask if they need support. Emotionally invest in your health and wellness journey after the Moon enters Pisces later today."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-03-16",
+  "horoscope": "Be your quirkiest and weirdest self with someone who will match your energy, dearest Libra. As the Aquarius Moon and Chiron align, your heart heals through connection and play. Laughter provides much-needed release, and you'll feel celebrated by those who indulge your unique brand of humor. Unfortunately, not everyone will be in the mood to blow off steam once Luna squares Uranus this afternoon. If a loved one isn't responding to your jests, give them some space or ask if they need support. Emotionally invest in your health and wellness journey after the Moon enters Pisces later today."
+}
+
