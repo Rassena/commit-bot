@@ -248,3 +248,9 @@
   "horoscope": "Strokes of luck will manifest in unexpected ways, dear Taurus, as the Capricorn Moon and Uranus align. Be open to adventure, and all that is strange, collecting exciting stories and opportunities along the way. Proceed with caution once Luna enters Aquarius, aspecting Neptune and Saturn as afternoon unfolds. You'll be intrigued by those who challenge convention, but might prefer to fly under the radar. Observing from the shadows offers a chance to acclimate before lowering your guard in an unfamiliar place. An electric charge could form between you and a mysterious stranger while Luna and Pluto unite this evening."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-03-16",
+  "horoscope": "Acceptance from people who appreciate your virtues far outweighs status gained amongst envious peers, dear Taurus. As the Aquarius Moon and Chiron align, consider whose opinion you truly value. It may become obvious that you've been looking for praise in the wrong places. Plan to invest more time and energy in social spheres that resonate with your values and interests. Just avoid going overboard in the process of reinventing yourself while Luna squares Uranus this afternoon, or you could come across as unpredictable-- and not in a good way. Genuine connections seep through once the Moon enters Pisces."
+}
+
