@@ -338,3 +338,9 @@
   "horoscope": "Seek thrills with someone you adore, dearest Cancer, as the Capricorn Moon and Uranus align. Embracing the spirit of adventure will lead to memorable experiences and electrifying romance. Vow to mix up your weekend routines more consistently once Luna enters Aquarius. Soft connections with Neptune and Saturn highlight the importance of expanding your horizons to strengthen bonds and gain life experience. Getting comfortable with the unknown will prepare you for future challenges and may translate to professional growth. Embrace the power of letting go when Luna and Pluto unite tonight, but recommit to what really matters."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-03-18",
+  "horoscope": "Venus and Jupiter square off this morning, dear Cancer, asking you to acknowledge any walls you've hit recently. You may be the one holding yourself back, and you should consider ways to test your own limits. Start by connecting with people or communities that inspire you while the Sun and Uranus align this afternoon. Tonight's Pisces New Moon revitalizes the spirit with hope and a bit of luck. Focus on one major goal you can realistically achieve within the next six months, but expect plot twists along the way. Use the power of visualization to fortify your will and desire to succeed once Luna enters Aries and unites with Neptune."
+}
+
