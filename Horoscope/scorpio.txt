@@ -430,3 +430,9 @@
   "horoscope": "Reacquaint yourself with passion projects or goals that have lost steam, dear Scorpio. A celestial union between Mercury rx and Mars reinvigorates your spirit when creative endeavors or personal interests are embraced. Editing your work can provide fulfillment and opportunities to hone your craft. Ask a loved one for feedback if you're open to outside opinions once the Aquarius Moon and Venus align. These vibes can also inspire interior design updates within the home. Connect with family while Luna and Jupiter form an unbalanced aspect this afternoon, asking questions to understand each other's world perspective better."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-03-18",
+  "horoscope": "It might feel as though you're flying by the seat of your pants, dearest Scorpio, as Venus and Jupiter square off. Lucky breaks and growing aspirations have likely added to your workload, but it's important to adjust routines and stay organized. Loved ones will step up to offer assistance when the Sun and Uranus align this afternoon, but you'll need a long-term plan to find your flow and avoid future mishaps. Focus on the heart under tonight's Pisces New Moon, and which areas of your life require a creative overhaul. Head to bed early to ensure a full night's rest once Luna enters Aries and unites with Neptune."
+}
+
