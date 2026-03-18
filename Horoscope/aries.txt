@@ -386,3 +386,9 @@
 }
 
 
+{
+  "sign": "aries",
+  "date": "2026-03-18",
+  "horoscope": "You'll be in a love and open mood, dearest Aries, as Venus and Jupiter square off. Consider how grand declarations of love might be received before acting on impulse. Simple, elegant, and unexpected gestures will have a significant impact while the Sun and Uranus align this afternoon. Renewed interest in the self emerges under tonight's Pisces New Moon. Immerse yourself in your deepest thoughts and feelings, and acknowledge which patterns, traumas, or behaviors need extra attention. Set goals for the next six months that revolve around closure and liberation. An ethereal energy surrounds you once Luna enters your sign and cozies up with Neptune, opening the door to psychically charged dreams."
+}
+
