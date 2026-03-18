@@ -392,3 +392,9 @@
   "horoscope": "Your words can heal, dearest Aquarius. As the Moon and Chiron form a soft aspect, consider how you might elevate loved ones and yourself. Focus on relationships or areas of your life that have felt tender recently. Addressing the root of pain will take away its power and guide you toward solutions. A chaotic energy descends when Luna squares Uranus this afternoon. Brace for emotional whiplash, as your effort to establish harmony may be tested. The ambiance levels out once the Moon enters Pisces later today. If you had a rocky day, indulge in a little treat."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-03-18",
+  "horoscope": "Overly optimistic planning may cause you to feel overwhelmed, dearest Aquarius, as Venus and Jupiter square off. Instead of trying to keep up with unrealistic agendas, adjust your timeline or ask for helpexpress appreciation to those who support your aspirations when the Sun and Uranus align this afternoon. You should also watch for simple blessings that affirm your sense of groundedness and gratitude. Meditate on what you hope to manifest within the next six months under tonight's Pisces New Moon. Request divine aid for your goals, but remember that one cannot rely on luck alone. Give yourself space to play with creative ideas once Luna enters Aries and cozies up with Neptune."
+}
+
