@@ -344,3 +344,9 @@
   "horoscope": "Venus and Jupiter square off this morning, dear Cancer, asking you to acknowledge any walls you've hit recently. You may be the one holding yourself back, and you should consider ways to test your own limits. Start by connecting with people or communities that inspire you while the Sun and Uranus align this afternoon. Tonight's Pisces New Moon revitalizes the spirit with hope and a bit of luck. Focus on one major goal you can realistically achieve within the next six months, but expect plot twists along the way. Use the power of visualization to fortify your will and desire to succeed once Luna enters Aries and unites with Neptune."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-03-18",
+  "horoscope": "Venus and Jupiter square off this morning, dear Cancer, asking you to acknowledge any walls you've hit recently. You may be the one holding yourself back, and you should consider ways to test your own limits. Start by connecting with people or communities that inspire you while the Sun and Uranus align this afternoon. Tonight's Pisces New Moon revitalizes the spirit with hope and a bit of luck. Focus on one major goal you can realistically achieve within the next six months, but expect plot twists along the way. Use the power of visualization to fortify your will and desire to succeed once Luna enters Aries and unites with Neptune."
+}
+
