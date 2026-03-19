@@ -350,3 +350,9 @@
   "horoscope": "Venus and Jupiter square off this morning, dear Cancer, asking you to acknowledge any walls you've hit recently. You may be the one holding yourself back, and you should consider ways to test your own limits. Start by connecting with people or communities that inspire you while the Sun and Uranus align this afternoon. Tonight's Pisces New Moon revitalizes the spirit with hope and a bit of luck. Focus on one major goal you can realistically achieve within the next six months, but expect plot twists along the way. Use the power of visualization to fortify your will and desire to succeed once Luna enters Aries and unites with Neptune."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-03-19",
+  "horoscope": "Business negotiations reach a peak, dearest Cancer, as the Aries Moon aspects Saturn and Pluto. Don't hesitate to seal deals you feel confident in, but understand that it's okay to walk away from arrangements that don't meet your expectations. Romantic partnerships also come into focus, and it might be time to discuss shared aspirations or joint resources. If you and your counterpart can't agree on spending habits or the future, it's better to find out sooner rather than later. Pressure builds while Luna and Jupiter square off. If you become anxious or overstimulated, pull back to hatch a new plan."
+}
+
