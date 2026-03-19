@@ -436,3 +436,9 @@
   "horoscope": "It might feel as though you're flying by the seat of your pants, dearest Scorpio, as Venus and Jupiter square off. Lucky breaks and growing aspirations have likely added to your workload, but it's important to adjust routines and stay organized. Loved ones will step up to offer assistance when the Sun and Uranus align this afternoon, but you'll need a long-term plan to find your flow and avoid future mishaps. Focus on the heart under tonight's Pisces New Moon, and which areas of your life require a creative overhaul. Head to bed early to ensure a full night's rest once Luna enters Aries and unites with Neptune."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-03-19",
+  "horoscope": "The Aries Moon and Saturn unite this morning, dearest Scorpio, pushing you to seize control of your life. This celestial union is all about taking a serious approach toward major goals, showing yourself a bit of tough love if procrastination has been winning. Get an early start and outline your agenda with as much detail as possible to avoid overstimulation. Reward yourself with moments of wellness while Pluto stirs, reminding you to take care of your body. Hard work pays off once Jupiter activates later tonight, but you may need to rearrange your schedule to make room for additional growth."
+}
+
