@@ -398,3 +398,9 @@
   "horoscope": "Overly optimistic planning may cause you to feel overwhelmed, dearest Aquarius, as Venus and Jupiter square off. Instead of trying to keep up with unrealistic agendas, adjust your timeline or ask for helpexpress appreciation to those who support your aspirations when the Sun and Uranus align this afternoon. You should also watch for simple blessings that affirm your sense of groundedness and gratitude. Meditate on what you hope to manifest within the next six months under tonight's Pisces New Moon. Request divine aid for your goals, but remember that one cannot rely on luck alone. Give yourself space to play with creative ideas once Luna enters Aries and cozies up with Neptune."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-03-19",
+  "horoscope": "You have more influence than you give yourself credit for, dearest Aquarius. Test this theory by using your voice while the Aries Moon and Saturn join forces. You'll quickly realize that if you pull from experience and speak directly, peers are more willing to listen. As Pluto activates in your sign, a desire to evolve and empower yourself grows. Now is a good time to take responsibility for any educational journeys you've been meaning to embark on but haven't yet. Just be mindful of the expectations you place on yourself when Luna squares Jupiter tonight, or you could soon feel burdened by what you've taken on."
+}
+
