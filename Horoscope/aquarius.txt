@@ -404,3 +404,9 @@
   "horoscope": "You have more influence than you give yourself credit for, dearest Aquarius. Test this theory by using your voice while the Aries Moon and Saturn join forces. You'll quickly realize that if you pull from experience and speak directly, peers are more willing to listen. As Pluto activates in your sign, a desire to evolve and empower yourself grows. Now is a good time to take responsibility for any educational journeys you've been meaning to embark on but haven't yet. Just be mindful of the expectations you place on yourself when Luna squares Jupiter tonight, or you could soon feel burdened by what you've taken on."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-03-20",
+  "horoscope": "You'll feel inquisitive, witty, and sharp as the Sun enters Aries, kicking off a new astrological year. Adventure awaits when curiosities are indulged, dear Aquarius, and asking questions will reveal fresh and exciting paths. Weigh multiple perspectives by inviting friends to join in your adventures. Exploring the natural world will be particularly intriguing once Mercury stations direct this afternoon. This planetary shift also clears up financial confusion and supports efforts to get your bank account back on track. Put some love into your space and connect with family to cap off the work week as Luna debuts in Taurus tonight."
+}
+
