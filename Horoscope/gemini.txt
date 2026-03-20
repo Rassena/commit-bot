@@ -420,3 +420,9 @@
   "horoscope": "Work on building up your network, dear Gemini, as the Sun enters Aries and your solar eleventh house. The intricate social web that ties our world together will be easier to navigate throughout the coming weeks. Research local events that can help you find the right connections. Professional alliances will forge seamlessly once Mercury stations direct this afternoon. You may also gain recognition for your expertise, and you should share knowledge whenever possible. Soften your heart to peers you've judged unfairly while Chiron stirs later today. Take space to be alone with your thoughts after the Moon drifts into Taurus tonight."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-03-20",
+  "horoscope": "Work on building up your network, dear Gemini, as the Sun enters Aries and your solar eleventh house. The intricate social web that ties our world together will be easier to navigate throughout the coming weeks. Research local events that can help you find the right connections. Professional alliances will forge seamlessly once Mercury stations direct this afternoon. You may also gain recognition for your expertise, and you should share knowledge whenever possible. Soften your heart to peers you've judged unfairly while Chiron stirs later today. Take space to be alone with your thoughts after the Moon drifts into Taurus tonight."
+}
+
