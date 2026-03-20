@@ -414,3 +414,9 @@
   "horoscope": "You may feel stuck in a loop and unable to fully connect with your surroundings or others, dearest Gemini. A square between Venus and Jupiter asks you to track electronic consumption, and whether or not it's placed you in a fog. Time spent within the digital realms won't seem so harmless if you recognize how often you stare at screens instead of in the eyes of another. Luckily, tonight's Pisces New Moon strengthens resolve when it comes to setting boundaries. Work on reining in technological indulgences throughout the next six months, and you could gain success elsewhere. Reflect on your dreams and any connections that might help you propel them forward once Luna enters Aries and joins forces with Neptune."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-03-20",
+  "horoscope": "Work on building up your network, dear Gemini, as the Sun enters Aries and your solar eleventh house. The intricate social web that ties our world together will be easier to navigate throughout the coming weeks. Research local events that can help you find the right connections. Professional alliances will forge seamlessly once Mercury stations direct this afternoon. You may also gain recognition for your expertise, and you should share knowledge whenever possible. Soften your heart to peers you've judged unfairly while Chiron stirs later today. Take space to be alone with your thoughts after the Moon drifts into Taurus tonight."
+}
+
