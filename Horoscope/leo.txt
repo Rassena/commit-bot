@@ -380,3 +380,9 @@
   "horoscope": "You'll feel blessed and excited for what's to come, dearest Leo. As Venus aspects Jupiter, don't underestimate the power of faith, love, and optimism. Be open to blessings from the universe, and focus on what matters most. Important partnerships could leverage you toward unexpected levels of success when the Sun and Uranus align this afternoon. Themes around transformation, commitment, and intimacy arise with tonight's Pisces New Moon. Consider how you can evolve to elevate your relationships and sense of empowerment throughout the next six months, setting intentions accordingly. Ask for divine guidance and place a journal on your nightstand to prepare for enlightening dreams once Luna enters Aries and unites with Neptune later tonight."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-03-20",
+  "horoscope": "A sparkling energy permeates your aura early this morning, dearest Leo, as Luna and Venus unite. You'll feel energized and ready to expand your horizons once Aries season kicks off. Mark the start of a new astrological year by making a wish and connecting with your spirituality. Wisdom and opportunities will be abundant throughout the coming weeks if you are intuitively tapped in. Complicated negotiations or relationship hangups come to a close when Mercury stations direct this afternoon. Find healing by elevating your perspective while Chiron stirs. Touch base with your responsibilities to ensure steady foundations after the Moon enters Taurus later tonight. "
+}
+
