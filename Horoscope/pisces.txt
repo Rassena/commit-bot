@@ -372,3 +372,9 @@
   "horoscope": "Reflect on moments when patience paid off, dearest Pisces, using these memories to motivate your next move. As the Aries Moon and Saturn unite, active attempts to build wealth and success will be celebrated by the stars. Though it is your responsibility to take charge of your life, lucky breaks are more likely to arise if the universe sees you trying. Find gratitude for your ancestors while Pluto stirs, acknowledging the sacrifices they made to ensure you'd have better opportunities. Even if you're not aware of what their journey looked like, it somehow benefits you today. Pull back on your spending once Luna squares Jupiter tonight, and get creative with what you already have."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-03-21",
+  "horoscope": "Opt for a solitary Saturday morning, beloved Pisces, as the Taurus Moon and Pluto square off. You'll need some time to recover from the busy work week, and you will find clarity while enjoying peace and fresh air. Epiphanies around personal goals trickle in when Luna aligns with Mercury and the nodes of fate. If you've been giving too much of your energy to others, it's important to adjust your focus. Have conversations with family and friends if you require their support. Break free from your comfort zone once Mars and Jupiter align this evening, daring yourself to expand creatively and explore the unfamiliar."
+}
+
