@@ -397,3 +397,9 @@
   "horoscope": "It may be necessary to choose between having fun and saving money, dear Capricorn. As the Taurus Moon and Pluto square off, don't sacrifice your security for fleeting experiences. If friends often suggest costly adventures, take charge by organizing a fiscally responsible outing. A change of pace will prove refreshing when Luna aspects Mercury and the nodes of fate, opening the door to lively interactions. These vibes are also conducive to exploring new subjects or creative collaborations. Passion builds within matters of the heart once Mars and Jupiter align this evening, and intellectual exchanges will turn the heat up even further."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-03-22",
+  "horoscope": "Make your home what you always envisioned it could be, dearest Capricorn. A sweet union between the Aries Sun and Neptune brings dreamy vibes to your space, perfect for interior design updates. Changing up your environment will help you feel more relaxed and creative during your downtime. Thoughts drift while Mercury aligns with the nodes of fate, and dreams are liable to evolve. The universe may send signals that your wishes will be granted, so keep an eye out for good news and signs from beyond. Do something out of the ordinary to build confidence when the Taurus Moon and Uranus unite tonight."
+}
+
