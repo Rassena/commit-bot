@@ -385,3 +385,9 @@
   "horoscope": "Allow yourself to be taken on a journey, dearest Virgo, as the Aries Sun cozies up with ethereal Neptune. Open yourself to new perspectives, and get closer to the people you trust. See the value in sharing burdens and supporting loved ones' aspirations, and they will return the favor. It may be necessary to leave your comfort zone in order to evolve certain relationships while Mercury aligns with the nodes of fate. Address any recurring issues plaguing your connections since February 11th. Make an unusual wish, and the universe will surprise you when the Taurus Moon and Uranus unite tonight."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-03-22",
+  "horoscope": "Allow yourself to be taken on a journey, dearest Virgo, as the Aries Sun cozies up with ethereal Neptune. Open yourself to new perspectives, and get closer to the people you trust. See the value in sharing burdens and supporting loved ones' aspirations, and they will return the favor. It may be necessary to leave your comfort zone in order to evolve certain relationships while Mercury aligns with the nodes of fate. Address any recurring issues plaguing your connections since February 11th. Make an unusual wish, and the universe will surprise you when the Taurus Moon and Uranus unite tonight."
+}
+
