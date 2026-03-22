@@ -398,3 +398,9 @@
   "horoscope": "You'll be in a love and open mood, dearest Aries, as Venus and Jupiter square off. Consider how grand declarations of love might be received before acting on impulse. Simple, elegant, and unexpected gestures will have a significant impact while the Sun and Uranus align this afternoon. Renewed interest in the self emerges under tonight's Pisces New Moon. Immerse yourself in your deepest thoughts and feelings, and acknowledge which patterns, traumas, or behaviors need extra attention. Set goals for the next six months that revolve around closure and liberation. An ethereal energy surrounds you once Luna enters your sign and cozies up with Neptune, opening the door to psychically charged dreams."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-03-22",
+  "horoscope": "The Sun and Neptune unite in your sign this morning, darling Aries, setting you up for a truly relaxing Sunday. Embrace all that is dreamy and soft, relishing escape before Monday comes calling. Time spent alone will be particularly enlightening, as Mercury aligns with the nodes of fate. This celestial exchange resonates with lessons you encountered during Mercury's most recent Retrograde. Think back to any significant events that occurred on February 11th or March 17th if you need help connecting the dots. Blessings come in unexpected shapes and sizes while the Taurus Moon and Uranus join forces later tonight."
+}
+
