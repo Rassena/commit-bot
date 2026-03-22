@@ -410,3 +410,9 @@
   "horoscope": "You'll feel inquisitive, witty, and sharp as the Sun enters Aries, kicking off a new astrological year. Adventure awaits when curiosities are indulged, dear Aquarius, and asking questions will reveal fresh and exciting paths. Weigh multiple perspectives by inviting friends to join in your adventures. Exploring the natural world will be particularly intriguing once Mercury stations direct this afternoon. This planetary shift also clears up financial confusion and supports efforts to get your bank account back on track. Put some love into your space and connect with family to cap off the work week as Luna debuts in Taurus tonight."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-03-22",
+  "horoscope": "Let Fantasy guide your interactions, dearest Aquarius, as the Aries Sun and Neptune form a sweet alliance. These vibes are perfect for sharing dreams, flirting, and forgetting your cares. Expand the mind to imagine what might be possible if you relinquish fear and embrace adventure. A desire to improve your financial circumstances coincides with an alignment between Mercury and the nodes of fate. Review your spending over the past few weeks, paying special attention to expenses that occurred on February 11th and March 17th. Emotional breakthroughs lead to authentic expressions of joy when the Taurus Moon and Uranus unite later tonight."
+}
+
