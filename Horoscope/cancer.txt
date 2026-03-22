@@ -362,3 +362,9 @@
   "horoscope": "Business negotiations reach a peak, dearest Cancer, as the Aries Moon aspects Saturn and Pluto. Don't hesitate to seal deals you feel confident in, but understand that it's okay to walk away from arrangements that don't meet your expectations. Romantic partnerships also come into focus, and it might be time to discuss shared aspirations or joint resources. If you and your counterpart can't agree on spending habits or the future, it's better to find out sooner rather than later. Pressure builds while Luna and Jupiter square off. If you become anxious or overstimulated, pull back to hatch a new plan."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-03-22",
+  "horoscope": "Illusions disintegrate and reveal your true potential, dearest Cancer, thanks to a celestial union between the Aries Sun and Neptune. Trust that with persistence and a willingness to learn, you have the power to accomplish much. Actively release self-doubt, even if the process must be repeated. The universe offers guidance through repetition while Mercury unites with the north node. Think back on any significant events or conversations that occurred on February 11th or March 17th. Share opinions or produce art that will make you part of a larger conversation when the Taurus Moon and Uranus join forces later tonight."
+}
+
