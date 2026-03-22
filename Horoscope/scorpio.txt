@@ -448,3 +448,9 @@
   "horoscope": "Your skills, organization, and work environment improve throughout the coming weeks, dearest Scorpio. The Sun's debut into Aries marks a new astrological year, inspiring you to focus on wellness and efficiency. You'll become more aware of how daily routines impact your ability to function, and what you need to thrive. Mercury stations direct this afternoon, urging you to bring order to your personal goals and passion projects. You'll find healing by committing to healthier practices when Chiron stirs later today. Plan for a romantic Friday night once Luna enters Taurus. Cozy up with your sweetie or enjoy decadent self-care rituals to make the most of these vibes."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-03-22",
+  "horoscope": "Take care of the small details that bring refinement to your work and reinforce dreams, darling Scorpio. You'll flow seamlessly from one chore to the next when you romanticize the bigger picture, thanks to a sweet union between the Aries Sun and Neptune. Fuel your body along the way with fortifying foods and gentle stretches, and thank yourself for showing up at each step of the way. You'll benefit from revising any projects that started around February 11th while Mercury aligns with the nodes of fate. Loved ones may surprise you and unleash joy once the Taurus Moon and Uranus unite later tonight."
+}
+
