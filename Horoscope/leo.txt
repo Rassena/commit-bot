@@ -386,3 +386,9 @@
   "horoscope": "A sparkling energy permeates your aura early this morning, dearest Leo, as Luna and Venus unite. You'll feel energized and ready to expand your horizons once Aries season kicks off. Mark the start of a new astrological year by making a wish and connecting with your spirituality. Wisdom and opportunities will be abundant throughout the coming weeks if you are intuitively tapped in. Complicated negotiations or relationship hangups come to a close when Mercury stations direct this afternoon. Find healing by elevating your perspective while Chiron stirs. Touch base with your responsibilities to ensure steady foundations after the Moon enters Taurus later tonight. "
 }
 
+{
+  "sign": "leo",
+  "date": "2026-03-22",
+  "horoscope": "Your magick won't go unnoticed, sweet lion, as the Aries Sun and Neptune join forces. Consider where the universe is guiding you, but remember that you have the final say in which path you choose. Many will be drawn to your shine, but it's important to funnel your energy into relationships and goals that fortify your soul. Watch for red flags while Mercury aligns with the nodes of fate, and take space from anyone who has repeatedly broken your trust. Problems you've been battling may resolve in brilliant and unexpected ways when the Taurus Moon and Uranus unite later tonight."
+}
+
