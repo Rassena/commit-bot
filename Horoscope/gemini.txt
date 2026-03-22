@@ -426,3 +426,9 @@
   "horoscope": "Work on building up your network, dear Gemini, as the Sun enters Aries and your solar eleventh house. The intricate social web that ties our world together will be easier to navigate throughout the coming weeks. Research local events that can help you find the right connections. Professional alliances will forge seamlessly once Mercury stations direct this afternoon. You may also gain recognition for your expertise, and you should share knowledge whenever possible. Soften your heart to peers you've judged unfairly while Chiron stirs later today. Take space to be alone with your thoughts after the Moon drifts into Taurus tonight."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-03-22",
+  "horoscope": "Take a breather from toxic news cycles or social cliques, darling Gemini. As the Aries Sun and Neptune unite, you have an opportunity to see the world in a more positive light. Immersing yourself in dreamy environments created by artists, spiritual healers, or neighborly love will bring these sentiments to the next level. Reflect on your bigger picture while Mercury aspects the nodes of fate, and recognize what must be left behind. Consider any personal or professional disruptions that threw you for a loop on February 11th or March 17th. The Taurus Moon and Uranus will trigger surprise revelations later tonight, making it the perfect time to meditate or journal."
+}
+
