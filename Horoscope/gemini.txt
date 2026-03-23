@@ -432,3 +432,9 @@
   "horoscope": "Take a breather from toxic news cycles or social cliques, darling Gemini. As the Aries Sun and Neptune unite, you have an opportunity to see the world in a more positive light. Immersing yourself in dreamy environments created by artists, spiritual healers, or neighborly love will bring these sentiments to the next level. Reflect on your bigger picture while Mercury aspects the nodes of fate, and recognize what must be left behind. Consider any personal or professional disruptions that threw you for a loop on February 11th or March 17th. The Taurus Moon and Uranus will trigger surprise revelations later tonight, making it the perfect time to meditate or journal."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-03-23",
+  "horoscope": "You'll benefit from a boost in visibility, dearest Gemini, as Luna makes her debut in your sign. Sweet aspects with Neptune, the Sun, Saturn, and Pluto bring a charge to your social life, making it easier to forge connections that once felt out of reach. Reap the rewards of your vast network, recognizing that communities are meant to help one another. Call in favors if you require an introduction or promotional assistance, but remember to lend a hand as well. You'll grow weary of attention while the Moon squares the nodes of fate and Mercury later today, and should seek solace at home."
+}
+
