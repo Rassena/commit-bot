@@ -455,3 +455,9 @@
   "horoscope": "Pursue an unfamiliar topic or hobby, darling Sagittarius. As the Aquarius Moon and Chiron align, support character development by exposing yourself to new and creative challenges. You'll be reminded of how intellectually savvy you truly are, and you'll gain pride along the way. Remember to peel back each layer in stride, as a harsh square between Luna and Uranus could lead to overstimulation this afternoon. Recognize your limits when retaining information to ensure sustainable learning. A nurturing energy descends once Luna enters Pisces, encouraging you to slow down. As you relax, consider what you hope to create."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-03-25",
+  "horoscope": "Share experiences that changed your perspective to show others they can do the same, dear Sagittarius. The importance of evolving one's mind is emphasized while the Aries Sun aspects Saturn and Pluto. However, you should avoid fabricating truths or pushing loved ones to evolve when the Cancer Moon and Neptune threaten to stir up drama. Dishonest or domineering behaviors will create chasms in your relationships. It's also important to consider how your point is being shared, avoiding cocky or disrespectful approaches. You'll have a chance to clear the air and find common ground once the nodes of fate and Mercury activate this evening."
+}
+
