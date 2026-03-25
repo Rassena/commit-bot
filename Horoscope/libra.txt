@@ -329,3 +329,9 @@
   "horoscope": "Passion and intensity build within matters of the heart, sweet Libra, as the Aries Moon aspects Saturn and Pluto. Relationships will become serious, and you'll begin to examine what you truly want in a long-term partnership. Recognize if you need to release old wounds or cycles that have spoiled connections in the past. On an individual level, it might be time to rediscover a love for yourself. Creative outlets and reconnecting with neglected personal interests could prove most healing. Acknowledge if you require more discipline to ensure your dreams come true while Luna squares Jupiter, vowing to move forward with renewed determination and better structures."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-03-25",
+  "horoscope": "Build up relationships that inspire you to act responsibly without squandering your ability to have fun. As the Aries Sun aligns with Saturn and Pluto, emotions intensify with those who offer security. Consider who imparts wisdom, but doesn't wish to change who you are. Unfortunately, this process may trigger unwelcome revelations about certain connections you've invested in. As the Cancer quarter Moon squares Neptune and Saturn, it might be difficult to face these truths. However, you could get trapped in a loop of dissatisfaction if you ignore red flags in favor of romantic whims. Seize control over your own actions once Mercury and the nodes of fate stir this evening, taking steps to improve your circumstances."
+}
+
