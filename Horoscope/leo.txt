@@ -398,3 +398,9 @@
   "horoscope": "The Cancer Moon and Jupiter unite this morning, dear Leo, bringing comfort and renewed optimism. Sort through your thoughts and emotions in private, and the universe will offer guidance. Now is the ideal time to imagine your dreams coming to fruition, as the power of visualization is at its peak. Focus on partnerships that bring you closer to these aspirations while Mars activates this afternoon. Passion is contagious, and you'll accomplish much with the right person by your side. Merge spirituality and self-care for the ultimate healing session once Venus cozies up with Chiron, actively releasing what you do not need when Luna stirs tonight."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-03-26",
+  "horoscope": "The Cancer Moon and Jupiter unite this morning, dear Leo, bringing comfort and renewed optimism. Sort through your thoughts and emotions in private, and the universe will offer guidance. Now is the ideal time to imagine your dreams coming to fruition, as the power of visualization is at its peak. Focus on partnerships that bring you closer to these aspirations while Mars activates this afternoon. Passion is contagious, and you'll accomplish much with the right person by your side. Merge spirituality and self-care for the ultimate healing session once Venus cozies up with Chiron, actively releasing what you do not need when Luna stirs tonight."
+}
+
