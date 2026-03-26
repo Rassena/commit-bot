@@ -404,3 +404,9 @@
   "horoscope": "The Sun and Neptune unite in your sign this morning, darling Aries, setting you up for a truly relaxing Sunday. Embrace all that is dreamy and soft, relishing escape before Monday comes calling. Time spent alone will be particularly enlightening, as Mercury aligns with the nodes of fate. This celestial exchange resonates with lessons you encountered during Mercury's most recent Retrograde. Think back to any significant events that occurred on February 11th or March 17th if you need help connecting the dots. Blessings come in unexpected shapes and sizes while the Taurus Moon and Uranus join forces later tonight."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-03-26",
+  "horoscope": "You'll be in a nurturing, intuitive, and compassionate mood this morning, dearest Aries. Show extra affection to the people you cherish as the Cancer Moon and Jupiter unite. Honoring your own emotions will lead to significant breakthroughs. Act on your instincts once Mars activates this afternoon, but prioritize moves that don't draw too much attention just yet. Venus and Chiron join forces later today, offering healing and fulfillment through self-love. Forgive any grievances you've caused yourself and look toward the future with newfound hope. Take plenty of time to wind down before bed while Luna grows restless, or your sleep could be compromised."
+}
+
