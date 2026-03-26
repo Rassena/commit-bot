@@ -392,3 +392,9 @@
   "horoscope": "Your magick won't go unnoticed, sweet lion, as the Aries Sun and Neptune join forces. Consider where the universe is guiding you, but remember that you have the final say in which path you choose. Many will be drawn to your shine, but it's important to funnel your energy into relationships and goals that fortify your soul. Watch for red flags while Mercury aligns with the nodes of fate, and take space from anyone who has repeatedly broken your trust. Problems you've been battling may resolve in brilliant and unexpected ways when the Taurus Moon and Uranus unite later tonight."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-03-26",
+  "horoscope": "The Cancer Moon and Jupiter unite this morning, dear Leo, bringing comfort and renewed optimism. Sort through your thoughts and emotions in private, and the universe will offer guidance. Now is the ideal time to imagine your dreams coming to fruition, as the power of visualization is at its peak. Focus on partnerships that bring you closer to these aspirations while Mars activates this afternoon. Passion is contagious, and you'll accomplish much with the right person by your side. Merge spirituality and self-care for the ultimate healing session once Venus cozies up with Chiron, actively releasing what you do not need when Luna stirs tonight."
+}
+
