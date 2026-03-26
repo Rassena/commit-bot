@@ -403,3 +403,9 @@
   "horoscope": "Make your home what you always envisioned it could be, dearest Capricorn. A sweet union between the Aries Sun and Neptune brings dreamy vibes to your space, perfect for interior design updates. Changing up your environment will help you feel more relaxed and creative during your downtime. Thoughts drift while Mercury aligns with the nodes of fate, and dreams are liable to evolve. The universe may send signals that your wishes will be granted, so keep an eye out for good news and signs from beyond. Do something out of the ordinary to build confidence when the Taurus Moon and Uranus unite tonight."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-03-26",
+  "horoscope": "Your light radiates while the Cancer Moon and Jupiter align, dearest Capricorn, bringing out the best in others. Enjoy gentle moments and sweet interactions, pouring more time and energy into loving connections. If tension has been brewing within your relationships, a bit of kindness will go a long way in mitigating the issue. Exchange motivational speeches with someone who inspires you once Mars activates this afternoon, then take charge to put your ideas in motion. Show your home some love, and it will return the favor when Venus and Chiron join forces. Include self-care in your bedtime routine as Luna grows restless tonight."
+}
+
