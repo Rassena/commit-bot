@@ -416,3 +416,9 @@
   "horoscope": "Let Fantasy guide your interactions, dearest Aquarius, as the Aries Sun and Neptune form a sweet alliance. These vibes are perfect for sharing dreams, flirting, and forgetting your cares. Expand the mind to imagine what might be possible if you relinquish fear and embrace adventure. A desire to improve your financial circumstances coincides with an alignment between Mercury and the nodes of fate. Review your spending over the past few weeks, paying special attention to expenses that occurred on February 11th and March 17th. Emotional breakthroughs lead to authentic expressions of joy when the Taurus Moon and Uranus unite later tonight."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-03-26",
+  "horoscope": "The Cancer Moon and Jupiter bring out your efficient side, dear Aquarius, rewarding your efforts along the way. Though your bigger picture is likely composed of many small tasks, chipping away at minor details will lead to breakthroughs. Identify which areas of your life need reinforcement and where you can add more to your plate once Mars activates this afternoon. Remember to indulge in a nutritious lunch to give your body the fuel it needs to keep you moving forward. Sweet conversations improve your outlook when Venus and Chiron unite later today. Mindfully tend to your physical needs before bed, or Luna may cause you to overthink."
+}
+
