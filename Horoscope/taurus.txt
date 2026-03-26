@@ -260,3 +260,9 @@
   "horoscope": "Invest in yourself by relaxing alone, darling bull. A sweet union between the Aries Sun and Neptune helps you overcome hurdles that have prevented you from taking initiative. Sparks of inspiration make goals more accessible, but it's important to recognize what's been holding you up. Mercury aligns with the nodes' fate to highlight how social pressures undermine ambitions. If you've become overly invested in staying abreast with peers or attending events that don't benefit your bottom line, it's time to make adjustments. You'll feel eager to embrace dramatic changes within the public arena when the Moon and Uranus join forces in your sign later tonight."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-03-26",
+  "horoscope": "Your capacity for understanding increases this morning, dearest bull, thanks to a sweet union between the Cancer Moon and Jupiter. These vibes are perfect for discussing touchy subjects, exploring new topics, and putting yourself in another's shoes. You'll crave movement when Mars stirs this afternoon, and will benefit from time spent with friends or catching up on errands. As you weave in and out of passing faces, maintain a friendly demeanor to elevate the spaces you traverse. Retreat for some peace and quiet while Venus and Chiron join forces later today, but guard against negative thoughts once Luna grows agitated tonight."
+}
+
