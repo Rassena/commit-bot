@@ -335,3 +335,9 @@
   "horoscope": "Build up relationships that inspire you to act responsibly without squandering your ability to have fun. As the Aries Sun aligns with Saturn and Pluto, emotions intensify with those who offer security. Consider who imparts wisdom, but doesn't wish to change who you are. Unfortunately, this process may trigger unwelcome revelations about certain connections you've invested in. As the Cancer quarter Moon squares Neptune and Saturn, it might be difficult to face these truths. However, you could get trapped in a loop of dissatisfaction if you ignore red flags in favor of romantic whims. Seize control over your own actions once Mercury and the nodes of fate stir this evening, taking steps to improve your circumstances."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-03-26",
+  "horoscope": "Auspicious vibes filter into your professional life, dear Libra, thanks to a sweet union between the Cancer Moon and Jupiter. Pursue the day with a distinct purpose, recognizing that you have the experience and ability to accomplish your goals. The energy picks up while Mars activates this afternoon, giving you a chance to gain valuable recognition. Jump in if you see an opportunity to take charge, and your superiors are sure to notice. Soften up when Venus and Chiron join forces, releasing stress by investing in self-care or enjoying a romantic evening. Acknowledge if your agenda needs some reordering once Luna stirs tonight."
+}
+
