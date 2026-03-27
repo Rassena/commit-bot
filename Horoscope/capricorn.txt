@@ -415,3 +415,9 @@
   "horoscope": "Surprising loved ones with sweet gestures will bring a light to your eyes, dearest Capricorn. Go out of your way to brighten someone else's day while the Cancer Moon aspects Uranus and debuts in Leo. Your efforts will build appreciation and trust, especially in romantic connections. As Neptune stirs in your solar fourth house, you're blessed with the power to soothe wounds. Heightened intuition guides you toward those most in need of care. Themes around financial and emotional security emerge when Luna aligns with Saturn, Pluto, and the Sun. Review household or relationship goals with anyone you're hoping to establish a future with."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-03-27",
+  "horoscope": "Surprising loved ones with sweet gestures will bring a light to your eyes, dearest Capricorn. Go out of your way to brighten someone else's day while the Cancer Moon aspects Uranus and debuts in Leo. Your efforts will build appreciation and trust, especially in romantic connections. As Neptune stirs in your solar fourth house, you're blessed with the power to soothe wounds. Heightened intuition guides you toward those most in need of care. Themes around financial and emotional security emerge when Luna aligns with Saturn, Pluto, and the Sun. Review household or relationship goals with anyone you're hoping to establish a future with."
+}
+
