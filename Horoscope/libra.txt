@@ -341,3 +341,9 @@
   "horoscope": "Auspicious vibes filter into your professional life, dear Libra, thanks to a sweet union between the Cancer Moon and Jupiter. Pursue the day with a distinct purpose, recognizing that you have the experience and ability to accomplish your goals. The energy picks up while Mars activates this afternoon, giving you a chance to gain valuable recognition. Jump in if you see an opportunity to take charge, and your superiors are sure to notice. Soften up when Venus and Chiron join forces, releasing stress by investing in self-care or enjoying a romantic evening. Acknowledge if your agenda needs some reordering once Luna stirs tonight."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-03-27",
+  "horoscope": "Goals you've been nurturing will take off in unexpected ways, darling Libra. Brace for change and stand proudly in your accomplishments as the Cancer Moon aspects Uranus before entering Leo. A boost in popularity follows these wins, and peers will be eager to learn from your successes. Use your influence to inspire and elevate others while Neptune stirs, leading with love to bring communities together. Romantic connections also benefit from these vibes, and merging social spheres will prove successful. Consider how you and your partner in crime might improve each other's standing when Luna aligns with Saturn, Pluto, and the Sun this evening."
+}
+
