@@ -461,3 +461,9 @@
   "horoscope": "Share experiences that changed your perspective to show others they can do the same, dear Sagittarius. The importance of evolving one's mind is emphasized while the Aries Sun aspects Saturn and Pluto. However, you should avoid fabricating truths or pushing loved ones to evolve when the Cancer Moon and Neptune threaten to stir up drama. Dishonest or domineering behaviors will create chasms in your relationships. It's also important to consider how your point is being shared, avoiding cocky or disrespectful approaches. You'll have a chance to clear the air and find common ground once the nodes of fate and Mercury activate this evening."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-03-27",
+  "horoscope": "Transitions you've been agonizing over won't seem so intimidating, dear ArcherArcher, as the Cancer Moon aspects Uranus before entering Leo. You'll find the motivation to take swift, decisive actions that are both challenging and rewarding. Luckily, growing pains dissolve quickly while Neptune activates, filling your spirit with a light and dreamy energy. Reflect on your role as a creator, emulating divine forces through artistic expression. You'll have a gift for articulating deep sentiments in playful and engaging ways when Luna aligns with Saturn, Pluto, and the Sun this evening. Intimate discussions could also arise, changing the way you see others."
+}
+
