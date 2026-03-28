@@ -467,3 +467,9 @@
   "horoscope": "Transitions you've been agonizing over won't seem so intimidating, dear ArcherArcher, as the Cancer Moon aspects Uranus before entering Leo. You'll find the motivation to take swift, decisive actions that are both challenging and rewarding. Luckily, growing pains dissolve quickly while Neptune activates, filling your spirit with a light and dreamy energy. Reflect on your role as a creator, emulating divine forces through artistic expression. You'll have a gift for articulating deep sentiments in playful and engaging ways when Luna aligns with Saturn, Pluto, and the Sun this evening. Intimate discussions could also arise, changing the way you see others."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-03-28",
+  "horoscope": "Indulge your mystical side as the Moon moves through Leo and Sagittarius. The stars grant permission to shed overly analytical attitudes that verge on the edge of pessimism, and invite you to spend the weekend in whimsy. When you expand your perspective to make room for magic, the universe will happily deliver. Connect with your higher power and ask for signs that there is more to this world than meets the eye. Powerful experiences trigger paradigm shifts while Saturn and Pluto align. If you've been hesitant to take a leap of faith, you may receive confirmation that helps you move forward."
+}
+
