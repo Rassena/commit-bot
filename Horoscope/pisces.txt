@@ -378,3 +378,9 @@
   "horoscope": "Opt for a solitary Saturday morning, beloved Pisces, as the Taurus Moon and Pluto square off. You'll need some time to recover from the busy work week, and you will find clarity while enjoying peace and fresh air. Epiphanies around personal goals trickle in when Luna aligns with Mercury and the nodes of fate. If you've been giving too much of your energy to others, it's important to adjust your focus. Have conversations with family and friends if you require their support. Break free from your comfort zone once Mars and Jupiter align this evening, daring yourself to expand creatively and explore the unfamiliar."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-03-28",
+  "horoscope": "Invest in projects or tasks that elicit a sense of pride, dearest Pisces. You'll feel energized, artistic, and willing to work hard while Luna moves through Leo. These vibes are perfect for taking on goals that aren't a priority, but reflect your creative interests. Where larger agendas are concerned, consider asking family or friends to lend a hand. Be sure to provide nourishment along the way, as themes around wellness coincide with this lunar placement. Step back to view your bigger picture from another angle when Saturn aspects Pluto this afternoon. If your lifestyle needs adjusting, begin the process of building new structures."
+}
+
