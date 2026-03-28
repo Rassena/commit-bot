@@ -416,3 +416,9 @@
   "horoscope": "You'll be in a nurturing, intuitive, and compassionate mood this morning, dearest Aries. Show extra affection to the people you cherish as the Cancer Moon and Jupiter unite. Honoring your own emotions will lead to significant breakthroughs. Act on your instincts once Mars activates this afternoon, but prioritize moves that don't draw too much attention just yet. Venus and Chiron join forces later today, offering healing and fulfillment through self-love. Forgive any grievances you've caused yourself and look toward the future with newfound hope. Take plenty of time to wind down before bed while Luna grows restless, or your sleep could be compromised."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-03-28",
+  "horoscope": "Take a proactive approach toward cultivating happiness, dear Aries, honoring what the heart genuinely wants. Authenticity and confidence coincide while Luna continues through Leo, motivating her to chase her desires. You'll attract the right companions along the way if you express your passions creatively. Though giving into personal truths may seem quite natural, you'll earn the admiration of those who aren't so brave. A sweet connection between Saturn and Pluto empowers you socially, asking you to use your influence to initiate positive change. Move with honor and composure to further your cause, and you will make friends in high places."
+}
+
