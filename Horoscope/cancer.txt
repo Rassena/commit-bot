@@ -368,3 +368,9 @@
   "horoscope": "Illusions disintegrate and reveal your true potential, dearest Cancer, thanks to a celestial union between the Aries Sun and Neptune. Trust that with persistence and a willingness to learn, you have the power to accomplish much. Actively release self-doubt, even if the process must be repeated. The universe offers guidance through repetition while Mercury unites with the north node. Think back on any significant events or conversations that occurred on February 11th or March 17th. Share opinions or produce art that will make you part of a larger conversation when the Taurus Moon and Uranus join forces later tonight."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-03-28",
+  "horoscope": "You deserve comfort, satisfaction, and perhaps a bit of pampering, sweet Cancer. Your Saturday gets off to a luxurious start as the Moon continues through Leo. Seek activities, scenery, and sensual experiences that are full of vibrancy, and your own light will radiate more brightly. When building emotionally secure relationships, bond over art, creative projects, or simple pleasures. Connecting with the material realms will cause you and your counterpart to feel present and safe. Developing commitments may reshape your long-term goals while Saturn and Pluto align. If you're ready to take the next steps with someone special, discuss changes that lie ahead."
+}
+
