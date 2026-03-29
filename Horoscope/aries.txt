@@ -422,3 +422,9 @@
   "horoscope": "Take a proactive approach toward cultivating happiness, dear Aries, honoring what the heart genuinely wants. Authenticity and confidence coincide while Luna continues through Leo, motivating her to chase her desires. You'll attract the right companions along the way if you express your passions creatively. Though giving into personal truths may seem quite natural, you'll earn the admiration of those who aren't so brave. A sweet connection between Saturn and Pluto empowers you socially, asking you to use your influence to initiate positive change. Move with honor and composure to further your cause, and you will make friends in high places."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-03-29",
+  "horoscope": "Be mindful of the reality you're creating, darling Aries, as the Leo Moon aspects Chiron, Uranus, and Venus. Though the universe may throw you the occasional curveball, how you respond to unexpected hurdles will determine what comes next. When you prioritize supporting and building yourself up, you'll have the creative insight needed to rise above these setbacks. Don't shy away from busy work if it brings you closer to solutions once Luna enters Virgo. You might discover the need to devote more energy toward your goals and less time socializing while Luna, Pluto, and Saturn form a yod later tonight."
+}
+
