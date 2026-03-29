@@ -397,3 +397,9 @@
   "horoscope": "The Gemini Moon aspects Neptune, the Sun, Saturn, and Pluto, sharpening your strategic mind. A fearless energy washes over you, providing the confidence to make impressively bold moves. Even small tasks could have major impacts, especially when it comes to agendas you've been avoiding. Once you've tackled minor details and hurdles, you'll realize they weren't that daunting to begin with. Choosing to move forward will feed into your success and overall motivation. Just remember to shift gears later today while Luna squares the nodes of fate and Mercury, as loved ones won't appreciate you bringing work home."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-03-29",
+  "horoscope": "The Leo Moon aspects Chiron, Uranus, and Venus this morning, dearest Virgo, challenging you to embrace change. Recognize that it's often necessary to evolve dreams with the passage of time, even if it comes with a cost. It's far more disappointing to miss out on opportunities altogether than to make adjustments in the spirit of compromise.  It's especially important to consider the needs of any partners who are emotionally or financially invested in your success. You'll feel refreshed and confident about what the future holds once Luna enters your sign this afternoon. Work on adjusting your expectations as you ease toward new ventures while a rare yod forms between the Moon, Pluto, and Saturn later tonight."
+}
+
