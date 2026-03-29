@@ -278,3 +278,9 @@
   "horoscope": "Your capacity for understanding increases this morning, dearest bull, thanks to a sweet union between the Cancer Moon and Jupiter. These vibes are perfect for discussing touchy subjects, exploring new topics, and putting yourself in another's shoes. You'll crave movement when Mars stirs this afternoon, and will benefit from time spent with friends or catching up on errands. As you weave in and out of passing faces, maintain a friendly demeanor to elevate the spaces you traverse. Retreat for some peace and quiet while Venus and Chiron join forces later today, but guard against negative thoughts once Luna grows agitated tonight."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-03-29",
+  "horoscope": "The Leo Moon aspects Chiron, Uranus, and Venus this morning, darling bull, setting you up for an emotional roller coaster. The need for rest after a stressful workweek may leave you feeling on edge. At times, it might seem as though loved ones are intentionally pushing your buttons. Boredom is likely the culprit for restless companions, so give them something to keep busy with if your nerves continue to unravel. Your outlook improves as the afternoon settles in and Luna enters Virgo, but you'll desire activities that provide a sense of purpose. Hide away with any projects that have been collecting dust while Luna, Pluto, and Saturn align later tonight."
+}
+
