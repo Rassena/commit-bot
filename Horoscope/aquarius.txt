@@ -428,3 +428,9 @@
   "horoscope": "You'll be in a loving and encouraging mood, dearest Aquarius, as the Moon continues through warm Leo. Speak up about the qualities you admire in family and friends, feeling genuinely proud to have them in your life. When supportive environments are cultivated, it is easier for you and your loved ones to thrive. Boosting others' confidence will also alleviate issues stemming from insecurity. Serious yet transformative conversations could emerge while Saturn aspects Pluto this afternoon. Set aside preconceived notions and be open to information you might normally dismiss. Even if your options aren't swayed, you'll gain a better understanding of your counterpart."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-03-29",
+  "horoscope": "Don't let unexpected setbacks hijack your mood, dear Aquarius, as the Leo Moon aspects Chiron, Uranus, and Venus. Loved ones will rally to show support and lift your spirits, but charged emotions may cause you to balk against their good intentions. Denying yourself comfort will only intensify the dissatisfaction you feel. Give yourself space to scream, cry, or crumble, then pick yourself up and accept love's embrace. Review your situation to hatch a new plan once Luna enters Virgo this afternoon. A rare yod forms between the Moon, Pluto, and Saturn later tonight, helping you gain wisdom from your experiences."
+}
+
