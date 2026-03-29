@@ -284,3 +284,9 @@
   "horoscope": "The Leo Moon aspects Chiron, Uranus, and Venus this morning, darling bull, setting you up for an emotional roller coaster. The need for rest after a stressful workweek may leave you feeling on edge. At times, it might seem as though loved ones are intentionally pushing your buttons. Boredom is likely the culprit for restless companions, so give them something to keep busy with if your nerves continue to unravel. Your outlook improves as the afternoon settles in and Luna enters Virgo, but you'll desire activities that provide a sense of purpose. Hide away with any projects that have been collecting dust while Luna, Pluto, and Saturn align later tonight."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-03-29",
+  "horoscope": "The Leo Moon aspects Chiron, Uranus, and Venus this morning, darling bull, setting you up for an emotional roller coaster. The need for rest after a stressful workweek may leave you feeling on edge. At times, it might seem as though loved ones are intentionally pushing your buttons. Boredom is likely the culprit for restless companions, so give them something to keep busy with if your nerves continue to unravel. Your outlook improves as the afternoon settles in and Luna enters Virgo, but you'll desire activities that provide a sense of purpose. Hide away with any projects that have been collecting dust while Luna, Pluto, and Saturn align later tonight."
+}
+
