@@ -450,3 +450,9 @@
   "horoscope": "You'll pick up interesting tidbits throughout the day, dearest Gemini, as the Leo Moon brings warmth to your aura. People will feel at ease in your presence and are more likely to share valuable information. Build loyalty by reciprocating the favor, but don't reveal details that aren't yours to share. Your curious nature takes you down some strange rabbit holes, but it will lead to increased confidence as your mind expands. Having multiple interests to draw on will be beneficial when Saturn and Pluto align, giving you a networking edge. The more your wealth of knowledge grows, the easier it will be to establish relationships with peers from all walks of life."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-03-29",
+  "horoscope": "Don't let intrusive thoughts push you into isolation, sweet Gemini. You may feel torn between the desire to socialize or hide indoors while the Leo Moon aspects Chiron, Uranus, and Venus. Spending time with friends will prove mentally beneficial if you get out of your own way and choose to have fun. The stars grant permission to call it an early day once Luna enters Virgo this afternoon, providing the perfect excuse to catch up on chores instead of staying out. Embrace spiritual practices to clear away busy energy when Luna, Pluto, and Saturn enter a rare yod formation tonight."
+}
+
