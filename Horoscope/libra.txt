@@ -353,3 +353,9 @@
   "horoscope": "Envious companions may try to derail other relationships, sweet Libra. Jealousy manifests in unexpected ways while the Leo Moon aspects Chiron, Uranus, and Venus. Don't stoop to the level of those who wish to drag you down. Instead, send a message by investing fully in those who raise you. Drama will blow over as quickly as it arose, but you should take note of issues that have become a pattern. Solitude offers clarity on whether or not you can move forward with certain people once Luna enters Virgo this afternoon. Romance yourself through self-care practices, or enjoy a creative outlet when the Moon, Pluto, and Saturn align later tonight."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-03-29",
+  "horoscope": "Envious companions may try to derail other relationships, sweet Libra. Jealousy manifests in unexpected ways while the Leo Moon aspects Chiron, Uranus, and Venus. Don't stoop to the level of those who wish to drag you down. Instead, send a message by investing fully in those who raise you. Drama will blow over as quickly as it arose, but you should take note of issues that have become a pattern. Solitude offers clarity on whether or not you can move forward with certain people once Luna enters Virgo this afternoon. Romance yourself through self-care practices, or enjoy a creative outlet when the Moon, Pluto, and Saturn align later tonight."
+}
+
