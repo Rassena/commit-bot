@@ -472,3 +472,9 @@
   "horoscope": "The universe goes out of its way to make you feel blessed and treasured, beloved Scorpio. Push the limits and trust that your efforts will pay off while the Cancer Moon and Jupiter align. A boost in your psychic abilities helps you see challenges in a new light, making it easier to overcome such hurdles. Your motivation increases as wins trickle through and Mars activates this afternoon. If you've been sitting on a power move, these vibes are perfect for going forward. Build healthier habits when Venus and Chiron unite, emphasizing how closely wellness and success feed into one another."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-03-30",
+  "horoscope": "A sense that all is well or soon will be washes over you, dearest Scorpio, as Venus makes her debut in Taurus. This planetary placement restores balance and improves your relationships. You'll enter an era of romance, feeling better about your connections and yourself. You'll have a gift for charming others, but you should beware of smooth talkers who lack substance. Juicy gossip could arise while the Virgo Moon opposes Mercury this afternoon, but facts may get muddled. Don't believe everything you hear, and avoid discussing other people's business. You'll gain loyal companions as a result once Jupiter stirs this evening."
+}
+
