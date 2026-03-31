@@ -384,3 +384,9 @@
   "horoscope": "Invest in projects or tasks that elicit a sense of pride, dearest Pisces. You'll feel energized, artistic, and willing to work hard while Luna moves through Leo. These vibes are perfect for taking on goals that aren't a priority, but reflect your creative interests. Where larger agendas are concerned, consider asking family or friends to lend a hand. Be sure to provide nourishment along the way, as themes around wellness coincide with this lunar placement. Step back to view your bigger picture from another angle when Saturn aspects Pluto this afternoon. If your lifestyle needs adjusting, begin the process of building new structures."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-03-31",
+  "horoscope": "The Virgo Moon and Mars face off this morning, dear Pisces. insisting that you take the lead. Appreciate the encouragement loved ones have offered thus far, but don't linger where growth cannot be achieved. Remember that pursuing dreams will strengthen your ability to return the support others have shown you. After a busy day of building yourself up, you'll be eager to connect. Uranus brings lively discussions your way this evening, so make plans with your favorite people. Surprise flirtations could also manifest, bringing intrigue to matters of the heart. Just don't run away with your emotions once Luna enters Libra and opposes Neptune tonight, no matter how dreamy they are."
+}
+
