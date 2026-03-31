@@ -478,3 +478,9 @@
   "horoscope": "A sense that all is well or soon will be washes over you, dearest Scorpio, as Venus makes her debut in Taurus. This planetary placement restores balance and improves your relationships. You'll enter an era of romance, feeling better about your connections and yourself. You'll have a gift for charming others, but you should beware of smooth talkers who lack substance. Juicy gossip could arise while the Virgo Moon opposes Mercury this afternoon, but facts may get muddled. Don't believe everything you hear, and avoid discussing other people's business. You'll gain loyal companions as a result once Jupiter stirs this evening."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-03-31",
+  "horoscope": "You'll have a competitive edge over peers, dear Scorpio, as the Virgo Moon and Mars face off. Practice good sportsmanship to prevent rivalries from arising and complicating the path ahead. Emphasize community support without diminishing your own prospects. Sparks fly once Uranus activates this evening, bringing romance and excitement to the air. These vibes are perfect for spicing up romantic connections or hitting the town to find new ones. However, you'll need adequate downtime to fully recuperate from the day's events before settling into bed. Head home early to avoid a restless night after Luna enters Libra and opposes Neptune."
+}
+
