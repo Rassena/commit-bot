@@ -374,3 +374,9 @@
   "horoscope": "You deserve comfort, satisfaction, and perhaps a bit of pampering, sweet Cancer. Your Saturday gets off to a luxurious start as the Moon continues through Leo. Seek activities, scenery, and sensual experiences that are full of vibrancy, and your own light will radiate more brightly. When building emotionally secure relationships, bond over art, creative projects, or simple pleasures. Connecting with the material realms will cause you and your counterpart to feel present and safe. Developing commitments may reshape your long-term goals while Saturn and Pluto align. If you're ready to take the next steps with someone special, discuss changes that lie ahead."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-03-31",
+  "horoscope": "Moving too quickly on ideas that filter through could become overwhelming, dear Cancer. As the Virgo Moon and Mars face off, it's important to think ahead instead of improvising as you go along. Uranus turns up the excitement within your community this evening. Plan on venturing out with friends after you've clocked out for the day, as you're sure to enjoy once-in-a-lifetime experiences. Don't stay out too late, as Luna's debut into Libra emphasizes a need for relaxation. Remember to set your alarm clock and get to bed early, or dreamy Neptune may cause you to oversleep."
+}
+
