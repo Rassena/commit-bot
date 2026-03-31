@@ -473,3 +473,9 @@
   "horoscope": "Indulge your mystical side as the Moon moves through Leo and Sagittarius. The stars grant permission to shed overly analytical attitudes that verge on the edge of pessimism, and invite you to spend the weekend in whimsy. When you expand your perspective to make room for magic, the universe will happily deliver. Connect with your higher power and ask for signs that there is more to this world than meets the eye. Powerful experiences trigger paradigm shifts while Saturn and Pluto align. If you've been hesitant to take a leap of faith, you may receive confirmation that helps you move forward."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-03-31",
+  "horoscope": "You may need to lay down some serious boundaries this morning, dear Sagittarius, as the Virgo Moon opposes Mars. Loved ones might act irrationally, and pandering to bad behavior will only exacerbate the issue. If resolution can't be found in real time, take space until the energy has leveled out. You'll feel accomplished after a productive day at work once Uranus activates this evening. If you're on a roll, consider working overtime to free up your schedule later. Get up to date with friends when Luna enters Libra and aligns with Neptune, drawing inspiration from their success."
+}
+
