@@ -302,3 +302,9 @@
   "horoscope": "Pent-up aggression will need releasing, dear Taurus, as the Virgo Moon and Mars face off. Channel frustrations through healthy activities to avoid lashing out at people who don't deserve it. A sense of urgency could also create tension within your community, but try not to indulge in road rage or other inconsiderate behaviors. Uranus appeals to your wild side this evening, encouraging you to have fun and laugh with friends. Use self-care to iron out any remaining kinks in your psyche or muscles once Luna enters Libra. Journal your secrets or make a private wish when Neptune activates later tonight."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-03-31",
+  "horoscope": "Pent-up aggression will need releasing, dear Taurus, as the Virgo Moon and Mars face off. Channel frustrations through healthy activities to avoid lashing out at people who don't deserve it. A sense of urgency could also create tension within your community, but try not to indulge in road rage or other inconsiderate behaviors. Uranus appeals to your wild side this evening, encouraging you to have fun and laugh with friends. Use self-care to iron out any remaining kinks in your psyche or muscles once Luna enters Libra. Journal your secrets or make a private wish when Neptune activates later tonight."
+}
+
