@@ -497,3 +497,9 @@
   "horoscope": "You may need to lay down some serious boundaries this morning, dear Sagittarius, as the Virgo Moon opposes Mars. Loved ones might act irrationally, and pandering to bad behavior will only exacerbate the issue. If resolution can't be found in real time, take space until the energy has leveled out. You'll feel accomplished after a productive day at work once Uranus activates this evening. If you're on a roll, consider working overtime to free up your schedule later. Get up to date with friends when Luna enters Libra and aligns with Neptune, drawing inspiration from their success."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-04-02",
+  "horoscope": "The Libra Moon squares Jupiter early this morning, dear Sagittarius, touching on issues within your social sphere. Recent deceptions or encounters with opportunists could make it difficult to trust others moving forward. While it's okay to distance yourself from anyone who has hurt you, try not to assume the worst in everyone. You can learn from reviewing the facts and identifying warning signs you'd overlooked. Don't allow shame to creep in, but recognize the importance of protecting your energy in the future. Spending time with a sibling or childhood friend can help soothe your woes when Luna opposes Chiron tonight."
+}
+
