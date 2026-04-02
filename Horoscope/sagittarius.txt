@@ -503,3 +503,9 @@
   "horoscope": "The Libra Moon squares Jupiter early this morning, dear Sagittarius, touching on issues within your social sphere. Recent deceptions or encounters with opportunists could make it difficult to trust others moving forward. While it's okay to distance yourself from anyone who has hurt you, try not to assume the worst in everyone. You can learn from reviewing the facts and identifying warning signs you'd overlooked. Don't allow shame to creep in, but recognize the importance of protecting your energy in the future. Spending time with a sibling or childhood friend can help soothe your woes when Luna opposes Chiron tonight."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-04-02",
+  "horoscope": "The Libra Moon squares Jupiter early this morning, dear Sagittarius, touching on issues within your social sphere. Recent deceptions or encounters with opportunists could make it difficult to trust others moving forward. While it's okay to distance yourself from anyone who has hurt you, try not to assume the worst in everyone. You can learn from reviewing the facts and identifying warning signs you'd overlooked. Don't allow shame to creep in, but recognize the importance of protecting your energy in the future. Spending time with a sibling or childhood friend can help soothe your woes when Luna opposes Chiron tonight."
+}
+
