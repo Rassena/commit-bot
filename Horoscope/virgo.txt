@@ -409,3 +409,9 @@
   "horoscope": "The Moon grows restless in your sign this morning, dear Virgo, forming a harsh opposition with Mars. Pent-up frustrations bubble to the surface, and loved ones might suffer the consequences. If you're feeling on edge, get some movement in to clear your head and release endorphins. The universe finds ways to cheer you up when Uranus activates this evening. Fortuitous and unexpected events could take you on an adventure, so don't shy away from exploration or growth. Spend extra time winding down and releasing the day's energy once Luna enters Libra and faces off with Neptune tonight."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-04-03",
+  "horoscope": "Reinforce mutually beneficial connections while Mercury and Jupiter form a communal aspect, dearest Virgo. This energy is perfect for offering or returning favors, promoting the work of colleagues you admire, and checking in with peers. The Scorpio Moon adds depth to your conversations, and the insights you provide will be exceptionally profound. Focus on current aspirations when Luna, Venus, and Pluto form a t-square, and examine whether your plate has become too full. Unload minor goals or responsibilities that deviate from more important dreams. Relax and let loved ones take the lead once the Nodes of Fate stir tonight."
+}
+
