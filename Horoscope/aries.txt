@@ -428,3 +428,9 @@
   "horoscope": "Be mindful of the reality you're creating, darling Aries, as the Leo Moon aspects Chiron, Uranus, and Venus. Though the universe may throw you the occasional curveball, how you respond to unexpected hurdles will determine what comes next. When you prioritize supporting and building yourself up, you'll have the creative insight needed to rise above these setbacks. Don't shy away from busy work if it brings you closer to solutions once Luna enters Virgo. You might discover the need to devote more energy toward your goals and less time socializing while Luna, Pluto, and Saturn form a yod later tonight."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-04-03",
+  "horoscope": "Thoughtfulness pays off today, dear Aries, as Mercury and Jupiter form an auspicious aspect. Projecting positivity into the world can reshape the landscape of your psyche, making it easier to chase your own dreams. Luna's debut into Scorpio brings you closer to the changes you've been seeking. Identify the lingering factors standing in your way, and make peace with behaviors, ideas, or relationships that need to be released. A harsh t-square between Luna, Venus, and Pluto could bring out your possessive side. Try not to get jealous if loved ones spend time with other people. Let go of unhealthy emotions through breath work and gentle movement while the Nodes of Fate stir tonight."
+}
+
