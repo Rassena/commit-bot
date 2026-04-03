@@ -456,3 +456,9 @@
   "horoscope": "Don't let intrusive thoughts push you into isolation, sweet Gemini. You may feel torn between the desire to socialize or hide indoors while the Leo Moon aspects Chiron, Uranus, and Venus. Spending time with friends will prove mentally beneficial if you get out of your own way and choose to have fun. The stars grant permission to call it an early day once Luna enters Virgo this afternoon, providing the perfect excuse to catch up on chores instead of staying out. Embrace spiritual practices to clear away busy energy when Luna, Pluto, and Saturn enter a rare yod formation tonight."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-04-03",
+  "horoscope": "Your mind is the most powerful asset at your disposal, dearest Gemini. Share your thoughts and put ideas into action while Mercury and Jupiter form a prosperous aspect. Luna's debut into Scorpio brings out your keen business sense and admirable work ethic. Lead with strength to tackle hurdles that intimidate others. Solitude serves you later today when the Moon, Venus, and Pluto enter a challenging t-square. Outside opinions could cause you to second-guess yourself, and distractions may trigger unworthy side quests. An interesting proposal might land in your lap once the Nodes of Fate stir tonight. Get all the facts before making a decision."
+}
+
