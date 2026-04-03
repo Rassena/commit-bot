@@ -433,3 +433,9 @@
   "horoscope": "Seek nourishment via social interaction, darling Capricorn. As Mercury aspects Jupiter, the mind and heart will crave more than you can provide for yourself. Each happy exchange will leave you feeling light, inspired, and optimistic. The Scorpio Moon assists in deepening new relationships, though instant connections may be found in unexpected places as well. Remember to ground when moving between various environments once Luna, Venus, and Pluto enter a t-square, or you could begin to feel dizzy and insecure. Wishes you made long ago might come full circle while the Nodes of Fate stir later this evening."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-04-03",
+  "horoscope": "Seek nourishment via social interaction, darling Capricorn. As Mercury aspects Jupiter, the mind and heart will crave more than you can provide for yourself. Each happy exchange will leave you feeling light, inspired, and optimistic. The Scorpio Moon assists in deepening new relationships, though instant connections may be found in unexpected places as well. Remember to ground when moving between various environments once Luna, Venus, and Pluto enter a t-square, or you could begin to feel dizzy and insecure. Wishes you made long ago might come full circle while the Nodes of Fate stir later this evening."
+}
+
