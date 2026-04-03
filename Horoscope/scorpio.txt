@@ -484,3 +484,9 @@
   "horoscope": "You'll have a competitive edge over peers, dear Scorpio, as the Virgo Moon and Mars face off. Practice good sportsmanship to prevent rivalries from arising and complicating the path ahead. Emphasize community support without diminishing your own prospects. Sparks fly once Uranus activates this evening, bringing romance and excitement to the air. These vibes are perfect for spicing up romantic connections or hitting the town to find new ones. However, you'll need adequate downtime to fully recuperate from the day's events before settling into bed. Head home early to avoid a restless night after Luna enters Libra and opposes Neptune."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-04-03",
+  "horoscope": "Projects or ideas you've been quietly nurturing spiral in new directions, dearest scorpion. Allow your visions to take flight while Mercury aspects Jupiter, and your bravery will be rewarded. The universe supports creative ambitions, but you'll need to push the envelope. Luckily, the Moon enters your sign, helping you feel more comfortable in the spotlight. You could encounter a few haters when Luna, Venus, and Pluto form a harsh t-square later today. Don't be deterred by people who project their own insecurities onto you. Nurture your light once the Nodes of Fate stir tonight to become an unstoppable force."
+}
+
