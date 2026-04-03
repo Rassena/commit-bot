@@ -434,3 +434,9 @@
   "horoscope": "Thoughtfulness pays off today, dear Aries, as Mercury and Jupiter form an auspicious aspect. Projecting positivity into the world can reshape the landscape of your psyche, making it easier to chase your own dreams. Luna's debut into Scorpio brings you closer to the changes you've been seeking. Identify the lingering factors standing in your way, and make peace with behaviors, ideas, or relationships that need to be released. A harsh t-square between Luna, Venus, and Pluto could bring out your possessive side. Try not to get jealous if loved ones spend time with other people. Let go of unhealthy emotions through breath work and gentle movement while the Nodes of Fate stir tonight."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-04-03",
+  "horoscope": "Thoughtfulness pays off today, dear Aries, as Mercury and Jupiter form an auspicious aspect. Projecting positivity into the world can reshape the landscape of your psyche, making it easier to chase your own dreams. Luna's debut into Scorpio brings you closer to the changes you've been seeking. Identify the lingering factors standing in your way, and make peace with behaviors, ideas, or relationships that need to be released. A harsh t-square between Luna, Venus, and Pluto could bring out your possessive side. Try not to get jealous if loved ones spend time with other people. Let go of unhealthy emotions through breath work and gentle movement while the Nodes of Fate stir tonight."
+}
+
