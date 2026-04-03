@@ -427,3 +427,9 @@
   "horoscope": "Personal growth and confidence often go hand in hand, dearest Capricorn. Take time to reflect on how you'd like to evolve as the Moon moves through Leo and your house of transformation. It's important to consider the impact loved ones have on your journey, and whether comfortable relationships have led to a certain level of complacency. Though loyal companions are truly invaluable, they shouldn't contribute to a lack of drive. Set and share separate goals with your favorite person, and hold each other accountable. If you live with that special someone, update your routines to make space for these shifts while Saturn aspects Pluto."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-04-03",
+  "horoscope": "Seek nourishment via social interaction, darling Capricorn. As Mercury aspects Jupiter, the mind and heart will crave more than you can provide for yourself. Each happy exchange will leave you feeling light, inspired, and optimistic. The Scorpio Moon assists in deepening new relationships, though instant connections may be found in unexpected places as well. Remember to ground when moving between various environments once Luna, Venus, and Pluto enter a t-square, or you could begin to feel dizzy and insecure. Wishes you made long ago might come full circle while the Nodes of Fate stir later this evening."
+}
+
