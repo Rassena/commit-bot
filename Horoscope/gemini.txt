@@ -462,3 +462,9 @@
   "horoscope": "Your mind is the most powerful asset at your disposal, dearest Gemini. Share your thoughts and put ideas into action while Mercury and Jupiter form a prosperous aspect. Luna's debut into Scorpio brings out your keen business sense and admirable work ethic. Lead with strength to tackle hurdles that intimidate others. Solitude serves you later today when the Moon, Venus, and Pluto enter a challenging t-square. Outside opinions could cause you to second-guess yourself, and distractions may trigger unworthy side quests. An interesting proposal might land in your lap once the Nodes of Fate stir tonight. Get all the facts before making a decision."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-04-04",
+  "horoscope": "Your work doesn't end simply because the weekend has arrived, dearest Gemini. Cultivating your best life takes consistent effort. Focus on physical and emotional needs while the Scorpio Moon enters a grand trine with Mercury and Jupiter. Your wellness routines deserve as much structure and consistency as professional goals receive. If you've been building alternate sources of income, these vibes signal prosperous breakthroughs are on the horizon. If you cannot keep up with the demands of your success, consider hiring help or asking family to pitch in more at home. Enjoy a well-rounded dinner and get to bed early to maximize your energy levels for tomorrow's adventures."
+}
+
