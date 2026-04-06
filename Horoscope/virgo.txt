@@ -415,3 +415,9 @@
   "horoscope": "Reinforce mutually beneficial connections while Mercury and Jupiter form a communal aspect, dearest Virgo. This energy is perfect for offering or returning favors, promoting the work of colleagues you admire, and checking in with peers. The Scorpio Moon adds depth to your conversations, and the insights you provide will be exceptionally profound. Focus on current aspirations when Luna, Venus, and Pluto form a t-square, and examine whether your plate has become too full. Unload minor goals or responsibilities that deviate from more important dreams. Relax and let loved ones take the lead once the Nodes of Fate stir tonight."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-04-06",
+  "horoscope": "You are greeted by a whirlwind of energy this morning, darling Virgo, as the Sagittarius Moon aspects Pluto, Saturn, and the Nodes of Fate. Stick to routines that provide comfort while keeping you on track. Emotions ebb and flow, especially if certain needs arent being met. If you didnt get a chance to relax over the weekend, micro-dose self-care throughout the day. It might be necessary to withdraw assistance from people who cannot return the favor, freeing up time to prioritize your own agenda. The universe looks for opportunities to build you up while Venus aligns with the Nodes of Fate. Stay positive and keep your eye out for blessings."
+}
+
