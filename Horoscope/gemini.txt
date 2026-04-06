@@ -468,3 +468,9 @@
   "horoscope": "Your work doesn't end simply because the weekend has arrived, dearest Gemini. Cultivating your best life takes consistent effort. Focus on physical and emotional needs while the Scorpio Moon enters a grand trine with Mercury and Jupiter. Your wellness routines deserve as much structure and consistency as professional goals receive. If you've been building alternate sources of income, these vibes signal prosperous breakthroughs are on the horizon. If you cannot keep up with the demands of your success, consider hiring help or asking family to pitch in more at home. Enjoy a well-rounded dinner and get to bed early to maximize your energy levels for tomorrow's adventures."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-04-06",
+  "horoscope": "Surround yourself with positive influences to improve your own standing, darling Gemini. As the Sagittarius Moon aligns with Pluto, Saturn, and the Nodes of Fate, prioritize inspiring relationships. Recognize if sentimentality has caused you to maintain toxic dynamics longer than you should have. Set clear boundaries if youve been letting hurt feelings slide, but only offer another chance to those who truly deserve it. If you dont feel safe to express your emotions, take it as a sign that the drama is not worth your time. Work on cultivating internal harmony while Venus aligns with the Nodes of Fate. If youre not afraid to be alone, it will be easier to avoid bad connections moving forward."
+}
+
