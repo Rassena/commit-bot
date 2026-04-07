@@ -474,3 +474,9 @@
   "horoscope": "Surround yourself with positive influences to improve your own standing, darling Gemini. As the Sagittarius Moon aligns with Pluto, Saturn, and the Nodes of Fate, prioritize inspiring relationships. Recognize if sentimentality has caused you to maintain toxic dynamics longer than you should have. Set clear boundaries if youve been letting hurt feelings slide, but only offer another chance to those who truly deserve it. If you dont feel safe to express your emotions, take it as a sign that the drama is not worth your time. Work on cultivating internal harmony while Venus aligns with the Nodes of Fate. If youre not afraid to be alone, it will be easier to avoid bad connections moving forward."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-04-07",
+  "horoscope": "Showing love adds to your shine this morning, dearest Gemini, thanks to a sweet connection between the Aries Sun and Sagittarius Moon. Be friendly and generous with compliments while interacting with others, and they'll quickly see your best traits. Just be mindful of how you approach people with influence over your professional aspirations when Luna squares Mercury. Displays of admiration could be perceived as schmoozing instead of genuine respect. Attempting to skip steps in order to get ahead won't go well either. Work on resolving issues you have with peers once Chiron stirs tonight, even if it's internal."
+}
+
