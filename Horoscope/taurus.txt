@@ -320,3 +320,9 @@
   "horoscope": "Exciting adventures await while the Scorpio Moon aspects Mars, dear Taurus. Prioritize social engagements that appeal to your passions or offer valuable networking opportunities. Electricity builds between you and your latest crush when Uranus activates midafternoon, but the energy will be unpredictable. Avoid coming on too strong, but don't hesitate to let others know where you stand. Be mindful of the information you share as the Aries Sun squares Jupiter. Even well-meaning friends may struggle to keep your secrets. Beneficial arrangements could find you once Luna enters Sagittarius this evening. Read the fine print before agreeing to major commitments while Neptune stirs tonight."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-04-07",
+  "horoscope": "The Aries Sun and Sagittarius Moon work together and offer release early this morning, dearest Taurus. Emotionally charged dreams could result. Be mindful to shake off any residual energy you might be carrying upon awakening, whether or not you remember your dreams. Reaching for your phone without taking time to ground will put you in a daze while Luna and Mercury square off. Try to socialize face-to-face rather than looking for connections online. Talk out issues you've been struggling with when Chiron stirs tonight, but choose your confidant wisely. If you'd rather process on your own, consider journaling."
+}
+
