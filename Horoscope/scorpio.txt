@@ -502,3 +502,9 @@
   "horoscope": "Major inspiration drives your best work yet, dearest Scorpio, thanks to a sweet connection between the Moon and Mars. It's important to prioritize activities that are creative and meaningful, even if they seem self-serving. Unfortunately, loved ones may feel neglected and lash out when Uranus stirs midafternoon. Make plans in the near future to soothe their frustrations. If they wish to be involved in your current pursuits, consider how they might lend a helping hand while the Sun and Jupiter align. Slow down to reconnect with your environment once Luna enters Sagittarius and aspects Neptune, and try to get to bed at a reasonable hour."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-04-07",
+  "horoscope": "The universe expects you to work for the blessings it delivers, dear Scorpio. As the Aries Sun and Sagittarius Moon align, hope alone won't be enough to sustain you. Each productive action you take brings rewards and reinforces dreams you've set out to manifest. Speaking impulsively or refusing advice could lead to ego bruises when Luna squares Mercury. If you start to feel cagey or thoughts begin to race, give yourself space to cool down. Enjoy a bit of luxury as the day comes to a close and Chiron activates. Listen to your body's needs, and head to bed at a reasonable hour."
+}
+
