@@ -458,3 +458,9 @@
   "horoscope": "You're capable of reaching incredible heights, dearest Aries. As Mars and Uranus form a supportive aspect, draw from the depths of your spirit to ensure major visions see the light of day. Stay flexible along the way, as the road ahead will be quite unpredictable. Consider where potential blind spots lie while the Capricorn Moon and Neptune square off. Excessive confidence may cause you to act irresponsibly or miss important signs. You won't be able to fake experience once Saturn grows agitated this evening. Ask for advice instead of improvising. You'll come out on top, but should reflect on the day's lessons when the nodes of fate stir tonight."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-04-08",
+  "horoscope": "You're capable of reaching incredible heights, dearest Aries. As Mars and Uranus form a supportive aspect, draw from the depths of your spirit to ensure major visions see the light of day. Stay flexible along the way, as the road ahead will be quite unpredictable. Consider where potential blind spots lie while the Capricorn Moon and Neptune square off. Excessive confidence may cause you to act irresponsibly or miss important signs. You won't be able to fake experience once Saturn grows agitated this evening. Ask for advice instead of improvising. You'll come out on top, but should reflect on the day's lessons when the nodes of fate stir tonight."
+}
+
