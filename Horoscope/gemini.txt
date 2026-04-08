@@ -480,3 +480,9 @@
   "horoscope": "Showing love adds to your shine this morning, dearest Gemini, thanks to a sweet connection between the Aries Sun and Sagittarius Moon. Be friendly and generous with compliments while interacting with others, and they'll quickly see your best traits. Just be mindful of how you approach people with influence over your professional aspirations when Luna squares Mercury. Displays of admiration could be perceived as schmoozing instead of genuine respect. Attempting to skip steps in order to get ahead won't go well either. Work on resolving issues you have with peers once Chiron stirs tonight, even if it's internal."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-04-08",
+  "horoscope": "Tackle major obstacles in private, dear Gemini, as Mars and Uranus align. These revolutionary vibes lead to breakthrough moments, but the process could get messy. With no one around to scrutinize your moves, it'll be easier to act boldly. Try not to worry about what others are saying or thinking while the Capricorn Moon and Neptune square off. Social anxiety might evolve into paranoia if left unmanaged. Online privacy may trigger issues within your closest partnerships when Luna squares Saturn this evening. Hold off on addressing these problems until the nodes of fate stir tonight, when they assist with boundaries and communication."
+}
+
