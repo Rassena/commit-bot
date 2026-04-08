@@ -452,3 +452,9 @@
   "horoscope": "The Sagittarius Moon encourages you to expand in all directions, dearest Aries. Elevating aspects with Pluto and Saturn suggests powerful alliances can be made. Think outside the box when seeking networking opportunities. The universe may send subtle signals to guide you in the right direction. Trust your intuition, but dont expect every connection to be a home run. Venus aligns with the Nodes of Fate, helping you release preconceived notions that are borderline superficial. Complications could arise while Luna enters a t-square with the Nodes of Fate and attempts to throw Venus off-balance. Look beyond the surface to ensure you dont get caught up in the wrong details."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-04-08",
+  "horoscope": "You're capable of reaching incredible heights, dearest Aries. As Mars and Uranus form a supportive aspect, draw from the depths of your spirit to ensure major visions see the light of day. Stay flexible along the way, as the road ahead will be quite unpredictable. Consider where potential blind spots lie while the Capricorn Moon and Neptune square off. Excessive confidence may cause you to act irresponsibly or miss important signs. You won't be able to fake experience once Saturn grows agitated this evening. Ask for advice instead of improvising. You'll come out on top, but should reflect on the day's lessons when the nodes of fate stir tonight."
+}
+
