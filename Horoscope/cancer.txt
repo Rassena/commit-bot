@@ -392,3 +392,9 @@
   "horoscope": "Synchronistic meetings could feel like an act of fate, darling Cancer. Take note of who you cross paths with while Mars and Uranus align. Coincidental encounters may hint at an energetic pull that connects you with soulmates and kindred spirits. If you sense the universe has put someone in your path for a reason, try to distinguish why. Just don't let fantasy get the better of you when the Capricorn Moon squares Neptune. Romantic notions can trigger delusions, which are met with rude awakenings once Saturn grows impatient this evening. Recalibrate your intuition by prioritizing harmony as Luna aspects the nodes of fate tonight."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-04-08",
+  "horoscope": "Synchronistic meetings could feel like an act of fate, darling Cancer. Take note of who you cross paths with while Mars and Uranus align. Coincidental encounters may hint at an energetic pull that connects you with soulmates and kindred spirits. If you sense the universe has put someone in your path for a reason, try to distinguish why. Just don't let fantasy get the better of you when the Capricorn Moon squares Neptune. Romantic notions can trigger delusions, which are met with rude awakenings once Saturn grows impatient this evening. Recalibrate your intuition by prioritizing harmony as Luna aspects the nodes of fate tonight."
+}
+
