@@ -386,3 +386,9 @@
   "horoscope": "Your wisdom shines through as Mercury and Jupiter align, dearest Cancer. Share knowledge and take up space to improve your visibility, mindfully directing conversations in a beneficial direction. Meanwhile, the Moon debuts in Scorpio, uncovering untapped layers of artistry. Follow your heart when it comes to creative expression, and the light within will shine brightly. Beware of envious people who lack the bravery to chase their own passions once Luna forms a t-square with Venus and Pluto. Protect your energy, but offer encouragement to peers who seem unhappy or in need of a morale boost while the Nodes of Fate stir."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-04-08",
+  "horoscope": "Synchronistic meetings could feel like an act of fate, darling Cancer. Take note of who you cross paths with while Mars and Uranus align. Coincidental encounters may hint at an energetic pull that connects you with soulmates and kindred spirits. If you sense the universe has put someone in your path for a reason, try to distinguish why. Just don't let fantasy get the better of you when the Capricorn Moon squares Neptune. Romantic notions can trigger delusions, which are met with rude awakenings once Saturn grows impatient this evening. Recalibrate your intuition by prioritizing harmony as Luna aspects the nodes of fate tonight."
+}
+
