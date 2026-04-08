@@ -509,3 +509,9 @@
   "horoscope": "The Libra Moon squares Jupiter early this morning, dear Sagittarius, touching on issues within your social sphere. Recent deceptions or encounters with opportunists could make it difficult to trust others moving forward. While it's okay to distance yourself from anyone who has hurt you, try not to assume the worst in everyone. You can learn from reviewing the facts and identifying warning signs you'd overlooked. Don't allow shame to creep in, but recognize the importance of protecting your energy in the future. Spending time with a sibling or childhood friend can help soothe your woes when Luna opposes Chiron tonight."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-04-08",
+  "horoscope": "You'll feel inspired to take charge as Uranus and Mars align, dear archer, sensing a need to switch up stagnant routines. Remember that boredom can be avoided by simply challenging what you're used to. Explore different techniques to forge new results and ensure your work doesn't become predictable. Just don't let a desire for artistic expression or fun get in the way of productivity while the Capricorn Moon squares Neptune. You could land in hot water once Saturn stirs this evening if you allow time to slip by. Enjoy a restful night at home to recalibrate when Luna aspects the nodes of fate."
+}
+
