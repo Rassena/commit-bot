@@ -383,3 +383,9 @@
   "horoscope": "Touch base with yourself often this morning, dearest Libra. As the Virgo Moon and Mars face off, you could slip into autopilot without realizing it. No matter how organized and familiar you are with the work you do, costly mistakes can be made if you don't remain present. Give yourself space to daydream or create once Uranus activates this evening. Take time to be alone with your imagination, or sneak away for adventure with your partners in crime. You'll feel renewed after Luna enters your sign. Melt into softness to ensure you're properly rested for tomorrow's endeavors while Neptune stirs tonight."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-04-08",
+  "horoscope": "Mars and Uranus put you in a decisive headspace, dearest Libra, giving you the confidence to make big moves. Don't worry about what is considered conventional, trusting that more can be gained when you are true to yourself. Doubt could creep in while the Capricorn Moon and Neptune square off, especially if you begin to fret over what family or close friends may think. Remember that love is unconditional, and choose to live for yourself. Avoid working too hard once Luna squares Saturn this evening. Pulling back to take care of yourself will be rewarded by the universe when the nodes of fate stir later tonight."
+}
+
