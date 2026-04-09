@@ -440,3 +440,9 @@
   "horoscope": "The stars grant permission to baby yourself, dearest Aquarius. Take time to be alone with your emotions as the Capricorn Moon and Venus align. Catering to childlike whimsies will be especially uplifting. Youll feel more vocal and outgoing once Mars debuts in Aries this afternoon. Be selective of who you interact with, connecting only with those who fuel the fire within. Avoid boredom and seek educational pursuits to harness this energy throughout the coming weeks. Your workload may become overwhelming when Jupiter activates. Ask for help if you need it. Fight negative thoughts and explore pleasant topics under tonights quarter Moon."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-04-09",
+  "horoscope": "The stars grant permission to baby yourself, dearest Aquarius. Take time to be alone with your emotions as the Capricorn Moon and Venus align. Catering to childlike whimsies will be especially uplifting. Youll feel more vocal and outgoing once Mars debuts in Aries this afternoon. Be selective of who you interact with, connecting only with those who fuel the fire within. Avoid boredom and seek educational pursuits to harness this energy throughout the coming weeks. Your workload may become overwhelming when Jupiter activates. Ask for help if you need it. Fight negative thoughts and explore pleasant topics under tonights quarter Moon."
+}
+
