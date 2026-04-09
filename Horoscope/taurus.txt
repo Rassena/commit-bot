@@ -326,3 +326,9 @@
   "horoscope": "The Aries Sun and Sagittarius Moon work together and offer release early this morning, dearest Taurus. Emotionally charged dreams could result. Be mindful to shake off any residual energy you might be carrying upon awakening, whether or not you remember your dreams. Reaching for your phone without taking time to ground will put you in a daze while Luna and Mercury square off. Try to socialize face-to-face rather than looking for connections online. Talk out issues you've been struggling with when Chiron stirs tonight, but choose your confidant wisely. If you'd rather process on your own, consider journaling."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-04-09",
+  "horoscope": "Give yourself permission to believe that luck is on your side, dear Taurus. Attitude is everything while the Capricorn Moon and Venus align, clearing the way for manifestation miracles. Even if you dont see immediate results, the good energy you put into the universe will come back to you eventually. Much builds beneath the surface throughout the coming weeks after Mars debuts in Aries. Youll be busy preparing for new chapters, but you will need to tie up loose ends and get your affairs in order first. The mind expands once Jupiter activates later today, but epiphanies will be lost if you dont take notes. Tend to your spirituality under tonights quarter Moon to strengthen your intuition."
+}
+
