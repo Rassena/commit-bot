@@ -508,3 +508,9 @@
   "horoscope": "The universe expects you to work for the blessings it delivers, dear Scorpio. As the Aries Sun and Sagittarius Moon align, hope alone won't be enough to sustain you. Each productive action you take brings rewards and reinforces dreams you've set out to manifest. Speaking impulsively or refusing advice could lead to ego bruises when Luna squares Mercury. If you start to feel cagey or thoughts begin to race, give yourself space to cool down. Enjoy a bit of luxury as the day comes to a close and Chiron activates. Listen to your body's needs, and head to bed at a reasonable hour."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-04-09",
+  "horoscope": "Your interactions will feel sweet yet grown-up, dearest Scorpio, as the Capricorn Moon aspects Venus. Perceptions around love also evolve, helping you select smarter matches. Your daily life grows exceptionally busy throughout the coming weeks after Mars enters Aries this afternoon. Taking good care of yourself becomes increasingly important as new projects and responsibilities emerge. Connect with your spirituality, make a wish, and watch for signs to guide you once Jupiter stirs. You could grow flustered under tonights quarter Moon when unexpected tasks are suddenly thrust at your feet. If youre already at your limit, dont hesitate to decline work youre not equipped to take on."
+}
+
