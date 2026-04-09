@@ -464,3 +464,9 @@
   "horoscope": "You're capable of reaching incredible heights, dearest Aries. As Mars and Uranus form a supportive aspect, draw from the depths of your spirit to ensure major visions see the light of day. Stay flexible along the way, as the road ahead will be quite unpredictable. Consider where potential blind spots lie while the Capricorn Moon and Neptune square off. Excessive confidence may cause you to act irresponsibly or miss important signs. You won't be able to fake experience once Saturn grows agitated this evening. Ask for advice instead of improvising. You'll come out on top, but should reflect on the day's lessons when the nodes of fate stir tonight."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-04-09",
+  "horoscope": "Your career is on the rise, dearest Aries, thanks to a sweet connection between the Capricorn Moon and Venus. Unleash your inner-boss, leveraging what you can offer to ensure a better title and adequate compensation. Major gains are yours for the taking once Mars debuts in your sign this afternoon. Expect new offers to land in your path, but be selective of which ventures you commit to. Opportunities that seem too good to be true likely come with hidden costs when Jupiter activates. Youll feel the fallout of being placed in a tough position under tonights quarter moon."
+}
+
