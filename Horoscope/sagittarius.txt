@@ -515,3 +515,9 @@
   "horoscope": "You'll feel inspired to take charge as Uranus and Mars align, dear archer, sensing a need to switch up stagnant routines. Remember that boredom can be avoided by simply challenging what you're used to. Explore different techniques to forge new results and ensure your work doesn't become predictable. Just don't let a desire for artistic expression or fun get in the way of productivity while the Capricorn Moon squares Neptune. You could land in hot water once Saturn stirs this evening if you allow time to slip by. Enjoy a restful night at home to recalibrate when Luna aspects the nodes of fate."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-04-09",
+  "horoscope": "Meticulous efforts yield brilliant results, sweet Sagittarius. Go the extra mile before presenting your work as the Capricorn Moon and Venus align. Giving in to your inner perfectionist isnt sustainable, but it can benefit you at the moment. Youll have a chance to get messy and expand your ideas after Mars enters Aries, uncovering new layers of expression. Trust your creative instincts as you navigate these vibes over the coming weeks. Avoid pandering to power plays when Jupiter activates this afternoon, recognizing if its time to bury rivalries. Find joy in the simple pleasures and dont let tense emotions implode under tonights quarter Moon."
+}
+
