@@ -398,3 +398,9 @@
   "horoscope": "Synchronistic meetings could feel like an act of fate, darling Cancer. Take note of who you cross paths with while Mars and Uranus align. Coincidental encounters may hint at an energetic pull that connects you with soulmates and kindred spirits. If you sense the universe has put someone in your path for a reason, try to distinguish why. Just don't let fantasy get the better of you when the Capricorn Moon squares Neptune. Romantic notions can trigger delusions, which are met with rude awakenings once Saturn grows impatient this evening. Recalibrate your intuition by prioritizing harmony as Luna aspects the nodes of fate tonight."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-04-09",
+  "horoscope": "Recognize the people who play a significant role in your life, darling Cancer, as the Capricorn Moon and Venus align. Family, friends, teachers, and your greatest idols are all worthy of praise, but you are also deserving of theirs. Its important to prioritize dynamics that leave room for you to grow while Jupiter stirs in your sign. Your path to success accelerates throughout the coming weeks after Mars enters Aries. Stay focused on agendas that matter most, and avoid taking on too many new projects at once. Your relationships may require extra attention and perhaps some restructuring under tonights quarter Moon."
+}
+
