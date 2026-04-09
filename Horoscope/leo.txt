@@ -422,3 +422,9 @@
   "horoscope": "A homey and intimate ambiance surrounds you today, darling Leo, as the Scorpio Moon, Mercury, and Jupiter form a grand trine. If you've been discussing changes within your household, these vibes can help facilitate fluid transitions. Cohabitation, relocation, and renovations may be triggered by this celestial triad. Dramatic shifts might come on suddenly, but no amount of planning will prepare you if life decides to take you on a new journey. A longing for simpler times could also emerge, inspiring a trip to your hometown. If you live near family, consider popping by for a nurturing meal or chat."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-04-09",
+  "horoscope": "Your willingness to help others earns you the esteem of influential peers, dear Leo. Lend a hand when you can, but take credit for your efforts while the Capricorn Moon and Venus align. If the same people are consistently asking for aid, consider taking on the role of a mentor rather than popping in and out at their convenience. A hunger for adventure and understanding brings out your daring side throughout the coming weeks after Mars debuts in Aries. Bring structure to any goals youd like to hit in the new future and outline solid strategies once Jupiter activates midafternoon. Stay flexible under tonights quarter Moon and expand upon existing plans."
+}
+
