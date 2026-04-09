@@ -427,3 +427,9 @@
   "horoscope": "You are greeted by a whirlwind of energy this morning, darling Virgo, as the Sagittarius Moon aspects Pluto, Saturn, and the Nodes of Fate. Stick to routines that provide comfort while keeping you on track. Emotions ebb and flow, especially if certain needs arent being met. If you didnt get a chance to relax over the weekend, micro-dose self-care throughout the day. It might be necessary to withdraw assistance from people who cannot return the favor, freeing up time to prioritize your own agenda. The universe looks for opportunities to build you up while Venus aligns with the Nodes of Fate. Stay positive and keep your eye out for blessings."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-04-09",
+  "horoscope": "An overwhelming sense of love washes over you this morning, sweet Virgo, thanks to a cheering aspect between the Capricorn Moon and Venus. Maximize the benefit of this celestial exchange by pursuing dreams youre most passionate about, even if they bring extra challenges. Your skills evolve throughout the coming weeks after Mars enters Aries. Dont be afraid to try new things, trusting your bravery will yield transformative results. Pull back on technological distractions that have been chipping away at your recreational time while Jupiter activates midafternoon. Watch out for drama under tonights quarter Moon, which might intensify rivalries you can no longer ignore."
+}
+
