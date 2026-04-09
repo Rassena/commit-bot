@@ -492,3 +492,9 @@
   "horoscope": "Tackle major obstacles in private, dear Gemini, as Mars and Uranus align. These revolutionary vibes lead to breakthrough moments, but the process could get messy. With no one around to scrutinize your moves, it'll be easier to act boldly. Try not to worry about what others are saying or thinking while the Capricorn Moon and Neptune square off. Social anxiety might evolve into paranoia if left unmanaged. Online privacy may trigger issues within your closest partnerships when Luna squares Saturn this evening. Hold off on addressing these problems until the nodes of fate stir tonight, when they assist with boundaries and communication."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-04-09",
+  "horoscope": "A sweet and intimate energy surrounds you early this morning, dearest Gemini, as the Capricorn Moon and Venus align. These vibes are perfect for sharing your hopes and dreams with someone special, encouraging them to do the same. When you nourish partnerships that are mutually encouraging, the chances that youll both succeed improve. Dont be afraid to rely on your community throughout the coming weeks once Mars enters Aries this afternoon. However, youll need to be proactive about returning any favors you are granted. Rein in your spending when Jupiter activates, especially if debt hangs over you. Steer clear of toxic social media feeds and emotionally unsafe places under tonights quarter Moon."
+}
+
