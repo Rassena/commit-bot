@@ -434,3 +434,9 @@
   "horoscope": "Don't let unexpected setbacks hijack your mood, dear Aquarius, as the Leo Moon aspects Chiron, Uranus, and Venus. Loved ones will rally to show support and lift your spirits, but charged emotions may cause you to balk against their good intentions. Denying yourself comfort will only intensify the dissatisfaction you feel. Give yourself space to scream, cry, or crumble, then pick yourself up and accept love's embrace. Review your situation to hatch a new plan once Luna enters Virgo this afternoon. A rare yod forms between the Moon, Pluto, and Saturn later tonight, helping you gain wisdom from your experiences."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-04-09",
+  "horoscope": "The stars grant permission to baby yourself, dearest Aquarius. Take time to be alone with your emotions as the Capricorn Moon and Venus align. Catering to childlike whimsies will be especially uplifting. Youll feel more vocal and outgoing once Mars debuts in Aries this afternoon. Be selective of who you interact with, connecting only with those who fuel the fire within. Avoid boredom and seek educational pursuits to harness this energy throughout the coming weeks. Your workload may become overwhelming when Jupiter activates. Ask for help if you need it. Fight negative thoughts and explore pleasant topics under tonights quarter Moon."
+}
+
