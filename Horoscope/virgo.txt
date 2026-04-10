@@ -433,3 +433,9 @@
   "horoscope": "An overwhelming sense of love washes over you this morning, sweet Virgo, thanks to a cheering aspect between the Capricorn Moon and Venus. Maximize the benefit of this celestial exchange by pursuing dreams youre most passionate about, even if they bring extra challenges. Your skills evolve throughout the coming weeks after Mars enters Aries. Dont be afraid to try new things, trusting your bravery will yield transformative results. Pull back on technological distractions that have been chipping away at your recreational time while Jupiter activates midafternoon. Watch out for drama under tonights quarter Moon, which might intensify rivalries you can no longer ignore."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-04-10",
+  "horoscope": "Affectionate vibes flow while the Capricorn Moon and Mercury align, dearest Virgo, conjuring themes around commitment. Unfortunately, it may be difficult to take your relationship to the next level when Chiron activates, especially if old wounds get in the way of building trust. Open up about past experiences with the intention of looking toward the future with optimism, as Luna aspects Uranus before entering Aquarius. Transparency will make it easier to understand and resolve your own hangups, so your partner might do the same. Choosing to establish healthier connections will reinvigorate your faith in love once Mars and Neptune stir tonight."
+}
+
