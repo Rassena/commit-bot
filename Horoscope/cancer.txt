@@ -410,3 +410,9 @@
   "horoscope": "Major transformations are underway, dear Cancer, as the Aquarius Moon aspects Pluto and Saturn. Once you've initiated change, turning back might not be an option. Consider what is at stake without losing sight of potential gains to reinforce your decision-making process. You may be indirectly impacted by opportunities received by a significant other or close family member. Whether destiny calls for you or your partner in crime, a united front is vital for ensuring the road ahead leads to success. Keep sensitive information under wraps until more details have been settled to avoid unwelcome opinions when Luna squares Venus tonight."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-04-11",
+  "horoscope": "Major transformations are underway, dear Cancer, as the Aquarius Moon aspects Pluto and Saturn. Once you've initiated change, turning back might not be an option. Consider what is at stake without losing sight of potential gains to reinforce your decision-making process. You may be indirectly impacted by opportunities received by a significant other or close family member. Whether destiny calls for you or your partner in crime, a united front is vital for ensuring the road ahead leads to success. Keep sensitive information under wraps until more details have been settled to avoid unwelcome opinions when Luna squares Venus tonight."
+}
+
