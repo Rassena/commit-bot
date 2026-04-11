@@ -395,3 +395,9 @@
   "horoscope": "You could experience a change of heart early this morning, dear Libra, as the Aquarius Moon aspects Pluto and Saturn. Determine if unreasonable expectations have caused you to judge loved ones unfairly, loosening up any rigid rules you can't expect others to live by. Now is also a good time to cut yourself some slack, especially if you've been struggling with a lack of motivation. It's possible you're overdue for some serious fun, and can rely on your favorite person to bring you out of your shell. Just don't overextend yourself by staying out too late once Luna squares Venus, or the mood might sour."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-04-11",
+  "horoscope": "You could experience a change of heart early this morning, dear Libra, as the Aquarius Moon aspects Pluto and Saturn. Determine if unreasonable expectations have caused you to judge loved ones unfairly, loosening up any rigid rules you can't expect others to live by. Now is also a good time to cut yourself some slack, especially if you've been struggling with a lack of motivation. It's possible you're overdue for some serious fun, and can rely on your favorite person to bring you out of your shell. Just don't overextend yourself by staying out too late once Luna squares Venus, or the mood might sour."
+}
+
