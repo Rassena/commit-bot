@@ -521,3 +521,9 @@
   "horoscope": "Meticulous efforts yield brilliant results, sweet Sagittarius. Go the extra mile before presenting your work as the Capricorn Moon and Venus align. Giving in to your inner perfectionist isnt sustainable, but it can benefit you at the moment. Youll have a chance to get messy and expand your ideas after Mars enters Aries, uncovering new layers of expression. Trust your creative instincts as you navigate these vibes over the coming weeks. Avoid pandering to power plays when Jupiter activates this afternoon, recognizing if its time to bury rivalries. Find joy in the simple pleasures and dont let tense emotions implode under tonights quarter Moon."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-04-11",
+  "horoscope": "Improving your skills highlights your natural talents, darling archer. Think critically about how you can produce refined work while the Aquarius Moon aspects Pluto and Saturn. Your eye sharpens when you embrace the editing process, making it easier to remove superfluous details that take away from your message. If you're hoping to advance even further, it might be wise to seek a mentor. Sharing your own knowledge with someone less experienced will also help you see basic principles in a new light. Give your mind a rest and focus on what the body needs once Luna squares Venus tonight."
+}
+
