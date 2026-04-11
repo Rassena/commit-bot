@@ -428,3 +428,9 @@
   "horoscope": "Your willingness to help others earns you the esteem of influential peers, dear Leo. Lend a hand when you can, but take credit for your efforts while the Capricorn Moon and Venus align. If the same people are consistently asking for aid, consider taking on the role of a mentor rather than popping in and out at their convenience. A hunger for adventure and understanding brings out your daring side throughout the coming weeks after Mars debuts in Aries. Bring structure to any goals youd like to hit in the new future and outline solid strategies once Jupiter activates midafternoon. Stay flexible under tonights quarter Moon and expand upon existing plans."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-04-11",
+  "horoscope": "Love should fortify your dreams and bring out the best in you, beloved Leo. As the Aquarius Moon aligns with Pluto and Saturn, recognize if you can grow with someone before giving them your heart. If you're already in a relationship, now is a good time to reaffirm one another's ambitions. Determine if more discipline is needed to ensure you and your sweetheart thrive. If you're united in making responsible decisions, the road ahead will be easier to navigate. Issues come to a head if you don't feel genuinely supported when Luna and Venus square off tonight."
+}
+
