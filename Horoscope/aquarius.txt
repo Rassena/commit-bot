@@ -446,3 +446,9 @@
   "horoscope": "The stars grant permission to baby yourself, dearest Aquarius. Take time to be alone with your emotions as the Capricorn Moon and Venus align. Catering to childlike whimsies will be especially uplifting. Youll feel more vocal and outgoing once Mars debuts in Aries this afternoon. Be selective of who you interact with, connecting only with those who fuel the fire within. Avoid boredom and seek educational pursuits to harness this energy throughout the coming weeks. Your workload may become overwhelming when Jupiter activates. Ask for help if you need it. Fight negative thoughts and explore pleasant topics under tonights quarter Moon."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-04-12",
+  "horoscope": "Slow down and tune into your needs, dearest Aquarius, as the Moon moves sweetly through your sign. Though family and friends will be eager for your attention, let them fend for themselves until you're ready to socialize. Make plans to connect when the Aries Sun aspects Luna this afternoon, elevating your mental state and opening the door to stimulating conversations. If you've been hashing out a new venture in secret, now is a good time to ask for feedback. Healing words find you while Chiron stirs this evening, alleviating uncertainties. Relish sweet moments at home once Venus aligns with Jupiter tonight."
+}
+
