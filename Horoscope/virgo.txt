@@ -457,3 +457,9 @@
   "horoscope": "Experimental wellness fads may appeal to you, dear Virgo, as the Aquarius Moon moves through your solar sixth house. These vibes are perfect for recommitting to healthy living, but you should avoid extreme practices that aren't backed by science. The desire for self-improvement expands in multiple directions once the Aries Sun and Luna align this afternoon. Determine what meaningful transformation looks like to you, plotting a path toward change that's composed of manageable steps. Healing through self-acceptance is an important piece of your journey when Chiron stirs this evening. Put some love into the world while Venus aspects Jupiter tonight."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-04-12",
+  "horoscope": "Experimental wellness fads may appeal to you, dear Virgo, as the Aquarius Moon moves through your solar sixth house. These vibes are perfect for recommitting to healthy living, but you should avoid extreme practices that aren't backed by science. The desire for self-improvement expands in multiple directions once the Aries Sun and Luna align this afternoon. Determine what meaningful transformation looks like to you, plotting a path toward change that's composed of manageable steps. Healing through self-acceptance is an important piece of your journey when Chiron stirs this evening. Put some love into the world while Venus aspects Jupiter tonight."
+}
+
