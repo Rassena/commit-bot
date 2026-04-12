@@ -475,3 +475,9 @@
   "horoscope": "It may be necessary to stretch your resources to ensure your household's needs are being met, darling Capricorn. Avoid the temptation to live outside your means while the Aquarius Moon aspects Pluto and Saturn. A review of your monthly expenses will reveal where money is wasted, and will help you feel more secure. Getting creative with what you already have can also illuminate unique skills you and family members weren't aware of. Emotional stability should also be prioritized. Enjoy some sunshine and fresh air to alleviate tension. Resist stubborn behaviors that negatively impact your relationships when Luna squares Venus tonight."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-04-12",
+  "horoscope": "You're a magnet for abundance under the Aquarius Moon, dearest Capricorn, so let the universe in on your desires. Projecting your will into the ether could result in blessings that reaffirm your faith. It's important to spread around wealth when you can, but remember that you're entitled to squirrel away funds for a rainy day as well. Revisit fond childhood memories through simple indulgences while the Sun and Luna align this afternoon. Sharing these experiences with the family you've built adds an extra layer of comfort as Chiron stirs this evening. Love inspires creative expression once Venus aspects Jupiter tonight."
+}
+
