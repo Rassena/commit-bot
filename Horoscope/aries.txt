@@ -470,3 +470,9 @@
   "horoscope": "Your career is on the rise, dearest Aries, thanks to a sweet connection between the Capricorn Moon and Venus. Unleash your inner-boss, leveraging what you can offer to ensure a better title and adequate compensation. Major gains are yours for the taking once Mars debuts in your sign this afternoon. Expect new offers to land in your path, but be selective of which ventures you commit to. Opportunities that seem too good to be true likely come with hidden costs when Jupiter activates. Youll feel the fallout of being placed in a tough position under tonights quarter moon."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-04-12",
+  "horoscope": "Immerse yourself in spaces that feel alive and inclusive, dear ram. The importance of connection is magnified while the Moon moves through Aquarius, but you'll crave activities that are slightly unconventional. Search for the artists, weirdos, and intellectuals that make your town vibrant. Consider what you can add to these circles as the Sun shines brightly in your sign. If you're an outsider looking in, determine who can help you get involved and introduce yourself. Heal insecurities and allow yourself to be seen when Chiron stirs this evening. Cap off the weekend with a decadent meal amongst family once Venus aspects Jupiter tonight."
+}
+
