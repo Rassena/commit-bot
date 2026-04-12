@@ -439,3 +439,9 @@
   "horoscope": "Affectionate vibes flow while the Capricorn Moon and Mercury align, dearest Virgo, conjuring themes around commitment. Unfortunately, it may be difficult to take your relationship to the next level when Chiron activates, especially if old wounds get in the way of building trust. Open up about past experiences with the intention of looking toward the future with optimism, as Luna aspects Uranus before entering Aquarius. Transparency will make it easier to understand and resolve your own hangups, so your partner might do the same. Choosing to establish healthier connections will reinvigorate your faith in love once Mars and Neptune stir tonight."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-04-12",
+  "horoscope": "Experimental wellness fads may appeal to you, dear Virgo, as the Aquarius Moon moves through your solar sixth house. These vibes are perfect for recommitting to healthy living, but you should avoid extreme practices that aren't backed by science. The desire for self-improvement expands in multiple directions once the Aries Sun and Luna align this afternoon. Determine what meaningful transformation looks like to you, plotting a path toward change that's composed of manageable steps. Healing through self-acceptance is an important piece of your journey when Chiron stirs this evening. Put some love into the world while Venus aspects Jupiter tonight."
+}
+
