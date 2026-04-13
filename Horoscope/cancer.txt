@@ -416,3 +416,9 @@
   "horoscope": "Major transformations are underway, dear Cancer, as the Aquarius Moon aspects Pluto and Saturn. Once you've initiated change, turning back might not be an option. Consider what is at stake without losing sight of potential gains to reinforce your decision-making process. You may be indirectly impacted by opportunities received by a significant other or close family member. Whether destiny calls for you or your partner in crime, a united front is vital for ensuring the road ahead leads to success. Keep sensitive information under wraps until more details have been settled to avoid unwelcome opinions when Luna squares Venus tonight."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-04-13",
+  "horoscope": "Allow yourself to be grand, darling Cancer. Mars and Neptune stand unified in the sector of your chart that governs success, presenting opportunities to get creative with your work. Siphon the courage to pursue dreamy ideas, and new pathways will open. The Pisces Moon adds an extra layer of luck to your endeavors, especially when you push yourself a little further than normal. Remember that sometimes greatness lies just beyond one's comfort zone. The universe may provide additional guidance or rewards once the nodes of fate stir this evening. Tap into your mystical side and follow intuitive hunches."
+}
+
