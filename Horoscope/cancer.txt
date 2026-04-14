@@ -422,3 +422,9 @@
   "horoscope": "Allow yourself to be grand, darling Cancer. Mars and Neptune stand unified in the sector of your chart that governs success, presenting opportunities to get creative with your work. Siphon the courage to pursue dreamy ideas, and new pathways will open. The Pisces Moon adds an extra layer of luck to your endeavors, especially when you push yourself a little further than normal. Remember that sometimes greatness lies just beyond one's comfort zone. The universe may provide additional guidance or rewards once the nodes of fate stir this evening. Tap into your mystical side and follow intuitive hunches."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-04-14",
+  "horoscope": "The Pisces Moon forms an enlightening aspect with Jupiter, dearest Cancer, providing extra wisdom to draw from. Your peers will also seem exceptionally brilliant, thanks to a soft connection between Mercury and Uranus. Pay attention to any conversations that stick with you, especially if they seemed strange or unconventional. Romance and luck coincide while Venus stirs, giving you and your sweetheart reasons to celebrate. If you are looking for love, now is a good time to explore dating apps. Mercury enters Aries this evening, urging you to build success by using your voice and chasing new ideas throughout the coming weeks."
+}
+
