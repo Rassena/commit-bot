@@ -463,3 +463,9 @@
   "horoscope": "Experimental wellness fads may appeal to you, dear Virgo, as the Aquarius Moon moves through your solar sixth house. These vibes are perfect for recommitting to healthy living, but you should avoid extreme practices that aren't backed by science. The desire for self-improvement expands in multiple directions once the Aries Sun and Luna align this afternoon. Determine what meaningful transformation looks like to you, plotting a path toward change that's composed of manageable steps. Healing through self-acceptance is an important piece of your journey when Chiron stirs this evening. Put some love into the world while Venus aspects Jupiter tonight."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-04-14",
+  "horoscope": "Let loved ones take care of you as the Pisces Moon and Jupiter align. The help you receive will strengthen camaraderie and bring more harmony to your life. A spiritual charge cranks up romantic chemistry while Mercury aspects Uranus. Dont be surprised if you feel physically connected with your sweetheart, often thinking or saying the same thing at the same time. Share your dreams with someone who will encourage you to chase them when Venus stirs, and consider asking the universe for guidance. Watch for subtle signs that major change is on the way once Mercury debuts in Aries tonight."
+}
+
