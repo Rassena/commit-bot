@@ -514,3 +514,9 @@
   "horoscope": "Your interactions will feel sweet yet grown-up, dearest Scorpio, as the Capricorn Moon aspects Venus. Perceptions around love also evolve, helping you select smarter matches. Your daily life grows exceptionally busy throughout the coming weeks after Mars enters Aries this afternoon. Taking good care of yourself becomes increasingly important as new projects and responsibilities emerge. Connect with your spirituality, make a wish, and watch for signs to guide you once Jupiter stirs. You could grow flustered under tonights quarter Moon when unexpected tasks are suddenly thrust at your feet. If youre already at your limit, dont hesitate to decline work youre not equipped to take on."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-04-14",
+  "horoscope": "The Pisces Moon and Jupiter collaborate to open your heart, dearest Scorpio. Bulldoze emotional walls that were erected to keep others from seeing your vulnerable side. Owning your authentic self will be met with validation as Mercury and Uranus align. You may even discover that you have more in common with loved ones than previously thought. Creative pursuits give you a charismatic allure while Venus is activated. Youll also have a chance to beautify existing work, hoisting projects to new levels of brilliance. Youll be inspired to seek learning opportunities that can refine your skills and provide practical knowledge once Mercury enters Aries tonight."
+}
+
