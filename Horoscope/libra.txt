@@ -413,3 +413,9 @@
   "horoscope": "Surround yourself with dreamers, darling Libra, as Mars and Neptune unite in Aries. Passion, creativity, and optimism will be contagious, especially while in the presence of good company. Indulging artistic visions with a significant other can reinvigorate even the most established relationships. If your connection needs some excitement, seek adventure. No matter your relationship status, take initiative on plans youve cooked up but havent followed through with. The Pisces Moon amplifies your sense of camaraderie when responsibilities are shared and teamwork is prioritized. Pamper the body to release internalized stress once the nodes of fate activate this evening."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-04-14",
+  "horoscope": "Pursue aspirations or projects you can emotionally get behind, dearest Libra, as the Pisces Moon and Jupiter connect. Building up solid connections with teammates you often work alongside should also be a priority. Give your mind a challenge by experimenting with unfamiliar techniques or topics while Mercury aspects Uranus. This celestial exchange provides the mental fortitude to sever ties with unhealthy habits, situations, or people. Put your wellness needs first as Luna and Venus share a connection just before afternoon rolls in. Playful banter heats up your love life throughout the coming weeks once Mercury enters Aries tonight."
+}
+
