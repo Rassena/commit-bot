@@ -440,3 +440,9 @@
   "horoscope": "Ideas you've been playing with come together while Mars and Neptune unite, bold lion. These vibes provide the springboard necessary to confidently take leaps of faith. The shifts you experience may leave you feeling somewhat adrift, but these feelings will only inspire you to fight harder for your dreams. If you need guidance or encouragement, turn to your spirituality. The Pisces Moon helps you identify what to release along the way. Shed beliefs, emotions, or goals you've outgrown to make more space for the next stage of your life when the nodes of fate stir this evening."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-04-14",
+  "horoscope": "Fiercely venture into the unknown, fire lion, as the Pisces Moon and Jupiter connect. Clear away unnecessary burdens, projects, or emotions to create space for more empowering ones. Major changes at work could propel you toward a sweet deal or a higher position while Mercury and Uranus align. If you are in the midst of negotiations, throwing in a curveball can help you get exactly what you want. Consider how love fits into your long-term plans once Venus activates. If youre in a relationship, check in with your partner to make sure youre on the same page. A spiritual awakening kicks off this evening when Mercury enters Aries."
+}
+
