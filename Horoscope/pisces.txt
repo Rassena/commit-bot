@@ -408,3 +408,9 @@
   "horoscope": "Embrace your extroverted side as the Moon moves through your sign, darling Pisces. An auspicious aspect with Jupiter suggests that lucky developments can emerge if you move with confidence. Exciting news could find you when Mercury and Uranus align. Youll also benefit from a boost in genius and critical thinking skills. Focus on goals that are important to make the most of these vibes. Flirty encounters put a pep in your step while Venus is activated. Smart financial decisions lead to rewards throughout the coming weeks once Mercury enters Aries tonight. This planetary shift highlights the importance of developing ideas or knowledge as well."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-04-14",
+  "horoscope": "Embrace your extroverted side as the Moon moves through your sign, darling Pisces. An auspicious aspect with Jupiter suggests that lucky developments can emerge if you move with confidence. Exciting news could find you when Mercury and Uranus align. Youll also benefit from a boost in genius and critical thinking skills. Focus on goals that are important to make the most of these vibes. Flirty encounters put a pep in your step while Venus is activated. Smart financial decisions lead to rewards throughout the coming weeks once Mercury enters Aries tonight. This planetary shift highlights the importance of developing ideas or knowledge as well."
+}
+
