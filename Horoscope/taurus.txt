@@ -338,3 +338,9 @@
   "horoscope": "Break down walls you've built around yourself, dearest Taurus, as the Aquarius Moon aspects Pluto and Saturn. You'll become increasingly aware of how limiting isolation can be, with a desire to reestablish any notoriety you've lost while avoiding the spotlight. Even if you're more comfortable operating behind the scenes, your talents will go to waste if you refuse to showcase your efforts and take credit for them. Separate what you're proud of from that which makes you feel vulnerable to effectively curate your public image. Be open to praise and affection when Luna squares Venus tonight, fighting impulses that push you underground."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-04-14",
+  "horoscope": "Recognize the necessity of self-promotion in the digital age, darling Taurus. Channel the tools and connections at your disposal toward network expansion as the Pisces Moon aspects Jupiter and Venus. Dont be discouraged if your specific flavor isnt everyones cup of tea. Be yourself while owning your intentions, and the right people will cross your path. A soft aspect between Mercury and Uranus emphasizes the importance of honoring your truth and desires. Consider how projecting certain thoughts into the world might make it easier to attract exactly what you need. Do some soul-searching and close chapters once Mercury debuts in Aries."
+}
+
