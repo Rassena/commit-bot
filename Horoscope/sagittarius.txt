@@ -527,3 +527,9 @@
   "horoscope": "Improving your skills highlights your natural talents, darling archer. Think critically about how you can produce refined work while the Aquarius Moon aspects Pluto and Saturn. Your eye sharpens when you embrace the editing process, making it easier to remove superfluous details that take away from your message. If you're hoping to advance even further, it might be wise to seek a mentor. Sharing your own knowledge with someone less experienced will also help you see basic principles in a new light. Give your mind a rest and focus on what the body needs once Luna squares Venus tonight."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-04-15",
+  "horoscope": "Enjoy a healthy treat to improve endurance and focus this morning, dear archer, as the Pisces Moon and Uranus align. You'll need plenty of energy to keep up with the demands of your social life and personal goals once Luna enters Aries and unites with Mercury. Your aura is infused with dreamlike vibrancy while Neptune activates this afternoon, and people will be drawn to your light. Show that there is substance beyond the surface when Mars and Pluto stir later today. Put your exceptional intellect and artistic brilliance on display to fully relish these attention-grabbing vibes. Saturn stirs tonight, asking you to consider how passions can be channeled more productively."
+}
+
