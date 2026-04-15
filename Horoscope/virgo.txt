@@ -469,3 +469,9 @@
   "horoscope": "Let loved ones take care of you as the Pisces Moon and Jupiter align. The help you receive will strengthen camaraderie and bring more harmony to your life. A spiritual charge cranks up romantic chemistry while Mercury aspects Uranus. Dont be surprised if you feel physically connected with your sweetheart, often thinking or saying the same thing at the same time. Share your dreams with someone who will encourage you to chase them when Venus stirs, and consider asking the universe for guidance. Watch for subtle signs that major change is on the way once Mercury debuts in Aries tonight."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-04-15",
+  "horoscope": "Cheer on loved ones who are thriving as the Pisces Moon and Uranus align this morning, dear Virgo, and their luck may rub off on you. Enter the day with a clear head, and prepare to make many decisions. As Luna debuts in Aries and your solar eighth house, even small choices can have major impacts. Weigh your options fully without veering into obsessive territory while Mercury, Neptune, and Mars activate throughout the afternoon. It might be necessary to trade in one dream for another, and you'll want to consider what's most important to you. New realities and responsibilities set in once Saturn stirs tonight."
+}
+
