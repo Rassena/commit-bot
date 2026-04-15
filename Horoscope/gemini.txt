@@ -498,3 +498,9 @@
   "horoscope": "A sweet and intimate energy surrounds you early this morning, dearest Gemini, as the Capricorn Moon and Venus align. These vibes are perfect for sharing your hopes and dreams with someone special, encouraging them to do the same. When you nourish partnerships that are mutually encouraging, the chances that youll both succeed improve. Dont be afraid to rely on your community throughout the coming weeks once Mars enters Aries this afternoon. However, youll need to be proactive about returning any favors you are granted. Rein in your spending when Jupiter activates, especially if debt hangs over you. Steer clear of toxic social media feeds and emotionally unsafe places under tonights quarter Moon."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-04-15",
+  "horoscope": "Obstacles may clear on their own in a surprising turn of events, dearest Gemini, thanks to a sweet aspect between The Pisces Moon and Uranus. With these burdens suddenly lifted, you'll have more time to focus on socializing. Enjoy the ease of connecting via technological devices once Luna enters Aries and unites with Mercury. Take a walk through your neighborhood to avoid screen fatigue when Neptune and Mars activate later today. These vibes are also perfect for making impromptu plans to link up with friends. Maintain your composure while the evening unfolds and Saturn activates, as you could encounter an influential colleague or a strong law enforcement presence."
+}
+
