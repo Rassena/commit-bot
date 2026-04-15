@@ -414,3 +414,9 @@
   "horoscope": "Embrace your extroverted side as the Moon moves through your sign, darling Pisces. An auspicious aspect with Jupiter suggests that lucky developments can emerge if you move with confidence. Exciting news could find you when Mercury and Uranus align. Youll also benefit from a boost in genius and critical thinking skills. Focus on goals that are important to make the most of these vibes. Flirty encounters put a pep in your step while Venus is activated. Smart financial decisions lead to rewards throughout the coming weeks once Mercury enters Aries tonight. This planetary shift highlights the importance of developing ideas or knowledge as well."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-04-15",
+  "horoscope": "Luna showers you with ingenious ideas this morning, dearest Pisces, aligning with Uranus before exiting your sign. Take a thoughtful and patient approach toward manifesting your visions once the Moon and Mercury unite in Aries. Additional insights emerge while Neptune stirs this afternoon, adding new layers of finesse and vibrancy to your objective. Mars and Pluto assist with putting aspirations into motion later today. Free yourself from distraction and work in private to maximize these energizing vibes. Reassess your progress when Saturn activates tonight, outlining a reasonable and sustainable timeline for bringing recent projects to a completion."
+}
+
