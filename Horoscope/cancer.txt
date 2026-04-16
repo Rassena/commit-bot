@@ -428,3 +428,9 @@
   "horoscope": "The Pisces Moon forms an enlightening aspect with Jupiter, dearest Cancer, providing extra wisdom to draw from. Your peers will also seem exceptionally brilliant, thanks to a soft connection between Mercury and Uranus. Pay attention to any conversations that stick with you, especially if they seemed strange or unconventional. Romance and luck coincide while Venus stirs, giving you and your sweetheart reasons to celebrate. If you are looking for love, now is a good time to explore dating apps. Mercury enters Aries this evening, urging you to build success by using your voice and chasing new ideas throughout the coming weeks."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-04-16",
+  "horoscope": "Honor your resilience and stay focused on the path ahead, dearest Cancer. As the Aries Sun and Chiron unite, it's important to show up for yourself and reach for more. A final push may be all you need to hit major milestones while Mars aspects Pluto. Don't be afraid of change if it will have a positive impact. Don't let others take advantage of your good nature once Luna squares Jupiter this afternoon, especially if you're busy tending to your own needs or responsibilities. Offer wise advice in lieu of active favors when Mercury cozies up with Neptune this evening."
+}
+
