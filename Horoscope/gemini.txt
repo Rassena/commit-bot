@@ -504,3 +504,9 @@
   "horoscope": "Obstacles may clear on their own in a surprising turn of events, dearest Gemini, thanks to a sweet aspect between The Pisces Moon and Uranus. With these burdens suddenly lifted, you'll have more time to focus on socializing. Enjoy the ease of connecting via technological devices once Luna enters Aries and unites with Mercury. Take a walk through your neighborhood to avoid screen fatigue when Neptune and Mars activate later today. These vibes are also perfect for making impromptu plans to link up with friends. Maintain your composure while the evening unfolds and Saturn activates, as you could encounter an influential colleague or a strong law enforcement presence."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-04-16",
+  "horoscope": "Try to view the world in a positive light, dearest Gemini, as the Sun and Chiron unite. Finding kindness and beauty in others will make it easier to see it in yourself. Personal philosophies evolve when Mars and Pluto align. Explore ideologies you're not familiar with to expand your own. These vibes are also perfect for planning an adventure with friends in the near future. Social media and busy environments could feel overwhelming once the Aries Moon squares Jupiter this afternoon. Get some fresh air and indulge the senses if you need to recalibrate. Mercury and Neptune heighten your psychic sensitivities this evening, and time spent with inspiring people can have an elevating effect."
+}
+
