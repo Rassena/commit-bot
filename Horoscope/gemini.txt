@@ -516,3 +516,9 @@
   "horoscope": "Pursue connection under this morning's Aries New Moon, dearest Gemini. These vibes are perfect for exploring unfamiliar social scenes by making introductions or accepting invitations to branch out. You'll shift gears quickly once Luna enters Taurus, and you will relish the thought of a quiet weekend alone. Make time for yourself, but avoid prolonged isolation. You'll be intrigued by ancient histories, unsolved mysteries, and spiritual development when Pluto activates this evening. Enjoy a deep dive into topics you find alluring, but notice if thoughts turn obsessive. Fresh aspirations could begin to stir while the nodes of fate activate tonight."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-04-17",
+  "horoscope": "Pursue connection under this morning's Aries New Moon, dearest Gemini. These vibes are perfect for exploring unfamiliar social scenes by making introductions or accepting invitations to branch out. You'll shift gears quickly once Luna enters Taurus, and you will relish the thought of a quiet weekend alone. Make time for yourself, but avoid prolonged isolation. You'll be intrigued by ancient histories, unsolved mysteries, and spiritual development when Pluto activates this evening. Enjoy a deep dive into topics you find alluring, but notice if thoughts turn obsessive. Fresh aspirations could begin to stir while the nodes of fate activate tonight."
+}
+
