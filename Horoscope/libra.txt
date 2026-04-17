@@ -419,3 +419,9 @@
   "horoscope": "Pursue aspirations or projects you can emotionally get behind, dearest Libra, as the Pisces Moon and Jupiter connect. Building up solid connections with teammates you often work alongside should also be a priority. Give your mind a challenge by experimenting with unfamiliar techniques or topics while Mercury aspects Uranus. This celestial exchange provides the mental fortitude to sever ties with unhealthy habits, situations, or people. Put your wellness needs first as Luna and Venus share a connection just before afternoon rolls in. Playful banter heats up your love life throughout the coming weeks once Mercury enters Aries tonight."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-04-17",
+  "horoscope": "Give more energy to your romantic goals, darling Libra, as the Aries New Moon supercharges your solar sixth house. Steps taken to improve relationships or find a mate will have a significant impact throughout the next six months. Personal empowerment plays a huge role in your ability to establish healthy commitments once Luna enters Taurus. Begin this journey internally by making room for change and negotiation. Inflated egos could stir up drama when Pluto grows restless this evening. Remember that you don't have to engage in battle if you're not in the mood to fight. Clear away tension by tidying up or tending to your health while the nodes of fate activate tonight."
+}
+
