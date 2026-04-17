@@ -425,3 +425,9 @@
   "horoscope": "Give more energy to your romantic goals, darling Libra, as the Aries New Moon supercharges your solar sixth house. Steps taken to improve relationships or find a mate will have a significant impact throughout the next six months. Personal empowerment plays a huge role in your ability to establish healthy commitments once Luna enters Taurus. Begin this journey internally by making room for change and negotiation. Inflated egos could stir up drama when Pluto grows restless this evening. Remember that you don't have to engage in battle if you're not in the mood to fight. Clear away tension by tidying up or tending to your health while the nodes of fate activate tonight."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-04-17",
+  "horoscope": "Give more energy to your romantic goals, darling Libra, as the Aries New Moon supercharges your solar sixth house. Steps taken to improve relationships or find a mate will have a significant impact throughout the next six months. Personal empowerment plays a huge role in your ability to establish healthy commitments once Luna enters Taurus. Begin this journey internally by making room for change and negotiation. Inflated egos could stir up drama when Pluto grows restless this evening. Remember that you don't have to engage in battle if you're not in the mood to fight. Clear away tension by tidying up or tending to your health while the nodes of fate activate tonight."
+}
+
