@@ -510,3 +510,9 @@
   "horoscope": "Try to view the world in a positive light, dearest Gemini, as the Sun and Chiron unite. Finding kindness and beauty in others will make it easier to see it in yourself. Personal philosophies evolve when Mars and Pluto align. Explore ideologies you're not familiar with to expand your own. These vibes are also perfect for planning an adventure with friends in the near future. Social media and busy environments could feel overwhelming once the Aries Moon squares Jupiter this afternoon. Get some fresh air and indulge the senses if you need to recalibrate. Mercury and Neptune heighten your psychic sensitivities this evening, and time spent with inspiring people can have an elevating effect."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-04-17",
+  "horoscope": "Pursue connection under this morning's Aries New Moon, dearest Gemini. These vibes are perfect for exploring unfamiliar social scenes by making introductions or accepting invitations to branch out. You'll shift gears quickly once Luna enters Taurus, and you will relish the thought of a quiet weekend alone. Make time for yourself, but avoid prolonged isolation. You'll be intrigued by ancient histories, unsolved mysteries, and spiritual development when Pluto activates this evening. Enjoy a deep dive into topics you find alluring, but notice if thoughts turn obsessive. Fresh aspirations could begin to stir while the nodes of fate activate tonight."
+}
+
