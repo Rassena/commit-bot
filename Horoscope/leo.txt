@@ -446,3 +446,9 @@
   "horoscope": "Fiercely venture into the unknown, fire lion, as the Pisces Moon and Jupiter connect. Clear away unnecessary burdens, projects, or emotions to create space for more empowering ones. Major changes at work could propel you toward a sweet deal or a higher position while Mercury and Uranus align. If you are in the midst of negotiations, throwing in a curveball can help you get exactly what you want. Consider how love fits into your long-term plans once Venus activates. If youre in a relationship, check in with your partner to make sure youre on the same page. A spiritual awakening kicks off this evening when Mercury enters Aries."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-04-18",
+  "horoscope": "Love should inspire positive change, sweet lion. Appreciate those who have helped you evolve and expand while Mercury and Pluto form a soft aspect. Recognize your role in propelling others along their path without veering from your own. Reflect in private when the Taurus Moon aligns with Jupiter this afternoon. Focus on how you might cultivate more abundance, peace, and joy internally. After you create these support networks for yourself, there will be extra to share with loved ones. Power couple vibes flow later tonight once Luna and Venus unite, marking the ideal time to discuss your hopes and dreams with someone special."
+}
+
