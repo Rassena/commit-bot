@@ -482,3 +482,9 @@
   "horoscope": "Youre reminded of your own wisdom and the power of positive thinking, darling ram, as the Pisces Moon aligns with Jupiter and Venus. Brainstorming sessions can help with problem-solving or overcoming hang-ups that have led to stagnation. It may feel as though your thoughts are reflected in the material realms while Mercury and Uranus share a soft connection. Synchronicities can indicate a boost in manifestation skills. When coincidences arise, harness the energy by making a little wish. Take a more public approach to bringing your ideas to life throughout the coming weeks once Mercury enters your sign tonight."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-04-18",
+  "horoscope": "Youre a hot commodity today, dearest Aries, thanks to a soft aspect between Mercury and Pluto. Recent power moves and transformations will have earned you the respect of peers, some of whom might be quite influential. When you see an opportunity to establish connections in high places, make a move while owning what you bring to the table. An ability to read nuance benefits you when the Taurus Moon aspects Jupiter this afternoon. Romance your senses later tonight once Luna and Venus get cozy. If youre in a relationship, go out of your way to spoil your sweetheart with love and meaningful gestures."
+}
+
