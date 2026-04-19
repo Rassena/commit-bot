@@ -434,3 +434,9 @@
   "horoscope": "Honor your resilience and stay focused on the path ahead, dearest Cancer. As the Aries Sun and Chiron unite, it's important to show up for yourself and reach for more. A final push may be all you need to hit major milestones while Mars aspects Pluto. Don't be afraid of change if it will have a positive impact. Don't let others take advantage of your good nature once Luna squares Jupiter this afternoon, especially if you're busy tending to your own needs or responsibilities. Offer wise advice in lieu of active favors when Mercury cozies up with Neptune this evening."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-04-19",
+  "horoscope": "Score karma points by making an altruistic wish or performing good deeds, dearest Cancer, as the Taurus Moon and Uranus align. Just try not to get too caught up in societal issues once Luna enters Gemini, or it will be difficult to focus. Take control of your life and dream big while Neptune stirs midafternoon. Mars and Saturn unite to reinforce your goals, but you'll need to find a strategy that is both aggressive and sustainable. If you've been cutting yourself too much slack, make meaningful changes when Pluto activates. Financial opportunities and networking coincide after the Sun debuts in Taurus tonight."
+}
+
