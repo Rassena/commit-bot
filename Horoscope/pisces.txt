@@ -426,3 +426,9 @@
   "horoscope": "The Aries Sun and Chiron collaborate to reveal how your emotions impact your finances and vice versa, dearest Pisces. Whether you're overly indulgent or struggle with the idea of treating yourself, work with this energy by addressing your relationship to luxury. You'll perk up when Mars and Pluto form a playful aspect, inspiring you to invest in major goals from behind the scenes. Whatever you're cooking up, keep it under wraps for now. Validate yourself without inflating the ego once Luna and Jupiter square off this afternoon. Surreal vibes surround you while Mercury aspects Neptune this evening, helping you connect with your senses in new and romantic ways."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-04-20",
+  "horoscope": "You're ultra sensitive to other people's energy under the Gemini Moon, and should be mindful of who you spend time with. When work, school, or tasks force you out of your comfort zone, it's important to take care of yourself. Use a reward system to stay engaged and on track, sweet Pisces. Indulge in simple pleasures and brief moments of relaxation whenever a milestone has been reached. Remember that it's okay to move at your own pace, even if stress starts to creep in. Mercury, Saturn, and Mars unite to reinforce your journey, encouraging you to manifest with ease."
+}
+
