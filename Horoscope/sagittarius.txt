@@ -533,3 +533,9 @@
   "horoscope": "Enjoy a healthy treat to improve endurance and focus this morning, dear archer, as the Pisces Moon and Uranus align. You'll need plenty of energy to keep up with the demands of your social life and personal goals once Luna enters Aries and unites with Mercury. Your aura is infused with dreamlike vibrancy while Neptune activates this afternoon, and people will be drawn to your light. Show that there is substance beyond the surface when Mars and Pluto stir later today. Put your exceptional intellect and artistic brilliance on display to fully relish these attention-grabbing vibes. Saturn stirs tonight, asking you to consider how passions can be channeled more productively."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-04-20",
+  "horoscope": "Flirtatious encounters pepper your day, darling Archer, as the Gemini Moon stirs up romance. Be mindful of how much energy you expend on others, especially if you don't feel a genuine connection. It's natural to enjoy affection when it is given, but working on yourself will lead to more enriching relationships down the line. As Mercury, Saturn, and Mars unite in your solar fifth house, prioritize commitments you've made to yourself. Building intellect, sharpening talents, and exploring passions brings vibrancy to your heart and aura. Nurturing interests sends signals into the universe, helping you attract friends or mates who operate on your wavelength."
+}
+
