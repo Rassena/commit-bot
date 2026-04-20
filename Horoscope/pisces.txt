@@ -432,3 +432,9 @@
   "horoscope": "You're ultra sensitive to other people's energy under the Gemini Moon, and should be mindful of who you spend time with. When work, school, or tasks force you out of your comfort zone, it's important to take care of yourself. Use a reward system to stay engaged and on track, sweet Pisces. Indulge in simple pleasures and brief moments of relaxation whenever a milestone has been reached. Remember that it's okay to move at your own pace, even if stress starts to creep in. Mercury, Saturn, and Mars unite to reinforce your journey, encouraging you to manifest with ease."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-04-20",
+  "horoscope": "You're ultra sensitive to other people's energy under the Gemini Moon, and should be mindful of who you spend time with. When work, school, or tasks force you out of your comfort zone, it's important to take care of yourself. Use a reward system to stay engaged and on track, sweet Pisces. Indulge in simple pleasures and brief moments of relaxation whenever a milestone has been reached. Remember that it's okay to move at your own pace, even if stress starts to creep in. Mercury, Saturn, and Mars unite to reinforce your journey, encouraging you to manifest with ease."
+}
+
