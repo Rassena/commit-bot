@@ -440,3 +440,9 @@
   "horoscope": "Score karma points by making an altruistic wish or performing good deeds, dearest Cancer, as the Taurus Moon and Uranus align. Just try not to get too caught up in societal issues once Luna enters Gemini, or it will be difficult to focus. Take control of your life and dream big while Neptune stirs midafternoon. Mars and Saturn unite to reinforce your goals, but you'll need to find a strategy that is both aggressive and sustainable. If you've been cutting yourself too much slack, make meaningful changes when Pluto activates. Financial opportunities and networking coincide after the Sun debuts in Taurus tonight."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-04-20",
+  "horoscope": "It may feel as if you're being pulled in various directions, darling Cancer. Try not to overthink your options while the Gemini Moon splits hairs in your solar twelfth house. Though it's important to gauge potential outcomes before choosing a path, you'll know you've gone too far if task paralysis sets in. Luckily, Mercury joins forces with Saturn and Mars to strengthen your backbone and assist with making moves. When in doubt, consider how time-consuming, risky, or exciting any given venture is and what you need more of in your life. If you continue to struggle, prioritize choices that can offer success or valuable experiences."
+}
+
