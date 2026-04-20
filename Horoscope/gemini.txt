@@ -528,3 +528,9 @@
   "horoscope": "The Moon glides joyfully through your sign, dearest Gemini, free of input from other celestial bodies. You'll navigate the world in a similar fashion, with no one around telling you what to do. Lean into this rare and freeing energy by celebrating your unfiltered self. Peers will find your lack of inhibition quite impressive while Mercury aspects Saturn and Mars. Expect your actions to make a stir, being mindful of how you wish to be seen. When curating your image, focus on traits you admire in others. Rather than attempting to reproduce these mannerisms, match them without compromising authenticity."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-04-20",
+  "horoscope": "The Moon glides joyfully through your sign, dearest Gemini, free of input from other celestial bodies. You'll navigate the world in a similar fashion, with no one around telling you what to do. Lean into this rare and freeing energy by celebrating your unfiltered self. Peers will find your lack of inhibition quite impressive while Mercury aspects Saturn and Mars. Expect your actions to make a stir, being mindful of how you wish to be seen. When curating your image, focus on traits you admire in others. Rather than attempting to reproduce these mannerisms, match them without compromising authenticity."
+}
+
