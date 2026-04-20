@@ -520,3 +520,9 @@
   "horoscope": "The Pisces Moon and Jupiter collaborate to open your heart, dearest Scorpio. Bulldoze emotional walls that were erected to keep others from seeing your vulnerable side. Owning your authentic self will be met with validation as Mercury and Uranus align. You may even discover that you have more in common with loved ones than previously thought. Creative pursuits give you a charismatic allure while Venus is activated. Youll also have a chance to beautify existing work, hoisting projects to new levels of brilliance. Youll be inspired to seek learning opportunities that can refine your skills and provide practical knowledge once Mercury enters Aries tonight."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-04-20",
+  "horoscope": "The Gemini Moon brings out your inner smartypants, inspiring you to share information, trivia, and tidbits. However, it's important to find value in what others are saying as well, beloved scorpion. A desire to appear strong and educated makes it difficult to ask questions, but staying silent hinders growth. Luckily, Mercury, Saturn, and Mars join forces to level the playing field and promote teamwork. This heavenly trio acts as a reminder that you don't have to be an expert on every topic. Feel proud of what you bring to the table, but draw on the intellectual resources others can provide. Your perception will evolve, and peers will appreciate the chance to impart knowledge."
+}
+
