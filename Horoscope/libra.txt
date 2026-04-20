@@ -431,3 +431,9 @@
   "horoscope": "Give more energy to your romantic goals, darling Libra, as the Aries New Moon supercharges your solar sixth house. Steps taken to improve relationships or find a mate will have a significant impact throughout the next six months. Personal empowerment plays a huge role in your ability to establish healthy commitments once Luna enters Taurus. Begin this journey internally by making room for change and negotiation. Inflated egos could stir up drama when Pluto grows restless this evening. Remember that you don't have to engage in battle if you're not in the mood to fight. Clear away tension by tidying up or tending to your health while the nodes of fate activate tonight."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-04-20",
+  "horoscope": "You'll play well off others under the Gemini Moon, dear Libra. Make it a point to go further in your exchanges. Veer away from standard small talk to cultivate more meaningful interactions. The connection you experience will boost morale and leave you with interesting tidbits to mull over. Meanwhile, Mercury unites with Saturn and Mars to echo these sentiments, underscoring close relationships. It might seem as though there's not much left to learn about your significant other or best buds, but there surely is. Grab your partner and seek challenging, exciting, or unfamiliar activities. While outside of your comfort zones, you'll both discover something new about the other."
+}
+
