@@ -475,3 +475,9 @@
   "horoscope": "Cheer on loved ones who are thriving as the Pisces Moon and Uranus align this morning, dear Virgo, and their luck may rub off on you. Enter the day with a clear head, and prepare to make many decisions. As Luna debuts in Aries and your solar eighth house, even small choices can have major impacts. Weigh your options fully without veering into obsessive territory while Mercury, Neptune, and Mars activate throughout the afternoon. It might be necessary to trade in one dream for another, and you'll want to consider what's most important to you. New realities and responsibilities set in once Saturn stirs tonight."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-04-20",
+  "horoscope": "The Gemini Moon travels through the sector of your chart that governs time, discipline, and professional aspirations. These vibes help you excel at multitasking, though you may find yourself in need of companionship. While climbing higher and higher toward success, you'll notice a decline in familiar faces. Recognize if you've outgrown certain friendships, or if career obsessions have grown isolating. It is normal to curate a smaller social sphere as the years pass. Unfortunately, intimate relationships will dwindle if left neglected. Reinvest in yourself and your connections by nurturing loyal comrades as Mercury unites with Saturn and Mars throughout the day."
+}
+
