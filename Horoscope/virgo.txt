@@ -481,3 +481,9 @@
   "horoscope": "The Gemini Moon travels through the sector of your chart that governs time, discipline, and professional aspirations. These vibes help you excel at multitasking, though you may find yourself in need of companionship. While climbing higher and higher toward success, you'll notice a decline in familiar faces. Recognize if you've outgrown certain friendships, or if career obsessions have grown isolating. It is normal to curate a smaller social sphere as the years pass. Unfortunately, intimate relationships will dwindle if left neglected. Reinvest in yourself and your connections by nurturing loyal comrades as Mercury unites with Saturn and Mars throughout the day."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-04-21",
+  "horoscope": "It's time to move on from situations or relationships that have nowhere else to go, dearest Virgo. As the Gemini Moon aspects Chiron, bittersweet farewells open you to a world of new possibilities. Activate the social-butterfly within once Luna debuts in Cancer, forming a sweet connection with the Taurus Sun this afternoon. Enlightening conversations could trigger your next great idea or exciting ventures. Be considerate and offer up any information you believe others might benefit from. Neptune stirs up a deceptive energy midafternoon, so be mindful of who you trust. Watch out for power grabs when Saturn grows agitated tonight."
+}
+
