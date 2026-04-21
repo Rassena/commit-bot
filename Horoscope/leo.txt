@@ -470,3 +470,9 @@
   "horoscope": "Be mindful of the impact technology has on your spirituality and sense of mindfulness, darling Leo. As the Gemini Moon aspects Chiron before entering Cancer, it's important to consider what a reasonable amount of screen time looks like. If you start to zone out or disconnect, remember to pull back and indulge your mystical side. Focus on creating new structures that support enlightenment and professional aspirations when the Taurus Sun and Luna align this afternoon. Meditate on how these realms intercede while Neptune and Saturn stir later today, using positive affirmations or visualization techniques to dream up fresh goals."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-04-21",
+  "horoscope": "Be mindful of the impact technology has on your spirituality and sense of mindfulness, darling Leo. As the Gemini Moon aspects Chiron before entering Cancer, it's important to consider what a reasonable amount of screen time looks like. If you start to zone out or disconnect, remember to pull back and indulge your mystical side. Focus on creating new structures that support enlightenment and professional aspirations when the Taurus Sun and Luna align this afternoon. Meditate on how these realms intercede while Neptune and Saturn stir later today, using positive affirmations or visualization techniques to dream up fresh goals."
+}
+
