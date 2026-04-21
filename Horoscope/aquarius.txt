@@ -458,3 +458,9 @@
   "horoscope": "Slow down and tune into your needs, dearest Aquarius, as the Moon moves sweetly through your sign. Though family and friends will be eager for your attention, let them fend for themselves until you're ready to socialize. Make plans to connect when the Aries Sun aspects Luna this afternoon, elevating your mental state and opening the door to stimulating conversations. If you've been hashing out a new venture in secret, now is a good time to ask for feedback. Healing words find you while Chiron stirs this evening, alleviating uncertainties. Relish sweet moments at home once Venus aligns with Jupiter tonight."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-04-21",
+  "horoscope": "Don't dismiss any compliments or positive reinforcement you receive this morning, darling Aquarius. Everyone is entitled to the occasional ego boost. As the Gemini Moon aspects Chiron before entering Cancer, accepting praise will improve productivity and the quality of work you produce. While riding the high these vibes provide, add a few wellness practices to your task rotation. The energy will be exceptionally grounding and nurturing once the Taurus Sun activates this afternoon. Just try not to get too carried away with sweetness when Luna squares Neptune and Saturn, or you might stagger off course and be forced to catch up later."
+}
+
