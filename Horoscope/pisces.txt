@@ -438,3 +438,9 @@
   "horoscope": "You're ultra sensitive to other people's energy under the Gemini Moon, and should be mindful of who you spend time with. When work, school, or tasks force you out of your comfort zone, it's important to take care of yourself. Use a reward system to stay engaged and on track, sweet Pisces. Indulge in simple pleasures and brief moments of relaxation whenever a milestone has been reached. Remember that it's okay to move at your own pace, even if stress starts to creep in. Mercury, Saturn, and Mars unite to reinforce your journey, encouraging you to manifest with ease."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-04-21",
+  "horoscope": "The Gemini Moon and Chiron create a grounding energy this morning, darling Pisces, beautifying your space and instilling a sense of gratitude. Show up for yourself once Luna debuts in Cancer, boosting creativity and confidence. Spring into action to manifest personal goals, trusting that your instincts will kick in along the way. The Taurus Sun presents you with learning opportunities this afternoon. When challenges arise, take a deep breath and clear your mind so inspiration may strike. Try not to overestimate or underestimate the value you bring to the table while Luna squares Neptune and Saturn. Appreciate where you sign, but understand where experience is needed."
+}
+
