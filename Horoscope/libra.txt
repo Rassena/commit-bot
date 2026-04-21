@@ -437,3 +437,9 @@
   "horoscope": "You'll play well off others under the Gemini Moon, dear Libra. Make it a point to go further in your exchanges. Veer away from standard small talk to cultivate more meaningful interactions. The connection you experience will boost morale and leave you with interesting tidbits to mull over. Meanwhile, Mercury unites with Saturn and Mars to echo these sentiments, underscoring close relationships. It might seem as though there's not much left to learn about your significant other or best buds, but there surely is. Grab your partner and seek challenging, exciting, or unfamiliar activities. While outside of your comfort zones, you'll both discover something new about the other."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-04-21",
+  "horoscope": "Though it can be painful to admit when you're wrong, accountability plays an important role in maintaining healthy relationships. A sweet connection between the Gemini Moon and Chiron offers encouragement, making it easier to apologize and forgive. You'll feel emotionally elevated and prepared to take on professional hurdles once Luna debuts in Cancer. Keep an eye out for negotiation opportunities or valuable partnerships as the Taurus Sun showers you with prosperous vibes this afternoon. Beware of bad advice while Neptune and Saturn activate later today, stirring up mixed signals. Optimistic sentiments and overly critical reviews can both do serious damage if taken to an extreme."
+}
+
