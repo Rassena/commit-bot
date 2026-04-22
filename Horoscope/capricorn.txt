@@ -523,3 +523,9 @@
   "horoscope": "Relationship imbalances could trigger big emotions, dearest Capricorn, due to harsh aspects between the Cancer Moon, Mars, and Mercury. You'll feel determined to address unmet needs, but choose your timing wisely. Speaking up while wound up might skew your perspective, making it difficult to see your companion's point of view. Feeling sorry for yourself also creates a lapse in judgment, causing you to pick up on nonexistent issues. Focus on self-care and determine whether you're dealing with a lack of rest or heightened stress. Loved ones will show up for you once Luna and Jupiter unite later today, alleviating negative feelings you struggled with earlier."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-04-22",
+  "horoscope": "Relationship imbalances could trigger big emotions, dearest Capricorn, due to harsh aspects between the Cancer Moon, Mars, and Mercury. You'll feel determined to address unmet needs, but choose your timing wisely. Speaking up while wound up might skew your perspective, making it difficult to see your companion's point of view. Feeling sorry for yourself also creates a lapse in judgment, causing you to pick up on nonexistent issues. Focus on self-care and determine whether you're dealing with a lack of rest or heightened stress. Loved ones will show up for you once Luna and Jupiter unite later today, alleviating negative feelings you struggled with earlier."
+}
+
