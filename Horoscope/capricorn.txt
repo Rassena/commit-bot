@@ -517,3 +517,9 @@
   "horoscope": "You'll have a lot to give and no shortage of people ready to receive, dearest Capricorn. As Mercury, Saturn, and Mars align, feeling useful provides a sense of purpose that boosts focus and energy levels. However, it's important to recognize when you're being taken advantage of. The Gemini Moon highlights the value of teamwork, asking you to move away from relationships that aren't symbiotic. Before going out of your way to help someone, consider if they'd reciprocate the kindness. The stars also urge you to make wellness a higher priority, adjusting your routines to ensure your needs are consistently met."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-04-22",
+  "horoscope": "Relationship imbalances could trigger big emotions, dearest Capricorn, due to harsh aspects between the Cancer Moon, Mars, and Mercury. You'll feel determined to address unmet needs, but choose your timing wisely. Speaking up while wound up might skew your perspective, making it difficult to see your companion's point of view. Feeling sorry for yourself also creates a lapse in judgment, causing you to pick up on nonexistent issues. Focus on self-care and determine whether you're dealing with a lack of rest or heightened stress. Loved ones will show up for you once Luna and Jupiter unite later today, alleviating negative feelings you struggled with earlier."
+}
+
