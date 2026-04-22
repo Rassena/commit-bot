@@ -344,3 +344,9 @@
   "horoscope": "Recognize the necessity of self-promotion in the digital age, darling Taurus. Channel the tools and connections at your disposal toward network expansion as the Pisces Moon aspects Jupiter and Venus. Dont be discouraged if your specific flavor isnt everyones cup of tea. Be yourself while owning your intentions, and the right people will cross your path. A soft aspect between Mercury and Uranus emphasizes the importance of honoring your truth and desires. Consider how projecting certain thoughts into the world might make it easier to attract exactly what you need. Do some soul-searching and close chapters once Mercury debuts in Aries."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-04-22",
+  "horoscope": "The Cancer Moon causes emotions to inflate this morning, dearest Taurus, forming tense squares with Mars and Mercury. Be mindful of how your thoughts and feelings interact. If you start to obsess over people or situations, it could be a sign of unresolved pain. Give these vibes and your mind a chance to settle before addressing any issues that have been weighing on you. It will be easier to see multiple perspectives and find a resolution once the afternoon rolls in. You'll feel brighter, lighter, and optimistic later today, thanks to a sweet union between Luna and Jupiter."
+}
+
