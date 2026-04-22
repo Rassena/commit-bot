@@ -446,3 +446,9 @@
   "horoscope": "It may feel as if you're being pulled in various directions, darling Cancer. Try not to overthink your options while the Gemini Moon splits hairs in your solar twelfth house. Though it's important to gauge potential outcomes before choosing a path, you'll know you've gone too far if task paralysis sets in. Luckily, Mercury joins forces with Saturn and Mars to strengthen your backbone and assist with making moves. When in doubt, consider how time-consuming, risky, or exciting any given venture is and what you need more of in your life. If you continue to struggle, prioritize choices that can offer success or valuable experiences."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-04-22",
+  "horoscope": "The Moon experiences friction while traversing your sign, darling Cancer, forming hash squares with Mars and Mercury. These vibes could put you in a defensive mood, even when others are simply trying to help. It's okay to keep your guard up, but know the difference between protecting your energy and shutting people out. The ambiance softens by the time afternoon rolls in, and you will slowly begin to open up. Pleasant surprises are in store once Luna and Jupiter join forces later today. Luck also hangs in the air. Project your desires into the universe, and they just might manifest."
+}
+
