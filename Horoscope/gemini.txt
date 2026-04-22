@@ -540,3 +540,9 @@
   "horoscope": "A bittersweet energy greets you this morning, dearest Gemini, as Luna aspects Chiron before exiting your sign. You'll feel sympathetic for what others are going through, but you should recognize the importance of putting your needs first. Simplify life when the Taurus Sun and Cancer Moon align this afternoon. Be less accessible to the outside world and prioritize private, intimate interactions. With close companions by your side, it won't feel like you're missing out. Resist the temptation to browse the news, scroll social media, or indulge in online shopping while Neptune and Saturn activate later today, or you could become untethered."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-04-22",
+  "horoscope": "An unsettling energy permeates the collective, dearest Gemini, due to harsh aspects between the Cancer Moon, Mercury, and Mars. Peers may seem uncharacteristically reckless or moody, making it difficult for you to find calm spaces. If it feels like you're walking on eggshells, keep to yourself or seek a different environment. Limit your social media use and screen time, as they can further disrupt your peace of mind. Demonstrating compassion and patience will pay off as the day unfolds, so try not to snap back at edgy people. The universe will reward your kindness once Luna unites with Jupiter later today."
+}
+
