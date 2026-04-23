@@ -526,3 +526,9 @@
   "horoscope": "The Gemini Moon brings out your inner smartypants, inspiring you to share information, trivia, and tidbits. However, it's important to find value in what others are saying as well, beloved scorpion. A desire to appear strong and educated makes it difficult to ask questions, but staying silent hinders growth. Luckily, Mercury, Saturn, and Mars join forces to level the playing field and promote teamwork. This heavenly trio acts as a reminder that you don't have to be an expert on every topic. Feel proud of what you bring to the table, but draw on the intellectual resources others can provide. Your perception will evolve, and peers will appreciate the chance to impart knowledge."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-04-23",
+  "horoscope": "Heal work-related issues while the Cancer Moon squares Chiron this morning, darling Scorpio. Whether you've been struggling with a lack of organization, motivation, or clarity, now is your moment to make adjustments. Romantic interactions are supercharged by a sweet union between Venus and Uranus. Go out of your way to surprise that special someone. If you're looking for a mate, instant connections could emerge. A soft yet serious energy finds you when the Leo Quarter Moon aspects Neptune this evening. Harness these vibes by setting practical goals without abandoning your dreams. Beautiful transformations and new commitments will find you throughout the coming weeks once Venus enters Gemini tonight."
+}
+
