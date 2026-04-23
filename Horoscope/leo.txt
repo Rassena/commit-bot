@@ -476,3 +476,9 @@
   "horoscope": "Be mindful of the impact technology has on your spirituality and sense of mindfulness, darling Leo. As the Gemini Moon aspects Chiron before entering Cancer, it's important to consider what a reasonable amount of screen time looks like. If you start to zone out or disconnect, remember to pull back and indulge your mystical side. Focus on creating new structures that support enlightenment and professional aspirations when the Taurus Sun and Luna align this afternoon. Meditate on how these realms intercede while Neptune and Saturn stir later today, using positive affirmations or visualization techniques to dream up fresh goals."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-04-23",
+  "horoscope": "Make a wish that is rooted in some form of healing, darling Leo, then take steps to put the wheels in motion. As the Cancer Moon aspects Chiron before entering your sign, the universe offers a boost to help you turn over a new leaf. Confidence builds, and exciting breakthroughs emerge while Venus and Uranus unite. Expect the unexpected in your career and in matters of the heart. Give yourself permission to dream a little bigger than you normally might once the quarter moon aligns with Neptune this evening. Venus debuts in Gemini tonight, bringing fresh connections your way throughout the coming weeks."
+}
+
