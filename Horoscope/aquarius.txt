@@ -470,3 +470,9 @@
   "horoscope": "Follow the good advice loved ones offer, darling Aquarius, as the Leo Moon aspects Saturn and Mars. Though your free spirit prefers to call the shots, you can gain valuable insights by honoring other people's experiences. You may also find yourself in a position to bestow knowledge, revitalizing an appreciation for your own expertise. Your thoughts shift toward matters of the heart as the hours unfold. Be mindful of the qualities you're attracted to, especially if you tend to chase excitement over reliability. Intelligence acts as the ultimate turn on once Mercury stirs later today."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-04-24",
+  "horoscope": "Follow the good advice loved ones offer, darling Aquarius, as the Leo Moon aspects Saturn and Mars. Though your free spirit prefers to call the shots, you can gain valuable insights by honoring other people's experiences. You may also find yourself in a position to bestow knowledge, revitalizing an appreciation for your own expertise. Your thoughts shift toward matters of the heart as the hours unfold. Be mindful of the qualities you're attracted to, especially if you tend to chase excitement over reliability. Intelligence acts as the ultimate turn on once Mercury stirs later today."
+}
+
