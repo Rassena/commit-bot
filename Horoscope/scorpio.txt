@@ -538,3 +538,9 @@
   "horoscope": "Try to get an early start, as the Leo Moon aspects Saturn and Mars in Scorpio. These vibes increase overall drive while improving organization and efficiency. You'll produce excellent work, which could be leveraged toward a better position or professional notoriety. Allow your process to unfold organically, but take notes on any new techniques you pick up. Working with others can help sharpen existing skills. Be generous with your knowledge, and your colleagues will return the favor. Curiosity stirs once Mercury activates midafternoon, and questions you never thought to ask may suddenly emerge. Pursue additional research to improve your understanding."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-04-24",
+  "horoscope": "Try to get an early start, as the Leo Moon aspects Saturn and Mars in Scorpio. These vibes increase overall drive while improving organization and efficiency. You'll produce excellent work, which could be leveraged toward a better position or professional notoriety. Allow your process to unfold organically, but take notes on any new techniques you pick up. Working with others can help sharpen existing skills. Be generous with your knowledge, and your colleagues will return the favor. Curiosity stirs once Mercury activates midafternoon, and questions you never thought to ask may suddenly emerge. Pursue additional research to improve your understanding."
+}
+
