@@ -499,3 +499,9 @@
   "horoscope": "It's time to move on from situations or relationships that have nowhere else to go, dearest Virgo. As the Gemini Moon aspects Chiron, bittersweet farewells open you to a world of new possibilities. Activate the social-butterfly within once Luna debuts in Cancer, forming a sweet connection with the Taurus Sun this afternoon. Enlightening conversations could trigger your next great idea or exciting ventures. Be considerate and offer up any information you believe others might benefit from. Neptune stirs up a deceptive energy midafternoon, so be mindful of who you trust. Watch out for power grabs when Saturn grows agitated tonight."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-04-24",
+  "horoscope": "You won't be in the mood to carry those who cannot keep up with you, dear Virgo. Seek partnerships with your equals while the Leo Moon aspects Saturn and Mars. If you'd rather move forward on your own, review and restructure existing plans to ensure energy and resources aren't being mismanaged. Much can be accomplished away from the public eye. If you're hoping to make a splash in the near future, use these vibes to put the final touches on your work. Discussions around commitment could arise when Mercury stirs midafternoon, bringing sudden changes to your world."
+}
+
