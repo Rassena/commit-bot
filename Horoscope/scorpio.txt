@@ -532,3 +532,9 @@
   "horoscope": "Heal work-related issues while the Cancer Moon squares Chiron this morning, darling Scorpio. Whether you've been struggling with a lack of organization, motivation, or clarity, now is your moment to make adjustments. Romantic interactions are supercharged by a sweet union between Venus and Uranus. Go out of your way to surprise that special someone. If you're looking for a mate, instant connections could emerge. A soft yet serious energy finds you when the Leo Quarter Moon aspects Neptune this evening. Harness these vibes by setting practical goals without abandoning your dreams. Beautiful transformations and new commitments will find you throughout the coming weeks once Venus enters Gemini tonight."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-04-24",
+  "horoscope": "Try to get an early start, as the Leo Moon aspects Saturn and Mars in Scorpio. These vibes increase overall drive while improving organization and efficiency. You'll produce excellent work, which could be leveraged toward a better position or professional notoriety. Allow your process to unfold organically, but take notes on any new techniques you pick up. Working with others can help sharpen existing skills. Be generous with your knowledge, and your colleagues will return the favor. Curiosity stirs once Mercury activates midafternoon, and questions you never thought to ask may suddenly emerge. Pursue additional research to improve your understanding."
+}
+
