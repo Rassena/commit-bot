@@ -482,3 +482,9 @@
   "horoscope": "Make a wish that is rooted in some form of healing, darling Leo, then take steps to put the wheels in motion. As the Cancer Moon aspects Chiron before entering your sign, the universe offers a boost to help you turn over a new leaf. Confidence builds, and exciting breakthroughs emerge while Venus and Uranus unite. Expect the unexpected in your career and in matters of the heart. Give yourself permission to dream a little bigger than you normally might once the quarter moon aligns with Neptune this evening. Venus debuts in Gemini tonight, bringing fresh connections your way throughout the coming weeks."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-04-24",
+  "horoscope": "When the universe provides opportunities, it falls on you to take action. Keep your ultimate goals in mind, darling Leo, as the Moon aspects Saturn and Mars. With Luna positioned in your sign, heightened emotions could cause you to invest in ventures that don't contribute to your main agenda. Be selective of what or who you focus on, giving your all to the dreams and people that matter most. Watch for signs to determine if you're on the right path once Mercury stirs midafternoon. Uncertainties can be alleviated if you simply seek the answers you are searching for."
+}
+
