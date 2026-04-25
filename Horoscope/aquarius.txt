@@ -476,3 +476,9 @@
   "horoscope": "Follow the good advice loved ones offer, darling Aquarius, as the Leo Moon aspects Saturn and Mars. Though your free spirit prefers to call the shots, you can gain valuable insights by honoring other people's experiences. You may also find yourself in a position to bestow knowledge, revitalizing an appreciation for your own expertise. Your thoughts shift toward matters of the heart as the hours unfold. Be mindful of the qualities you're attracted to, especially if you tend to chase excitement over reliability. Intelligence acts as the ultimate turn on once Mercury stirs later today."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-04-25",
+  "horoscope": "Don't let hurt feelings get the better of you while the Taurus Sun squares Pluto. Lashing out could tarnish your image, dearest Aquarius, so remember to prioritize composure. You'll feel more balanced and capable of addressing issues in a civilized manner once the Leo Moon and Chiron align this afternoon. Spending time with loved ones can also soothe grief. Uranus's debut in Gemini kicks off a seven-year artistic renaissance, bringing your creativity to the next level. Be open to change but mindful of how others influence you when Luna enters Virgo, forming tense aspects with Uranus and Venus."
+}
+
