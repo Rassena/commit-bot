@@ -458,3 +458,9 @@
   "horoscope": "The Moon experiences friction while traversing your sign, darling Cancer, forming hash squares with Mars and Mercury. These vibes could put you in a defensive mood, even when others are simply trying to help. It's okay to keep your guard up, but know the difference between protecting your energy and shutting people out. The ambiance softens by the time afternoon rolls in, and you will slowly begin to open up. Pleasant surprises are in store once Luna and Jupiter join forces later today. Luck also hangs in the air. Project your desires into the universe, and they just might manifest."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-04-25",
+  "horoscope": "The Taurus Sun and Pluto form a tense aspect, dear Cancer, magnifying drama within your social sphere. Proceed with caution if conflict arises, especially if it stems from differing opinions. Arguing is unlikely to sway minds or resolve the issue. You'll benefit from drawing lines that safeguard your mental health while the Leo Moon aligns with Chiron. Surprising emotions may catch you off guard once Uranus enters Gemini. This planetary shift initiates a seven-year cycle that will trigger sudden endings and new beginnings. Monitor your thoughts and avoid feeding negativity when Luna debuts in Virgo, squaring Uranus and Venus throughout the evening."
+}
+
