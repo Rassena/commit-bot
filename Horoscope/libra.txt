@@ -455,3 +455,9 @@
   "horoscope": "Though it can be painful to admit when you're wrong, accountability plays an important role in maintaining healthy relationships. A sweet connection between the Gemini Moon and Chiron offers encouragement, making it easier to apologize and forgive. You'll feel emotionally elevated and prepared to take on professional hurdles once Luna debuts in Cancer. Keep an eye out for negotiation opportunities or valuable partnerships as the Taurus Sun showers you with prosperous vibes this afternoon. Beware of bad advice while Neptune and Saturn activate later today, stirring up mixed signals. Optimistic sentiments and overly critical reviews can both do serious damage if taken to an extreme."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-04-25",
+  "horoscope": "Ego bruises provide important lessons that can make or break you, dear Libra. Consider what the universe is trying to tell you while the Taurus Sun and Pluto square off. If you've been stubbornly clinging to goals that haven't panned out, it's possible your true calling is being ignored. Soften the spirit by spending time with people who love you once the Leo Moon aligns with Chiron this afternoon. Unexpected events will lead you to a higher path throughout the next seven years after Uranus enters Gemini this evening. Plan a quiet Saturday at home when Luna debuts in Virgo. Aspects with Uranus and Venus offer enlightenment through spiritual practices or self-care rituals."
+}
+
