@@ -511,3 +511,9 @@
   "horoscope": "Look for where the soul and the heart unite, dearest Virgo. Romantic and spiritual awakenings are in store as Luna moves through your sign, aspecting the Taurus Sun and nodes of fate. Analyze the hidden forces that draw you to others and vice versa. Reflect on past and present relationships to identify patterns or karmic lessons. Reliable companions have the power to alleviate old wounds while Venus and Neptune align. If you've found a consistent partner who makes you feel safe, consider taking your connection to the next level. Guard secrets you've been entrusted with once Mercury squares Jupiter, stirring up gossip."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-04-26",
+  "horoscope": "Look for where the soul and the heart unite, dearest Virgo. Romantic and spiritual awakenings are in store as Luna moves through your sign, aspecting the Taurus Sun and nodes of fate. Analyze the hidden forces that draw you to others and vice versa. Reflect on past and present relationships to identify patterns or karmic lessons. Reliable companions have the power to alleviate old wounds while Venus and Neptune align. If you've found a consistent partner who makes you feel safe, consider taking your connection to the next level. Guard secrets you've been entrusted with once Mercury squares Jupiter, stirring up gossip."
+}
+
