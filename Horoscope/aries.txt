@@ -488,3 +488,9 @@
   "horoscope": "Youre a hot commodity today, dearest Aries, thanks to a soft aspect between Mercury and Pluto. Recent power moves and transformations will have earned you the respect of peers, some of whom might be quite influential. When you see an opportunity to establish connections in high places, make a move while owning what you bring to the table. An ability to read nuance benefits you when the Taurus Moon aspects Jupiter this afternoon. Romance your senses later tonight once Luna and Venus get cozy. If youre in a relationship, go out of your way to spoil your sweetheart with love and meaningful gestures."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-04-26",
+  "horoscope": "Try to enjoy the moment, instead of fretting over tomorrow's worries, dearest Aries. Stay busy with simple chores, wellness practices, or bask in nature's glory while the Virgo Moon aspects the Sun and nodes of fate. Gardening or taking your fur baby for a long walk are perfect ways to honor these vibes. Meanwhile, Venus and Neptune form a dreamy aspect, easing the mind and infusing your aura with grace. You'll have the power to impress if you speak eloquently and intellectually. Avoid the temptation to inflate ideas or emotions beyond what is reasonable when Mercury squares Jupiter."
+}
+
