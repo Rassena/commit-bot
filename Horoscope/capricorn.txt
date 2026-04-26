@@ -529,3 +529,9 @@
   "horoscope": "Relationship imbalances could trigger big emotions, dearest Capricorn, due to harsh aspects between the Cancer Moon, Mars, and Mercury. You'll feel determined to address unmet needs, but choose your timing wisely. Speaking up while wound up might skew your perspective, making it difficult to see your companion's point of view. Feeling sorry for yourself also creates a lapse in judgment, causing you to pick up on nonexistent issues. Focus on self-care and determine whether you're dealing with a lack of rest or heightened stress. Loved ones will show up for you once Luna and Jupiter unite later today, alleviating negative feelings you struggled with earlier."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-04-26",
+  "horoscope": "Try not to bounce from one idea to the next, darling Capricorn. Creative visions are abundant while the Virgo Moon aspects the Taurus Sun and nodes of fate. A boost in energy motivates you to tackle multiple goals at once, but such ambition might not be sustainable. Instead of spreading yourself thin, select a few projects and give them your all. Prioritize activities that fill your space with love when Venus aligns with Neptune. These ethereal vibes elevate your home, alleviate stress, and contribute to an overall sense of levity. Keep an eye on your relationships to ensure they stay balanced as Mercury squares Jupiter."
+}
+
