@@ -505,3 +505,9 @@
   "horoscope": "You won't be in the mood to carry those who cannot keep up with you, dear Virgo. Seek partnerships with your equals while the Leo Moon aspects Saturn and Mars. If you'd rather move forward on your own, review and restructure existing plans to ensure energy and resources aren't being mismanaged. Much can be accomplished away from the public eye. If you're hoping to make a splash in the near future, use these vibes to put the final touches on your work. Discussions around commitment could arise when Mercury stirs midafternoon, bringing sudden changes to your world."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-04-26",
+  "horoscope": "Look for where the soul and the heart unite, dearest Virgo. Romantic and spiritual awakenings are in store as Luna moves through your sign, aspecting the Taurus Sun and nodes of fate. Analyze the hidden forces that draw you to others and vice versa. Reflect on past and present relationships to identify patterns or karmic lessons. Reliable companions have the power to alleviate old wounds while Venus and Neptune align. If you've found a consistent partner who makes you feel safe, consider taking your connection to the next level. Guard secrets you've been entrusted with once Mercury squares Jupiter, stirring up gossip."
+}
+
