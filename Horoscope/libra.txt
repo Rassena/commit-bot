@@ -461,3 +461,9 @@
   "horoscope": "Ego bruises provide important lessons that can make or break you, dear Libra. Consider what the universe is trying to tell you while the Taurus Sun and Pluto square off. If you've been stubbornly clinging to goals that haven't panned out, it's possible your true calling is being ignored. Soften the spirit by spending time with people who love you once the Leo Moon aligns with Chiron this afternoon. Unexpected events will lead you to a higher path throughout the next seven years after Uranus enters Gemini this evening. Plan a quiet Saturday at home when Luna debuts in Virgo. Aspects with Uranus and Venus offer enlightenment through spiritual practices or self-care rituals."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-04-26",
+  "horoscope": "The Virgo Moon aligns with the Taurus Sun and nodes of fate, placing you at a crossroads. A tinge of sorrow may accompany the need to move forward with your life, darling Libra. Know that the changes you face will lead you to higher ground. When unsure which path to choose, opt for the most empowering one. Venus and Neptune join forces to soften the road ahead, creating a sense of ease as you expand in multiple directions. Believe in yourself while Mercury squares Jupiter, especially if success lingers within reach. Embrace mindfulness practices to stay balanced as new responsibilities trickle through."
+}
+
