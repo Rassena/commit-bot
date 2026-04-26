@@ -350,3 +350,9 @@
   "horoscope": "The Cancer Moon causes emotions to inflate this morning, dearest Taurus, forming tense squares with Mars and Mercury. Be mindful of how your thoughts and feelings interact. If you start to obsess over people or situations, it could be a sign of unresolved pain. Give these vibes and your mind a chance to settle before addressing any issues that have been weighing on you. It will be easier to see multiple perspectives and find a resolution once the afternoon rolls in. You'll feel brighter, lighter, and optimistic later today, thanks to a sweet union between Luna and Jupiter."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-04-26",
+  "horoscope": "You may find yourself at a social crossroads this morning, dearest Taurus. As the Virgo Moon aligns with the Sun and nodes of fate, multiple invitations could force you to choose between new and long-term friends. Companions will come and go as life moves forward, but don't forget those who have loyally stood by you. You'll desire company with those you can be vulnerable with while Venus aspects Neptune. This energy is perfect for releasing stress, seeking luxury, and sharing secret dreams. Exposing your deepest desires to the wrong person might trigger unhappy consequences when Mercury squares Jupiter."
+}
+
