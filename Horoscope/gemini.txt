@@ -546,3 +546,9 @@
   "horoscope": "An unsettling energy permeates the collective, dearest Gemini, due to harsh aspects between the Cancer Moon, Mercury, and Mars. Peers may seem uncharacteristically reckless or moody, making it difficult for you to find calm spaces. If it feels like you're walking on eggshells, keep to yourself or seek a different environment. Limit your social media use and screen time, as they can further disrupt your peace of mind. Demonstrating compassion and patience will pay off as the day unfolds, so try not to snap back at edgy people. The universe will reward your kindness once Luna unites with Jupiter later today."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-04-26",
+  "horoscope": "Try to sneak away for some alone time this morning, darling Gemini, as the Virgo Moon aspects the Sun and nodes of fate. Current challenges will require your undivided attention, but loved ones could make it difficult to concentrate. Shift gears and enjoy peaceful activities outside of the home while Venus aligns with Neptune. These vibes are all about finding your people and enjoying community. A boost in your allure may also embolden an admirer to get a little flirty. If you're hoping to meet someone special, put yourself out there! Social media and large crowds might feel overstimulating when Mercury squares Jupiter."
+}
+
