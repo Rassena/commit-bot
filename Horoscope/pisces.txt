@@ -456,3 +456,9 @@
   "horoscope": "Be gentle with yourself this morning, dearest Pisces. The Cancer Moon forms harsh connections with Mars and Mercury, causing you to feel dull or out of sorts. Indulge in a leisurely start to the day, but focus on activities or indulgences that will revive your drive. Cutting yourself too much slack will only inflate issues around a lack of clarity or motivation. Enjoy uplifting music and refreshing foods to get the energy flowing. Joy finds you later today while Luna and Jupiter align. Reflect on personal goals and work with a creative outlet to clear away energetic blocks for good."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-04-26",
+  "horoscope": "Take initiative to evolve relationships or ideas, darling Pisces. You'll have a gift for bringing out the best in others while the Virgo Moon aspects the Taurus Sun and nodes of fate. Whether you're working on a personal project, collaboration, or romantic connection, use your voice to get the energy flowing. Homey vibes emerge as Venus aligns with Neptune, elevating domestic talents and putting you in the mood for creature comforts. Nurture yourself and loved ones by sharing imaginative recipes, sweet gestures, or extra affection. Celebrate and display your gifts without inflating the ego once Mercury and Jupiter square off. "
+}
+
