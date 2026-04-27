@@ -544,3 +544,9 @@
   "horoscope": "Try to get an early start, as the Leo Moon aspects Saturn and Mars in Scorpio. These vibes increase overall drive while improving organization and efficiency. You'll produce excellent work, which could be leveraged toward a better position or professional notoriety. Allow your process to unfold organically, but take notes on any new techniques you pick up. Working with others can help sharpen existing skills. Be generous with your knowledge, and your colleagues will return the favor. Curiosity stirs once Mercury activates midafternoon, and questions you never thought to ask may suddenly emerge. Pursue additional research to improve your understanding."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-04-27",
+  "horoscope": "You'll exude brightness and attract luck while the Virgo Moon and Jupiter align, beloved scorpion. Make the most of these vibes by seeking attention with purpose. Whether you're looking to expand socially, network professionally, or promote an important project, now is the time to get out and about! Synchronistic encounters could be more than a mere coincidence. Indulging your mystical side will make it easier for the universe to send blessings and fated interactions your way. Allow the heart to guide you as the Taurus Sun aligns with the nodes of fate, and true magic will unfold."
+}
+
