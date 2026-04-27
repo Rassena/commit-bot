@@ -494,3 +494,9 @@
   "horoscope": "Try to enjoy the moment, instead of fretting over tomorrow's worries, dearest Aries. Stay busy with simple chores, wellness practices, or bask in nature's glory while the Virgo Moon aspects the Sun and nodes of fate. Gardening or taking your fur baby for a long walk are perfect ways to honor these vibes. Meanwhile, Venus and Neptune form a dreamy aspect, easing the mind and infusing your aura with grace. You'll have the power to impress if you speak eloquently and intellectually. Avoid the temptation to inflate ideas or emotions beyond what is reasonable when Mercury squares Jupiter."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-04-27",
+  "horoscope": "Find joy in your routines to start the work week on a high note, darling Aries. Your attitude has a direct impact on productivity while the Virgo Moon and Jupiter align. Set yourself up for success by tending to emotional and physical needs between tasks. Meanwhile, the Taurus Sun aspects the nodes of fate to uncover new details that will strengthen your goals. Allow certain plans to unravel if they've already hit too many snags. Scaling back presents an opportunity to brainstorm and expand your dreams. Avoid looking over your shoulder to see what others are up to when Luna and Chiron form an unbalanced connection tonight."
+}
+
