@@ -552,3 +552,9 @@
   "horoscope": "Try to sneak away for some alone time this morning, darling Gemini, as the Virgo Moon aspects the Sun and nodes of fate. Current challenges will require your undivided attention, but loved ones could make it difficult to concentrate. Shift gears and enjoy peaceful activities outside of the home while Venus aligns with Neptune. These vibes are all about finding your people and enjoying community. A boost in your allure may also embolden an admirer to get a little flirty. If you're hoping to meet someone special, put yourself out there! Social media and large crowds might feel overstimulating when Mercury squares Jupiter."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-04-27",
+  "horoscope": "Treat your manifestation goals with the same tenderness and nurturing you'd offer a small child, darling Gemini. Prosperity and care go hand in hand while the Virgo Moon and Jupiter align. Emotional wellness should also be a priority. Remember that if you don't attend to your personal needs, you won't have enough energy to pursue your aspirations and maintain healthy relationships. Epiphanies lead to restructuring when the Taurus Sun aspects the nodes of fate. Meditate on current challenges, then determine where more discipline or experience is needed. Consider cutting out social media and other digital fodder once Luna and Chiron form an unbalanced aspect tonight."
+}
+
