@@ -467,3 +467,9 @@
   "horoscope": "The Virgo Moon aligns with the Taurus Sun and nodes of fate, placing you at a crossroads. A tinge of sorrow may accompany the need to move forward with your life, darling Libra. Know that the changes you face will lead you to higher ground. When unsure which path to choose, opt for the most empowering one. Venus and Neptune join forces to soften the road ahead, creating a sense of ease as you expand in multiple directions. Believe in yourself while Mercury squares Jupiter, especially if success lingers within reach. Embrace mindfulness practices to stay balanced as new responsibilities trickle through."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-04-27",
+  "horoscope": "A surreal, hopeful energy emerges as the Virgo Moon and Jupiter align, dearest Libra. As strategies fall into place, you'll experience the strange yet rewarding satisfaction that comes from manifesting visions. Quietly take in recent wins that will demand some restructuring, especially if your responsibilities and authority are set to increase. The Taurus Sun aspects the nodes of fate to ease these transitions, but it may be necessary to petition peers for help or embrace new partnerships. For now, settle into the new realities and consider your options to gain a better sense of what to do next."
+}
+
