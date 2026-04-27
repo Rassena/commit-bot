@@ -356,3 +356,9 @@
   "horoscope": "You may find yourself at a social crossroads this morning, dearest Taurus. As the Virgo Moon aligns with the Sun and nodes of fate, multiple invitations could force you to choose between new and long-term friends. Companions will come and go as life moves forward, but don't forget those who have loyally stood by you. You'll desire company with those you can be vulnerable with while Venus aspects Neptune. This energy is perfect for releasing stress, seeking luxury, and sharing secret dreams. Exposing your deepest desires to the wrong person might trigger unhappy consequences when Mercury squares Jupiter."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-04-27",
+  "horoscope": "Don't hesitate to push your luck, just a bit. The Virgo Moon and Jupiter bless you with charisma and a higher perspective, dearest Taurus. These vibes are perfect for starting up conversations that might bring you closer to certain desires. Flirt with your crush, seek recognition, and let your light shine. Remember to ask insightful questions along the way, as those who feel seen will be extra receptive to your words. Swim outside your typical social sphere while the Sun aligns with the nodes of fate. Destined encounters could arise, triggering a snowball effect that reshapes destiny."
+}
+
