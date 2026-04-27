@@ -545,3 +545,9 @@
   "horoscope": "You should feel inspired, powerful, and courageous this morning, darling archer, thanks to sweet connections between the Leo Moon, Saturn, and Mars. These vibes are perfect for testing your own limits, especially in professional and creative pursuits. However, it's important to stay centered so excitement doesn't get the best of you. Adapt a mindfulness practice to ensure one foot stays on the ground as you shoot for the stars. An influx of information leads to epiphanies when Luna aspects Mercury midafternoon. Consider writing down a-ha moments and ideas as they come so you can reflect on them later."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-04-27",
+  "horoscope": "Auspicious partnerships could form this morning, dear Sagittarius, thanks to a sweet aspect between the Virgo Moon and Jupiter. Put your best foot forward to attract people and opportunities that might bolster your success. Now is also a good time to cut away the unnecessary, making room for new growth. You'll move with precision while the Taurus Sun aligns with the nodes of fate, sharpening your intuition and eye for detail. Tap into your senses and emotions to trigger valuable premonitions. End your day on a quiet note and get cozy at home to maintain a healthy work/life balance."
+}
+
