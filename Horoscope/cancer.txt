@@ -464,3 +464,9 @@
   "horoscope": "The Taurus Sun and Pluto form a tense aspect, dear Cancer, magnifying drama within your social sphere. Proceed with caution if conflict arises, especially if it stems from differing opinions. Arguing is unlikely to sway minds or resolve the issue. You'll benefit from drawing lines that safeguard your mental health while the Leo Moon aligns with Chiron. Surprising emotions may catch you off guard once Uranus enters Gemini. This planetary shift initiates a seven-year cycle that will trigger sudden endings and new beginnings. Monitor your thoughts and avoid feeding negativity when Luna debuts in Virgo, squaring Uranus and Venus throughout the evening."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-04-28",
+  "horoscope": "Epiphanies arise through strange dreams or emotions, dearest Cancer, as the Libra Moon and Uranus align. Remind yourself that you are safe, nurtured, and supported if you become disoriented. A harsh opposition between Luna and Neptune makes it difficult to separate fiction from reality. If you feel lost, trust what you know to be true. A cleansing energy shifts your perspective while Luna, Venus, and Pluto form a grand trine this afternoon. Youll sense chapters closing as others begin, and new partnerships or contracts could emerge. Consider how your decisions impact family and close friends once Saturn stirs this evening."
+}
+
