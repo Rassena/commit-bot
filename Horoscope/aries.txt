@@ -500,3 +500,9 @@
   "horoscope": "Find joy in your routines to start the work week on a high note, darling Aries. Your attitude has a direct impact on productivity while the Virgo Moon and Jupiter align. Set yourself up for success by tending to emotional and physical needs between tasks. Meanwhile, the Taurus Sun aspects the nodes of fate to uncover new details that will strengthen your goals. Allow certain plans to unravel if they've already hit too many snags. Scaling back presents an opportunity to brainstorm and expand your dreams. Avoid looking over your shoulder to see what others are up to when Luna and Chiron form an unbalanced connection tonight."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-04-28",
+  "horoscope": "A romantic charge rocks your world as the Libra Moon and Uranus align. Pay attention to any sweet thoughts or flirtatious messages that greet you upon awakening, darling Aries. Just try not to let fantasies throw you off balance while Neptune stirs. Review personal goals to ensure your head doesnt get stuck in the clouds. Youll have plenty of opportunities to interact with your sweetie or latest crush when Luna, Venus, and Pluto enter a grand trine this afternoon. If youve been hoping to evolve certain relationships, these vibes can help you do so. Promote healthy boundaries and enjoy your own space once the Moon opposes Saturn this evening."
+}
+
