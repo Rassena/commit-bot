@@ -479,3 +479,9 @@
   "horoscope": "A surreal, hopeful energy emerges as the Virgo Moon and Jupiter align, dearest Libra. As strategies fall into place, you'll experience the strange yet rewarding satisfaction that comes from manifesting visions. Quietly take in recent wins that will demand some restructuring, especially if your responsibilities and authority are set to increase. The Taurus Sun aspects the nodes of fate to ease these transitions, but it may be necessary to petition peers for help or embrace new partnerships. For now, settle into the new realities and consider your options to gain a better sense of what to do next."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-04-28",
+  "horoscope": "The Moon enters your sign and aligns with revolutionary Uranus, dearest Libra, placing magick at your fingertips. Optimism, imagination, and intuition will be the strongest tools at your disposal, so do not diminish the value they hold. Loved ones may inadvertently plant seeds of doubt when Neptune grows restless. Think for yourself to avoid confusion. Youll feel empowered and emboldened to chase greatness while Luna, Venus, and Pluto form a grand trine this afternoon. Go above and beyond to exceed your own expectations. Recognize the importance of balancing romantic and professional responsibilities once Saturn activates this evening. Speak up if youre stretched thin."
+}
+
