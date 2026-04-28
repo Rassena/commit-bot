@@ -462,3 +462,9 @@
   "horoscope": "Take initiative to evolve relationships or ideas, darling Pisces. You'll have a gift for bringing out the best in others while the Virgo Moon aspects the Taurus Sun and nodes of fate. Whether you're working on a personal project, collaboration, or romantic connection, use your voice to get the energy flowing. Homey vibes emerge as Venus aligns with Neptune, elevating domestic talents and putting you in the mood for creature comforts. Nurture yourself and loved ones by sharing imaginative recipes, sweet gestures, or extra affection. Celebrate and display your gifts without inflating the ego once Mercury and Jupiter square off. "
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-04-28",
+  "horoscope": "Intense feelings could lure you into a false sense of security while the Libra Moon aspects Uranus and Neptune. Tread carefully if relationships accelerate more quickly than you expected, darling Pisces. Though passionate connections can feel authentic, your counterpart might harbor a secret or ulterior motives. Its also worth noting what you are concealing. Take steps to end cycles that cause you to hide important parts of yourself when Luna, Venus, and Pluto form a grand trine this afternoon. It will be difficult to establish trust if you struggle to share. Outline your needs around boundaries, consistency, or affection to set clear parameters for Saturn once it stirs this evening."
+}
+
