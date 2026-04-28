@@ -494,3 +494,9 @@
   "horoscope": "Evolve long-term goals to reflect expertise you already possess, Leo, instead of tackling ambitions you're not equipped for. Appreciate your strengths to determine the most prosperous way forward while the Virgo Moon aspects the Sun and nodes of fate. Romantic partnerships can also benefit from these vibes. If you're in a relationship, consider where more structure or compromise is needed to ensure you make it all the way. You'll have a gift for drawing positive attention within your social sphere, thanks to a sweet aspect between Venus and Neptune. Spend some time in solitary meditation to unleash your intuition once Mercury squares Jupiter."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-04-28",
+  "horoscope": "Take a deep breath before reading the news or checking your messages, sweet Leo. The universe sends shockwaves as the Libra Moon aspects Uranus. Luckily, this celestial exchange exudes positive energy, though certain information may require some getting used to. Proceed with caution if someone or something appears too good to be true while Neptune stirs confusion. These vibes are highly deceptive, and even the wisest owls can be fooled by tricksters. Lean on your community for support once Luna, Venus, and Pluto form a grand trine this afternoon. No matter your situation, a bit of socializing is sure to nourish the soul. Level out, review your aspirations, and outline practical next steps when Saturn activates this evening."
+}
+
