@@ -470,3 +470,9 @@
   "horoscope": "Epiphanies arise through strange dreams or emotions, dearest Cancer, as the Libra Moon and Uranus align. Remind yourself that you are safe, nurtured, and supported if you become disoriented. A harsh opposition between Luna and Neptune makes it difficult to separate fiction from reality. If you feel lost, trust what you know to be true. A cleansing energy shifts your perspective while Luna, Venus, and Pluto form a grand trine this afternoon. Youll sense chapters closing as others begin, and new partnerships or contracts could emerge. Consider how your decisions impact family and close friends once Saturn stirs this evening."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-04-28",
+  "horoscope": "Epiphanies arise through strange dreams or emotions, dearest Cancer, as the Libra Moon and Uranus align. Remind yourself that you are safe, nurtured, and supported if you become disoriented. A harsh opposition between Luna and Neptune makes it difficult to separate fiction from reality. If you feel lost, trust what you know to be true. A cleansing energy shifts your perspective while Luna, Venus, and Pluto form a grand trine this afternoon. Youll sense chapters closing as others begin, and new partnerships or contracts could emerge. Consider how your decisions impact family and close friends once Saturn stirs this evening."
+}
+
