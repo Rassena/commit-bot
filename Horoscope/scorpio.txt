@@ -550,3 +550,9 @@
   "horoscope": "You'll exude brightness and attract luck while the Virgo Moon and Jupiter align, beloved scorpion. Make the most of these vibes by seeking attention with purpose. Whether you're looking to expand socially, network professionally, or promote an important project, now is the time to get out and about! Synchronistic encounters could be more than a mere coincidence. Indulging your mystical side will make it easier for the universe to send blessings and fated interactions your way. Allow the heart to guide you as the Taurus Sun aligns with the nodes of fate, and true magic will unfold."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-04-29",
+  "horoscope": "Try not to indulge darker thoughts or impulses, sweet scorpion. As the Libra Moon and Mars face off, minor inconveniences could throw you into a tailspin. Luckily, you're a multifaceted and adaptable being when you choose to be. Take your power back by letting go quickly if conflict or plot twists arise. Your ability to rise above challenges will be rewarded by the universe once Jupiter stirs midafternoon. These vibes also alleviate any suspicions you've been harboring recently, leading the way to pleasant surprises. Expand socially and consider dating outside your usual tastes while Venus aspects the nodes of fate this evening."
+}
+
