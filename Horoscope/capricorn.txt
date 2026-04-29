@@ -541,3 +541,9 @@
   "horoscope": "Boredom threatens to dull your senses, dear Capricorn, as the Libra Moon aspects Uranus and Neptune. Get creative with your routines and at work if you struggle to stay engaged. Youll want to be at your best when Luna, Venus, and Pluto create a grand trine this afternoon. Wheels put in motion under this auspicious formation could lead to life-changing opportunities. Patience and consistent effort will go a long way in improving your professional and financial status. However, you may need to expand your comfort zone to avoid plateaus. Head home before sunset and catch up on rest while Saturn activates this evening."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-04-29",
+  "horoscope": "The Capricorn Moon opposes Mars this morning, intensifying burnout and impatience. A desire to move on from projects or level up professionally may have forced you to work overtime recently. Though your resilience is unmatched by most other signs, now might be a good time to pace yourself. Loved ones won't appreciate your moody or preoccupied behaviors while Luna squares Jupiter midafternoon. These vibes could inspire family or friends to lash out or lay down ultimatums if something doesn't change soon. Reassess your schedule to ensure your romantic and wellness needs are receiving the attention they deserve when Venus aspects the nodes of fate this evening."
+}
+
