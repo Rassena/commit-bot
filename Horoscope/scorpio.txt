@@ -556,3 +556,9 @@
   "horoscope": "Try not to indulge darker thoughts or impulses, sweet scorpion. As the Libra Moon and Mars face off, minor inconveniences could throw you into a tailspin. Luckily, you're a multifaceted and adaptable being when you choose to be. Take your power back by letting go quickly if conflict or plot twists arise. Your ability to rise above challenges will be rewarded by the universe once Jupiter stirs midafternoon. These vibes also alleviate any suspicions you've been harboring recently, leading the way to pleasant surprises. Expand socially and consider dating outside your usual tastes while Venus aspects the nodes of fate this evening."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-05-01",
+  "horoscope": "The Full Moon rises in your sign today, darling Scorpio, so be sure to seize the day! Spend extra time with people who bring out the best in you, fueling your emotional and energetic tank with the love they offer. Try to view yourself in the same positive light that these companions see you in. The confidence you gain will give you the courage to take on new frontiers. Experience matched with practical planning makes you an unstoppable force while Venus and Saturn align. Simplify your goals by prioritizing mature aspirations when Mercury and Chiron unite this afternoon."
+}
+
