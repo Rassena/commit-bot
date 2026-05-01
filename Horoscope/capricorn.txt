@@ -547,3 +547,9 @@
   "horoscope": "The Capricorn Moon opposes Mars this morning, intensifying burnout and impatience. A desire to move on from projects or level up professionally may have forced you to work overtime recently. Though your resilience is unmatched by most other signs, now might be a good time to pace yourself. Loved ones won't appreciate your moody or preoccupied behaviors while Luna squares Jupiter midafternoon. These vibes could inspire family or friends to lash out or lay down ultimatums if something doesn't change soon. Reassess your schedule to ensure your romantic and wellness needs are receiving the attention they deserve when Venus aspects the nodes of fate this evening."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-05-01",
+  "horoscope": "You'll reach icon status under the Scorpio Full Moon, beloved Capricorn. Use this energy to prove that you are the true GOAT of the zodiac, using your style and influence to go further. Look into networking opportunities that can expose you to influential peers. You'll fit in easily, and the connections you forge will validate that you're ready for the new levels of notoriety and success. A sweet connection between Venus and Saturn generates a flawless composure, helping you appear serious yet inviting. Initiate discussions to ensure everyone in your home is on the right track while Mercury and Chiron unite this afternoon."
+}
+
