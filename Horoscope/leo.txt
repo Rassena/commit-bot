@@ -500,3 +500,9 @@
   "horoscope": "Take a deep breath before reading the news or checking your messages, sweet Leo. The universe sends shockwaves as the Libra Moon aspects Uranus. Luckily, this celestial exchange exudes positive energy, though certain information may require some getting used to. Proceed with caution if someone or something appears too good to be true while Neptune stirs confusion. These vibes are highly deceptive, and even the wisest owls can be fooled by tricksters. Lean on your community for support once Luna, Venus, and Pluto form a grand trine this afternoon. No matter your situation, a bit of socializing is sure to nourish the soul. Level out, review your aspirations, and outline practical next steps when Saturn activates this evening."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-05-01",
+  "horoscope": "A fierce desire to protect loved ones could cause you to misstep, sweet lion. The Scorpio Full Moon brings intense emotions to the surface, and close companions may reveal how they've been wronged recently. Though getting angry will feel like a sign of solidarity, it's probably not the most helpful response. Offer support and structured advice to show you really care. Know when certain issues are out of your depth while Venus and Saturn align, and connect peers with resources that can provide appropriate aid. Touch base with your spiritual side to heal your own pain and seek clarity around specific goals once Mercury and Chiron join forces this afternoon."
+}
+
