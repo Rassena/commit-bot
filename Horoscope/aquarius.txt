@@ -494,3 +494,9 @@
   "horoscope": "Creative visions and heightened intuition place you in a visionary headspace, sweet Aquarius. As the Libra Moon aligns with Uranus and Neptune, productive applications of talent are vital for ensuring dreams dont get stuck in the clouds. Inflated fantasies quickly grow tiresome, and poor planning will trigger major setbacks. Certain goals will require adjustments to make them attainable. Luna, Venus, and Pluto motivate you to approach change with a courageous attitude. Have fun reinventing your image as aspirations evolve. Bring more discipline to your spiritual practices, so the universe can provide clear guidance once Saturn activates this evening."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-05-01",
+  "horoscope": "Intuition and success play into one another, so don't let practicality cloud your third eye. The importance of honing psychic abilities comes into focus under the Scorpio Full Moon. Test your skills by trying to get a read on the places you visit and the people you see. Reading between the lines could reveal opportunities or connections you've overlooked. Collaborations or artistic endeavors may also come into the equation when Venus and Saturn align. Make space for intellectual pursuits and creative outlets to develop character and cultivate a vibrant life. Work through limiting thoughts or heal strained relationships once Mercury and Chiron unite this afternoon."
+}
+
