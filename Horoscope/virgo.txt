@@ -517,3 +517,9 @@
   "horoscope": "Look for where the soul and the heart unite, dearest Virgo. Romantic and spiritual awakenings are in store as Luna moves through your sign, aspecting the Taurus Sun and nodes of fate. Analyze the hidden forces that draw you to others and vice versa. Reflect on past and present relationships to identify patterns or karmic lessons. Reliable companions have the power to alleviate old wounds while Venus and Neptune align. If you've found a consistent partner who makes you feel safe, consider taking your connection to the next level. Guard secrets you've been entrusted with once Mercury squares Jupiter, stirring up gossip."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-05-01",
+  "horoscope": "You'll have major wisdom to offer under the Scorpio Full Moon, dearest Virgo, which acts as a bridge between you and the other side. Try not to second-guess your intuition while conversing with others, even if certain insights seem strange. When strong thoughts or emotions come on suddenly, the universe may have a message to share. Relationships can also level up, and intimate conversations can create clarity. Express your desires without mincing words as Venus and Saturn align. Your directness will reveal where your partner stands. Transparency and healing coincide once Mercury and Chiron unite this afternoon."
+}
+
