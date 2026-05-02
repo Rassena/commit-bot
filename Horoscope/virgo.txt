@@ -523,3 +523,9 @@
   "horoscope": "You'll have major wisdom to offer under the Scorpio Full Moon, dearest Virgo, which acts as a bridge between you and the other side. Try not to second-guess your intuition while conversing with others, even if certain insights seem strange. When strong thoughts or emotions come on suddenly, the universe may have a message to share. Relationships can also level up, and intimate conversations can create clarity. Express your desires without mincing words as Venus and Saturn align. Your directness will reveal where your partner stands. Transparency and healing coincide once Mercury and Chiron unite this afternoon."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-05-02",
+  "horoscope": "Your popularity skyrockets overnight, beloved Virgo, thanks to an expansive connection between the Scorpio Moon and Jupiter. Take a deep breath before responding to any messages or social media boosts you receive. Leverage the momentum of your newfound celebrity to further personal goals, but beware of strangers who assume they know you. Its also important to guard the privacy of family or friends who dont want extra exposure. Your message continues to expand after Mercury debuts in Taurus. Secure your position with thoughtful planning and strategic dialogue throughout the coming weeks. Celebrate loved ones from the comfort of home as Luna enters Sagittarius later tonight."
+}
+
