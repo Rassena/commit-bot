@@ -368,3 +368,9 @@
   "horoscope": "Address reservations within matters of the heart, darling Taurus. The Scorpio Full Moon illuminates the sector of your chart that governs love, asking you to be transparent with your feelings. If you've been teetering between commitment and quitting, this lunation offers clarity to help you make the right decision. Saturn and Venus align to promote internal growth. A fear of losing yourself in another could stem from past hurts, causing you to subconsciously push others away. Luckily, Mercury and Chiron unite to help you heal these wounds for good. Sharing your experiences will make it easier for mates to offer reassurance."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-05-02",
+  "horoscope": "Overcome limitations with a positive yet balanced perspective, beloved bull. As the Scorpio Moon and Jupiter form a sweet connection, the universe seeks to expand your heart and mind. Releasing inhibitions will be easier than you imagine under these cosmic conditions. Close companions will provide aid and encouragement if you need additional support. Your voice strengthens throughout the coming weeks once Mercury debuts in your sign. Research topics you hope to address, even if youre already an expert. Returning to the basics will help you translate complex notions so novices can understand. Partnerships flourish, and commitments evolve as Luna enters Sagittarius later tonight."
+}
+
