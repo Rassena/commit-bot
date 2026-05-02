@@ -485,3 +485,9 @@
   "horoscope": "The Moon enters your sign and aligns with revolutionary Uranus, dearest Libra, placing magick at your fingertips. Optimism, imagination, and intuition will be the strongest tools at your disposal, so do not diminish the value they hold. Loved ones may inadvertently plant seeds of doubt when Neptune grows restless. Think for yourself to avoid confusion. Youll feel empowered and emboldened to chase greatness while Luna, Venus, and Pluto form a grand trine this afternoon. Go above and beyond to exceed your own expectations. Recognize the importance of balancing romantic and professional responsibilities once Saturn activates this evening. Speak up if youre stretched thin."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-05-02",
+  "horoscope": "Abundance finds you early this morning, beloved, Libra, thanks to a sweet connection between the Scorpio Moon and Jupiter. Take stock of your resources upon awakening, and look for opportunities to multiply investments. Your business savvy improves once Mercury debuts in Taurus. Youll have a firmer grasp of what you want and how to negotiate for it throughout the coming weeks. Direct communication will prove most efficient, so dont mince words when going after your desires. Forget dropping hints while Luna enters Sagittarius tonight. This celestial shift is all about owning your truth, using your voice, and cranking up the volume."
+}
+
