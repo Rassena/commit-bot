@@ -529,3 +529,9 @@
   "horoscope": "Your popularity skyrockets overnight, beloved Virgo, thanks to an expansive connection between the Scorpio Moon and Jupiter. Take a deep breath before responding to any messages or social media boosts you receive. Leverage the momentum of your newfound celebrity to further personal goals, but beware of strangers who assume they know you. Its also important to guard the privacy of family or friends who dont want extra exposure. Your message continues to expand after Mercury debuts in Taurus. Secure your position with thoughtful planning and strategic dialogue throughout the coming weeks. Celebrate loved ones from the comfort of home as Luna enters Sagittarius later tonight."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-05-02",
+  "horoscope": "Your popularity skyrockets overnight, beloved Virgo, thanks to an expansive connection between the Scorpio Moon and Jupiter. Take a deep breath before responding to any messages or social media boosts you receive. Leverage the momentum of your newfound celebrity to further personal goals, but beware of strangers who assume they know you. Its also important to guard the privacy of family or friends who dont want extra exposure. Your message continues to expand after Mercury debuts in Taurus. Secure your position with thoughtful planning and strategic dialogue throughout the coming weeks. Celebrate loved ones from the comfort of home as Luna enters Sagittarius later tonight."
+}
+
