@@ -506,3 +506,9 @@
   "horoscope": "A fierce desire to protect loved ones could cause you to misstep, sweet lion. The Scorpio Full Moon brings intense emotions to the surface, and close companions may reveal how they've been wronged recently. Though getting angry will feel like a sign of solidarity, it's probably not the most helpful response. Offer support and structured advice to show you really care. Know when certain issues are out of your depth while Venus and Saturn align, and connect peers with resources that can provide appropriate aid. Touch base with your spiritual side to heal your own pain and seek clarity around specific goals once Mercury and Chiron join forces this afternoon."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-05-02",
+  "horoscope": "You deserve a deeply restorative sleep while the Scorpio Moon and Jupiter align. Linger under the sheets for as long as your schedule and body will allow, relishing the peaceful retreat only your bed can provide. Stick to household activities that create a sense of comfort to prolong the nurturing effects of this cosmic climate. Your thoughts harden once Mercury debuts in Taurus later tonight. This planetary shift applies pressure, demanding that you take your responsibilities and aspirations more seriously. Luckily, Luna enters Sagittarius and offers a bit of fun, reminding you that its okay to chase excitement as well."
+}
+
