@@ -506,3 +506,9 @@
   "horoscope": "Your stamina improves early this morning while the Scorpio Moon and Jupiter align. Use this energy to address issues around procrastination, and catch up on your expansive to-do lists. Prioritize errands that get you out of the house if possible. Mercury debuts in Taurus this evening, appealing to your inner homebody throughout the coming weeks. This planetary placement is ideal for investing in your space and strengthening family bonds. Youll also require extra rest to maintain clarity. However, Luna enters Sagittarius tonight, tempting you to enjoy one last hurrah. Seek lively experiences with as many friends as possible before you go into hiding."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-05-02",
+  "horoscope": "Your stamina improves early this morning while the Scorpio Moon and Jupiter align. Use this energy to address issues around procrastination, and catch up on your expansive to-do lists. Prioritize errands that get you out of the house if possible. Mercury debuts in Taurus this evening, appealing to your inner homebody throughout the coming weeks. This planetary placement is ideal for investing in your space and strengthening family bonds. Youll also require extra rest to maintain clarity. However, Luna enters Sagittarius tonight, tempting you to enjoy one last hurrah. Seek lively experiences with as many friends as possible before you go into hiding."
+}
+
