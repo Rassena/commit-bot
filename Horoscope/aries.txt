@@ -506,3 +506,9 @@
   "horoscope": "A romantic charge rocks your world as the Libra Moon and Uranus align. Pay attention to any sweet thoughts or flirtatious messages that greet you upon awakening, darling Aries. Just try not to let fantasies throw you off balance while Neptune stirs. Review personal goals to ensure your head doesnt get stuck in the clouds. Youll have plenty of opportunities to interact with your sweetie or latest crush when Luna, Venus, and Pluto enter a grand trine this afternoon. If youve been hoping to evolve certain relationships, these vibes can help you do so. Promote healthy boundaries and enjoy your own space once the Moon opposes Saturn this evening."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-05-02",
+  "horoscope": "Emotional release finds you early this morning, darling Aries, as the Scorpio Moon and Jupiter align. Sleeping next to a trusted companion, childhood stuffed animal, or fur baby will provide extra nourishment. You should wake up feeling holistically refreshed and ready to embrace positive changes. Focus on removing negativity or dead weight from your life before adding more. Strategic action and patience will increase the likelihood of successfully reaching goals once Mercury enters Taurus. Take each moment in stride while navigating these vibes throughout the coming weeks. Unexpected opportunities may shift your projected course after Luna debuts in Sagittarius later tonight."
+}
+
