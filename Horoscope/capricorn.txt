@@ -559,3 +559,9 @@
   "horoscope": "Secret admirers rise to the surface early this morning, dearest Capricorn, as the Scorpio Moon and Jupiter align. Trust your intuition when sussing out new faces, and let yourself be wooed by anyone who passes the test. Getting past small talk to determine if someone is a match or not. If someones political or philosophical beliefs clash too aggressively with your own, its better to find out sooner than later. Youll continue to make friends throughout the coming weeks once Mercury enters Taurus. Seek artistic or educational spaces to improve your chances of meeting interesting people. Luna debuts in Sagittarius tonight. Use this energy to recharge in private before social demands pick up."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-05-02",
+  "horoscope": "Secret admirers rise to the surface early this morning, dearest Capricorn, as the Scorpio Moon and Jupiter align. Trust your intuition when sussing out new faces, and let yourself be wooed by anyone who passes the test. Getting past small talk to determine if someone is a match or not. If someones political or philosophical beliefs clash too aggressively with your own, its better to find out sooner than later. Youll continue to make friends throughout the coming weeks once Mercury enters Taurus. Seek artistic or educational spaces to improve your chances of meeting interesting people. Luna debuts in Sagittarius tonight. Use this energy to recharge in private before social demands pick up."
+}
+
