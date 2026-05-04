@@ -568,3 +568,9 @@
   "horoscope": "Stay busy with hands-on activities that center around wellness or creativity, darling Scorpio. Appreciate your ability to cultivate beauty and elevate your world as the Sagittarius Moon and Neptune align. Give yourself permission to escape woes that take you away from the present. Connect with your home when Pluto stirs. These vibes are perfect for updating your interior, purging unwanted items, or rearranging furniture to freshen up your space. Leave your electronics in a drawer to avoid distraction and mindless scrolling once Luna squares the nodes of fate. Improve your routines to promote healthy living while Saturn activates this evening."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-05-04",
+  "horoscope": "Lady Fortune sets her sights on you, dearest Scorpio, but blessings come with a caveat. As Mars and Jupiter square off, you might not feel fully prepared for the opportunities you receive. Attempting to fake your way through inexperience won't serve you and could lead to costly mistakes. Show that you're eager to work hard and grow, but be transparent about your reservations. The Sagittarius Moon brings a generous energy to the table, and people will be more likely to accommodate your needs. It may be necessary to shuffle around your routines to ensure you greet each day feeling energized and refreshed."
+}
+
