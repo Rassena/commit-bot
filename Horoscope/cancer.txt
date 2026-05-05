@@ -476,3 +476,9 @@
   "horoscope": "Epiphanies arise through strange dreams or emotions, dearest Cancer, as the Libra Moon and Uranus align. Remind yourself that you are safe, nurtured, and supported if you become disoriented. A harsh opposition between Luna and Neptune makes it difficult to separate fiction from reality. If you feel lost, trust what you know to be true. A cleansing energy shifts your perspective while Luna, Venus, and Pluto form a grand trine this afternoon. Youll sense chapters closing as others begin, and new partnerships or contracts could emerge. Consider how your decisions impact family and close friends once Saturn stirs this evening."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-05-05",
+  "horoscope": "Your attitude toward work may shift as the Sagittarius Moon aspects Chiron. Consider the true price of success, and whether or not you've been sacrificing too much in an attempt to establish yourself. Seek counsel from loved ones who aren't afraid to deliver hard truths when Luna enters Capricorn this afternoon. Ideological differences could trigger a major conflict that might cause you to sever ties once Mercury squares Pluto. Just be sure of what you're giving up to avoid future regrets while Neptune stirs. Connect with kindred spirits to reaffirm your faith in humanity when the nodes of fate activate tonight."
+}
+
