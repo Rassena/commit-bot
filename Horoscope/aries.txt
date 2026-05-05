@@ -512,3 +512,9 @@
   "horoscope": "Emotional release finds you early this morning, darling Aries, as the Scorpio Moon and Jupiter align. Sleeping next to a trusted companion, childhood stuffed animal, or fur baby will provide extra nourishment. You should wake up feeling holistically refreshed and ready to embrace positive changes. Focus on removing negativity or dead weight from your life before adding more. Strategic action and patience will increase the likelihood of successfully reaching goals once Mercury enters Taurus. Take each moment in stride while navigating these vibes throughout the coming weeks. Unexpected opportunities may shift your projected course after Luna debuts in Sagittarius later tonight."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-05-05",
+  "horoscope": "The Sagittarius Moon aspects Chiron before entering Capricorn, dearest Aries, facilitating personal growth. Reflect on your aspirations, and recognize if you need to do a bit of growing up. Try not to kid yourself when Neptune stirs confusion. Balance dreams with practical thinking to ensure they dont unravel. Comparing yourself to peers might generate major self-doubt while Mercury squares Pluto. Focus on your most valuable qualities instead of other peoples achievements. The nodes of fate offer levity later tonight, helping you combat negative thoughts. Release fear so you can plan for the future with a clear and optimistic mind."
+}
+
