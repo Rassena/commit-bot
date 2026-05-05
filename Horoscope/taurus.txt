@@ -386,3 +386,9 @@
   "horoscope": "Youll feel as if a weight has been lifted, beloved bull, thanks to a sweet connection between the Sagittarius Moon and Chiron. Dont be afraid to confront your demons, putting in effort to heal and move on. Lunas debut in Capricorn offers glimmers of hope, and the universe may send opportunities your way. However, it might be best to pull back and review your options while Neptune is activated. Negative self-talk needs to be addressed when Mercury squares Pluto, but this process could get messy. Connect with peers who believe in your vision to improve morale once the nodes of fate activate tonight. "
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-05-05",
+  "horoscope": "Youll feel as if a weight has been lifted, beloved bull, thanks to a sweet connection between the Sagittarius Moon and Chiron. Dont be afraid to confront your demons, putting in effort to heal and move on. Lunas debut in Capricorn offers glimmers of hope, and the universe may send opportunities your way. However, it might be best to pull back and review your options while Neptune is activated. Negative self-talk needs to be addressed when Mercury squares Pluto, but this process could get messy. Connect with peers who believe in your vision to improve morale once the nodes of fate activate tonight. "
+}
+
