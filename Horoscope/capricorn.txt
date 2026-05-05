@@ -565,3 +565,9 @@
   "horoscope": "Secret admirers rise to the surface early this morning, dearest Capricorn, as the Scorpio Moon and Jupiter align. Trust your intuition when sussing out new faces, and let yourself be wooed by anyone who passes the test. Getting past small talk to determine if someone is a match or not. If someones political or philosophical beliefs clash too aggressively with your own, its better to find out sooner than later. Youll continue to make friends throughout the coming weeks once Mercury enters Taurus. Seek artistic or educational spaces to improve your chances of meeting interesting people. Luna debuts in Sagittarius tonight. Use this energy to recharge in private before social demands pick up."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-05-05",
+  "horoscope": "You alone are responsible for healing unresolved pain, darling sea-goat. Luckily, the Sagittarius Moon and Chiron create a soothing ambiance, providing celestial support as you traverse dark waters. You'll feel revitalized and optimistic about your prospects once Luna enters your sign. Maintain a positive outlook by celebrating milestones that bring you closer to bliss. Neptune offers subtle reminders of the importance of honoring your emotions through ups and downs. Appreciate how challenges make winning more satisfying while Mercury aspects Pluto. Work on your relationship with the divine and ask for guidance to strengthen your intuition when the nodes of fate activate tonight."
+}
+
