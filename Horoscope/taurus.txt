@@ -380,3 +380,9 @@
   "horoscope": "Overcome limitations with a positive yet balanced perspective, beloved bull. As the Scorpio Moon and Jupiter form a sweet connection, the universe seeks to expand your heart and mind. Releasing inhibitions will be easier than you imagine under these cosmic conditions. Close companions will provide aid and encouragement if you need additional support. Your voice strengthens throughout the coming weeks once Mercury debuts in your sign. Research topics you hope to address, even if youre already an expert. Returning to the basics will help you translate complex notions so novices can understand. Partnerships flourish, and commitments evolve as Luna enters Sagittarius later tonight."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-05-05",
+  "horoscope": "Youll feel as if a weight has been lifted, beloved bull, thanks to a sweet connection between the Sagittarius Moon and Chiron. Dont be afraid to confront your demons, putting in effort to heal and move on. Lunas debut in Capricorn offers glimmers of hope, and the universe may send opportunities your way. However, it might be best to pull back and review your options while Neptune is activated. Negative self-talk needs to be addressed when Mercury squares Pluto, but this process could get messy. Connect with peers who believe in your vision to improve morale once the nodes of fate activate tonight. "
+}
+
