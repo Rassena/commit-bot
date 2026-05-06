@@ -524,3 +524,9 @@
   "horoscope": "The Sagittarius Moon aspects Chiron before entering Capricorn, dearest Aries, facilitating personal growth. Reflect on your aspirations, and recognize if you need to do a bit of growing up. Try not to kid yourself when Neptune stirs confusion. Balance dreams with practical thinking to ensure they dont unravel. Comparing yourself to peers might generate major self-doubt while Mercury squares Pluto. Focus on your most valuable qualities instead of other peoples achievements. The nodes of fate offer levity later tonight, helping you combat negative thoughts. Release fear so you can plan for the future with a clear and optimistic mind."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-05-06",
+  "horoscope": "Premonitions around professional or financial goals could find you, dearest Aries. As the Capricorn Moon, Mercury, and the nodes of fate enter a kite formation, the universe channels messages directly to your psyche. Reflect on last night's dreams and any wise advice you received recently before starting the day. Watch out for peers with authority issues while Saturn activates, and be mindful of how you exert your own. If someone is blocking your success, try to uncover their motives. Pluto's Retrograde journey will reveal alternate paths throughout the coming months. You'll feel more secure in your position and prepared to take on challenges when the Sun and Luna align tonight."
+}
+
