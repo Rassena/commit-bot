@@ -580,3 +580,9 @@
   "horoscope": "You'll see a path that leads to having it all, dearest Scorpio, as the Capricorn Moon aspects Jupiter, Mars, and Chiron. Visions crystallize and provide you with a deeper understanding of what it will cost to make your dreams come true. Major lifestyle and perspective shifts may be in order, especially if you tend to go with the flow or have trouble initiating projects. Planning ahead and implementing healthier routines will play an important role in your journey toward self-actualization. Focus on where you need to learn, mature, and persevere. Once you've laid a solid foundation to build on, there won't be much that can stop you."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-05-07",
+  "horoscope": "You'll see a path that leads to having it all, dearest Scorpio, as the Capricorn Moon aspects Jupiter, Mars, and Chiron. Visions crystallize and provide you with a deeper understanding of what it will cost to make your dreams come true. Major lifestyle and perspective shifts may be in order, especially if you tend to go with the flow or have trouble initiating projects. Planning ahead and implementing healthier routines will play an important role in your journey toward self-actualization. Focus on where you need to learn, mature, and persevere. Once you've laid a solid foundation to build on, there won't be much that can stop you."
+}
+
