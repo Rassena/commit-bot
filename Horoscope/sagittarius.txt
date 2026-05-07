@@ -557,3 +557,9 @@
   "horoscope": "Auspicious partnerships could form this morning, dear Sagittarius, thanks to a sweet aspect between the Virgo Moon and Jupiter. Put your best foot forward to attract people and opportunities that might bolster your success. Now is also a good time to cut away the unnecessary, making room for new growth. You'll move with precision while the Taurus Sun aligns with the nodes of fate, sharpening your intuition and eye for detail. Tap into your senses and emotions to trigger valuable premonitions. End your day on a quiet note and get cozy at home to maintain a healthy work/life balance."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-05-07",
+  "horoscope": "Costly mistakes could send you to a dark place, darling Sagittarius. The Capricorn Moon forms tense connections with Jupiter, Mars, and the nodes of fate, putting you in a restless and unpredictable headspace. Feeling pressured to keep up appearances might cause you to overpromise, act impulsively, or make bad investments. Emotionally charged spending may also lead you into debt or create monetary setbacks. If you've been struggling to get your finances in order, confide in someone who can offer real advice. You probably won't like what you hear, but at least you'll have a new perspective to work from."
+}
+
