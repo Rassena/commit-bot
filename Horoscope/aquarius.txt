@@ -518,3 +518,9 @@
   "horoscope": "Gravitate toward those who put you at ease, dearest Aquarius, and make peace with moving on from people who don't. As the Sagittarius Moon aspects Uranus, Neptune, and Pluto this morning, you won't be in the mood for erratic or petty peers. You'll crave sweet and simple interactions with companions who naturally stir your curiosity. Limit your online spending when the nodes of fate activate this afternoon, and consider swapping tips with your financially savvy friends. You'll feel mature and wise with each responsible decision you make once Saturn activates this evening, and your efforts will bring worthy rewards."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-05-07",
+  "horoscope": "Your awareness of time heightens while the Capricorn Moon aspects Jupiter, Mars, and Chiron. You may feel disenchanted with your prospects, darling Aquarius, especially if you're not as far along as you thought you'd be. Though it's possible you've hit a lull, you don't have to accept defeat. Be mindful of how your internal dialogue impacts your approach to success. Telling yourself you are unlucky or that you have missed your window will act as a self-fulfilling prophecy. Simplify your bigger picture and take small steps toward a better life. If you're unhappy in your career, update your resume and start exploring other options."
+}
+
