@@ -583,3 +583,9 @@
   "horoscope": "Luna struggles with conflict while moving through your sign, dearest Capricorn, forming tense aspects with Jupiter, Mars, and Chiron. You'll feel deeply for the people around you, and will look for opportunities to intervene and provide help. Sadly, your good intentions could trigger unexpected pushback. Listen to loved ones before assuming they require rescuing. Without a full understanding of what others are going through, your efforts will come across as meddling and overbearing. Investing heavily in other people's problems can be an indication that you're avoiding your own. Consider opening up to someone you trust and allow yourself to be taken care of."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-05-07",
+  "horoscope": "Luna struggles with conflict while moving through your sign, dearest Capricorn, forming tense aspects with Jupiter, Mars, and Chiron. You'll feel deeply for the people around you, and will look for opportunities to intervene and provide help. Sadly, your good intentions could trigger unexpected pushback. Listen to loved ones before assuming they require rescuing. Without a full understanding of what others are going through, your efforts will come across as meddling and overbearing. Investing heavily in other people's problems can be an indication that you're avoiding your own. Consider opening up to someone you trust and allow yourself to be taken care of."
+}
+
