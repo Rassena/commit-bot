@@ -558,3 +558,9 @@
   "horoscope": "Treat your manifestation goals with the same tenderness and nurturing you'd offer a small child, darling Gemini. Prosperity and care go hand in hand while the Virgo Moon and Jupiter align. Emotional wellness should also be a priority. Remember that if you don't attend to your personal needs, you won't have enough energy to pursue your aspirations and maintain healthy relationships. Epiphanies lead to restructuring when the Taurus Sun aspects the nodes of fate. Meditate on current challenges, then determine where more discipline or experience is needed. Consider cutting out social media and other digital fodder once Luna and Chiron form an unbalanced aspect tonight."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-05-07",
+  "horoscope": "Peers will seem unusually combative or closed off, darling Gemini. Tap into your senses throughout the day to stay calm. As the Capricorn Moon forms tense aspects with Jupiter, Mars, and Chiron, intense people and situations will challenge your patience. At times, it may be necessary to snap back and put others in their place. Just be mindful of which battles are worth taking on. Settle conflict through self-advocacy and protect yourself from domineering personalities. Take care not to hurt anyone's feelings, or you'll struggle with guilt, especially if word gets around on how you behaved."
+}
+
