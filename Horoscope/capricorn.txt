@@ -571,3 +571,9 @@
   "horoscope": "You alone are responsible for healing unresolved pain, darling sea-goat. Luckily, the Sagittarius Moon and Chiron create a soothing ambiance, providing celestial support as you traverse dark waters. You'll feel revitalized and optimistic about your prospects once Luna enters your sign. Maintain a positive outlook by celebrating milestones that bring you closer to bliss. Neptune offers subtle reminders of the importance of honoring your emotions through ups and downs. Appreciate how challenges make winning more satisfying while Mercury aspects Pluto. Work on your relationship with the divine and ask for guidance to strengthen your intuition when the nodes of fate activate tonight."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-05-07",
+  "horoscope": "Luna struggles with conflict while moving through your sign, dearest Capricorn, forming tense aspects with Jupiter, Mars, and Chiron. You'll feel deeply for the people around you, and will look for opportunities to intervene and provide help. Sadly, your good intentions could trigger unexpected pushback. Listen to loved ones before assuming they require rescuing. Without a full understanding of what others are going through, your efforts will come across as meddling and overbearing. Investing heavily in other people's problems can be an indication that you're avoiding your own. Consider opening up to someone you trust and allow yourself to be taken care of."
+}
+
