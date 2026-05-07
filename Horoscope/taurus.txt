@@ -392,3 +392,9 @@
   "horoscope": "Youll feel as if a weight has been lifted, beloved bull, thanks to a sweet connection between the Sagittarius Moon and Chiron. Dont be afraid to confront your demons, putting in effort to heal and move on. Lunas debut in Capricorn offers glimmers of hope, and the universe may send opportunities your way. However, it might be best to pull back and review your options while Neptune is activated. Negative self-talk needs to be addressed when Mercury squares Pluto, but this process could get messy. Connect with peers who believe in your vision to improve morale once the nodes of fate activate tonight. "
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-05-07",
+  "horoscope": "You're confronted with various unknowns, and my need to rely on your faith, dearest Taurus. As the Capricorn Moon aspects Jupiter, Mars, and Chiron, you might not be fully on board with the plans the universe has in store. Feeling as though you don't have a say could generate panic, but the changes you face are meant to elevate you down the line. Try to remember situations from the past that felt scary in the moment but led you toward better and brighter horizons. Stay connected with your intuition and higher power to find your way through ups and downs."
+}
+
