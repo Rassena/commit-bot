@@ -547,3 +547,9 @@
   "horoscope": "The energy moves fast and demands quick thinking, dear Virgo, as the Aquarius Moon aspects Uranus and Neptune. Tend to your physical needs in preparation for whatever the universe throws your way. A romantic partner or professional ally might present you with an irresistible opportunity. Though it may be hard to believe, your dreams could actually come true today. Sacrifice a bad habit and wish upon a star when Luna and Pluto form a transactional aspect. You'll have the stamina necessary to take on more responsibilities while Saturn stirs this evening, but you should consider what is realistically sustainable."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-05-08",
+  "horoscope": "The energy moves fast and demands quick thinking, dear Virgo, as the Aquarius Moon aspects Uranus and Neptune. Tend to your physical needs in preparation for whatever the universe throws your way. A romantic partner or professional ally might present you with an irresistible opportunity. Though it may be hard to believe, your dreams could actually come true today. Sacrifice a bad habit and wish upon a star when Luna and Pluto form a transactional aspect. You'll have the stamina necessary to take on more responsibilities while Saturn stirs this evening, but you should consider what is realistically sustainable."
+}
+
