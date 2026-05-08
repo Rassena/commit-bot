@@ -541,3 +541,9 @@
   "horoscope": "Embrace new and improved versions of yourself, darling Virgo. The universe seeks to revamp your image while the Capricorn Moon, Mercury, and nodes of fate enter a kite formation early this morning. Begin the day by setting intentions that reaffirm your commitment to growth. It may be necessary to end certain partnerships or agreements that have been holding you back when Saturn activates. Expect some level of pushback, but stand your ground. Power struggles could also emerge and complicate underlying tension, so save business negotiations for another time. Reflect on past wins to refine your skills throughout the coming weeks as Pluto stations Retrograde. Spiritual practices can boost confidence and creativity once the Sun and Luna align tonight."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-05-08",
+  "horoscope": "The energy moves fast and demands quick thinking, dear Virgo, as the Aquarius Moon aspects Uranus and Neptune. Tend to your physical needs in preparation for whatever the universe throws your way. A romantic partner or professional ally might present you with an irresistible opportunity. Though it may be hard to believe, your dreams could actually come true today. Sacrifice a bad habit and wish upon a star when Luna and Pluto form a transactional aspect. You'll have the stamina necessary to take on more responsibilities while Saturn stirs this evening, but you should consider what is realistically sustainable."
+}
+
