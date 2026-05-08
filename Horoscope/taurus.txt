@@ -398,3 +398,9 @@
   "horoscope": "You're confronted with various unknowns, and my need to rely on your faith, dearest Taurus. As the Capricorn Moon aspects Jupiter, Mars, and Chiron, you might not be fully on board with the plans the universe has in store. Feeling as though you don't have a say could generate panic, but the changes you face are meant to elevate you down the line. Try to remember situations from the past that felt scary in the moment but led you toward better and brighter horizons. Stay connected with your intuition and higher power to find your way through ups and downs."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-05-08",
+  "horoscope": "You could awaken to new realities, dear Taurus, as the Aquarius Moon and Uranus align. A sense of relief washes in once shock has subsided, thanks to Neptune's gentle touch. Reflect on how these changes can be used to your advantage. Make space for more exciting dreams to take the place of ones that are no longer viable. Power often lies in the art of letting go. Luna and Pluto unite just before afternoon creeps in, helping you evolve toward a better future. Accountability and improved structures will be important first steps while Saturn stirs this evening."
+}
+
