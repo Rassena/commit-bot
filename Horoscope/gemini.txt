@@ -564,3 +564,9 @@
   "horoscope": "Peers will seem unusually combative or closed off, darling Gemini. Tap into your senses throughout the day to stay calm. As the Capricorn Moon forms tense aspects with Jupiter, Mars, and Chiron, intense people and situations will challenge your patience. At times, it may be necessary to snap back and put others in their place. Just be mindful of which battles are worth taking on. Settle conflict through self-advocacy and protect yourself from domineering personalities. Take care not to hurt anyone's feelings, or you'll struggle with guilt, especially if word gets around on how you behaved."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-05-08",
+  "horoscope": "Your luck boosts unexpectedly, dear Gemini, as the Aquarius Moon and Uranus align early this morning. Don't be surprised if you wake up to exciting news or spiritually charged epiphanies. Blessings continue to flow through if you follow the signs the universe sends. Serendipitous encounters will feel extra surreal as Neptune stirs. Note if you experience dj vu or notice strange patterns, as there may be a bigger message at play. Pay respect to your ancestors while Luna and Pluto unite, asking them to bless and watch over you. Spread opportunities and connect peers who might be able to help one another when Saturn activates this evening."
+}
+
