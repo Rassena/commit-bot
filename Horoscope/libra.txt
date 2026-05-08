@@ -491,3 +491,9 @@
   "horoscope": "Abundance finds you early this morning, beloved, Libra, thanks to a sweet connection between the Scorpio Moon and Jupiter. Take stock of your resources upon awakening, and look for opportunities to multiply investments. Your business savvy improves once Mercury debuts in Taurus. Youll have a firmer grasp of what you want and how to negotiate for it throughout the coming weeks. Direct communication will prove most efficient, so dont mince words when going after your desires. Forget dropping hints while Luna enters Sagittarius tonight. This celestial shift is all about owning your truth, using your voice, and cranking up the volume."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-05-08",
+  "horoscope": "You'll play well with people who get your point of view, and creative partnerships could emerge. Share visions with artistically inclined friends while the Aquarius Moon aspects Uranus and Neptune. Put your thoughts in order before laying them on the table, but stay flexible and open to feedback. A second wave of inspiration strikes when Luna and Pluto commingle, and projects might head in a completely new direction. Don't let pride prevent you from evolving, understanding that empowerment and change often intersect. Do some restructuring to make more space for artistic endeavors, romance, and self-care once Saturn stirs this evening."
+}
+
