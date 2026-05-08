@@ -601,3 +601,9 @@
   "horoscope": "Luna struggles with conflict while moving through your sign, dearest Capricorn, forming tense aspects with Jupiter, Mars, and Chiron. You'll feel deeply for the people around you, and will look for opportunities to intervene and provide help. Sadly, your good intentions could trigger unexpected pushback. Listen to loved ones before assuming they require rescuing. Without a full understanding of what others are going through, your efforts will come across as meddling and overbearing. Investing heavily in other people's problems can be an indication that you're avoiding your own. Consider opening up to someone you trust and allow yourself to be taken care of."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-05-08",
+  "horoscope": "Believe in your dreams and ability to manifest them, dearest Capricorn. A powerful yet unpredictable energy helps you alchemize fantasy into reality while the Aquarius Moon aspects Uranus and Neptune. Creative risks and innovative thinking will be rewarded by the stars. A deep desire to take care of loved ones will inspire you to go even further. Pluto steps in to ensure the investments you make in tomorrow's successes will lead to empowering transformations. Be wise with your finances, but recognize when spending is necessary to strengthen your foundations. Reevaluate your household budget if you require additional funds once Saturn stirs this evening."
+}
+
