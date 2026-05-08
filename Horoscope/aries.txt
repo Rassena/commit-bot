@@ -530,3 +530,9 @@
   "horoscope": "Premonitions around professional or financial goals could find you, dearest Aries. As the Capricorn Moon, Mercury, and the nodes of fate enter a kite formation, the universe channels messages directly to your psyche. Reflect on last night's dreams and any wise advice you received recently before starting the day. Watch out for peers with authority issues while Saturn activates, and be mindful of how you exert your own. If someone is blocking your success, try to uncover their motives. Pluto's Retrograde journey will reveal alternate paths throughout the coming months. You'll feel more secure in your position and prepared to take on challenges when the Sun and Luna align tonight."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-05-08",
+  "horoscope": "Boldly chase fun, freedom, and friendship while the Aquarius Moon aspects Uranus, Neptune, and Pluto. You'll have no shortage of adventures to choose from, darling Aries, and will feel drawn to unfamiliar cultures. Explore the world with a light heart, knowing full well that reality will come calling sooner than later. For now, simply enjoying each moment will alleviate stress and allow you to reset. You'll have plenty of inspiration to draw from once you return to everyday life. Appreciate how new experiences refine your character, build wisdom, and create better opportunities when Saturn stirs in your sign this evening."
+}
+
