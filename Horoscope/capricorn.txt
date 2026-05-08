@@ -607,3 +607,9 @@
   "horoscope": "Believe in your dreams and ability to manifest them, dearest Capricorn. A powerful yet unpredictable energy helps you alchemize fantasy into reality while the Aquarius Moon aspects Uranus and Neptune. Creative risks and innovative thinking will be rewarded by the stars. A deep desire to take care of loved ones will inspire you to go even further. Pluto steps in to ensure the investments you make in tomorrow's successes will lead to empowering transformations. Be wise with your finances, but recognize when spending is necessary to strengthen your foundations. Reevaluate your household budget if you require additional funds once Saturn stirs this evening."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-05-08",
+  "horoscope": "Believe in your dreams and ability to manifest them, dearest Capricorn. A powerful yet unpredictable energy helps you alchemize fantasy into reality while the Aquarius Moon aspects Uranus and Neptune. Creative risks and innovative thinking will be rewarded by the stars. A deep desire to take care of loved ones will inspire you to go even further. Pluto steps in to ensure the investments you make in tomorrow's successes will lead to empowering transformations. Be wise with your finances, but recognize when spending is necessary to strengthen your foundations. Reevaluate your household budget if you require additional funds once Saturn stirs this evening."
+}
+
