@@ -404,3 +404,9 @@
   "horoscope": "You could awaken to new realities, dear Taurus, as the Aquarius Moon and Uranus align. A sense of relief washes in once shock has subsided, thanks to Neptune's gentle touch. Reflect on how these changes can be used to your advantage. Make space for more exciting dreams to take the place of ones that are no longer viable. Power often lies in the art of letting go. Luna and Pluto unite just before afternoon creeps in, helping you evolve toward a better future. Accountability and improved structures will be important first steps while Saturn stirs this evening."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-05-09",
+  "horoscope": "Pressure builds while the Aquarius quarter Moon squares Mercury, which may cause you to feel on edge. Avoid pandering to worst-case scenarios or intrusive thoughts that challenge your peace. Consider what you genuinely have control over when planning out your day. If you made a mess that needs cleaning up, it will be difficult to enjoy your weekend until the issues are resolved. Luckily, Venus steps in to soften the vibe, and people will be more forgiving if they see you making an effort. Your mood and energy levels improve once Mars stirs tonight, though you might prefer to stay busy at home."
+}
+
