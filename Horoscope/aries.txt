@@ -542,3 +542,9 @@
   "horoscope": "Boldly chase fun, freedom, and friendship while the Aquarius Moon aspects Uranus, Neptune, and Pluto. You'll have no shortage of adventures to choose from, darling Aries, and will feel drawn to unfamiliar cultures. Explore the world with a light heart, knowing full well that reality will come calling sooner than later. For now, simply enjoying each moment will alleviate stress and allow you to reset. You'll have plenty of inspiration to draw from once you return to everyday life. Appreciate how new experiences refine your character, build wisdom, and create better opportunities when Saturn stirs in your sign this evening."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-05-09",
+  "horoscope": "Stay away from volatile discussions with people you don't see eye to eye with, dearest Ram. Though you'll feel extra committed to your beliefs, these cosmic conditions don't bode well for changing hearts and minds. However, you can build a more effective rapport by connecting over shared views, thanks to a helping hand from Venus. If conversations evolve from there, be sure to keep things friendly. The Sun and Luna brew tension midafternoon, and political talks will quickly turn personal. You'll crave action, passion, and cultural stimulation when Mars activates later tonight. Grab a friend and seek excitement to honor these vibes."
+}
+
