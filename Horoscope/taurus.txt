@@ -410,3 +410,9 @@
   "horoscope": "Pressure builds while the Aquarius quarter Moon squares Mercury, which may cause you to feel on edge. Avoid pandering to worst-case scenarios or intrusive thoughts that challenge your peace. Consider what you genuinely have control over when planning out your day. If you made a mess that needs cleaning up, it will be difficult to enjoy your weekend until the issues are resolved. Luckily, Venus steps in to soften the vibe, and people will be more forgiving if they see you making an effort. Your mood and energy levels improve once Mars stirs tonight, though you might prefer to stay busy at home."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-05-10",
+  "horoscope": "Take credit for your achievements and combat fears around being seen while the Aquarius Moon and Chiron align. With a newfound appreciation for your experience and wisdom, it will be easy to build on your success. Just be mindful of who you celebrate victories with once Luna enters Pisces and squares Uranus. Those who haven't been as lucky in life might struggle to conceal their resentment. Luckily, you may be in a position to offer help when the Sun aspects Jupiter. Seize opportunities to elevate peers who could use a leg up. Your good deeds can lead to karmic rewards and exciting new contacts as the nodes of fate stir tonight."
+}
+
