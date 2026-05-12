@@ -509,3 +509,9 @@
   "horoscope": "The Pisces Moon aspects the Sun and Venus before slipping into a void-of-course state, highlighting how messy change can be. Though you'll feel inspired to take charge of your life and make better decisions, it's important to be patient with yourself. Instead of piling on demands, use this energy to appreciate small victories. Positive reinforcement makes it easier to stay on track and expand aspirations while Mercury and Jupiter align. Romantic surprises offer a pleasant escape once Luna enters Aries and aligns with Uranus this evening. Indulge your impulsive side and bring someone special along for the ride."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-05-12",
+  "horoscope": "The Pisces Moon aspects the Sun and Venus before slipping into a void-of-course state, highlighting how messy change can be. Though you'll feel inspired to take charge of your life and make better decisions, it's important to be patient with yourself. Instead of piling on demands, use this energy to appreciate small victories. Positive reinforcement makes it easier to stay on track and expand aspirations while Mercury and Jupiter align. Romantic surprises offer a pleasant escape once Luna enters Aries and aligns with Uranus this evening. Indulge your impulsive side and bring someone special along for the ride."
+}
+
