@@ -548,3 +548,9 @@
   "horoscope": "A morose energy might cause you to feel out of sorts this morning, darling Aquarius. Go easy on yourself and others while the Pisces Moon aspects the Sun and Venus before entering a void-of-course state. Stay busy with simple tasks to help pass the time. If you struggle to stay motivated, try working in short bursts and taking small breaks every 10 to 15 minutes. Your mind sharpens once Luna enters Aries and aligns with Uranus this evening. Impromptu social engagements or artistic experimentation may follow. Emotional investment, thoughtful planning, and hard work bring personal goals to new heights when Mercury aspects Jupiter."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-05-12",
+  "horoscope": "A morose energy might cause you to feel out of sorts this morning, darling Aquarius. Go easy on yourself and others while the Pisces Moon aspects the Sun and Venus before entering a void-of-course state. Stay busy with simple tasks to help pass the time. If you struggle to stay motivated, try working in short bursts and taking small breaks every 10 to 15 minutes. Your mind sharpens once Luna enters Aries and aligns with Uranus this evening. Impromptu social engagements or artistic experimentation may follow. Emotional investment, thoughtful planning, and hard work bring personal goals to new heights when Mercury aspects Jupiter."
+}
+
