@@ -613,3 +613,9 @@
   "horoscope": "Believe in your dreams and ability to manifest them, dearest Capricorn. A powerful yet unpredictable energy helps you alchemize fantasy into reality while the Aquarius Moon aspects Uranus and Neptune. Creative risks and innovative thinking will be rewarded by the stars. A deep desire to take care of loved ones will inspire you to go even further. Pluto steps in to ensure the investments you make in tomorrow's successes will lead to empowering transformations. Be wise with your finances, but recognize when spending is necessary to strengthen your foundations. Reevaluate your household budget if you require additional funds once Saturn stirs this evening."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-05-12",
+  "horoscope": "You'll feel curious, creative, and in the mood to connect, dear Capricorn, as the Pisces Moon aspects the Sun and Venus before entering a void-of-course state. Unfortunately, professional demands could make it difficult to find time for leisure. Boredom may creep in, putting you on autopilot and causing your efficiency and work quality to suffer. Take steps to reset this evening once Luna enters Aries and aligns with Uranus. Rest, healthy foods, and wellness practices can help you get back in your groove. Meanwhile, Mercury and Jupiter urge you to have fun with loved ones to reclaim a lust for life."
+}
+
