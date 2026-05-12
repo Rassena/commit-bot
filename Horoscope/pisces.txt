@@ -468,3 +468,9 @@
   "horoscope": "Intense feelings could lure you into a false sense of security while the Libra Moon aspects Uranus and Neptune. Tread carefully if relationships accelerate more quickly than you expected, darling Pisces. Though passionate connections can feel authentic, your counterpart might harbor a secret or ulterior motives. Its also worth noting what you are concealing. Take steps to end cycles that cause you to hide important parts of yourself when Luna, Venus, and Pluto form a grand trine this afternoon. It will be difficult to establish trust if you struggle to share. Outline your needs around boundaries, consistency, or affection to set clear parameters for Saturn once it stirs this evening."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-05-12",
+  "horoscope": "Your visibility increases while the Moon moves through your sign, darling Pisces. You may feel pressured to prove yourself within the public eye, but not all scales will tip in your favor. Luna aspects the Sun and Venus before drifting into a void of course state, leaving you susceptible to mistakes, disconnects, and missed opportunities. Big ideas will be difficult to follow through on, and forcing action could damage the ego. Instead of seeking an advantage, focus on self-love and fine-tuning your vision. Enjoy a lighthearted evening at home when Luna enters Aries and aligns with Uranus. Spending time with loved ones or getting lost in a passion project can improve morale and offer clarity as Mercury and Jupiter align."
+}
+
