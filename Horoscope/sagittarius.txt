@@ -563,3 +563,9 @@
   "horoscope": "Costly mistakes could send you to a dark place, darling Sagittarius. The Capricorn Moon forms tense connections with Jupiter, Mars, and the nodes of fate, putting you in a restless and unpredictable headspace. Feeling pressured to keep up appearances might cause you to overpromise, act impulsively, or make bad investments. Emotionally charged spending may also lead you into debt or create monetary setbacks. If you've been struggling to get your finances in order, confide in someone who can offer real advice. You probably won't like what you hear, but at least you'll have a new perspective to work from."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-05-12",
+  "horoscope": "Minor relationship infractions could amount to big trouble, darling Sagittarius. Take care of your needs so you can be a better partner and friend while the Pisces Moon aspects the Sun and Venus. Luna drifts aimlessly in a void of course throughout most of the day. You may feel sluggish, emotional, or disconnected until the Moon enters Aries and aligns with Uranus this evening. Playful interactions will alleviate drama that hasn't fully blown over. However, communication is key if you're hoping to break unhealthy cycles. Luckily, Mercury and Jupiter aid in your quest to address these issues and improve connections."
+}
+
