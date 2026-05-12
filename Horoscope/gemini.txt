@@ -570,3 +570,9 @@
   "horoscope": "Your luck boosts unexpectedly, dear Gemini, as the Aquarius Moon and Uranus align early this morning. Don't be surprised if you wake up to exciting news or spiritually charged epiphanies. Blessings continue to flow through if you follow the signs the universe sends. Serendipitous encounters will feel extra surreal as Neptune stirs. Note if you experience dj vu or notice strange patterns, as there may be a bigger message at play. Pay respect to your ancestors while Luna and Pluto unite, asking them to bless and watch over you. Spread opportunities and connect peers who might be able to help one another when Saturn activates this evening."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-05-12",
+  "horoscope": "The Pisces Moon aspects the Sun and Venus before entering a void-of-course state, dearest Gemini. Though you'll feel inspired to chase success, invisible obstacles could inhibit growth. Instead of charging forward, try to view your situation from a different perspective. Consider where you require more experience or discipline. Celebrating how far you've come can also provide a necessary shift in attitude. Think positive thoughts while Mercury and Jupiter align, and it will be easier to manifest desires. Lucky breaks may emerge in the form of a new connection once Luna enters Aries and connects with Uranus this evening."
+}
+
