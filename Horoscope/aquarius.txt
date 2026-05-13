@@ -554,3 +554,9 @@
   "horoscope": "A morose energy might cause you to feel out of sorts this morning, darling Aquarius. Go easy on yourself and others while the Pisces Moon aspects the Sun and Venus before entering a void-of-course state. Stay busy with simple tasks to help pass the time. If you struggle to stay motivated, try working in short bursts and taking small breaks every 10 to 15 minutes. Your mind sharpens once Luna enters Aries and aligns with Uranus this evening. Impromptu social engagements or artistic experimentation may follow. Emotional investment, thoughtful planning, and hard work bring personal goals to new heights when Mercury aspects Jupiter."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-05-13",
+  "horoscope": "You may face life-altering decisions, dear Aquarius, as the Aries Moon, south node, and Pluto form a yod aspect. Shifts in your relationship or professional standing could shake up power dynamics at home and around the office. Celebrate wins with grace, but dont let others rain on your parade. Recognize that gains and losses are likely to unfold as you enter negotiations. Know what you are giving up or taking on before committing. Luckily, a supportive union between Luna and Saturn makes it easier to assert yourself. When advocating for what you want, direct, logical arguments will be most effective."
+}
+
