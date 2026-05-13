@@ -512,3 +512,9 @@
   "horoscope": "You deserve a deeply restorative sleep while the Scorpio Moon and Jupiter align. Linger under the sheets for as long as your schedule and body will allow, relishing the peaceful retreat only your bed can provide. Stick to household activities that create a sense of comfort to prolong the nurturing effects of this cosmic climate. Your thoughts harden once Mercury debuts in Taurus later tonight. This planetary shift applies pressure, demanding that you take your responsibilities and aspirations more seriously. Luckily, Luna enters Sagittarius and offers a bit of fun, reminding you that its okay to chase excitement as well."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-05-13",
+  "horoscope": "Youll crave familiarity this morning, sweet lion, as a rare yod forms between the Aries Moon, south node, and Pluto. However, its important to recognize how youve evolved, especially when tempted by unhealthy relationships or beliefs. The universe may be testing you, watching to see if you level up or backslide. Romantic flames that once burned brightly will be extremely difficult to resist. Remember that self-preservation is more valuable than fleeting affections. Youll receive karmic bonus points if you demonstrate an ability to set boundaries, self-advocate, and draw knowledge from life experiences while Luna and Saturn join forces."
+}
+
