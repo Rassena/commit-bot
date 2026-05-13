@@ -548,3 +548,9 @@
   "horoscope": "Stay away from volatile discussions with people you don't see eye to eye with, dearest Ram. Though you'll feel extra committed to your beliefs, these cosmic conditions don't bode well for changing hearts and minds. However, you can build a more effective rapport by connecting over shared views, thanks to a helping hand from Venus. If conversations evolve from there, be sure to keep things friendly. The Sun and Luna brew tension midafternoon, and political talks will quickly turn personal. You'll crave action, passion, and cultural stimulation when Mars activates later tonight. Grab a friend and seek excitement to honor these vibes."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-05-13",
+  "horoscope": "Overlooked mistakes resurface this morning, darling Aries. As the Moon forms a yod aspect with the south node and Pluto, you might sense standards slipping. Minor errors that hold up progress will intensify frustrations, especially with colleagues who seem incompetent. While it may fall on you to clean up the mess, be mindful of how you address issues. It would be a shame to burn bridges over correctable offenses, but its important to outline reasonable expectations and point out if they arent being met. Luckily, peers will appreciate your willingness to take on authoritative and challenging roles once Luna and Saturn unite in your sign."
+}
+
