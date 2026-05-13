@@ -518,3 +518,9 @@
   "horoscope": "Youll crave familiarity this morning, sweet lion, as a rare yod forms between the Aries Moon, south node, and Pluto. However, its important to recognize how youve evolved, especially when tempted by unhealthy relationships or beliefs. The universe may be testing you, watching to see if you level up or backslide. Romantic flames that once burned brightly will be extremely difficult to resist. Remember that self-preservation is more valuable than fleeting affections. Youll receive karmic bonus points if you demonstrate an ability to set boundaries, self-advocate, and draw knowledge from life experiences while Luna and Saturn join forces."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-05-13",
+  "horoscope": "Youll crave familiarity this morning, sweet lion, as a rare yod forms between the Aries Moon, south node, and Pluto. However, its important to recognize how youve evolved, especially when tempted by unhealthy relationships or beliefs. The universe may be testing you, watching to see if you level up or backslide. Romantic flames that once burned brightly will be extremely difficult to resist. Remember that self-preservation is more valuable than fleeting affections. Youll receive karmic bonus points if you demonstrate an ability to set boundaries, self-advocate, and draw knowledge from life experiences while Luna and Saturn join forces."
+}
+
