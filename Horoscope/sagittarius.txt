@@ -575,3 +575,9 @@
   "horoscope": "Minor relationship infractions could amount to big trouble, darling Sagittarius. Take care of your needs so you can be a better partner and friend while the Pisces Moon aspects the Sun and Venus. Luna drifts aimlessly in a void of course throughout most of the day. You may feel sluggish, emotional, or disconnected until the Moon enters Aries and aligns with Uranus this evening. Playful interactions will alleviate drama that hasn't fully blown over. However, communication is key if you're hoping to break unhealthy cycles. Luckily, Mercury and Jupiter aid in your quest to address these issues and improve connections."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-05-14",
+  "horoscope": "Move with an open heart without pandering to intense emotions, darling Archer. Set aside power struggles and have fun with the people you love while the Aries Moon aspects Jupiter, Venus, Mars, and Chiron. A simple, low-pressure energy follows when you let go of desires to compete or prove yourself. Opportunities for teamwork also come to fruition when the Sun and Mercury unite. Collaborating with peers might strengthen your skills or provide an opportunity to exchange tips and tricks of your trade. Reflect on the knowledge gained and how it can elevate your work once Luna enters Taurus this evening."
+}
+
