@@ -604,3 +604,9 @@
   "horoscope": "Relationships intensify, commitments are made, and deals will be reached throughout the coming weeks, darling Scorpio. Get ready to negotiate, make sacrifices, and embrace empowering changes as Mercury debuts in Gemini. Try not to let sentimentality blur your vision while the Gemini Moon aspects Neptune, the nodes of fate, Pluto, and Saturn. Clearly understanding your position makes it easier to determine where improvements are needed. If you feel guilty about chasing success or loved ones aren't supportive, reconnect with your core to regain confidence. Venus and Chiron align, offering healing when you vow to move forward despite such challenges. Challenge your mind once Mercury and Uranus unite this evening, and you may surprise yourself."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-05-17",
+  "horoscope": "Relationships intensify, commitments are made, and deals will be reached throughout the coming weeks, darling Scorpio. Get ready to negotiate, make sacrifices, and embrace empowering changes as Mercury debuts in Gemini. Try not to let sentimentality blur your vision while the Gemini Moon aspects Neptune, the nodes of fate, Pluto, and Saturn. Clearly understanding your position makes it easier to determine where improvements are needed. If you feel guilty about chasing success or loved ones aren't supportive, reconnect with your core to regain confidence. Venus and Chiron align, offering healing when you vow to move forward despite such challenges. Challenge your mind once Mercury and Uranus unite this evening, and you may surprise yourself."
+}
+
