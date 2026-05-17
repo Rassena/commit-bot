@@ -530,3 +530,9 @@
   "horoscope": "The Taurus New Moon offers stability and support, forming soft aspects with Jupiter and Mercury. Use this grounding energy to expand upon existing goals. Limiting yourself to overly specific agendas can prevent you from finding a higher calling, dearest Leo. Recommit to cultivating success, but leave room to improvise. The universe likely has unexpected plans in store for you. Continue gaining experience and working on yourself so these blessings might arrive sooner. Consider what stirs passion and healing, or helps you bring these traits out in others, while Mars and Chiron unite. Indulge your spontaneous side and explore your community once Luna enters Gemini and joins forces with Uranus."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-05-17",
+  "horoscope": "The importance of establishing and sharing connections is magnified throughout the coming weeks, dear Leo. Mercury's debut into Gemini presents an opportunity to strengthen your position and build stronger networks. The Gemini Moon aspects Neptune, the nodes of fate, Pluto, and Saturn, encouraging you to cast a wide net by increasing your visibility both online and locally. It may be necessary to traverse unfamiliar territory and step out of your comfort zone to discover untapped communities. Spaces focused on healing or spiritual growth can lead to valuable alliances when Venus and Chiron align. Exciting news travels quickly once Mercury and Uranus unite this evening, so don't be afraid to make a splash."
+}
+
