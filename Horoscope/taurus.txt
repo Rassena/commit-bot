@@ -416,3 +416,9 @@
   "horoscope": "Take credit for your achievements and combat fears around being seen while the Aquarius Moon and Chiron align. With a newfound appreciation for your experience and wisdom, it will be easy to build on your success. Just be mindful of who you celebrate victories with once Luna enters Pisces and squares Uranus. Those who haven't been as lucky in life might struggle to conceal their resentment. Luckily, you may be in a position to offer help when the Sun aspects Jupiter. Seize opportunities to elevate peers who could use a leg up. Your good deeds can lead to karmic rewards and exciting new contacts as the nodes of fate stir tonight."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-05-18",
+  "horoscope": "You'll gain momentum when pursuing passions and personal goals throughout the coming weeks, darling bull. As Mars enters your sign, reconnect with your deepest desires. Relationships develop smoothly while Venus debuts in Cancer, heightening your intuition and emotional intelligence. Hone your psychic skills once Luna migrates into Cancer this evening, strengthening the invisible bonds that connect you with loved ones. At times, it may feel as though you're telepathically intertwined with the people around you. You'll grow more in tune with your surroundings as well, thanks to a sweet aspect between Mercury and Neptune. These vibes are perfect for working with crystals, enjoying a ritual bath, or spending time outdoors."
+}
+
