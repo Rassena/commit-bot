@@ -560,3 +560,9 @@
   "horoscope": "You may face life-altering decisions, dear Aquarius, as the Aries Moon, south node, and Pluto form a yod aspect. Shifts in your relationship or professional standing could shake up power dynamics at home and around the office. Celebrate wins with grace, but dont let others rain on your parade. Recognize that gains and losses are likely to unfold as you enter negotiations. Know what you are giving up or taking on before committing. Luckily, a supportive union between Luna and Saturn makes it easier to assert yourself. When advocating for what you want, direct, logical arguments will be most effective."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-05-18",
+  "horoscope": "The Gemini Moon emphasizes the importance of nurturing friendships, dear Aquarius. Connect with kindred spirits who gravitate toward driven people and inspire you to be bold. Your domestic life demands more attention throughout the coming weeks after Mars enters Taurus. Use this energy to fall back in love with your space, infusing interior design upgrades and major projects with passion. Spending extra time at home also offers a chance to focus on wellness. Venus and Luna debut in Cancer this evening, asking you to get self-care and health goals on track. Creative visions reshape your message when Mercury aspects Neptune later tonight."
+}
+
