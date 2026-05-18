@@ -554,3 +554,9 @@
   "horoscope": "Overlooked mistakes resurface this morning, darling Aries. As the Moon forms a yod aspect with the south node and Pluto, you might sense standards slipping. Minor errors that hold up progress will intensify frustrations, especially with colleagues who seem incompetent. While it may fall on you to clean up the mess, be mindful of how you address issues. It would be a shame to burn bridges over correctable offenses, but its important to outline reasonable expectations and point out if they arent being met. Luckily, peers will appreciate your willingness to take on authoritative and challenging roles once Luna and Saturn unite in your sign."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-05-18",
+  "horoscope": "The Gemini Moon encourages you to think ahead, communicate clearly, and address problems that need solving, dearest Aries. Though you'll be eager to put plans in motion, it's important to establish a sustainable course of action once Mars enters Taurus. Quality work and consistent results will save you time in the end. Your home feels especially cozy after Venus and Luna debut in Cancer this evening. These vibes create a romantic backdrop that's perfect for developing bonds in private. You may also require more rest throughout the coming weeks. Unlock your visionary side by expanding upon existing dreams when Mercury and Neptune align tonight."
+}
+
