@@ -422,3 +422,9 @@
   "horoscope": "You'll gain momentum when pursuing passions and personal goals throughout the coming weeks, darling bull. As Mars enters your sign, reconnect with your deepest desires. Relationships develop smoothly while Venus debuts in Cancer, heightening your intuition and emotional intelligence. Hone your psychic skills once Luna migrates into Cancer this evening, strengthening the invisible bonds that connect you with loved ones. At times, it may feel as though you're telepathically intertwined with the people around you. You'll grow more in tune with your surroundings as well, thanks to a sweet aspect between Mercury and Neptune. These vibes are perfect for working with crystals, enjoying a ritual bath, or spending time outdoors."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-05-19",
+  "horoscope": "Emotionally charged dreams brew confusion as the Cancer Moon and Neptune square off, darling bull. Take a few moments to shake off sleep and set an intention for the day. You wont have much time for rest while Venus and Mars align. Wishes manifest easily for those who dare to follow through on their visions. Focus on core desires to determine where your energy flows. Limit screen time when Mercury aspects the nodes of fate and Pluto, or valuable time will be lost. If social distractions persist, it may be necessary to retreat. Draw physical boundaries with the outside world once Luna squares Saturn this afternoon."
+}
+
