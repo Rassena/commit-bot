@@ -474,3 +474,9 @@
   "horoscope": "Your visibility increases while the Moon moves through your sign, darling Pisces. You may feel pressured to prove yourself within the public eye, but not all scales will tip in your favor. Luna aspects the Sun and Venus before drifting into a void of course state, leaving you susceptible to mistakes, disconnects, and missed opportunities. Big ideas will be difficult to follow through on, and forcing action could damage the ego. Instead of seeking an advantage, focus on self-love and fine-tuning your vision. Enjoy a lighthearted evening at home when Luna enters Aries and aligns with Uranus. Spending time with loved ones or getting lost in a passion project can improve morale and offer clarity as Mercury and Jupiter align."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-05-20",
+  "horoscope": "Open your heart as the Cancer Moon and Jupiter unite, dear Pisces, and love will rush in. Friends and family will be delighted to connect in meaningful ways, and you'll thrive while under the influence of such adoration. Now is also a good time to promote creative projects or take calculated risks. Try not to be discouraged if you don't see immediate payoffs when Chiron stirs this evening. Impatience can trigger self-doubt and lead you to retreat prematurely. Reconnect with your youth and spend more time at home after the Gemini season kicks off. Put extra care in your bedtime routines to encourage restorative sleep once Luna enters Leo, aspecting Uranus and Mars."
+}
+
