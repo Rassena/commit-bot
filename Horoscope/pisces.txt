@@ -480,3 +480,9 @@
   "horoscope": "Open your heart as the Cancer Moon and Jupiter unite, dear Pisces, and love will rush in. Friends and family will be delighted to connect in meaningful ways, and you'll thrive while under the influence of such adoration. Now is also a good time to promote creative projects or take calculated risks. Try not to be discouraged if you don't see immediate payoffs when Chiron stirs this evening. Impatience can trigger self-doubt and lead you to retreat prematurely. Reconnect with your youth and spend more time at home after the Gemini season kicks off. Put extra care in your bedtime routines to encourage restorative sleep once Luna enters Leo, aspecting Uranus and Mars."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-05-21",
+  "horoscope": "A long series of events culminates and triggers endings, dear Pisces, as the Leo Moon and Pluto face off. Make peace with any disappointments that arise if you decide it's time to abandon certain goals or relationships. Attempting to fix what's broken beyond repair will only prolong grief. Take space to rest and reset when Luna aspects Mercury and Saturn this afternoon. A bittersweet sense of relief and gratitude emerges if you appreciate the foundations you have to fall back on. Avoid the temptation to wax poetic while Venus squares Neptune. Instead, channel disappointment into a creative outlet or new venture."
+}
+
