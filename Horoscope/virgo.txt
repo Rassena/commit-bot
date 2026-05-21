@@ -559,3 +559,9 @@
   "horoscope": "The energy moves fast and demands quick thinking, dear Virgo, as the Aquarius Moon aspects Uranus and Neptune. Tend to your physical needs in preparation for whatever the universe throws your way. A romantic partner or professional ally might present you with an irresistible opportunity. Though it may be hard to believe, your dreams could actually come true today. Sacrifice a bad habit and wish upon a star when Luna and Pluto form a transactional aspect. You'll have the stamina necessary to take on more responsibilities while Saturn stirs this evening, but you should consider what is realistically sustainable."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-05-21",
+  "horoscope": "Connect with your physical and emotional needs before starting the day, dear Virgo. As the Leo Moon and Pluto face off, unhealthy behaviors will catch up with you. Work on breaking cycles that leave you feeling disconnected, disengaged, or unmotivated. Reach out for help or guidance if you're in over your head. Luna forms sweet aspects with Mercury and Saturn, encouraging you to draw strength from others. Once the wheels of change are set in motion, your sense of empowerment and control grows. Comparing yourself to peers could trigger setbacks and unrealistic expectations while Venus squares Neptune."
+}
+
