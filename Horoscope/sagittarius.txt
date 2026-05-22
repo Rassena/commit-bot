@@ -593,3 +593,9 @@
   "horoscope": "Sacrifices you've made in the name of growth pay off, dear Sagittarius, thanks to a sweet union between the Cancer Moon and Jupiter. Romantic and professional partnerships can also emerge, and you'll feel empowered with the knowledge that someone else has your back. When it comes to spiritual practices, these vibes are perfect for negotiating with the universe. Consider giving up a vice or bad habit in exchange for blessings. Emotional landmines throw you for a loop when Chiron grows restless this evening. Loving interactions or self-care help restore harmony once the Gemini season kicks off. Wishes may be granted while Luna enters Leo, aspecting Uranus and Mars."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-05-22",
+  "horoscope": "If you're not a believer in love at first sight, today's events could change your mind. Romantic encounters may very well be the result of divine intervention while the Gemini Sun and Uranus unite. However, that special someone might not match up to fantasies you've cultivated, so don't get hung up on unimportant details. Remind your heart that reliability, honesty, and intellectual connection are important foundations for any relationship when Mercury and Saturn align. Invest in your space to make it a harmonious reflection of who you are once Venus aspects the nodes of fate. Don't underestimate love's capacity to heal as Luna aligns with Chiron before entering Virgo."
+}
+
