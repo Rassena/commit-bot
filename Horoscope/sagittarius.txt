@@ -599,3 +599,9 @@
   "horoscope": "If you're not a believer in love at first sight, today's events could change your mind. Romantic encounters may very well be the result of divine intervention while the Gemini Sun and Uranus unite. However, that special someone might not match up to fantasies you've cultivated, so don't get hung up on unimportant details. Remind your heart that reliability, honesty, and intellectual connection are important foundations for any relationship when Mercury and Saturn align. Invest in your space to make it a harmonious reflection of who you are once Venus aspects the nodes of fate. Don't underestimate love's capacity to heal as Luna aligns with Chiron before entering Virgo."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-05-22",
+  "horoscope": "If you're not a believer in love at first sight, today's events could change your mind. Romantic encounters may very well be the result of divine intervention while the Gemini Sun and Uranus unite. However, that special someone might not match up to fantasies you've cultivated, so don't get hung up on unimportant details. Remind your heart that reliability, honesty, and intellectual connection are important foundations for any relationship when Mercury and Saturn align. Invest in your space to make it a harmonious reflection of who you are once Venus aspects the nodes of fate. Don't underestimate love's capacity to heal as Luna aligns with Chiron before entering Virgo."
+}
+
