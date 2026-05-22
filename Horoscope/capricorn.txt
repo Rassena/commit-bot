@@ -625,3 +625,9 @@
   "horoscope": "You'll feel curious, creative, and in the mood to connect, dear Capricorn, as the Pisces Moon aspects the Sun and Venus before entering a void-of-course state. Unfortunately, professional demands could make it difficult to find time for leisure. Boredom may creep in, putting you on autopilot and causing your efficiency and work quality to suffer. Take steps to reset this evening once Luna enters Aries and aligns with Uranus. Rest, healthy foods, and wellness practices can help you get back in your groove. Meanwhile, Mercury and Jupiter urge you to have fun with loved ones to reclaim a lust for life."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-05-22",
+  "horoscope": "The Gemini Sun and Uranus push you toward change, dear Capricorn. Though you're a creature of habit, use this energy to experiment with new schedules, wellness practices, or techniques. It could fall on you to help a family member out when Mercury and Saturn align. Give what you can to those in need, but establish healthy boundaries along the way. Keep an open mind while seeking your happily ever after as Venus aligns with the nodes of fate. If you're looking for love, consider taking a chance on someone you wouldn't typically go for. Emotional release brings healing and a restored sense of optimism once Luna aspects Chiron before entering Virgo."
+}
+
