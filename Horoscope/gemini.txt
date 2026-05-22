@@ -576,3 +576,9 @@
   "horoscope": "The Pisces Moon aspects the Sun and Venus before entering a void-of-course state, dearest Gemini. Though you'll feel inspired to chase success, invisible obstacles could inhibit growth. Instead of charging forward, try to view your situation from a different perspective. Consider where you require more experience or discipline. Celebrating how far you've come can also provide a necessary shift in attitude. Think positive thoughts while Mercury and Jupiter align, and it will be easier to manifest desires. Lucky breaks may emerge in the form of a new connection once Luna enters Aries and connects with Uranus this evening."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-05-22",
+  "horoscope": "Indulge your wild side while the Sun and Uranus unite in your sign, dear Gemini. You'll feel inspired to reinvent your image, but don't be surprised if copycats quickly emerge. You'll have a gift for drawing in successful and influential connections when Mercury and Saturn align. Foster these relationships carefully, as they may be useful down the line. A raise or promotion could end your workweek on a high note, thanks to sweet aspects between Venus and the nodes of fate. If you've hit a professional wall, try to carve out new opportunities. Spend time with friends, but don't stay out too late, as the Leo Moon aligns with Chiron before entering Virgo."
+}
+
