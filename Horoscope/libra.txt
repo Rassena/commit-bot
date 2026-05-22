@@ -521,3 +521,9 @@
   "horoscope": "Be mindful of how your conversations with the universe unfold, dearest Libra. As the Moon moves through Gemini, the signs you receive hold significant meaning. Be an agent for change once Mars debuts in Taurus, triggering major shifts throughout the coming weeks. Release what you do not need to ensure the transitions you face are positive. Professional growth could find you after Venus and Luna enter Cancer this evening. Focus on your highest aspirations, forge solid connections, and work toward manifesting your dream career. Dreamy visions may reveal what the future holds while Mercury and Neptune align tonight."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-05-22",
+  "horoscope": "You'll sense a charge in the air while the Gemini Sun and Uranus unite, darling Libra. Indulge your mystical side and have fun believing in the unbelievable. The universe will send signals that you're not alone, and random blessings could emerge. If you're hoping for more specific manifestations, ask for divine intervention when Mercury aspects Saturn. Take your wellness journey seriously as Venus aligns with the nodes of fate, and use visualization techniques to map out your best life. Enjoy a harmonious hangout session with your favorite people before retreating into solitude once the Leo Moon nods to Chiron, then debuts in Virgo."
+}
+
