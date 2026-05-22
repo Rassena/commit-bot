@@ -560,3 +560,9 @@
   "horoscope": "The Gemini Moon encourages you to think ahead, communicate clearly, and address problems that need solving, dearest Aries. Though you'll be eager to put plans in motion, it's important to establish a sustainable course of action once Mars enters Taurus. Quality work and consistent results will save you time in the end. Your home feels especially cozy after Venus and Luna debut in Cancer this evening. These vibes create a romantic backdrop that's perfect for developing bonds in private. You may also require more rest throughout the coming weeks. Unlock your visionary side by expanding upon existing dreams when Mercury and Neptune align tonight."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-05-22",
+  "horoscope": "Neurons fire rapidly, and ingenious ideas emerge, dearest ram, as the Gemini Sun and Uranus unite. Though rushes of inspiration will bring a thrill to your spirit, take time to refine your message. Mercury and Saturn align to reinforce the importance of composure when attempting to be heard. You could come across as impulsive or reckless if you don't put in the effort to consider the bigger picture. Romantic emotions trigger a sense of weightiness while Venus aspects the nodes of fate. Allow love to reshape visions of the future, but don't become untethered. Seek emotional and physical healing once the Leo Moon aligns with Chiron before drifting into Virgo."
+}
+
