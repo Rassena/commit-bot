@@ -565,3 +565,9 @@
   "horoscope": "Connect with your physical and emotional needs before starting the day, dear Virgo. As the Leo Moon and Pluto face off, unhealthy behaviors will catch up with you. Work on breaking cycles that leave you feeling disconnected, disengaged, or unmotivated. Reach out for help or guidance if you're in over your head. Luna forms sweet aspects with Mercury and Saturn, encouraging you to draw strength from others. Once the wheels of change are set in motion, your sense of empowerment and control grows. Comparing yourself to peers could trigger setbacks and unrealistic expectations while Venus squares Neptune."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-05-22",
+  "horoscope": "Major breakthroughs come on suddenly and may be difficult to process, dear Virgo. Expect the unexpected and prepare to jump if opportunity knocks while the Gemini Sun and Uranus join forces. Step into your authority but rule with grace when Mercury and Saturn align. Negotiations will go in your favor under these cosmic conditions, so don't hesitate to push for more. You'll feel yourself changing for the better when surrounded by positive influences, thanks to sweet connections between Venus and the nodes of fate. Shed the past and embrace a brighter future once the Leo Moon aspects Chiron before entering your sign."
+}
+
