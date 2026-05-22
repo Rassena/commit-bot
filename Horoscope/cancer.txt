@@ -488,3 +488,9 @@
   "horoscope": "Get your hustle on as Venus and Mars align, dearest crab. Being seen can be just as important as the work you do. Put extra effort into your appearance, make connections, and follow up with peers. Check in with your higher power throughout the day to ask for guidance or aid. Optimism, faith, and an eagerness to evolve serve you while Mercury aspects the nodes of fate and Pluto. If you sense the universe steering you in a new direction, keep an open mind. Formidable challenges could arise when the Moon squares Saturn this afternoon, but dont lose heart."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-05-22",
+  "horoscope": "Traverse unfamiliar territory to illuminate new corners of the psyche, dear Cancer. Your subconscious calls out for excitement while the Gemini Sun and Uranus unite. Study the works of people you admire as Mercury and Saturn align. Challenge yourself to build upon your own knowledge and goals, but remember that it can take a lifetime to master any craft. If you consistently seek to evolve, you will continuously improve. The universe sends you love when Venus aspects the nodes of fate. Make a pure-hearted wish to harness these vibes. Reaffirm your aspirations with positive mantras once Luna aligns with Chiron before entering Virgo."
+}
+
