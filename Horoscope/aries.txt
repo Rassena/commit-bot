@@ -578,3 +578,9 @@
   "horoscope": "Neurons fire rapidly, and ingenious ideas emerge, dearest ram, as the Gemini Sun and Uranus unite. Though rushes of inspiration will bring a thrill to your spirit, take time to refine your message. Mercury and Saturn align to reinforce the importance of composure when attempting to be heard. You could come across as impulsive or reckless if you don't put in the effort to consider the bigger picture. Romantic emotions trigger a sense of weightiness while Venus aspects the nodes of fate. Allow love to reshape visions of the future, but don't become untethered. Seek emotional and physical healing once the Leo Moon aligns with Chiron before drifting into Virgo."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-05-23",
+  "horoscope": "Work-related stress may follow you into the weekend, dearest Aries. As the Virgo quarter Moon aspects Uranus, Mars, Neptune, the nodes of fate, Venus, and Pluto, it will be difficult to compartmentalize. Unfinished business and unexpected hiccups will put you in a restless headspace. You could be forced to abandon plans if certain obligations can't wait to be addressed. Lean on your community for support to make the time go by more quickly. Offer to return any favors you receive before moving on. Decompress with healthy outlets once you finally get a chance to catch your breath."
+}
+
