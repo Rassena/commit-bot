@@ -486,3 +486,9 @@
   "horoscope": "A long series of events culminates and triggers endings, dear Pisces, as the Leo Moon and Pluto face off. Make peace with any disappointments that arise if you decide it's time to abandon certain goals or relationships. Attempting to fix what's broken beyond repair will only prolong grief. Take space to rest and reset when Luna aspects Mercury and Saturn this afternoon. A bittersweet sense of relief and gratitude emerges if you appreciate the foundations you have to fall back on. Avoid the temptation to wax poetic while Venus squares Neptune. Instead, channel disappointment into a creative outlet or new venture."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-05-23",
+  "horoscope": "Illusions shatter and give you a chance to start fresh, dearest Pisces. The Virgo quarter Moon shakes up your world, aspecting Uranus, Mars, Neptune, the nodes of fate, Venus, and Pluto. You won't be able to ignore habits or relationships that have been quietly destructive. Owning your patterns and how others influence might feel painful at first, but it proves empowering in the end. Pulling yourself out of a funk or bad situation isn't always easy. Remember to reach out for support when you need tenderness or encouragement. Sharing with family and friends can lead to enlightenment and validation that you're not alone."
+}
+
