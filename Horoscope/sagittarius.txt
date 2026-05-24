@@ -605,3 +605,9 @@
   "horoscope": "If you're not a believer in love at first sight, today's events could change your mind. Romantic encounters may very well be the result of divine intervention while the Gemini Sun and Uranus unite. However, that special someone might not match up to fantasies you've cultivated, so don't get hung up on unimportant details. Remind your heart that reliability, honesty, and intellectual connection are important foundations for any relationship when Mercury and Saturn align. Invest in your space to make it a harmonious reflection of who you are once Venus aspects the nodes of fate. Don't underestimate love's capacity to heal as Luna aligns with Chiron before entering Virgo."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-05-24",
+  "horoscope": "The universe may thrust you out of your comfort zone, dear archer, as the Virgo Moon aspects Mercury and Jupiter. Though you'll feel off balance at first, peering beyond the surface can help you recalibrate. Valuable experience can be gained by going with the flow. Be mindful of how you connect with others, and try not to hide behind emotional guards. Luckily, a soft aspect between the Gemini Sun and Neptune boosts confidence when common ground is found. Share your interests to establish kinship with the people you encounter. Head home early and prepare for Monday's arrival once Mars aspects the nodes of fate this evening."
+}
+
