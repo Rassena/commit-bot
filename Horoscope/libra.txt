@@ -527,3 +527,9 @@
   "horoscope": "You'll sense a charge in the air while the Gemini Sun and Uranus unite, darling Libra. Indulge your mystical side and have fun believing in the unbelievable. The universe will send signals that you're not alone, and random blessings could emerge. If you're hoping for more specific manifestations, ask for divine intervention when Mercury aspects Saturn. Take your wellness journey seriously as Venus aligns with the nodes of fate, and use visualization techniques to map out your best life. Enjoy a harmonious hangout session with your favorite people before retreating into solitude once the Leo Moon nods to Chiron, then debuts in Virgo."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-05-24",
+  "horoscope": "Meditation is a powerful tool that can help actualize dreams, dear Libra. As the Virgo Moon aspects Mercury and Jupiter, merge mindfulness with spirituality and practical thinking to improve your chances of manifesting success. Romantic outings can provide a much-needed distraction once the Gemini Sun and Neptune align. Getting lost in the moment with someone you adore will clear the path for divine inspiration and psychic downloads. If there's a specific topic you need guidance on, let the universe know before venturing out. Experiment with more efficient routines to free up space in your schedule when Mars aspects the nodes of fate."
+}
+
