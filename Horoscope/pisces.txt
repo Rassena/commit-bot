@@ -498,3 +498,9 @@
   "horoscope": "Illusions shatter and give you a chance to start fresh, dearest Pisces. The Virgo quarter Moon shakes up your world, aspecting Uranus, Mars, Neptune, the nodes of fate, Venus, and Pluto. You won't be able to ignore habits or relationships that have been quietly destructive. Owning your patterns and how others influence might feel painful at first, but it proves empowering in the end. Pulling yourself out of a funk or bad situation isn't always easy. Remember to reach out for support when you need tenderness or encouragement. Sharing with family and friends can lead to enlightenment and validation that you're not alone."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-05-24",
+  "horoscope": "Listen to what your body and soul need to feel refreshed, dear Pisces. Establishing personal balance should be a priority during the Virgo Moon's aspects to Mercury and Jupiter. Don't let others prevent you from enjoying a little &quot;me time.&quot; If you're in the mood for company, take charge and make plans that are nurturing and social. Your home feels extra dreamy when the Gemini Sun and Neptune align. Deck out your space with luxurious fabrics, aromas, and foods, and melt into splendor. Ideas gain traction and motivate you to push harder once Mars aligns with the nodes of fate tonight."
+}
+
