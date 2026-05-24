@@ -584,3 +584,9 @@
   "horoscope": "Work-related stress may follow you into the weekend, dearest Aries. As the Virgo quarter Moon aspects Uranus, Mars, Neptune, the nodes of fate, Venus, and Pluto, it will be difficult to compartmentalize. Unfinished business and unexpected hiccups will put you in a restless headspace. You could be forced to abandon plans if certain obligations can't wait to be addressed. Lean on your community for support to make the time go by more quickly. Offer to return any favors you receive before moving on. Decompress with healthy outlets once you finally get a chance to catch your breath."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-05-24",
+  "horoscope": "Catch up on sleep and center your plans around wellness rituals, dear Aries, as the Virgo Moon aspects Mercury and Jupiter. Think ahead to prevent stress from creeping in throughout the upcoming workweek. Even small efforts to simplify your life will go a long way in mitigating tension. Your mind cooks up creative ideas while the Gemini Sun and Neptune align. If you discover a way to manifest these visions, your brain will appreciate the challenge. A burst in motivation could tempt you to burn the midnight oil once Mars aligns the nodes of fate, but don't blow off your bedtime."
+}
+
