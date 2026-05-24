@@ -643,3 +643,9 @@
   "horoscope": "The universe expects a payback on its investments, darling Capricorn. As the Virgo quarter Moon aspects Uranus, Mars, Neptune, the nodes of fate, Venus, and Pluto, opportunities arrive and disappear suddenly. You'll need to step up and own the work that comes with manifesting wishes. At times, you may feel rushed to make a decision. Take a few deep breaths to clear your mind if this sense of urgency clouds your vision. Physical symptoms of stress also act as an indicator that it's time for a breather. Before entering an agreement, ask yourself who will benefit and what you can realistically take on."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-05-24",
+  "horoscope": "You're reminded that burdens, success, and adventures are meant to be shared, dear Capricorn, as the Virgo Moon aspects Mercury and Jupiter. Seek activities that involve teamwork or explore unfamiliar landscapes to improve relationships. Spiritually profound moments could arise, bringing you and loved ones closer than ever. Play games with the universe by asking for signs or pointing out synchronicities to friends. Connecting on an emotional level will feel light and easy when the Gemini Sun and Neptune align. Get lost in your own world by sharing fantasies and beliefs. Move past brainstorming phases and follow through on ideas once Mars aspects the nodes of fate this evening."
+}
+
