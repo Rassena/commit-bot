@@ -588,3 +588,9 @@
   "horoscope": "Indulge your wild side while the Sun and Uranus unite in your sign, dear Gemini. You'll feel inspired to reinvent your image, but don't be surprised if copycats quickly emerge. You'll have a gift for drawing in successful and influential connections when Mercury and Saturn align. Foster these relationships carefully, as they may be useful down the line. A raise or promotion could end your workweek on a high note, thanks to sweet aspects between Venus and the nodes of fate. If you've hit a professional wall, try to carve out new opportunities. Spend time with friends, but don't stay out too late, as the Leo Moon aligns with Chiron before entering Virgo."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-05-24",
+  "horoscope": "Be mindful of how you express emotions or articulate needs, dear Gemini. Fatigue could lead to moodiness and miscommunications while the Virgo Moon and Mercury square off. Make plans for an opulent night at home in an effort to decompress when Jupiter stirs. A euphoric energy permeates the air as the Sun and Neptune align. Bask in the glow of dreamy companions who bring out the best in you. It will be easier to determine who's been dimming your light with inspirational friends to lean on. Liberate yourself from thoughts that weigh you down and set your sights on greatness once Mars aspects the nodes of fate."
+}
+
