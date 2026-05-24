@@ -571,3 +571,9 @@
   "horoscope": "Major breakthroughs come on suddenly and may be difficult to process, dear Virgo. Expect the unexpected and prepare to jump if opportunity knocks while the Gemini Sun and Uranus join forces. Step into your authority but rule with grace when Mercury and Saturn align. Negotiations will go in your favor under these cosmic conditions, so don't hesitate to push for more. You'll feel yourself changing for the better when surrounded by positive influences, thanks to sweet connections between Venus and the nodes of fate. Shed the past and embrace a brighter future once the Leo Moon aspects Chiron before entering your sign."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-05-24",
+  "horoscope": "The Moon moves through your sign, dear Virgo, aspecting Mercury and Jupiter throughout the day. Recognize if you've been hiding from recognition you deserve, and start getting comfortable with receiving praise. Though humility is considered an honorable trait, too much of it can get in the way of success. Connect with peers who will motivate you to embrace the spotlight. Fantasize about stretching your wings while the Sun and Neptune align. Determination builds when you dare to dream big. However, no amount of wishing can take the place of concrete action. Outline next steps with someone you trust once Mars aspects the nodes of fate."
+}
+
