@@ -533,3 +533,9 @@
   "horoscope": "Meditation is a powerful tool that can help actualize dreams, dear Libra. As the Virgo Moon aspects Mercury and Jupiter, merge mindfulness with spirituality and practical thinking to improve your chances of manifesting success. Romantic outings can provide a much-needed distraction once the Gemini Sun and Neptune align. Getting lost in the moment with someone you adore will clear the path for divine inspiration and psychic downloads. If there's a specific topic you need guidance on, let the universe know before venturing out. Experiment with more efficient routines to free up space in your schedule when Mars aspects the nodes of fate."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-05-25",
+  "horoscope": "The Moon enters your sign, dear Libra, aspecting Uranus, Neptune, the Gemini Sun, and Pluto as the hours pass. Encourage mindfulness by reflecting on your goals before starting the day. You could encounter a crossroads while the Sun and Nodes of Fate form a t-square this afternoon. If you stay spiritually connected, it will be easier to determine the best path forward. Reflect on any signs you received recently if you must make quick decisions. Challenge yourself to unlock opportunities and creative potential when a grand trine forms this evening. Embrace change without abandoning core truths once Mars squares Pluto tonight."
+}
+
