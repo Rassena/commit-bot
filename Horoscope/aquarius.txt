@@ -572,3 +572,9 @@
   "horoscope": "Contain your excitement as new ideas flow in and out, darling Aquarius. The Libra Moon brings a mind-expanding energy to the table, but tense aspects with Venus and Saturn could cause you to miss important details. Set an intention to refine visions before following through on them. Doing so will help you determine what is and isn't worth your time. Meanwhile, the Gemini Sun and Pluto initiate personal transformations on the surface and within your heart. Changes in creative processes will reshape your identity and vice versa. Searches for enlightenment will be rewarded by the divine forces that guide you when Mercury stirs later tonight."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-05-26",
+  "horoscope": "Contain your excitement as new ideas flow in and out, darling Aquarius. The Libra Moon brings a mind-expanding energy to the table, but tense aspects with Venus and Saturn could cause you to miss important details. Set an intention to refine visions before following through on them. Doing so will help you determine what is and isn't worth your time. Meanwhile, the Gemini Sun and Pluto initiate personal transformations on the surface and within your heart. Changes in creative processes will reshape your identity and vice versa. Searches for enlightenment will be rewarded by the divine forces that guide you when Mercury stirs later tonight."
+}
+
