@@ -628,3 +628,9 @@
   "horoscope": "Opening up to new friends can help you recover from past betrayals, darling Scorpio. Evolve budding connections with transparent discussions while the Virgo Moon aspects Mercury and Jupiter. You'll likely find that your experiences aren't uncommon, and your willingness to share will help create a safer community. Focus on personal growth, noting where sacrifice or change must be embraced when the Sun and Neptune align. If you're in a serious relationship, teamwork increases your chances of achieving specific goals. Improve the health of your love life by pursuing passions that make you unique once Mars aspects the nodes of fate."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-05-26",
+  "horoscope": "Secrecy won't serve you when it comes to developing relationships or personal dreams, darling Scorpio. As the Libra Moon aspects Venus and Saturn, try to see the benefit in openly discussing your visions for tomorrow. Even if you don't like all the feedback you receive, wisdom can be found if you are willing to sift for it. Deep fulfillment can be received through vulnerable interactions, thanks to a sweet connection between the Gemini Sun and Pluto. Showing your true colors will transform partnerships and build trust. Private commitments might be made while Luna and Mercury align later tonight."
+}
+
