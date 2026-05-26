@@ -649,3 +649,9 @@
   "horoscope": "You're reminded that burdens, success, and adventures are meant to be shared, dear Capricorn, as the Virgo Moon aspects Mercury and Jupiter. Seek activities that involve teamwork or explore unfamiliar landscapes to improve relationships. Spiritually profound moments could arise, bringing you and loved ones closer than ever. Play games with the universe by asking for signs or pointing out synchronicities to friends. Connecting on an emotional level will feel light and easy when the Gemini Sun and Neptune align. Get lost in your own world by sharing fantasies and beliefs. Move past brainstorming phases and follow through on ideas once Mars aspects the nodes of fate this evening."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-05-26",
+  "horoscope": "Try to be more accepting of the love and nurturing others show you, dearest Capricorn."
+}
+
