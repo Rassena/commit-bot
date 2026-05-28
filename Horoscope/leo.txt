@@ -548,3 +548,9 @@
   "horoscope": "You're due for a bit of soul searching, beloved lion. The Scorpio Moon prods your emotions, forming tense aspects with Pluto and Mars. As you navigate these ups and downs, it becomes glaringly obvious where change and sacrifice are needed most. Unfortunately, not all revelations will be easy to digest, especially when love and professional aspirations are on the line. At times, you may feel like screaming toward the heavens. Take space to process and enjoy some self-care once Venus aligns with Luna and Saturn this evening. Seek release however you must, then prepare to move on."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-05-28",
+  "horoscope": "You're due for a bit of soul searching, beloved lion. The Scorpio Moon prods your emotions, forming tense aspects with Pluto and Mars. As you navigate these ups and downs, it becomes glaringly obvious where change and sacrifice are needed most. Unfortunately, not all revelations will be easy to digest, especially when love and professional aspirations are on the line. At times, you may feel like screaming toward the heavens. Take space to process and enjoy some self-care once Venus aligns with Luna and Saturn this evening. Seek release however you must, then prepare to move on."
+}
+
