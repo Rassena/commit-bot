@@ -577,3 +577,9 @@
   "horoscope": "The Moon moves through your sign, dear Virgo, aspecting Mercury and Jupiter throughout the day. Recognize if you've been hiding from recognition you deserve, and start getting comfortable with receiving praise. Though humility is considered an honorable trait, too much of it can get in the way of success. Connect with peers who will motivate you to embrace the spotlight. Fantasize about stretching your wings while the Sun and Neptune align. Determination builds when you dare to dream big. However, no amount of wishing can take the place of concrete action. Outline next steps with someone you trust once Mars aspects the nodes of fate."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-05-28",
+  "horoscope": "You might be forced to pick and choose which dreams are worth your time, dear Virgo. Recognize that sometimes it's necessary to sacrifice one goal in the service of another, while the Scorpio Moon aspects Pluto and Mars. Juggling too many agendas at once will eventually short-circuit your mind. Without the burden of extra tasks and ideas to grapple with, you'll have a chance to focus on what really matters. Pass along opportunities you can't follow through on when Venus aligns with Luna and Saturn this evening. Just be mindful of how referrals may reflect on you down the line."
+}
+
