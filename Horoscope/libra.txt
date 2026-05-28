@@ -545,3 +545,9 @@
   "horoscope": "The Moon enters your sign, dear Libra, aspecting Uranus, Neptune, the Gemini Sun, and Pluto as the hours pass. Encourage mindfulness by reflecting on your goals before starting the day. You could encounter a crossroads while the Sun and Nodes of Fate form a t-square this afternoon. If you stay spiritually connected, it will be easier to determine the best path forward. Reflect on any signs you received recently if you must make quick decisions. Challenge yourself to unlock opportunities and creative potential when a grand trine forms this evening. Embrace change without abandoning core truths once Mars squares Pluto tonight."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-05-28",
+  "horoscope": "Winning won't feel very rewarding if relationships are damaged on your way to the top, dearest Libra. Be considerate of others as you pursue your desires, as the Scorpio Moon aspects Pluto and Mars. Stepping over peers to steal the spotlight won't lead you to happiness. Instead, try cultivating an environment that allows everyone to be seen, valued, and validated. Your own confidence will flourish, and it will be easier to rally support when you need it most. Prosperous opportunities could find you once Venus aligns with Luna and Saturn this evening. Enjoy breakthroughs, but avoid the temptation to hoard success."
+}
+
