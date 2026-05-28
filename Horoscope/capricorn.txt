@@ -655,3 +655,9 @@
   "horoscope": "Try to be more accepting of the love and nurturing others show you, dearest Capricorn."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-05-28",
+  "horoscope": "Venture out into the real world while the Scorpio Moon forms challenging aspects with Pluto and Mars. You may not realize the negative impact screens have had on your psyche. Getting out to explore rich communities and cultural hubs will offer a much-needed reset. Appreciate the vibrant side of humanity, and take a break from the news. You can catch up on current affairs another day. Flirty vibes flow when Venus aligns with Luna and Saturn this evening. Try to loosen up if you struggle to come out of your shell, especially if someone cute approaches you."
+}
+
