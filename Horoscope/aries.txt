@@ -590,3 +590,9 @@
   "horoscope": "Catch up on sleep and center your plans around wellness rituals, dear Aries, as the Virgo Moon aspects Mercury and Jupiter. Think ahead to prevent stress from creeping in throughout the upcoming workweek. Even small efforts to simplify your life will go a long way in mitigating tension. Your mind cooks up creative ideas while the Gemini Sun and Neptune align. If you discover a way to manifest these visions, your brain will appreciate the challenge. A burst in motivation could tempt you to burn the midnight oil once Mars aligns the nodes of fate, but don't blow off your bedtime."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-05-29",
+  "horoscope": "You're deep in thought as the Scorpio Moon inspires you to look beyond the surface. A desire to experience life more fully drives you to swim in dark waters. Get lost in topics that fascinate you, Aries, finding a healthy channel for the obsessive nature of this lunar placement. Relations can evolve during this time, but vulnerabilities will need to be shared. Express your true feelings while Jupiter stirs this evening, sending electricity through your connections. When it comes to romance, discussions about commitment can suddenly turn serious. Just be mindful to listen when your partner shares once Luna and Mercury form an unbalanced aspect tonight."
+}
+
