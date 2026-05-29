@@ -594,3 +594,9 @@
   "horoscope": "Be mindful of how you express emotions or articulate needs, dear Gemini. Fatigue could lead to moodiness and miscommunications while the Virgo Moon and Mercury square off. Make plans for an opulent night at home in an effort to decompress when Jupiter stirs. A euphoric energy permeates the air as the Sun and Neptune align. Bask in the glow of dreamy companions who bring out the best in you. It will be easier to determine who's been dimming your light with inspirational friends to lean on. Liberate yourself from thoughts that weigh you down and set your sights on greatness once Mars aspects the nodes of fate."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-05-29",
+  "horoscope": "You're fully invested in the work you take on today, dearest Gemini. The Scorpio Moon heightens your business savvy and eye for detail, allowing you to excel within your field. Look for opportunities to improve your craft as you move from one task to the next. No matter how many times you've performed specific duties, there is always room for growth. Reward yourself for ending the workweek strong once Jupiter activates this evening. Healthy indulgences that allow you to decompress will feel extra sweet. Review your needs before accepting social invitations when Luna and Mercury form an unbalanced aspect tonight."
+}
+
