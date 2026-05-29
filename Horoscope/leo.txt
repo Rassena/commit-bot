@@ -554,3 +554,9 @@
   "horoscope": "You're due for a bit of soul searching, beloved lion. The Scorpio Moon prods your emotions, forming tense aspects with Pluto and Mars. As you navigate these ups and downs, it becomes glaringly obvious where change and sacrifice are needed most. Unfortunately, not all revelations will be easy to digest, especially when love and professional aspirations are on the line. At times, you may feel like screaming toward the heavens. Take space to process and enjoy some self-care once Venus aligns with Luna and Saturn this evening. Seek release however you must, then prepare to move on."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-05-29",
+  "horoscope": "The Scorpio Moon puts you in a romantic yet moody headspace, warm lion. Explore your emotions and sensuality, fully owning your feelings and how they shape close connections. A desire to baby loved ones triggers nurturing instincts, but try not to smother others. Pull back to shower yourself with the same level of compassion and care once Jupiter activates this evening. If it's been a while since you've enjoyed some alone time, use this energy as an excuse to hide. Friends may feel disappointed if you decline their invitations when Luna and Mercury form an unbalanced aspect tonight, but don't compromise your need to relax."
+}
+
