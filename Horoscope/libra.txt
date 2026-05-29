@@ -557,3 +557,9 @@
   "horoscope": "Appreciate the resources at your disposal to see their full potential, dear Libra. The Scorpio Moon cracks the door to your manifestation goals, but it will take some effort to alchemize stone into gold. Sift through your options before investing in new dreams, opportunities, or materials. Simplify your agenda if there are too many irons in the fire. Your ability to cut out waste and improve existing projects or ideas gains you recognition when Jupiter stirs this evening. Enlist the support of loved ones while Luna and Mercury form an unbalanced aspect tonight, especially if certain ventures leave you feeling stretched thin."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-05-29",
+  "horoscope": "Appreciate the resources at your disposal to see their full potential, dear Libra. The Scorpio Moon cracks the door to your manifestation goals, but it will take some effort to alchemize stone into gold. Sift through your options before investing in new dreams, opportunities, or materials. Simplify your agenda if there are too many irons in the fire. Your ability to cut out waste and improve existing projects or ideas gains you recognition when Jupiter stirs this evening. Enlist the support of loved ones while Luna and Mercury form an unbalanced aspect tonight, especially if certain ventures leave you feeling stretched thin."
+}
+
