@@ -661,3 +661,9 @@
   "horoscope": "Venture out into the real world while the Scorpio Moon forms challenging aspects with Pluto and Mars. You may not realize the negative impact screens have had on your psyche. Getting out to explore rich communities and cultural hubs will offer a much-needed reset. Appreciate the vibrant side of humanity, and take a break from the news. You can catch up on current affairs another day. Flirty vibes flow when Venus aligns with Luna and Saturn this evening. Try to loosen up if you struggle to come out of your shell, especially if someone cute approaches you."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-05-29",
+  "horoscope": "Try not to fixate on minor disagreements with peers who are ultimately on your side, dear Capricorn. The Scorpio Moon intensifies the effect political, philosophical, or moral ideologies have on your emotions. Pushing away people who see the same big picture with some variation should be treated as allies. Failing to do so will only create division where unity is needed most. Prioritize causes and events that reinforce shared values once Jupiter stirs this evening. Optimism can be restored if you embrace community. Head home at a reasonable hour when Luna and Mercury form an unbalanced aspect, or social rifts could resurface."
+}
+
