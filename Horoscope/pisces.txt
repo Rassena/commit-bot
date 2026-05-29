@@ -522,3 +522,9 @@
   "horoscope": "Hide from needy companions to focus on yourself, dear Pisces, as the Scorpio Moon aspects Pluto and Mars. A boost in creativity could be the result of divine intervention. The stars align to help you discover new talents, opportunities, and adventures. Giving your energy to people or activities that don't elevate your aura may cause you to miss out on valuable breakthroughs. You'll have more love and attention to offer once Venus aligns with Luna and Saturn this evening. However, it's important to maintain strong boundaries with anyone who takes advantage of your generosity or drains your energetic resources."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-05-29",
+  "horoscope": "Scorpio Moons have a sacred meaning for you, dearest Pisces. The sector of your chart that governs luck and spirituality reignites the internal spark that makes you so special. Your light grows brightly under this luminary placement, especially when you recognize the divine forces that guide you. Spend time connecting with your higher power, and appreciate your own magick. Jupiter stirs this evening to boost your heart chakra. Seek adventure or explore philosophical realms with someone you cherish to build lasting bonds. Invest in your roots and sense of security once Luna and Mercury form an unbalanced aspect tonight."
+}
+
