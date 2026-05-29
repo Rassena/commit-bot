@@ -551,3 +551,9 @@
   "horoscope": "Winning won't feel very rewarding if relationships are damaged on your way to the top, dearest Libra. Be considerate of others as you pursue your desires, as the Scorpio Moon aspects Pluto and Mars. Stepping over peers to steal the spotlight won't lead you to happiness. Instead, try cultivating an environment that allows everyone to be seen, valued, and validated. Your own confidence will flourish, and it will be easier to rally support when you need it most. Prosperous opportunities could find you once Venus aligns with Luna and Saturn this evening. Enjoy breakthroughs, but avoid the temptation to hoard success."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-05-29",
+  "horoscope": "Appreciate the resources at your disposal to see their full potential, dear Libra. The Scorpio Moon cracks the door to your manifestation goals, but it will take some effort to alchemize stone into gold. Sift through your options before investing in new dreams, opportunities, or materials. Simplify your agenda if there are too many irons in the fire. Your ability to cut out waste and improve existing projects or ideas gains you recognition when Jupiter stirs this evening. Enlist the support of loved ones while Luna and Mercury form an unbalanced aspect tonight, especially if certain ventures leave you feeling stretched thin."
+}
+
