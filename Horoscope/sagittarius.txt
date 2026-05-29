@@ -611,3 +611,9 @@
   "horoscope": "The universe may thrust you out of your comfort zone, dear archer, as the Virgo Moon aspects Mercury and Jupiter. Though you'll feel off balance at first, peering beyond the surface can help you recalibrate. Valuable experience can be gained by going with the flow. Be mindful of how you connect with others, and try not to hide behind emotional guards. Luckily, a soft aspect between the Gemini Sun and Neptune boosts confidence when common ground is found. Share your interests to establish kinship with the people you encounter. Head home early and prepare for Monday's arrival once Mars aspects the nodes of fate this evening."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-05-29",
+  "horoscope": "You'll be in uncharacteristically shy spirits, dear archer, as the Scorpio Moon illuminates your solar twelfth house. Surface-level interactions won't be enough to coax you out of the shadows. If someone wants to connect, they'll need to shed the masks they wear in public. Instant friendships form with anyone willing to traverse deep waters at your side. Just be mindful of how dark histories influence your conversation to avoid trauma bonds. Solitude can be equally fulfilling if you're not ready to showcase vulnerabilities, especially when you embrace spiritual practices. Acknowledge if certain relationships have been eroding your sense of self while Luna and Mercury enter an unbalanced aspect tonight. "
+}
+
