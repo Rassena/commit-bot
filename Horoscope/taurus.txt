@@ -446,3 +446,9 @@
   "horoscope": "Loving relationships are a top priority while the Moon continues through Scorpio. As a loyal and affectionate companion, you expect romantic partners to match your energy. Luckily, many will be in the mood to take connections further. Whether you're just getting to know your latest crush or have been committed for quite some time, use these vibes to discover new things about that special someone. The chemistry you cultivate will be palpable once Jupiter activates this evening. Try to be patient when building trust, as Luna and Mercury form an unbalanced aspect tonight, or you could miss red flags."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-05-31",
+  "horoscope": "The universe delivers second chances as the Sagittarius Blue Moon shines overhead. Make another pass at goals that have hit a snag, trusting your ability to learn from past mistakes. Romantic partnerships benefit from these vibes, especially when shared dreams are discussed and invested in. Shifts in business arrangements may occur, leading to prosperous milestones. Spend time reflecting on personal growth as Saturn taps you on the shoulder. If you actively take steps to evolve, strength and power build. Soothe old wounds with positive affirmations once Mercury and Chiron align this evening. Lay low and recharge with simple indulgences before Monday creeps in."
+}
+
