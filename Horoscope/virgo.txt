@@ -589,3 +589,9 @@
   "horoscope": "What are you striving for, and how do these goals impact your emotions? It's time to get serious about the pursuit of happiness, dearest Virgo, especially if other aspirations have cut into your joy. The Sagittarius Blue Moon puts you at a crossroads, asking you to reconsider current trajectories. If you've been caught in a loop of success that comes with unintended costs, you might be seeking validation in the wrong places. Discuss the future with family, business partners, or that special someone while Saturn is activated. Those who want the best for you won't be disappointed if you need to pull back. Revise your resume or rehearse setting boundaries at work when Mercury aspects Chiron this evening."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-05-31",
+  "horoscope": "What are you striving for, and how do these goals impact your emotions? It's time to get serious about the pursuit of happiness, dearest Virgo, especially if other aspirations have cut into your joy. The Sagittarius Blue Moon puts you at a crossroads, asking you to reconsider current trajectories. If you've been caught in a loop of success that comes with unintended costs, you might be seeking validation in the wrong places. Discuss the future with family, business partners, or that special someone while Saturn is activated. Those who want the best for you won't be disappointed if you need to pull back. Revise your resume or rehearse setting boundaries at work when Mercury aspects Chiron this evening."
+}
+
