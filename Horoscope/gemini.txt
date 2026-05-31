@@ -600,3 +600,9 @@
   "horoscope": "You're fully invested in the work you take on today, dearest Gemini. The Scorpio Moon heightens your business savvy and eye for detail, allowing you to excel within your field. Look for opportunities to improve your craft as you move from one task to the next. No matter how many times you've performed specific duties, there is always room for growth. Reward yourself for ending the workweek strong once Jupiter activates this evening. Healthy indulgences that allow you to decompress will feel extra sweet. Review your needs before accepting social invitations when Luna and Mercury form an unbalanced aspect tonight."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-05-31",
+  "horoscope": "Give in to romantic notions under the Sagittarius Blue Moon, believing that some fairytales do come true. Even if visions don't pan out exactly as you imagined, the journey will feel more elevating and beautiful if you walk with an optimistic heart. Your ability to charm others becomes supercharged, and now is a good time to seek community support. If you struggle with self-promotion, ask your famous friends for tips once Saturn activates. Lead with flattery and show respect to receive valuable guidance. Soak up the reinforcement peers provide to heal insecurities and issues around imposter syndrome when Mercury and Chiron align this evening."
+}
+
