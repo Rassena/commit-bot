@@ -583,3 +583,9 @@
   "horoscope": "You might be forced to pick and choose which dreams are worth your time, dear Virgo. Recognize that sometimes it's necessary to sacrifice one goal in the service of another, while the Scorpio Moon aspects Pluto and Mars. Juggling too many agendas at once will eventually short-circuit your mind. Without the burden of extra tasks and ideas to grapple with, you'll have a chance to focus on what really matters. Pass along opportunities you can't follow through on when Venus aligns with Luna and Saturn this evening. Just be mindful of how referrals may reflect on you down the line."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-05-31",
+  "horoscope": "What are you striving for, and how do these goals impact your emotions? It's time to get serious about the pursuit of happiness, dearest Virgo, especially if other aspirations have cut into your joy. The Sagittarius Blue Moon puts you at a crossroads, asking you to reconsider current trajectories. If you've been caught in a loop of success that comes with unintended costs, you might be seeking validation in the wrong places. Discuss the future with family, business partners, or that special someone while Saturn is activated. Those who want the best for you won't be disappointed if you need to pull back. Revise your resume or rehearse setting boundaries at work when Mercury aspects Chiron this evening."
+}
+
