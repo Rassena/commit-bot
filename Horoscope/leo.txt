@@ -560,3 +560,9 @@
   "horoscope": "The Scorpio Moon puts you in a romantic yet moody headspace, warm lion. Explore your emotions and sensuality, fully owning your feelings and how they shape close connections. A desire to baby loved ones triggers nurturing instincts, but try not to smother others. Pull back to shower yourself with the same level of compassion and care once Jupiter activates this evening. If it's been a while since you've enjoyed some alone time, use this energy as an excuse to hide. Friends may feel disappointed if you decline their invitations when Luna and Mercury form an unbalanced aspect tonight, but don't compromise your need to relax."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-06-02",
+  "horoscope": "Share knowledge to gain notoriety and earn the respect of peers, dearest Leo. Find ways to slip wise sentiments into your conversations while the Gemini Sun and Saturn align. Spirited debates may occur if you encounter a worthy opponent. Prioritize mutual courtesies so no one's feelings get hurt. Work could pick up in the last hour when the Capricorn Moon aspects Mars and Saturn. Though surprise overtime is never any fun, be a team player to secure allies and impress superiors. Use your dedication as leverage the next time you're up for a review, raise, or promotion."
+}
+
