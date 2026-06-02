@@ -606,3 +606,9 @@
   "horoscope": "Give in to romantic notions under the Sagittarius Blue Moon, believing that some fairytales do come true. Even if visions don't pan out exactly as you imagined, the journey will feel more elevating and beautiful if you walk with an optimistic heart. Your ability to charm others becomes supercharged, and now is a good time to seek community support. If you struggle with self-promotion, ask your famous friends for tips once Saturn activates. Lead with flattery and show respect to receive valuable guidance. Soak up the reinforcement peers provide to heal insecurities and issues around imposter syndrome when Mercury and Chiron align this evening."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-06-02",
+  "horoscope": "You'll thrive within social environments that give you a chance to flex your leadership and organizational skills, dear Gemini. Take the lead, and others will follow suit while the Sun and Saturn align. Influential members of your extended sphere may notice your efforts, helping you establish your own brand of notoriety. Seize opportunities to swap advice or share wisdom with people you admire. Retreat to more intimate settings when the Capricorn Moon aspects Mars and Saturn this evening. You'll need to recharge after so much activity, and can gain additional insights once you've recapped the day with your favorite person."
+}
+
