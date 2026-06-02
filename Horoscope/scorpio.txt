@@ -634,3 +634,9 @@
   "horoscope": "Secrecy won't serve you when it comes to developing relationships or personal dreams, darling Scorpio. As the Libra Moon aspects Venus and Saturn, try to see the benefit in openly discussing your visions for tomorrow. Even if you don't like all the feedback you receive, wisdom can be found if you are willing to sift for it. Deep fulfillment can be received through vulnerable interactions, thanks to a sweet connection between the Gemini Sun and Pluto. Showing your true colors will transform partnerships and build trust. Private commitments might be made while Luna and Mercury align later tonight."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-06-02",
+  "horoscope": "Fair division of responsibilities and resources will bring ease to romantic and professional partnerships, dear Scorpio. As the Gemini Sun and Saturn align, establish terms to ensure all relevant parties are taken care of and carrying their weight. Encourage open dialogues to make your efforts feel more democratic. If you come across as domineering, you could experience major backlash once the Capricorn Moon aspects Mars and Saturn this evening. Mess piles up as grievances are aired, and a desire to shift the conversation may cause you to accept unfair conditions. If tensions arise, set plans to reevaluate in the near future."
+}
+
