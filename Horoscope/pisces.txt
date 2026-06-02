@@ -528,3 +528,9 @@
   "horoscope": "Scorpio Moons have a sacred meaning for you, dearest Pisces. The sector of your chart that governs luck and spirituality reignites the internal spark that makes you so special. Your light grows brightly under this luminary placement, especially when you recognize the divine forces that guide you. Spend time connecting with your higher power, and appreciate your own magick. Jupiter stirs this evening to boost your heart chakra. Seek adventure or explore philosophical realms with someone you cherish to build lasting bonds. Invest in your roots and sense of security once Luna and Mercury form an unbalanced aspect tonight."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-06-02",
+  "horoscope": "Recognize that your wants and needs are important and should be advocated for. Address behaviors that cause you to conceal desires to avoid inconveniencing others, dearest Pisces. A stabilizing aspect between the Gemini Sun and Saturn presses you to build stronger relationships. Start by speaking up for yourself calmly and clearly. Likely, the people around you didn't realize you've been feeling so neglected. Give family and friends a chance to adjust when the Capricorn Moon aspects Mars and Saturn this evening. If you feel agitated or overlooked, gently redirect the focus to earlier discussions."
+}
+
