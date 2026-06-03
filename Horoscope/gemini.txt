@@ -612,3 +612,9 @@
   "horoscope": "You'll thrive within social environments that give you a chance to flex your leadership and organizational skills, dear Gemini. Take the lead, and others will follow suit while the Sun and Saturn align. Influential members of your extended sphere may notice your efforts, helping you establish your own brand of notoriety. Seize opportunities to swap advice or share wisdom with people you admire. Retreat to more intimate settings when the Capricorn Moon aspects Mars and Saturn this evening. You'll need to recharge after so much activity, and can gain additional insights once you've recapped the day with your favorite person."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-06-03",
+  "horoscope": "You'll become increasingly motivated by money, success, and making your family proud, dear Gemini. Feed off the glory that comes when hard work pays off, while Mercury aspects the Nodes of Fate and Neptune. Appreciate the foundations others have laid so you can make your way in the world. You should also express gratitude to anyone who has taken a chance on you and provided opportunities. You may sense a touch of jealousy from peers, but don't let negativity deter you from continuing forward. Protect your assets within romantic and professional partnerships, but leave room to share, as the Capricorn Moon opposes Venus and Jupiter."
+}
+
