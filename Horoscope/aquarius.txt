@@ -584,3 +584,9 @@
   "horoscope": "You'll feel steady on your feet and empowered to make big moves, dear Aquarius. Lean into change as the Scorpio Moon touts themes around transformation. If you're not willing to evolve with the times, you might be left behind. Having a reliable partner by your side can improve your chances of succeeding with each transition you embrace. Celebrate your teammate to reaffirm their commitment to shared goals. Now is also a good time to outline the respective duties clearly. Share your ideas without silencing others when Luna and Mercury form an unbalanced aspect tonight. If you struggle to get your point across, wait for your moment to speak."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-06-03",
+  "horoscope": "You'll feel more comfortable with recent changes while Mercury aspects the Nodes of Fate and Neptune. Stay focused to gain confidence, dear Aquarius, as slipping into autopilot could cause you to backslide. Instead of checking out, celebrate each new technique or routine you've embraced. Themes around teamwork and equal partnerships also come into play. Speak up to ensure your opinions aren't lost in the shuffle. Double-check your calendar for appointments or meetings as the Capricorn Moon opposes Venus and Jupiter. If you have some free time, use it to catch up on solitude and self-care."
+}
+
