@@ -596,3 +596,9 @@
   "horoscope": "You're deep in thought as the Scorpio Moon inspires you to look beyond the surface. A desire to experience life more fully drives you to swim in dark waters. Get lost in topics that fascinate you, Aries, finding a healthy channel for the obsessive nature of this lunar placement. Relations can evolve during this time, but vulnerabilities will need to be shared. Express your true feelings while Jupiter stirs this evening, sending electricity through your connections. When it comes to romance, discussions about commitment can suddenly turn serious. Just be mindful to listen when your partner shares once Luna and Mercury form an unbalanced aspect tonight."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-06-04",
+  "horoscope": "Break free of unhealthy cycles without overthinking how or why, dearest Aries. As the Capricorn Moon squares Chiron before entering Aquarius, it's time to create better structures and rules that meet your needs. Inspiration grows when you connect with peers who have chosen to strike out on their own, while Luna aspects Uranus. Deep knowledge is dropped to reframe the way you view growth and challenges completely. Share your insights as Neptune and Pluto activate later today. The feedback you receive will boost confidence and alter the way others see you, making it easier to transition into a position of influence."
+}
+
