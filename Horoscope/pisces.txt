@@ -540,3 +540,9 @@
   "horoscope": "Recognize that your wants and needs are important and should be advocated for. Address behaviors that cause you to conceal desires to avoid inconveniencing others, dearest Pisces. A stabilizing aspect between the Gemini Sun and Saturn presses you to build stronger relationships. Start by speaking up for yourself calmly and clearly. Likely, the people around you didn't realize you've been feeling so neglected. Give family and friends a chance to adjust when the Capricorn Moon aspects Mars and Saturn this evening. If you feel agitated or overlooked, gently redirect the focus to earlier discussions."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-06-04",
+  "horoscope": "Dips in motivation could be the result of too much screen time, dear Pisces. Restrict access to distracting devices while the Capricorn Moon and Chiron square off. You'll appreciate the peace and quiet that comes with unplugging once Luna debuts in Aquarius. You may begin to rethink your relationship with technology as Uranus, Neptune, and Pluto activate. Consider how modern innovations can work for you rather than feel beholden to the digital realm. If you've been thinking of starting a side business, start laying the groundwork by curating a marketable brand and image. If you're more interested in recharging and relaxation, fully embrace leisure!"
+}
+
