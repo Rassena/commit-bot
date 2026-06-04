@@ -494,3 +494,9 @@
   "horoscope": "Traverse unfamiliar territory to illuminate new corners of the psyche, dear Cancer. Your subconscious calls out for excitement while the Gemini Sun and Uranus unite. Study the works of people you admire as Mercury and Saturn align. Challenge yourself to build upon your own knowledge and goals, but remember that it can take a lifetime to master any craft. If you consistently seek to evolve, you will continuously improve. The universe sends you love when Venus aspects the nodes of fate. Make a pure-hearted wish to harness these vibes. Reaffirm your aspirations with positive mantras once Luna aligns with Chiron before entering Virgo."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-06-04",
+  "horoscope": "The Capricorn Moon squares Chiron before making her debut in Aquarius. Alarm bells go off if your sense of freedom feels compromised by relationships or responsibilities. Try not to make any rash decisions when it comes to closing chapters, Cancer, but do take space to get your thoughts in order. Philosophical epiphanies will give you a better understanding of your options while Luna aspects Uranus, Neptune, and Pluto. You'll also gain a clearer perspective of where others are coming from. Separate facts from feelings if emotions often shape your choices, especially if you're susceptible to sweet talk or manipulation."
+}
+
