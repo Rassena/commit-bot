@@ -452,3 +452,9 @@
   "horoscope": "The universe delivers second chances as the Sagittarius Blue Moon shines overhead. Make another pass at goals that have hit a snag, trusting your ability to learn from past mistakes. Romantic partnerships benefit from these vibes, especially when shared dreams are discussed and invested in. Shifts in business arrangements may occur, leading to prosperous milestones. Spend time reflecting on personal growth as Saturn taps you on the shoulder. If you actively take steps to evolve, strength and power build. Soothe old wounds with positive affirmations once Mercury and Chiron align this evening. Lay low and recharge with simple indulgences before Monday creeps in."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-06-04",
+  "horoscope": "Positive affirmations, spiritual practices, and dreaming big all have their limitations, dear Taurus. Back up your goals by changing structures that rule your life. As the Capricorn Moon squares Chiron and then enters Aquarius, sudden paradigm shifts occur. These vibes act as a wake-up call to fight for your aspirations. The ground beneath you may feel unsteady while Luna aspects Uranus, Neptune, and Pluto throughout the day. Even if your plan isn't perfect or complete, keep pushing ahead. If you don't act now to change your situation, you might never find the courage to do so."
+}
+
