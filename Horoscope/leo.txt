@@ -578,3 +578,9 @@
   "horoscope": "Share knowledge to gain notoriety and earn the respect of peers, dearest Leo. Find ways to slip wise sentiments into your conversations while the Gemini Sun and Saturn align. Spirited debates may occur if you encounter a worthy opponent. Prioritize mutual courtesies so no one's feelings get hurt. Work could pick up in the last hour when the Capricorn Moon aspects Mars and Saturn. Though surprise overtime is never any fun, be a team player to secure allies and impress superiors. Use your dedication as leverage the next time you're up for a review, raise, or promotion."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-06-04",
+  "horoscope": "Simple mindfulness and wellness practices will get your day off to a stellar start, Leo. Work for positive change as the Capricorn Moon aspects Chiron. Luna's debut into Aquarius will have a revolutionary yet harmonious effect on you. Watch for chance encounters and instant attraction while Uranus stirs. Use witty banter to evolve connections you're interested in exploring, no matter how suddenly they came on. The universe pulls strings to fulfill romantic fantasies when Neptune and Pluto activate later today. Strange coincidences or sensations of dj vu can indicate that something magical is about to happen. Stay optimistic and open to receiving blessings."
+}
+
