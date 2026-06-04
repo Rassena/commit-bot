@@ -596,3 +596,9 @@
   "horoscope": "Put hurtful interactions and negative self-talk behind you, dear Aquarius, as the Capricorn Moon squares Chiron, healing and release play into one another. You won't have much time to reflect on the past once Luna enters your sign. Auspicious aspects with Uranus, Neptune, and Pluto suggest that a boost in popularity will trigger creative breakthroughs and transformative opportunities. Don't second-guess your skills when the universe opens doors to help you get ahead. The more secure you are in yourself, the easier it will be to produce visionary work. Create a supportive environment with peers to maintain allies as your star rises."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-06-04",
+  "horoscope": "Put hurtful interactions and negative self-talk behind you, dear Aquarius, as the Capricorn Moon squares Chiron, healing and release play into one another. You won't have much time to reflect on the past once Luna enters your sign. Auspicious aspects with Uranus, Neptune, and Pluto suggest that a boost in popularity will trigger creative breakthroughs and transformative opportunities. Don't second-guess your skills when the universe opens doors to help you get ahead. The more secure you are in yourself, the easier it will be to produce visionary work. Create a supportive environment with peers to maintain allies as your star rises."
+}
+
