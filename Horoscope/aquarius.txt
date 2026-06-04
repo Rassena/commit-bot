@@ -590,3 +590,9 @@
   "horoscope": "You'll feel more comfortable with recent changes while Mercury aspects the Nodes of Fate and Neptune. Stay focused to gain confidence, dear Aquarius, as slipping into autopilot could cause you to backslide. Instead of checking out, celebrate each new technique or routine you've embraced. Themes around teamwork and equal partnerships also come into play. Speak up to ensure your opinions aren't lost in the shuffle. Double-check your calendar for appointments or meetings as the Capricorn Moon opposes Venus and Jupiter. If you have some free time, use it to catch up on solitude and self-care."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-06-04",
+  "horoscope": "Put hurtful interactions and negative self-talk behind you, dear Aquarius, as the Capricorn Moon squares Chiron, healing and release play into one another. You won't have much time to reflect on the past once Luna enters your sign. Auspicious aspects with Uranus, Neptune, and Pluto suggest that a boost in popularity will trigger creative breakthroughs and transformative opportunities. Don't second-guess your skills when the universe opens doors to help you get ahead. The more secure you are in yourself, the easier it will be to produce visionary work. Create a supportive environment with peers to maintain allies as your star rises."
+}
+
