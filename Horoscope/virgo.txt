@@ -619,3 +619,9 @@
   "horoscope": "Digging your heels in won't always get you what you want, dearest Virgo. However, as the Gemini Sun and Saturn align, now is a good time to try. If your demands are fair and you have valid arguments to back them up, it won't be easy for the involved parties to refuse you. Stand your ground, but understand the importance of giving a little to give a little. If loved ones or employees feel taken advantage of, it could hurt your chances of gaining traction in the future. Throw playful banter into your negotiations to lighten the mood when the Capricorn Moon aspects Mars and Saturn this evening."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-06-04",
+  "horoscope": "Make healthy choices to pull yourself out of heartache or dark periods, dear Virgo. Recent ego bruises may have left you sensitive and in need of a project. As the Capricorn Moon squares Chiron, then enters Aquarius, it's time to evolve the grieving process. Set manageable intentions as your morning kicks off, and reward your accomplishments. Your prospects will quickly improve while Luna aspects Uranus, Neptune, and Pluto throughout the day. Prepare to pivot as big opportunities overshadow less significant goals. As your mood improves, take steps to strengthen bonds with colleagues. You'll be glad you did if you need support or favors later."
+}
+
