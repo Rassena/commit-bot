@@ -640,3 +640,9 @@
   "horoscope": "Fair division of responsibilities and resources will bring ease to romantic and professional partnerships, dear Scorpio. As the Gemini Sun and Saturn align, establish terms to ensure all relevant parties are taken care of and carrying their weight. Encourage open dialogues to make your efforts feel more democratic. If you come across as domineering, you could experience major backlash once the Capricorn Moon aspects Mars and Saturn this evening. Mess piles up as grievances are aired, and a desire to shift the conversation may cause you to accept unfair conditions. If tensions arise, set plans to reevaluate in the near future."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-06-04",
+  "horoscope": "It may be necessary to make up for recent mistakes, dear Scorpio, as the Capricorn Moon squares Chiron. Swallow your pride, take accountability for your actions, and begin the healing process. Your willingness to acknowledge flaws and improve offers significant rewards once Luna enters Aquarius, forming positive aspects with Uranus, Neptune, and Pluto. The universe and your peers will be impressed by your desire to evolve, and both will go out of their way to ensure you feel supported. Reflect on your relationship with power, considering how you can maintain it while remaining a team player."
+}
+
