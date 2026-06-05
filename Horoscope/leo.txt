@@ -590,3 +590,9 @@
   "horoscope": "Simple mindfulness and wellness practices will get your day off to a stellar start, Leo. Work for positive change as the Capricorn Moon aspects Chiron. Luna's debut into Aquarius will have a revolutionary yet harmonious effect on you. Watch for chance encounters and instant attraction while Uranus stirs. Use witty banter to evolve connections you're interested in exploring, no matter how suddenly they came on. The universe pulls strings to fulfill romantic fantasies when Neptune and Pluto activate later today. Strange coincidences or sensations of dj vu can indicate that something magical is about to happen. Stay optimistic and open to receiving blessings."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-06-05",
+  "horoscope": "Fill loved ones in on any major moves you plan to execute in the near future, dearest Leo. Though you could receive some pushback or pressing questions, getting support in advance will make your overall journey easier. Those who feel left out of decisions that affect them might choose to make life difficult for others. If consensus isn't reached upon your initial proposal, embrace the spirit of compromise by asking for feedback. Resistance can be mitigated if others are given a chance to discuss concerns openly. If conflict persists, seek a third-party to mediate when the Sun and Luna form a harmonious aspect this afternoon."
+}
+
