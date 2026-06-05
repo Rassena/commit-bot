@@ -602,3 +602,9 @@
   "horoscope": "Break free of unhealthy cycles without overthinking how or why, dearest Aries. As the Capricorn Moon squares Chiron before entering Aquarius, it's time to create better structures and rules that meet your needs. Inspiration grows when you connect with peers who have chosen to strike out on their own, while Luna aspects Uranus. Deep knowledge is dropped to reframe the way you view growth and challenges completely. Share your insights as Neptune and Pluto activate later today. The feedback you receive will boost confidence and alter the way others see you, making it easier to transition into a position of influence."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-06-05",
+  "horoscope": "Your morning starts with a bit of stop-and-go as the Aquarius Moon aspects Saturn and Mars. You'll have specific visions on how the day should play out, but difficult characters may stand in your way. Digging your heels in won't mitigate stubborn peers, leaving you at an impasse. If you want to feel accomplished, try building bridges instead of barreling through walls. A switch flips once the Gemini Sun and Luna align this afternoon. People will seem less combative and willing to find solutions. Brainstorming sessions can bring everyone together, and innovative plans will emerge from intellectual exchange."
+}
+
