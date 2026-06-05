@@ -546,3 +546,9 @@
   "horoscope": "Dips in motivation could be the result of too much screen time, dear Pisces. Restrict access to distracting devices while the Capricorn Moon and Chiron square off. You'll appreciate the peace and quiet that comes with unplugging once Luna debuts in Aquarius. You may begin to rethink your relationship with technology as Uranus, Neptune, and Pluto activate. Consider how modern innovations can work for you rather than feel beholden to the digital realm. If you've been thinking of starting a side business, start laying the groundwork by curating a marketable brand and image. If you're more interested in recharging and relaxation, fully embrace leisure!"
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-06-05",
+  "horoscope": "The Aquarius Moon brings a carefree and chaotic energy to the table, putting you in a daring mood. Aspects with Saturn, Mars, and the Gemini Sun will coax you out of your shell. A desire to make waves pulls your mind in many directions. Resist the temptation to speak or act on each thought that emerges, no matter how brilliant it seems at the moment. You'll lose important details when sentiments are rushed, causing translations of your inner dialogue to fall flat. Instead of venturing out, use this time to explore within. Focus on artistic outlets, and you will shine once the right moment comes."
+}
+
