@@ -646,3 +646,9 @@
   "horoscope": "It may be necessary to make up for recent mistakes, dear Scorpio, as the Capricorn Moon squares Chiron. Swallow your pride, take accountability for your actions, and begin the healing process. Your willingness to acknowledge flaws and improve offers significant rewards once Luna enters Aquarius, forming positive aspects with Uranus, Neptune, and Pluto. The universe and your peers will be impressed by your desire to evolve, and both will go out of their way to ensure you feel supported. Reflect on your relationship with power, considering how you can maintain it while remaining a team player."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-06-06",
+  "horoscope": "Leveling up in life can bring changes to your social landscape, dearest Scorpio. It's important to stay in touch with friends who have remained loyal, especially as new people enter your sphere. As the Aquarius Moon aspects Jupiter and Venus, spend time with those who have witnessed your evolution. Without the pressure of maintaining appearances, you'll have a chance to be your most carefree and authentic self. Look for opportunities to elevate companions who could use a lucky break when Chiron stirs. You'll feel inspired to merge worlds once Luna enters Pisces, forming a t-square with Uranus and the Nodes of Fate. Proceed with caution, as personalities may clash."
+}
+
