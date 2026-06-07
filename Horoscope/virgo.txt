@@ -625,3 +625,9 @@
   "horoscope": "Make healthy choices to pull yourself out of heartache or dark periods, dear Virgo. Recent ego bruises may have left you sensitive and in need of a project. As the Capricorn Moon squares Chiron, then enters Aquarius, it's time to evolve the grieving process. Set manageable intentions as your morning kicks off, and reward your accomplishments. Your prospects will quickly improve while Luna aspects Uranus, Neptune, and Pluto throughout the day. Prepare to pivot as big opportunities overshadow less significant goals. As your mood improves, take steps to strengthen bonds with colleagues. You'll be glad you did if you need support or favors later."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-06-07",
+  "horoscope": "Bring your emotions into balance as the Moon moves through Pisces, darling Virgo. Melt into luxurious self-care practices, or cozy up with someone special. If you've struggled to connect with matters of the heart, it's possible you need to focus on loving yourself for the time being. Continue to nurture friendships so you never feel alone, even during prolonged periods of singledom. The importance of cultivating a strong community is highlighted by a soft aspect between Luna and Mercury this afternoon. If you're bad at staying in touch, now is the time to reach out. Make a passion-fueled wish when Mars activates tonight."
+}
+
