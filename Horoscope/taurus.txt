@@ -470,3 +470,9 @@
   "horoscope": "Take an indirect approach to getting your way, dearest Taurus, as the Aquarius Moon aspects, Mars, and Saturn. Peers with their own agenda might make it difficult for you to get ahead. Sidestep anyone who tries to complicate your life. Meet directly with colleagues most likely to see and support your vision. Though it may seem dishonest to sneak around, open rivalries won't feel any better. You could experience lucky breaks this afternoon, thanks to an auspicious aspect between the Gemini Sun and Luna. You won't be able to conceal these wins, but you will gain opportunities to spread success."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-06-07",
+  "horoscope": "You'll have a gift for helping others feel understood, dear Taurus, as the Pisces Moon illuminates your solar eleventh house. Put forth the effort to know peers on a deeper level, and your own popularity will rise. Showing compassion to those in need offers multiple benefits when Mercury stirs this afternoon. If you sense someone is feeling off, strike up a conversation to get the scoop. Base your advice on your own struggles to validate you and your counterpart's feelings, making a friend in the process. Bold actions can fortify your credibility within creative or athletic realms while Luna aspects Mars tonight."
+}
+
