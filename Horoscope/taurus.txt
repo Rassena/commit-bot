@@ -476,3 +476,9 @@
   "horoscope": "You'll have a gift for helping others feel understood, dear Taurus, as the Pisces Moon illuminates your solar eleventh house. Put forth the effort to know peers on a deeper level, and your own popularity will rise. Showing compassion to those in need offers multiple benefits when Mercury stirs this afternoon. If you sense someone is feeling off, strike up a conversation to get the scoop. Base your advice on your own struggles to validate you and your counterpart's feelings, making a friend in the process. Bold actions can fortify your credibility within creative or athletic realms while Luna aspects Mars tonight."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-06-07",
+  "horoscope": "You'll have a gift for helping others feel understood, dear Taurus, as the Pisces Moon illuminates your solar eleventh house. Put forth the effort to know peers on a deeper level, and your own popularity will rise. Showing compassion to those in need offers multiple benefits when Mercury stirs this afternoon. If you sense someone is feeling off, strike up a conversation to get the scoop. Base your advice on your own struggles to validate you and your counterpart's feelings, making a friend in the process. Bold actions can fortify your credibility within creative or athletic realms while Luna aspects Mars tonight."
+}
+
