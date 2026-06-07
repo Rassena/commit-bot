@@ -624,3 +624,9 @@
   "horoscope": "Make a clean break from negative influences, dear Gemini. Major shifts to your social sphere unfold as the Capricorn Moon squares Chiron before debuting in Aquarius. Stop living up to societal expectations that you find restrictive. Seek environments where individualism is celebrated. Release judgments to ensure your own acceptance. You will attract what you put out into the world while Luna aspects Uranus, Neptune, and Pluto throughout the day. Instant karma will quickly redirect you if your moral compass slips. On the plus side, focusing on positivity and personal goals can help you connect with people or opportunities that align with your ultimate dreams. "
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-06-07",
+  "horoscope": "You'll find the most success when goals are backed by emotional investment, dear Gemini. As the Pisces Moon heightens your determination and intuition, you might start to wonder if you're on the right path. Discuss your options with anyone who can provide valuable insights while Mercury activates this afternoon. It may be necessary to weigh your dreams against what is practical at the moment. If you can't afford a career change, consider how you can draw more fulfillment from your field. Donating services or skills to a good cause could reignite your spark once Luna aspects Mars tonight."
+}
+
