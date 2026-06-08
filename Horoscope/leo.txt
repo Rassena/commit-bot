@@ -602,3 +602,9 @@
   "horoscope": "The Pisces quarter Moon causes you to emotionally lock in, dearest Leo. Nuanced interactions will hold special meaning, but not all will be as it seems. It may take extra effort on your end to separate fact from fiction, especially when evolving relationships. Recalibrate your intuition by analyzing how certain desires might be guiding your hunches. Helpful information is revealed once Luna aspects Venus and Jupiter later today. If you've been receiving mixed messages, now is a good time to have a private conversation with any involved parties. Knowing where others stand will make it easier to process your own feelings."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-06-08",
+  "horoscope": "The Pisces quarter Moon causes you to emotionally lock in, dearest Leo. Nuanced interactions will hold special meaning, but not all will be as it seems. It may take extra effort on your end to separate fact from fiction, especially when evolving relationships. Recalibrate your intuition by analyzing how certain desires might be guiding your hunches. Helpful information is revealed once Luna aspects Venus and Jupiter later today. If you've been receiving mixed messages, now is a good time to have a private conversation with any involved parties. Knowing where others stand will make it easier to process your own feelings."
+}
+
