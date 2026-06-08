@@ -630,3 +630,9 @@
   "horoscope": "You'll find the most success when goals are backed by emotional investment, dear Gemini. As the Pisces Moon heightens your determination and intuition, you might start to wonder if you're on the right path. Discuss your options with anyone who can provide valuable insights while Mercury activates this afternoon. It may be necessary to weigh your dreams against what is practical at the moment. If you can't afford a career change, consider how you can draw more fulfillment from your field. Donating services or skills to a good cause could reignite your spark once Luna aspects Mars tonight."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-06-08",
+  "horoscope": "Challenges greet you under the Pisces quarter Moon, but it's important to stay balanced. Pause to breathe when faced with hurdles, sweet Gemini. Otherwise, emotions could spiral and cloud your vision. Prioritize poise within professional settings, even if colleagues seem combative. Your ability to maintain composure will win you points where it matters most. You'll have a chance to alchemize lemons into lemonade while Luna aspects Venus and Jupiter later today. These vibes bode well for financial and career gains, so don't hesitate to reach for what you want. Take credit for any damage control you performed earlier, and appreciate wisdom gained from trying situations."
+}
+
