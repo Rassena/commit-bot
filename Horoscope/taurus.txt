@@ -482,3 +482,9 @@
   "horoscope": "You'll have a gift for helping others feel understood, dear Taurus, as the Pisces Moon illuminates your solar eleventh house. Put forth the effort to know peers on a deeper level, and your own popularity will rise. Showing compassion to those in need offers multiple benefits when Mercury stirs this afternoon. If you sense someone is feeling off, strike up a conversation to get the scoop. Base your advice on your own struggles to validate you and your counterpart's feelings, making a friend in the process. Bold actions can fortify your credibility within creative or athletic realms while Luna aspects Mars tonight."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-06-08",
+  "horoscope": "You could feel emotionally adrift under the Pisces quarter Moon, dearest Taurus. Surface level interactions won't satiate your need for connection, but it may be difficult to find anyone who is operating on your wavelength. Try not to get upset if your friends are unavailable, and avoid turning to social media for dopamine hits. Spending time outside or working with your hands will offer more benefits than staring into a screen will. A communal energy takes hold when Luna aligns with Venus and Jupiter later today. Arrange an impromptu dinner date with your favorite people to snap out of your funk."
+}
+
