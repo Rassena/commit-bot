@@ -500,3 +500,9 @@
   "horoscope": "The Capricorn Moon squares Chiron before making her debut in Aquarius. Alarm bells go off if your sense of freedom feels compromised by relationships or responsibilities. Try not to make any rash decisions when it comes to closing chapters, Cancer, but do take space to get your thoughts in order. Philosophical epiphanies will give you a better understanding of your options while Luna aspects Uranus, Neptune, and Pluto. You'll also gain a clearer perspective of where others are coming from. Separate facts from feelings if emotions often shape your choices, especially if you're susceptible to sweet talk or manipulation."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-06-08",
+  "horoscope": "You're a deep well of creativity, emotional intelligence, and magick! As the Pisces quarter Moon shines above, pull back to appreciate the world within. Indulging your mystical side will lead to divine inspiration and enlightening breakthroughs, dearest Cancer. However, your visions could get lost in translation, as many will be caught up in their own heads. Instead of seeking attention, use this energy to reflect on next chapters. You'll have an easier time conveying big ideas and romantic sentiments while Luna aspects Venus and Jupiter later today. These vibes are perfect for exploration, philosophical exchange, and nurturing soul connections."
+}
+
