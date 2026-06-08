@@ -614,3 +614,9 @@
   "horoscope": "The Pisces quarter Moon stirs emotional unrest this morning, dearest Aries. Though you may feel on edge, it's important to keep unkind sentiments to yourself. Everyone will have their own struggles to contend with, and kindness will go a long way in improving the overall mood. Affectionate vibes flow once Luna aspects Venus and Jupiter later today. Fortify your relationships by enjoying private time at home. Host a nourishing dinner with your closest companions to fill the space with laughter and love. If you're developing a romantic connection, this energy is perfect for introducing them to family or close friends."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-06-08",
+  "horoscope": "The Pisces quarter Moon stirs emotional unrest this morning, dearest Aries. Though you may feel on edge, it's important to keep unkind sentiments to yourself. Everyone will have their own struggles to contend with, and kindness will go a long way in improving the overall mood. Affectionate vibes flow once Luna aspects Venus and Jupiter later today. Fortify your relationships by enjoying private time at home. Host a nourishing dinner with your closest companions to fill the space with laughter and love. If you're developing a romantic connection, this energy is perfect for introducing them to family or close friends."
+}
+
