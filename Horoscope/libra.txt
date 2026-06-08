@@ -575,3 +575,9 @@
   "horoscope": "Fun activities await, but you'll long for some alone time. Treat yourself to a quiet morning before the weekend takes off as the Aquarius Moon forms unbalanced aspects with Venus and Jupiter. You'll feel revitalized once evening rolls in, thanks to Chiron's helping hand. Connecting with cherished companions also brings a fullness to the heart that you might not have experienced in a while. The ambiance could turn wild when Luna moves into Pisces, forming a t-square with Uranus and the Nodes of Fate. Relinquish control and embrace the spirit of adventure, but avoid risky situations."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-06-08",
+  "horoscope": "The Pisces quarter Moon dusts up an array of emotions, dearest Libra, especially if you've fallen behind on personal goals. Existing work may be hindering your ability to expand and pursue other options or projects. Pushing yourself too hard might also cause stress to build up in the body. Reassess your situation before hitting a breaking point. Smarter routines and better time management will alleviate tension and give you more space for recreational exploration. Your mood improves when discipline is applied once Luna aspects Venus and Jupiter later today. Use your evening to plan ahead and get back on track."
+}
+
