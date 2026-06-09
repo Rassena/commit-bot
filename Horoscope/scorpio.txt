@@ -658,3 +658,9 @@
   "horoscope": "Leveling up in life can bring changes to your social landscape, dearest Scorpio. It's important to stay in touch with friends who have remained loyal, especially as new people enter your sphere. As the Aquarius Moon aspects Jupiter and Venus, spend time with those who have witnessed your evolution. Without the pressure of maintaining appearances, you'll have a chance to be your most carefree and authentic self. Look for opportunities to elevate companions who could use a lucky break when Chiron stirs. You'll feel inspired to merge worlds once Luna enters Pisces, forming a t-square with Uranus and the Nodes of Fate. Proceed with caution, as personalities may clash."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-06-09",
+  "horoscope": "Embrace the spirit of teamwork to initiate positive change, dear Scorpio. The Aries Moon forms supportive aspects with Uranus, Neptune, and Pluto, magnifying the power that stems from people working together. Though you might have to sacrifice certain ideas or preferences, you will gain the loyalty of those who are willing to do the same. Focus on a specific project or goal, determine who is best suited to elevate and benefit from this agenda, and pitch your visions. As Venus and Jupiter unite, luck is on your side. Follow your intuition and it will not lead you astray. Brace for increased responsibilities and plan ahead when you can while Mercury squares Saturn tonight."
+}
+
