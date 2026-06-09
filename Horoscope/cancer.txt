@@ -506,3 +506,9 @@
   "horoscope": "You're a deep well of creativity, emotional intelligence, and magick! As the Pisces quarter Moon shines above, pull back to appreciate the world within. Indulging your mystical side will lead to divine inspiration and enlightening breakthroughs, dearest Cancer. However, your visions could get lost in translation, as many will be caught up in their own heads. Instead of seeking attention, use this energy to reflect on next chapters. You'll have an easier time conveying big ideas and romantic sentiments while Luna aspects Venus and Jupiter later today. These vibes are perfect for exploration, philosophical exchange, and nurturing soul connections."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-06-09",
+  "horoscope": "Change hangs in the air, though transformation won't happen all at once. Take control of your life while the Aries Moon aspects Uranus, Neptune, and Pluto, darling Cancer. Discipline and daring work side by side, helping you initiate shifts that will lead to major results. Determine where you wish to gain power and notoriety, then start walking in that direction. Venus and Jupiter unite in your sign this afternoon, boosting your presence and charisma. Promote your goals and ideas, as this energy can help push them through. Just be mindful to do so with poise and a solid plan when Mercury and Saturn square off."
+}
+
