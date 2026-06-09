@@ -608,3 +608,9 @@
   "horoscope": "You will be in sentimental spirits under the Pisces quarter Moon, sweet Aquarius. Use this energy as an excuse to connect with your senses, enjoy fresh air, and artistically explore. If you start to feel clingy or too invested in materialistic goods, take it as a sign to simplify your life and ground. You may require extra space to process pent up feelings. Try keeping busy with productive projects once Luna aspects Venus and Jupiter later today. Cooking a decadent meal or reorganizing your home will give you a chance to sort your thoughts without diving too deeply."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-06-09",
+  "horoscope": "Voice your opinion and chase passions, dearest Aquarius. As the Aries Moon aspects Uranus, Neptune, and Pluto, you should feel empowered and ready to fight for your goals. Allow yourself to be driven by desires, even if doing so takes you out of your element at times. Sometimes you must challenge yourself to unlock brilliance. A boost in popularity can help you gain new fans. Accept any aid your allies offer when Venus and Jupiter unite this afternoon, bringing luck through teamwork. Lay down ground rules to avoid losing control of the narrative once Mercury squares Saturn later tonight."
+}
+
