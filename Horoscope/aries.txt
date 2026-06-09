@@ -620,3 +620,9 @@
   "horoscope": "The Pisces quarter Moon stirs emotional unrest this morning, dearest Aries. Though you may feel on edge, it's important to keep unkind sentiments to yourself. Everyone will have their own struggles to contend with, and kindness will go a long way in improving the overall mood. Affectionate vibes flow once Luna aspects Venus and Jupiter later today. Fortify your relationships by enjoying private time at home. Host a nourishing dinner with your closest companions to fill the space with laughter and love. If you're developing a romantic connection, this energy is perfect for introducing them to family or close friends."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-06-09",
+  "horoscope": "Take initiative on goals that feel far away, darling Aries. Luna makes her debut in your sign this morning, aspecting outer planets Uranus, Neptune, and Pluto throughout the day. As thoughts drift toward distant futures, you will begin to realize where focus should be applied in the present. Examine your image, connections, and where further education is needed to determine where time is lost or well spent. A sweet union between Venus and Jupiter brings out your sentimental side, and family will be a major driving force. Acknowledge if you've been hesitant to leave your comfort zone while Mercury squares Saturn."
+}
+
