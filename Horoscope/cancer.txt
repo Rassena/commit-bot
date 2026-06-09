@@ -512,3 +512,9 @@
   "horoscope": "Change hangs in the air, though transformation won't happen all at once. Take control of your life while the Aries Moon aspects Uranus, Neptune, and Pluto, darling Cancer. Discipline and daring work side by side, helping you initiate shifts that will lead to major results. Determine where you wish to gain power and notoriety, then start walking in that direction. Venus and Jupiter unite in your sign this afternoon, boosting your presence and charisma. Promote your goals and ideas, as this energy can help push them through. Just be mindful to do so with poise and a solid plan when Mercury and Saturn square off."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-06-09",
+  "horoscope": "Change hangs in the air, though transformation won't happen all at once. Take control of your life while the Aries Moon aspects Uranus, Neptune, and Pluto, darling Cancer. Discipline and daring work side by side, helping you initiate shifts that will lead to major results. Determine where you wish to gain power and notoriety, then start walking in that direction. Venus and Jupiter unite in your sign this afternoon, boosting your presence and charisma. Promote your goals and ideas, as this energy can help push them through. Just be mindful to do so with poise and a solid plan when Mercury and Saturn square off."
+}
+
