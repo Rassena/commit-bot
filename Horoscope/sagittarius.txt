@@ -617,3 +617,9 @@
   "horoscope": "You'll be in uncharacteristically shy spirits, dear archer, as the Scorpio Moon illuminates your solar twelfth house. Surface-level interactions won't be enough to coax you out of the shadows. If someone wants to connect, they'll need to shed the masks they wear in public. Instant friendships form with anyone willing to traverse deep waters at your side. Just be mindful of how dark histories influence your conversation to avoid trauma bonds. Solitude can be equally fulfilling if you're not ready to showcase vulnerabilities, especially when you embrace spiritual practices. Acknowledge if certain relationships have been eroding your sense of self while Luna and Mercury enter an unbalanced aspect tonight. "
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-06-09",
+  "horoscope": "Let curiosity take you for a ride, dear archer, as the Aries Moon aspects Uranus, Neptune, and Pluto. Try to view loved ones with fresh eyes, asking questions about their interests, creative outlets, and special talents. Romantic connections are revitalized and your character evolves as you absorb new perspectives. If you have your own stories or projects worth sharing, be sure to do so. Bouncing ideas off peers might lead to breakthroughs that seriously elevate your visions. Exciting commitments could emerge when Venus and Jupiter unite, transforming your world for the better. Just don't let your pride squander negotiations while Mercury squares Saturn."
+}
+
