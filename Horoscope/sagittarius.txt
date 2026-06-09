@@ -623,3 +623,9 @@
   "horoscope": "Let curiosity take you for a ride, dear archer, as the Aries Moon aspects Uranus, Neptune, and Pluto. Try to view loved ones with fresh eyes, asking questions about their interests, creative outlets, and special talents. Romantic connections are revitalized and your character evolves as you absorb new perspectives. If you have your own stories or projects worth sharing, be sure to do so. Bouncing ideas off peers might lead to breakthroughs that seriously elevate your visions. Exciting commitments could emerge when Venus and Jupiter unite, transforming your world for the better. Just don't let your pride squander negotiations while Mercury squares Saturn."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-06-09",
+  "horoscope": "Let curiosity take you for a ride, dear archer, as the Aries Moon aspects Uranus, Neptune, and Pluto. Try to view loved ones with fresh eyes, asking questions about their interests, creative outlets, and special talents. Romantic connections are revitalized and your character evolves as you absorb new perspectives. If you have your own stories or projects worth sharing, be sure to do so. Bouncing ideas off peers might lead to breakthroughs that seriously elevate your visions. Exciting commitments could emerge when Venus and Jupiter unite, transforming your world for the better. Just don't let your pride squander negotiations while Mercury squares Saturn."
+}
+
