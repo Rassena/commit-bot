@@ -581,3 +581,9 @@
   "horoscope": "The Pisces quarter Moon dusts up an array of emotions, dearest Libra, especially if you've fallen behind on personal goals. Existing work may be hindering your ability to expand and pursue other options or projects. Pushing yourself too hard might also cause stress to build up in the body. Reassess your situation before hitting a breaking point. Smarter routines and better time management will alleviate tension and give you more space for recreational exploration. Your mood improves when discipline is applied once Luna aspects Venus and Jupiter later today. Use your evening to plan ahead and get back on track."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-06-09",
+  "horoscope": "Praise is yours for the taking, dear Libra. Put your ideas and work out there for all to see while the Aries Moon aspects Uranus, Neptune, and Pluto. These vibes bring lucky changes to your creative, romantic, and social life. If you are willing to take center stage, an audience will surely arrive. Notoriety builds quickly as afternoon rolls in, thanks to a sweet union between Venus and Jupiter. You may also forge collaborative relationships that elevate your status to the next level. Loved ones could struggle with insecurities as your star rises and Mercury squares Saturn tonight."
+}
+
