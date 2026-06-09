@@ -636,3 +636,9 @@
   "horoscope": "Challenges greet you under the Pisces quarter Moon, but it's important to stay balanced. Pause to breathe when faced with hurdles, sweet Gemini. Otherwise, emotions could spiral and cloud your vision. Prioritize poise within professional settings, even if colleagues seem combative. Your ability to maintain composure will win you points where it matters most. You'll have a chance to alchemize lemons into lemonade while Luna aspects Venus and Jupiter later today. These vibes bode well for financial and career gains, so don't hesitate to reach for what you want. Take credit for any damage control you performed earlier, and appreciate wisdom gained from trying situations."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-06-09",
+  "horoscope": "Valuable connections could emerge out of the blue, dear Gemini. Don't shy away from unfamiliar faces while the Aries Moon aspects Uranus, Neptune, and Pluto. Expand your social network by exploring mysterious subcultures or interests. You may find kindred spirits in people from very different backgrounds if you move with an open mind. A prosperous connection between Venus and Jupiter suggests lucky breaks linger on the horizon. If you see an opportunity to make money or manifest your visions, seize it! Watch out for pessimistic peers who try to talk you out of good ideas when Mercury squares Saturn tonight."
+}
+
