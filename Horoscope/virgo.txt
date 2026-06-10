@@ -649,3 +649,9 @@
   "horoscope": "Relationships are tested under the Pisces quarter Moon, dearest Virgo. Tense emotions may cause you to reevaluate certain connections. Where romantic or professional partnerships are concerned, you'll need reliable comrades who are eager to grow alongside you. Try not to be discouraged by the occasional rift, as people will feel more defensive and inspired to test their authority. Give others space to exert their will, but don't allow yourself to be pushed around. Switch gears and enjoy some socializing when Luna aspects Venus and Jupiter later today. These vibes pair well with networking events, dates, and merging friendship circles."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-06-10",
+  "horoscope": "Power dynamics could intensify and feel more challenging than usual, dearest Virgo. As the Aries Moon aspects Saturn and Mercury, consider what you're fighting for before going into battle. If you can address issues in a calm and logical manner, important relationships can be salvaged. However, efforts to evolve must be matched by your counterpart. You'll have a better idea of who is willing to grow with you once the Sun and Luna align this afternoon. Set boundaries with those who cannot. Avoid gossip or toxic social interactions when Jupiter stirs later tonight, as it will be difficult to reverse any damage that is done."
+}
+
