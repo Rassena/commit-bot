@@ -664,3 +664,9 @@
   "horoscope": "Embrace the spirit of teamwork to initiate positive change, dear Scorpio. The Aries Moon forms supportive aspects with Uranus, Neptune, and Pluto, magnifying the power that stems from people working together. Though you might have to sacrifice certain ideas or preferences, you will gain the loyalty of those who are willing to do the same. Focus on a specific project or goal, determine who is best suited to elevate and benefit from this agenda, and pitch your visions. As Venus and Jupiter unite, luck is on your side. Follow your intuition and it will not lead you astray. Brace for increased responsibilities and plan ahead when you can while Mercury squares Saturn tonight."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-06-10",
+  "horoscope": "Lock into your goals as the Aries Moon aspects Saturn and Mercury, dearest Scorpio. The universe throws blessings your way, though some will be more nuanced than others. Get ready to work hard and follow up when opportunities present themselves. Each step taken in the direction of your dreams will increase your sense of empowerment. You'll begin to see how easily your life can be transformed while the Sun and Luna align this afternoon. Continue to push forward, trusting that you'll ease into changes as they emerge. Review the day's event and get organized to prepare for additional growth once Jupiter stirs tonight. "
+}
+
