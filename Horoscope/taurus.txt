@@ -488,3 +488,9 @@
   "horoscope": "You could feel emotionally adrift under the Pisces quarter Moon, dearest Taurus. Surface level interactions won't satiate your need for connection, but it may be difficult to find anyone who is operating on your wavelength. Try not to get upset if your friends are unavailable, and avoid turning to social media for dopamine hits. Spending time outside or working with your hands will offer more benefits than staring into a screen will. A communal energy takes hold when Luna aligns with Venus and Jupiter later today. Arrange an impromptu dinner date with your favorite people to snap out of your funk."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-06-11",
+  "horoscope": "Be mindful of the stories you tell yourself, dear Taurus, as the Aries Moon aspects Venus and Chiron. Thoughts have the power to heal or harm, influencing how you view the world and yourself. Choose optimism and positivity to attract better opportunities. Your visibility increases once Luna enters your sign, and it's important to know where you are going and why. Reassess your goals and whether or not current trajectories will get you there. Fated connections could redirect you toward greater heights while the nodes of fate activate, so network with an open mind. Don't let fear hold you back when Pluto stirs up doubt midafternoon."
+}
+
