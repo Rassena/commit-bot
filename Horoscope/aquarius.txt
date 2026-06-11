@@ -626,3 +626,9 @@
   "horoscope": "Embrace healthy choices and mindfulness practices as you prepare for the day, Aquarius. The Aries Moon aspects Venus and Chiron early this morning, emphasizing the importance of positive thinking. Your intuition spikes once Luna debuts in Taurus, forming sweet connections with the nodes of fate. Conversations will reveal much, especially when you tap into nuanced behaviors. If your own emotions shift, you could be picking up on what someone else is feeling. Take time to pamper yourself and release residual energy from your interactions while Pluto activates midafternoon. If moodiness sets in, retreat to the seclusion of home."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-06-11",
+  "horoscope": "Embrace healthy choices and mindfulness practices as you prepare for the day, Aquarius. The Aries Moon aspects Venus and Chiron early this morning, emphasizing the importance of positive thinking. Your intuition spikes once Luna debuts in Taurus, forming sweet connections with the nodes of fate. Conversations will reveal much, especially when you tap into nuanced behaviors. If your own emotions shift, you could be picking up on what someone else is feeling. Take time to pamper yourself and release residual energy from your interactions while Pluto activates midafternoon. If moodiness sets in, retreat to the seclusion of home."
+}
+
