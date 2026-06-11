@@ -620,3 +620,9 @@
   "horoscope": "Voice your opinion and chase passions, dearest Aquarius. As the Aries Moon aspects Uranus, Neptune, and Pluto, you should feel empowered and ready to fight for your goals. Allow yourself to be driven by desires, even if doing so takes you out of your element at times. Sometimes you must challenge yourself to unlock brilliance. A boost in popularity can help you gain new fans. Accept any aid your allies offer when Venus and Jupiter unite this afternoon, bringing luck through teamwork. Lay down ground rules to avoid losing control of the narrative once Mercury squares Saturn later tonight."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-06-11",
+  "horoscope": "Embrace healthy choices and mindfulness practices as you prepare for the day, Aquarius. The Aries Moon aspects Venus and Chiron early this morning, emphasizing the importance of positive thinking. Your intuition spikes once Luna debuts in Taurus, forming sweet connections with the nodes of fate. Conversations will reveal much, especially when you tap into nuanced behaviors. If your own emotions shift, you could be picking up on what someone else is feeling. Take time to pamper yourself and release residual energy from your interactions while Pluto activates midafternoon. If moodiness sets in, retreat to the seclusion of home."
+}
+
