@@ -670,3 +670,9 @@
   "horoscope": "Lock into your goals as the Aries Moon aspects Saturn and Mercury, dearest Scorpio. The universe throws blessings your way, though some will be more nuanced than others. Get ready to work hard and follow up when opportunities present themselves. Each step taken in the direction of your dreams will increase your sense of empowerment. You'll begin to see how easily your life can be transformed while the Sun and Luna align this afternoon. Continue to push forward, trusting that you'll ease into changes as they emerge. Review the day's event and get organized to prepare for additional growth once Jupiter stirs tonight. "
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-06-11",
+  "horoscope": "Greet the day with an optimistic yet determined spirit, dear Scorpio. Much can be accomplished if you take an orderly approach toward fulfilling dreams while the Aries Moon aspects Venus and Chiron. Recognize how certain behaviors have hindered growth, and make adjustments as needed. Your romantic side comes out once Luna debuts in Taurus, and people will be drawn to your soft yet magnetic aura. Flirtations could develop into something more when the nodes of fate stir. If you're hoping to connect on a deeper level, put your heart on the line. Moody companions may test the strength of your relationship as Pluto stirs midafternoon."
+}
+
