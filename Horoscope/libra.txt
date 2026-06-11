@@ -599,3 +599,9 @@
   "horoscope": "Examine the demands you put on yourself and others, dear Libra. As the Aries Moon aspects Venus and Chiron, it's important to manage expectations so they don't create imbalances. Try to make your connections feel more like partnerships once Luna enters Taurus. Forge an environment where everyone can be heard and accounted for to ensure equality. Reassess your approach to daily life when the nodes of fate activate. Embrace minor adjustments that will lead to healthier and more efficient routines. Brace for ego hits while Pluto stirs midafternoon. Avoid inflaming drama or intense power struggles will emerge."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-06-11",
+  "horoscope": "Examine the demands you put on yourself and others, dear Libra. As the Aries Moon aspects Venus and Chiron, it's important to manage expectations so they don't create imbalances. Try to make your connections feel more like partnerships once Luna enters Taurus. Forge an environment where everyone can be heard and accounted for to ensure equality. Reassess your approach to daily life when the nodes of fate activate. Embrace minor adjustments that will lead to healthier and more efficient routines. Brace for ego hits while Pluto stirs midafternoon. Avoid inflaming drama or intense power struggles will emerge."
+}
+
