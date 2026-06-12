@@ -632,3 +632,9 @@
   "horoscope": "Embrace healthy choices and mindfulness practices as you prepare for the day, Aquarius. The Aries Moon aspects Venus and Chiron early this morning, emphasizing the importance of positive thinking. Your intuition spikes once Luna debuts in Taurus, forming sweet connections with the nodes of fate. Conversations will reveal much, especially when you tap into nuanced behaviors. If your own emotions shift, you could be picking up on what someone else is feeling. Take time to pamper yourself and release residual energy from your interactions while Pluto activates midafternoon. If moodiness sets in, retreat to the seclusion of home."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-06-12",
+  "horoscope": "You'll crave freedom and recognition as Uranus enters a t-square with the nodes of fate, dear Aquarius. Though you'll feel tempted to make a splash, be patient while crafting your moment in the spotlight. Instead of seeking immediate attention, build up your unique traits and skills. Investing in passions will offer more rewards than impulsive gimmicks can. Luckily, the Taurus Moon forms sweet connections with Mercury and Mars, improving your patience and determination. Refine any projects or goals you've been working on, and you'll soon see results. Just try not to overanalyze your work when Venus squares Chiron tonight."
+}
+
