@@ -626,3 +626,9 @@
   "horoscope": "Take initiative on goals that feel far away, darling Aries. Luna makes her debut in your sign this morning, aspecting outer planets Uranus, Neptune, and Pluto throughout the day. As thoughts drift toward distant futures, you will begin to realize where focus should be applied in the present. Examine your image, connections, and where further education is needed to determine where time is lost or well spent. A sweet union between Venus and Jupiter brings out your sentimental side, and family will be a major driving force. Acknowledge if you've been hesitant to leave your comfort zone while Mercury squares Saturn."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-06-12",
+  "horoscope": "Your inner wild-child stirs, dearest ram, as Uranus and the nodes of fate form a t-square. Choose rebellions carefully, as acting impulsively could compromise your future. Connecting with nature will heighten the senses and clear your mind when the Taurus Moon and Mercury align. If you feel frazzled or overwhelmed, use these vibes to come back to the present. Determination builds while Luna and Mars unite, helping you see the value in patience. Take methodical steps toward your goals to manifest major feats. Loved ones may misdirect their emotions by lashing out on you once Venus squares Chiron tonight."
+}
+
