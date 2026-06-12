@@ -605,3 +605,9 @@
   "horoscope": "Examine the demands you put on yourself and others, dear Libra. As the Aries Moon aspects Venus and Chiron, it's important to manage expectations so they don't create imbalances. Try to make your connections feel more like partnerships once Luna enters Taurus. Forge an environment where everyone can be heard and accounted for to ensure equality. Reassess your approach to daily life when the nodes of fate activate. Embrace minor adjustments that will lead to healthier and more efficient routines. Brace for ego hits while Pluto stirs midafternoon. Avoid inflaming drama or intense power struggles will emerge."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-06-12",
+  "horoscope": "You'll need to act quickly when opportunity strikes, dearest Libra. The universe throws curveballs your way as Uranus enters a t-square with the nodes of fate. Don't let personal hangups or a fear of change prevent you from fulfilling your potential. Professional alliances can propel you even further while the Taurus Moon aspects Mercury and Mars. Move with purpose and remember to advocate for yourself if negotiations arise. Now may also be a good time to call in favors that can help you level up. Lean into success and trust that imbalances will work themselves out once Venus squares Chiron tonight."
+}
+
