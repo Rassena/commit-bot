@@ -642,3 +642,9 @@
   "horoscope": "Valuable connections could emerge out of the blue, dear Gemini. Don't shy away from unfamiliar faces while the Aries Moon aspects Uranus, Neptune, and Pluto. Expand your social network by exploring mysterious subcultures or interests. You may find kindred spirits in people from very different backgrounds if you move with an open mind. A prosperous connection between Venus and Jupiter suggests lucky breaks linger on the horizon. If you see an opportunity to make money or manifest your visions, seize it! Watch out for pessimistic peers who try to talk you out of good ideas when Mercury squares Saturn tonight."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-06-12",
+  "horoscope": "A restless energy takes hold of you this morning, dearest Gemini, as Uranus squares the nodes of fate. Be mindful of how you conduct yourself, especially while in public or professional settings. Though you'll feel tempted to make your own rules, rebellious acts could bring more messes than solutions. Instead of pushing against solid structures, work on revolutionizing your image and outlook. Slow down to collect your thoughts and pursue passions when the Taurus Moon aspects Mercury and Mars. Embrace privacy to avoid unnecessary side quests. Reduce screen time and connect with the material realms once Venus and Chiron clash tonight."
+}
+
