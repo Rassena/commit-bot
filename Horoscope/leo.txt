@@ -614,3 +614,9 @@
   "horoscope": "Healing may be found through profound dreams or early morning meditation sessions, dearest Leo. As the Aries Moon aspects Venus and Chiron, find the magick within. You'll be in a serious and determined headspace once Luna debuts in Taurus. Leverage this energy to gain momentum on long-term goals you've been meaning to recommit to. Intriguing offers could reshape your future while the nodes of fate stir, but you might struggle to leave your comfort zone. Embrace positive changes, but move at a pace that feels both challenging and safe. Brace for romantic drama and avoid testing your partner unnecessarily when Pluto stirs midafternoon."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-06-13",
+  "horoscope": "Youre a magnet for money and love throughout the coming weeks, dearest lion, thanks to Venuss debut in your sign. Be selective of the opportunities and people you invite into your life, placing extra value on your time and focus. As the Gemini Moon aspects the nodes of fate and Uranus, it may seem as though certain peers are intentionally stepping on your toes. When others act out of line, chalk it up to their own insecurities and move on. The energy will feel lighter and more communal once Luna aligns with Neptune and Pluto this afternoon."
+}
+
