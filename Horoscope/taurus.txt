@@ -494,3 +494,9 @@
   "horoscope": "Be mindful of the stories you tell yourself, dear Taurus, as the Aries Moon aspects Venus and Chiron. Thoughts have the power to heal or harm, influencing how you view the world and yourself. Choose optimism and positivity to attract better opportunities. Your visibility increases once Luna enters your sign, and it's important to know where you are going and why. Reassess your goals and whether or not current trajectories will get you there. Fated connections could redirect you toward greater heights while the nodes of fate activate, so network with an open mind. Don't let fear hold you back when Pluto stirs up doubt midafternoon."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-06-14",
+  "horoscope": "Saturn activates early this morning, putting you in a guarded headspace. Honor your need for rest and privacy, sweet Taurus, taking space to decompress and prepare for the workweek ahead. Slowing down will give you a chance to connect with your surroundings and enjoy little luxuries. Reflect on your financial goals when the Gemini New Moon rises this evening. Outline a budget to help you build wealth throughout the next six months. Meditate on what you hope to manifest during this time, asking the universe for guidance and aid. Gratitude practices will also go a long way in boosting morale and mental clarity."
+}
+
