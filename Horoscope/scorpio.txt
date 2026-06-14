@@ -682,3 +682,9 @@
   "horoscope": "Greet the day with an optimistic yet determined spirit, dear Scorpio. Much can be accomplished if you take an orderly approach toward fulfilling dreams while the Aries Moon aspects Venus and Chiron. Recognize how certain behaviors have hindered growth, and make adjustments as needed. Your romantic side comes out once Luna debuts in Taurus, and people will be drawn to your soft yet magnetic aura. Flirtations could develop into something more when the nodes of fate stir. If you're hoping to connect on a deeper level, put your heart on the line. Moody companions may test the strength of your relationship as Pluto stirs midafternoon."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-06-14",
+  "horoscope": "Use your Sunday morning to catch up on personal chores or errands, dear Scorpio. Saturn presses you to handle responsibilities in advance, so the workweek ahead doesn't feel so demanding. Rely on people who have offered to make your life easier, especially if they stand to benefit from your wins. Deep discussions will emerge throughout the day, helping you and loved ones understand each other better. Tonight's Gemini New Moon will have you thinking about transformation and empowerment. Take control of your journey by clearing away what you do not need, then focus on major goals for the next six months."
+}
+
