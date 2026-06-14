@@ -638,3 +638,9 @@
   "horoscope": "You'll crave freedom and recognition as Uranus enters a t-square with the nodes of fate, dear Aquarius. Though you'll feel tempted to make a splash, be patient while crafting your moment in the spotlight. Instead of seeking immediate attention, build up your unique traits and skills. Investing in passions will offer more rewards than impulsive gimmicks can. Luckily, the Taurus Moon forms sweet connections with Mercury and Mars, improving your patience and determination. Refine any projects or goals you've been working on, and you'll soon see results. Just try not to overanalyze your work when Venus squares Chiron tonight."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-06-14",
+  "horoscope": "Saturn activates early this morning, asking you to arm yourself with knowledge. Be mindful of any personal goals you've taken on recently, darling Aquarius. Educate yourself to improve your chances of succeeding. New ideas filter in as the hours pass, especially when you immerse yourself in creative environments. Feed your mind by focusing on spaces, people, and activities that appeal to your curiosity. Tonight's Gemini New Moon opens the door to artistic development throughout the next six months. If you've been playing with the idea of taking on fresh projects, now is a good time to get started!"
+}
+
