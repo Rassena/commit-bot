@@ -638,3 +638,9 @@
   "horoscope": "Your inner wild-child stirs, dearest ram, as Uranus and the nodes of fate form a t-square. Choose rebellions carefully, as acting impulsively could compromise your future. Connecting with nature will heighten the senses and clear your mind when the Taurus Moon and Mercury align. If you feel frazzled or overwhelmed, use these vibes to come back to the present. Determination builds while Luna and Mars unite, helping you see the value in patience. Take methodical steps toward your goals to manifest major feats. Loved ones may misdirect their emotions by lashing out on you once Venus squares Chiron tonight."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-06-14",
+  "horoscope": "Saturn sends signals this morning, darling Aries, touting messages of refinement and responsibility. Handle your business early in the day to clear your mind of stress. Chatty vibes flow as the hours unfold, and you'll benefit from spending time with friends. Educational environments will feel particularly satisfying, so consider hitting a museum or cultural center. The Gemini New Moon rises this evening, guiding you toward fresh perspectives. Use this energy to simplify your outlook, reviewing basic information your wisdom is built upon. You may be inspired to explore new topics, and should commit the next six months to gaining a better understanding of said subject."
+}
+
