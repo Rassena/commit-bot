@@ -629,3 +629,9 @@
   "horoscope": "Let curiosity take you for a ride, dear archer, as the Aries Moon aspects Uranus, Neptune, and Pluto. Try to view loved ones with fresh eyes, asking questions about their interests, creative outlets, and special talents. Romantic connections are revitalized and your character evolves as you absorb new perspectives. If you have your own stories or projects worth sharing, be sure to do so. Bouncing ideas off peers might lead to breakthroughs that seriously elevate your visions. Exciting commitments could emerge when Venus and Jupiter unite, transforming your world for the better. Just don't let your pride squander negotiations while Mercury squares Saturn."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-06-14",
+  "horoscope": "Create structures that allow you to balance personal passions with close connections, dear Sagittarius. Saturn stirs this morning, asking you to get serious about your creative and romantic desires. Cater to your needs early in the day so you can enjoy what remains of the weekend with someone special by your side. The Gemini New Moon superchargers your love life this evening. If you're in a relationship, tell your sweetheart how much you cherish them. If you're looking for a mate, now is a good time to review your approach to dating. Cap the night off with some self care to harmonize the heart and mind."
+}
+
