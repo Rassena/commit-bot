@@ -644,3 +644,9 @@
   "horoscope": "Saturn activates early this morning, asking you to arm yourself with knowledge. Be mindful of any personal goals you've taken on recently, darling Aquarius. Educate yourself to improve your chances of succeeding. New ideas filter in as the hours pass, especially when you immerse yourself in creative environments. Feed your mind by focusing on spaces, people, and activities that appeal to your curiosity. Tonight's Gemini New Moon opens the door to artistic development throughout the next six months. If you've been playing with the idea of taking on fresh projects, now is a good time to get started!"
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-06-14",
+  "horoscope": "Saturn activates early this morning, asking you to arm yourself with knowledge. Be mindful of any personal goals you've taken on recently, darling Aquarius. Educate yourself to improve your chances of succeeding. New ideas filter in as the hours pass, especially when you immerse yourself in creative environments. Feed your mind by focusing on spaces, people, and activities that appeal to your curiosity. Tonight's Gemini New Moon opens the door to artistic development throughout the next six months. If you've been playing with the idea of taking on fresh projects, now is a good time to get started!"
+}
+
