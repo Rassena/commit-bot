@@ -667,3 +667,9 @@
   "horoscope": "Try not to fixate on minor disagreements with peers who are ultimately on your side, dear Capricorn. The Scorpio Moon intensifies the effect political, philosophical, or moral ideologies have on your emotions. Pushing away people who see the same big picture with some variation should be treated as allies. Failing to do so will only create division where unity is needed most. Prioritize causes and events that reinforce shared values once Jupiter stirs this evening. Optimism can be restored if you embrace community. Head home at a reasonable hour when Luna and Mercury form an unbalanced aspect, or social rifts could resurface."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-06-14",
+  "horoscope": "Establish new ground rules at home to ensure your life moves smoothly, dearest Capricorn. Saturn, your planetary ruler, activates early this morning, urging you to get personal affairs in order. Now is also a good time to review your wellness goals and make adjustments, especially if you've been putting convenience over health recently. Improved routines will take easily under tonight's Gemini New Moon. Draft a list of milestones you'd like to hit within the next six months, adding details to explain how you will reach them. Be extra mindful of your existing workload and ways to sustainably add onto your plate."
+}
+
