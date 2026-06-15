@@ -620,3 +620,9 @@
   "horoscope": "Youre a magnet for money and love throughout the coming weeks, dearest lion, thanks to Venuss debut in your sign. Be selective of the opportunities and people you invite into your life, placing extra value on your time and focus. As the Gemini Moon aspects the nodes of fate and Uranus, it may seem as though certain peers are intentionally stepping on your toes. When others act out of line, chalk it up to their own insecurities and move on. The energy will feel lighter and more communal once Luna aligns with Neptune and Pluto this afternoon."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-06-15",
+  "horoscope": "Profound wisdom could emerge from unexpected sources this morning, dearest lion. As the Gemini Moon aspects Chiron before entering Cancer, quiet down and tune into your environment. Observe the activity, conversations, and interactions that fill your community with movement. If someone or something stands out, try to find a lesson or spiritual significance in the moment. Venture into uncharted territory while the nodes of fate activate, embracing shifts that emerge when one leaves their comfort zone. Work with visualization or brainstorming practices to expand your dreams as Neptune stirs this afternoon. Surprise encounters bring color to your day once Venus and Uranus align."
+}
+
