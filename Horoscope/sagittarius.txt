@@ -635,3 +635,9 @@
   "horoscope": "Create structures that allow you to balance personal passions with close connections, dear Sagittarius. Saturn stirs this morning, asking you to get serious about your creative and romantic desires. Cater to your needs early in the day so you can enjoy what remains of the weekend with someone special by your side. The Gemini New Moon superchargers your love life this evening. If you're in a relationship, tell your sweetheart how much you cherish them. If you're looking for a mate, now is a good time to review your approach to dating. Cap the night off with some self care to harmonize the heart and mind."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-06-15",
+  "horoscope": "Breathe a bit of fun and romance into your morning routines, dearest archer, as the Gemini Moon and Chiron align. You'll feel full of light and love if you let softness filter in. Luna's debut into Cancer inspires you to emotionally connect and evolve important partnerships. Whether you're dealing with a romantic or business partner, allow yourself to be seen. Apply lessons from the past to future goals while the nodes of fate stir. Now is also a good time to express appreciation for the positive role models you benefitted from in your youth. Avoid feeding into unfounded suspicions when Neptune stirs up confusion this afternoon. Meanwhile, Venus aspects Uranus to elevate your spiritual journey."
+}
+
