@@ -679,3 +679,9 @@
   "horoscope": "Establish new ground rules at home to ensure your life moves smoothly, dearest Capricorn. Saturn, your planetary ruler, activates early this morning, urging you to get personal affairs in order. Now is also a good time to review your wellness goals and make adjustments, especially if you've been putting convenience over health recently. Improved routines will take easily under tonight's Gemini New Moon. Draft a list of milestones you'd like to hit within the next six months, adding details to explain how you will reach them. Be extra mindful of your existing workload and ways to sustainably add onto your plate."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-06-15",
+  "horoscope": "Do some emotional and physical maintenance this morning, dearest Capricorn. As the Gemini Moon aspects Chiron before entering Cancer, you're asked to release tension and find balance. As your mood elevates, relationships will improve and seem more fulfilling. Be open about your hopes and dreams when the nodes of fate activate. Life changing conversations could reshape your future for the better. Just don't let complicated emotions or wishful thinking distract you once Neptune stirs this afternoon. If you struggle to focus, take a short break to recharge and reclaim clarity. Teamwork builds everlasting bonds while Venus aligns with Uranus later today."
+}
+
