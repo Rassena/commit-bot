@@ -570,3 +570,9 @@
   "horoscope": "Shake off unhelpful emotions and reclaim your sense of self, dear Pisces. Go within to reestablish sturdy foundations while the Aries Moon aspects Uranus, Neptune, and Pluto. Taking time to nurture yourself in private can alleviate insecurities that have been holding you back. Connecting with family can also remind you of the valuable support system you can always rely on. Heart-expanding vibes flow this afternoon, thanks to a sweet union between Venus and Jupiter. Explore creative outlets or new relationships to keep your heart happily occupied. Reinforce personal goals with better structures to avoid backsliding when Mercury squares Saturn tonight."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-06-15",
+  "horoscope": "You deserve a little treat, darling Pisces. As the Gemini Moon aspects Chiron before entering Cancer, boost morale with simple pleasures. You'll feel reinvigorated and determined to manifest grand visions once the nodes of fate activate. Self promote while infusing your work with heart and soul, and your star will surely rise. Uncertainties could surface and trigger creative blocks when Neptune activates this afternoon. Instead of pushing yourself to produce subpar results, connect with the moment and pull inspiration from nature. Rushes of brilliance will help you get back on track as Venus aligns with Uranus later today."
+}
+
