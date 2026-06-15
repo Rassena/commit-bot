@@ -530,3 +530,9 @@
   "horoscope": "You'll see results on goals you've put much effort into, dear Cancer, as Saturn activates early this morning. Adjust your strategy to reflect experience and milestones you've earned along the way. Acknowledging what you bring to the table will make it easier to build even more success. Stay focused by keeping to yourself and avoid unnecessary distractions. The Gemini New Moon rises this evening, helping you read between the lines. Go deep within to fully assess your situation, dreams, and where further information or education is needed. Be honest about what you do not know, then take steps to learn."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-06-15",
+  "horoscope": "Let down your guard and confide in someone you trust, dearest Cancer. As the Gemini Moon aspects Chiron before entering your sign, the universe pushes you to seek closure. With less emotional weight on your shoulders, you'll feel more optimistic about what's to come. The future looks especially bright once the nodes of fate stir, and divine intervention may send you on a new journey. Just don't abandon existing goals or responsibilities while Neptune stirs up trouble this afternoon. Meanwhile, Venus and Uranus form a sweet aspect, sprinkling unexpected blessings into your path. Share what you can with others to keep these auspicious vibes flowing."
+}
+
