@@ -582,3 +582,9 @@
   "horoscope": "You deserve a little treat, darling Pisces. As the Gemini Moon aspects Chiron before entering Cancer, boost morale with simple pleasures. You'll feel reinvigorated and determined to manifest grand visions once the nodes of fate activate. Self promote while infusing your work with heart and soul, and your star will surely rise. Uncertainties could surface and trigger creative blocks when Neptune activates this afternoon. Instead of pushing yourself to produce subpar results, connect with the moment and pull inspiration from nature. Rushes of brilliance will help you get back on track as Venus aligns with Uranus later today."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-06-15",
+  "horoscope": "You deserve a little treat, darling Pisces. As the Gemini Moon aspects Chiron before entering Cancer, boost morale with simple pleasures. You'll feel reinvigorated and determined to manifest grand visions once the nodes of fate activate. Self promote while infusing your work with heart and soul, and your star will surely rise. Uncertainties could surface and trigger creative blocks when Neptune activates this afternoon. Instead of pushing yourself to produce subpar results, connect with the moment and pull inspiration from nature. Rushes of brilliance will help you get back on track as Venus aligns with Uranus later today."
+}
+
