@@ -650,3 +650,9 @@
   "horoscope": "Saturn activates early this morning, asking you to arm yourself with knowledge. Be mindful of any personal goals you've taken on recently, darling Aquarius. Educate yourself to improve your chances of succeeding. New ideas filter in as the hours pass, especially when you immerse yourself in creative environments. Feed your mind by focusing on spaces, people, and activities that appeal to your curiosity. Tonight's Gemini New Moon opens the door to artistic development throughout the next six months. If you've been playing with the idea of taking on fresh projects, now is a good time to get started!"
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-06-16",
+  "horoscope": "Forgetfulness could land you in hot water, dearest Aquarius. Double check your to-do lists to avoid major mishaps while the Cancer Moon and Saturn square off. Ask for a second pair of eyes to ensure you haven't missed important details once Luna aspects Mercury and Mars. You'll thrive within team dynamics, and will feel particularly nurturing toward the people by your side. Themes around healthy living also come into play, so give your body some extra love. A highly romantic and surreal energy puts you in the mood to connect on a heart level when Venus aligns with Neptune tonight."
+}
+
