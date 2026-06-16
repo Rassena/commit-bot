@@ -588,3 +588,9 @@
   "horoscope": "You deserve a little treat, darling Pisces. As the Gemini Moon aspects Chiron before entering Cancer, boost morale with simple pleasures. You'll feel reinvigorated and determined to manifest grand visions once the nodes of fate activate. Self promote while infusing your work with heart and soul, and your star will surely rise. Uncertainties could surface and trigger creative blocks when Neptune activates this afternoon. Instead of pushing yourself to produce subpar results, connect with the moment and pull inspiration from nature. Rushes of brilliance will help you get back on track as Venus aligns with Uranus later today."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-06-16",
+  "horoscope": "You could hit a wall before the day has a chance to pick up, dearest Pisces. Move at your own pace to guard against burnout while the Cancer Moon and Saturn square off. Your thoughts sharpen and energy levels improve once Luna aligns with Mercury and Mars this afternoon. Take notes on any ideas that pop up as inspiration steadily creeps in. Collaborations fare well under these vibes, and can propel your vision to the next level. Your manifestation skills spike when Venus aspects Neptune this evening. If you're willing to work for your dreams, nothing will prevent you from actualizing them."
+}
+
