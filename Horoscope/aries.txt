@@ -656,3 +656,9 @@
   "horoscope": "Therapeutic conversations ease tensions this morning, darling ram. As the Gemini Moon aspects Chiron then debuts in Cancer, actively release pent up emotions. Encourage loved ones to share their own feelings, offering a compassionate ear. Pay close attention to intuitive hunches that pop up while the nodes of fate stir. If you've felt adrift, now is a good time to rest and reflect. You may struggle to be seen when Luna squares Neptune this afternoon. Seek tranquil environments that don't require you to put on a show. Get creative with your artistic outlets and romantic pursuits once Venus and Uranus align."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-06-16",
+  "horoscope": "You could awaken feeling emotionally hung over, dear Aries, due to a harsh square between the Cancer Moon and Saturn. Take time to gather your thoughts, but try not to detach from loved ones. You'll feel more open and in sync with the people around you once Luna and Mercury unite this afternoon. Use this energy to get important issues off your chest, as compassion will be easy to come by. Set the groundwork for your latest passion project while Mars stirs midafternoon. A dreamy and romantic ambiance takes hold tonight when Venus and Neptune form a sweet aspect."
+}
+
