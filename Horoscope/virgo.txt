@@ -655,3 +655,9 @@
   "horoscope": "Power dynamics could intensify and feel more challenging than usual, dearest Virgo. As the Aries Moon aspects Saturn and Mercury, consider what you're fighting for before going into battle. If you can address issues in a calm and logical manner, important relationships can be salvaged. However, efforts to evolve must be matched by your counterpart. You'll have a better idea of who is willing to grow with you once the Sun and Luna align this afternoon. Set boundaries with those who cannot. Avoid gossip or toxic social interactions when Jupiter stirs later tonight, as it will be difficult to reverse any damage that is done."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-06-16",
+  "horoscope": "Watch out for power struggles and disrespectful behavior this morning, darling Virgo. A harsh square between the Cancer Moon and Saturn brings tension to the air, causing peers to seem more cutthroat and combative than usual. Luckily, you'll find safety in numbers once Luna aspects Mercury and Mars this afternoon. Disengage from toxic dynamics and unite with people who believe everyone should grow and thrive. You'll be surprised by how easy it is to make new connections and get ahead when positive circles are prioritized. Slip away for a romantic date or indulgent self-care session while Venus aligns with Neptune tonight."
+}
+
