@@ -641,3 +641,9 @@
   "horoscope": "Breathe a bit of fun and romance into your morning routines, dearest archer, as the Gemini Moon and Chiron align. You'll feel full of light and love if you let softness filter in. Luna's debut into Cancer inspires you to emotionally connect and evolve important partnerships. Whether you're dealing with a romantic or business partner, allow yourself to be seen. Apply lessons from the past to future goals while the nodes of fate stir. Now is also a good time to express appreciation for the positive role models you benefitted from in your youth. Avoid feeding into unfounded suspicions when Neptune stirs up confusion this afternoon. Meanwhile, Venus aspects Uranus to elevate your spiritual journey."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-06-17",
+  "horoscope": "The Cancer Moon aspects Jupiter and Chiron on its way into Leo, testing your pride and closest relationships. Monitor your mood to avoid drama and rash decisions. It will be easier to work with others when Luna aligns with Uranus and Neptune. Loved ones will happily sidestep minor issues to expand and improve your connection. If certain dynamics are broken beyond repair, wish each other well and focus on yourself. Showcase your talents to attract new friends or romantic interests. Dive headfirst into passion projects while Venus opposes Pluto, and they will quickly evolve into something greater than you'd initially imagined."
+}
+
