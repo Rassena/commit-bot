@@ -500,3 +500,9 @@
   "horoscope": "Saturn activates early this morning, putting you in a guarded headspace. Honor your need for rest and privacy, sweet Taurus, taking space to decompress and prepare for the workweek ahead. Slowing down will give you a chance to connect with your surroundings and enjoy little luxuries. Reflect on your financial goals when the Gemini New Moon rises this evening. Outline a budget to help you build wealth throughout the next six months. Meditate on what you hope to manifest during this time, asking the universe for guidance and aid. Gratitude practices will also go a long way in boosting morale and mental clarity."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-06-17",
+  "horoscope": "Your mind is active early this morning, dear Taurus, as the Cancer Moon aspects Jupiter and Chiron. Keep an eye on your internal dialogue, steering clear of negative thoughts before they have a chance to snowball. Stay close to home once Luna debuts in Leo, highlighting your need for safe and restful environments. Pour love and emotion into your dreams while Uranus and Neptune stir. The energy you put forth will allow your visions to manifest in brilliant and unexpected ways. Be on the lookout for blessings and signs that you're on the right path. Stand firm against anyone who tests your boundaries when Venus opposes Pluto this afternoon."
+}
+
