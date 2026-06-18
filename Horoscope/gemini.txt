@@ -654,3 +654,9 @@
   "horoscope": "Prioritize earning over spending, dear Gemini, as the Cancer Moon aspects Jupiter and Chiron. A desire to be heard lures you into the public eye once Luna debuts in Leo. As your audience grows, be mindful of what you want to say and be known for. Interesting developments could lead to collaboration or exclusive social spheres when Uranus and Neptune activate. Use your charisma and wit to capture the attention of peers you admire. Be careful what you wish for while Venus opposes Pluto later today. As you work toward major goals, recognize how manifesting them will change your life."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-06-18",
+  "horoscope": "Your status benefits from a cosmic boost this morning, darling Gemini, thanks to an auspicious aspect between the Leo Moon and Saturn. Don't let your moment in the sun slip away. Keep your eyes peeled for opportunities to climb even higher, and try to cultivate friendships in high places. Bring warmth to your conversations so peers feel at ease and open up. Information gained may be useful for promoting your goals or important messages down the line. Take a breather as evening sets in and Luna squares Mars. As your energetic reserves diminish, you could grow restless or combative."
+}
+
