@@ -594,3 +594,9 @@
   "horoscope": "You could hit a wall before the day has a chance to pick up, dearest Pisces. Move at your own pace to guard against burnout while the Cancer Moon and Saturn square off. Your thoughts sharpen and energy levels improve once Luna aligns with Mercury and Mars this afternoon. Take notes on any ideas that pop up as inspiration steadily creeps in. Collaborations fare well under these vibes, and can propel your vision to the next level. Your manifestation skills spike when Venus aspects Neptune this evening. If you're willing to work for your dreams, nothing will prevent you from actualizing them."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-06-18",
+  "horoscope": "Tidy up your finances as the Leo Moon and Saturn align, dear Pisces. The universe won't give handouts to those who are ungrateful or irresponsible. With a full understanding of your resources, it will be easier to work with what you have while continuing to push for more. Themes around health and daily routines also come into play. If your wellness game has been suffering, hatch a plan to get back on track. Just try not to rush progress when Luna and Mars square off tonight, or your impatience could lead to mixed results or diminished motivation."
+}
+
