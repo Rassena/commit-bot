@@ -506,3 +506,9 @@
   "horoscope": "Your mind is active early this morning, dear Taurus, as the Cancer Moon aspects Jupiter and Chiron. Keep an eye on your internal dialogue, steering clear of negative thoughts before they have a chance to snowball. Stay close to home once Luna debuts in Leo, highlighting your need for safe and restful environments. Pour love and emotion into your dreams while Uranus and Neptune stir. The energy you put forth will allow your visions to manifest in brilliant and unexpected ways. Be on the lookout for blessings and signs that you're on the right path. Stand firm against anyone who tests your boundaries when Venus opposes Pluto this afternoon."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-06-19",
+  "horoscope": ""
+}
+
