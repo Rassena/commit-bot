@@ -656,3 +656,9 @@
   "horoscope": "Forgetfulness could land you in hot water, dearest Aquarius. Double check your to-do lists to avoid major mishaps while the Cancer Moon and Saturn square off. Ask for a second pair of eyes to ensure you haven't missed important details once Luna aspects Mercury and Mars. You'll thrive within team dynamics, and will feel particularly nurturing toward the people by your side. Themes around healthy living also come into play, so give your body some extra love. A highly romantic and surreal energy puts you in the mood to connect on a heart level when Venus aligns with Neptune tonight."
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-06-19",
+  "horoscope": ""
+}
+
