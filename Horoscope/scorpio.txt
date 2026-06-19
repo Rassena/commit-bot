@@ -688,3 +688,9 @@
   "horoscope": "Use your Sunday morning to catch up on personal chores or errands, dear Scorpio. Saturn presses you to handle responsibilities in advance, so the workweek ahead doesn't feel so demanding. Rely on people who have offered to make your life easier, especially if they stand to benefit from your wins. Deep discussions will emerge throughout the day, helping you and loved ones understand each other better. Tonight's Gemini New Moon will have you thinking about transformation and empowerment. Take control of your journey by clearing away what you do not need, then focus on major goals for the next six months."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-06-19",
+  "horoscope": ""
+}
+
