@@ -647,3 +647,9 @@
   "horoscope": "The Cancer Moon aspects Jupiter and Chiron on its way into Leo, testing your pride and closest relationships. Monitor your mood to avoid drama and rash decisions. It will be easier to work with others when Luna aligns with Uranus and Neptune. Loved ones will happily sidestep minor issues to expand and improve your connection. If certain dynamics are broken beyond repair, wish each other well and focus on yourself. Showcase your talents to attract new friends or romantic interests. Dive headfirst into passion projects while Venus opposes Pluto, and they will quickly evolve into something greater than you'd initially imagined."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-06-19",
+  "horoscope": ""
+}
+
