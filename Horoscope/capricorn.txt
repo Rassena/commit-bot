@@ -697,3 +697,9 @@
   "horoscope": "A harsh square between the Cancer Moon and Saturn could leave you feeling unrested this morning, dearest Capricorn. Tune into your needs and take steps to find balance before greeting the day. You'll perk up once Luna aspects Mercury and Mars this afternoon, with a newfound determination to live your best life. Exciting activities, artistic expression, and flirtatious interactions mesh well with this cosmic climate. Set aside time to pursue passions and develop meaningful connections. Shared dreams fortify relationships when Venus and Neptune align this evening. Touch base with business or romantic partners to evolve goals and empower one another."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-06-19",
+  "horoscope": ""
+}
+
