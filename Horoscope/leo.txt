@@ -632,3 +632,9 @@
   "horoscope": "Barrow from tradition without restricting your point of view, dearest Leo. Go within to explore spiritual and ancient philosophies while the Cancer Moon and Saturn square off. Psychic premonitions could emerge once Luna aspects Mercury and Mars this afternoon. Meditate on your biggest aspirations to channel helpful guidance from the other side. Now is also a good time to refine major projects you've been quietly working on. Show your work to an expert who can offer valuable feedback or pinpoint flaws you might have overlooked. You'll feel optimistic and blessed when Venus blows a kiss to Neptune tonight."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-06-19",
+  "horoscope": ""
+}
+
