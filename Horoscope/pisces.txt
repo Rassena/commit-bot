@@ -600,3 +600,9 @@
   "horoscope": "Tidy up your finances as the Leo Moon and Saturn align, dear Pisces. The universe won't give handouts to those who are ungrateful or irresponsible. With a full understanding of your resources, it will be easier to work with what you have while continuing to push for more. Themes around health and daily routines also come into play. If your wellness game has been suffering, hatch a plan to get back on track. Just try not to rush progress when Luna and Mars square off tonight, or your impatience could lead to mixed results or diminished motivation."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-06-19",
+  "horoscope": ""
+}
+
