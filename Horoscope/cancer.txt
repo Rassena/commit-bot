@@ -542,3 +542,9 @@
   "horoscope": "Money and success are up for grabs, dear Cancer, as the Leo Moon and Saturn align. Be mindful of how you present yourself. Put extra effort into your appearance to project confidence, wisdom, and professionalism. Don't hold back if you see an opportunity to impress colleagues and show off your expertise. Even if your actions don't yield immediate results, your reputation will benefit. Ease up on yourself and enjoy the blessings you already have as the hours unfold. Competitive peers might try to get in your head once Luna squares Mars this evening, but don't play into their games."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-06-20",
+  "horoscope": ""
+}
+
