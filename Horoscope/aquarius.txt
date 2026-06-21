@@ -662,3 +662,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-06-21",
+  "horoscope": ""
+}
+
