@@ -623,3 +623,9 @@
   "horoscope": "Be mindful of what you say about others this morning, dear Libra. A harsh square between the Cancer Moon and Saturn brings out protective behavior in loved ones. Venting to your sweetheart or bestie may trigger overreactions, and could permanently skew their view of anyone you've grown frustrated with. If you need to backpedal, try clearing the air once Luna aspects Mercury and Mars this afternoon. These vibes can also help you manifest professional gains, so take a chance on your dreams. Bring family and friends together to reinforce your support network when Venus and Uranus align this evening."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-06-21",
+  "horoscope": ""
+}
+
