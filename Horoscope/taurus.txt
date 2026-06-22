@@ -530,3 +530,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-06-22",
+  "horoscope": "Your week gets off to a sweet and nourishing start, dearest Taurus. Cater to simple comforts that improve your mood while the Libra Moon and Venus connect. Remember that harmony starts with a healthy home and body. Give your household and physical needs extra attention to maximize the benefits of these elevating vibes. Tasks will flow more smoothly with reliable teammates by your side, so don't try to do everything on your own. Your sense of order is compromised once Luna opposes Saturn later today. Pull back to update your agenda to avoid falling too far off track."
+}
+
