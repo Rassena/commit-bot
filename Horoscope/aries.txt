@@ -662,3 +662,9 @@
   "horoscope": "You could awaken feeling emotionally hung over, dear Aries, due to a harsh square between the Cancer Moon and Saturn. Take time to gather your thoughts, but try not to detach from loved ones. You'll feel more open and in sync with the people around you once Luna and Mercury unite this afternoon. Use this energy to get important issues off your chest, as compassion will be easy to come by. Set the groundwork for your latest passion project while Mars stirs midafternoon. A dreamy and romantic ambiance takes hold tonight when Venus and Neptune form a sweet aspect."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-06-22",
+  "horoscope": "Fuel your heart with creative outlets and sweet connections, dearest Aries. The Libra Moon and Venus form a soft aspect this morning, bringing harmonious and fulfilling vibes your way. Be your most authentic self, surrounded by supportive influences, to receive fresh inspiration and a major morale boost. Your energy levels will also improve, giving you the stamina and motivation necessary to realize your full potential. Just try not to take these sentiments to the extreme, or you may lose steam. A harsh opposition between Luna and Saturn cautions against pushing your limits without a clear plan in place."
+}
+
