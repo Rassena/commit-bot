@@ -660,3 +660,9 @@
   "horoscope": "Your status benefits from a cosmic boost this morning, darling Gemini, thanks to an auspicious aspect between the Leo Moon and Saturn. Don't let your moment in the sun slip away. Keep your eyes peeled for opportunities to climb even higher, and try to cultivate friendships in high places. Bring warmth to your conversations so peers feel at ease and open up. Information gained may be useful for promoting your goals or important messages down the line. Take a breather as evening sets in and Luna squares Mars. As your energetic reserves diminish, you could grow restless or combative."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-06-22",
+  "horoscope": "Give loved ones a glimpse into that brilliant mind of yours, dearest Gemini. Though you often prefer to work out details in your head before letting others in on your plans, this process can create distance. As the Libra Moon and Venus align, now is the ideal time to share. The support or feedback you receive can bring valuable insights to your ideas. You'll also have a chance to better understand the people around you, as they will feel more at ease and ready to divulge. Just be mindful to protect big projects from potential competition when Luna opposes Saturn."
+}
+
