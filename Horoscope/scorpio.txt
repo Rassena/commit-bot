@@ -700,3 +700,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-06-22",
+  "horoscope": "Keep your personal and professional affairs separate, dearest Scorpio. Maintaining a private yet refined aura serves you while the Libra Moon and Venus align. Colleagues will be intrigued by your mysterious ways and hope for a chance to get to know you better. Meanwhile, loved ones will appreciate your ability to protect and respect their privacy. Where matters of the heart are concerned, now is a good time to pursue major goals with your sweetie. If you can build together, your relationship will grow stronger. Just try not to battle over small details once Luna opposes Saturn later today."
+}
+
