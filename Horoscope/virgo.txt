@@ -667,3 +667,9 @@
   "horoscope": "Watch out for power struggles and disrespectful behavior this morning, darling Virgo. A harsh square between the Cancer Moon and Saturn brings tension to the air, causing peers to seem more cutthroat and combative than usual. Luckily, you'll find safety in numbers once Luna aspects Mercury and Mars this afternoon. Disengage from toxic dynamics and unite with people who believe everyone should grow and thrive. You'll be surprised by how easy it is to make new connections and get ahead when positive circles are prioritized. Slip away for a romantic date or indulgent self-care session while Venus aligns with Neptune tonight."
 }
 
+{
+  "sign": "virgo",
+  "date": "2026-06-22",
+  "horoscope": "Relationships evolve more easily without the pressure of prying eyes or outside opinions, dearest Virgo. As the Libra Moon and Venus align, sneak away with anyone you're hoping to build a strong connection with. Be mindful of emotional shifts that unfold within such intimate settings to determine how you truly feel. Sensory-rich environments can put you and your counterpart at ease. Retreat to beautiful spaces or enjoy decadent foods to combat nervous energy. Fundamental disagreements could derail progress once Luna opposes Saturn later today. Choose your battles wisely and try not to jump to conclusions if conflict arises."
+}
+
