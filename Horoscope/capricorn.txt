@@ -721,3 +721,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-06-23",
+  "horoscope": "Discussions about the future or matters of the heart may cause your plans to shift, dearest Capricorn. Be open to new visions on what tomorrow holds as the Cancer Sun aligns with the Nodes of Fate. Ask others what they want out of life to move conversations forward. Try not to stubbornly cling to hypotheticals while the Libra Moon squares Mercury, or you could stir up unnecessary drama. Instead of trying to impose your will over another's brainstorming paths, which will make everyone happy once Jupiter stirs. Focus on the type of community you hope to build when Luna enters Scorpio later tonight."
+}
+
