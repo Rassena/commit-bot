@@ -536,3 +536,9 @@
   "horoscope": "Your week gets off to a sweet and nourishing start, dearest Taurus. Cater to simple comforts that improve your mood while the Libra Moon and Venus connect. Remember that harmony starts with a healthy home and body. Give your household and physical needs extra attention to maximize the benefits of these elevating vibes. Tasks will flow more smoothly with reliable teammates by your side, so don't try to do everything on your own. Your sense of order is compromised once Luna opposes Saturn later today. Pull back to update your agenda to avoid falling too far off track."
 }
 
+{
+  "sign": "taurus",
+  "date": "2026-06-23",
+  "horoscope": "You have a chance to level up socially as the Cancer Sun aspects the Nodes of Fate, dearest Taurus. As exciting new people enter your life, trust that you are just as interesting and creative as your counterparts. Try not to tear yourself down when the Libra Moon squares Mercury midafternoon. You should also be on guard for overly critical peers. Expand upon your ideas while Jupiter is activated, but be mindful of how your routines must shift to keep up with growing aspirations. A romantic energy puts you in the mood for sweet interactions once Luna enters Scorpio later tonight."
+}
+
