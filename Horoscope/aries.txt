@@ -668,3 +668,9 @@
   "horoscope": "Fuel your heart with creative outlets and sweet connections, dearest Aries. The Libra Moon and Venus form a soft aspect this morning, bringing harmonious and fulfilling vibes your way. Be your most authentic self, surrounded by supportive influences, to receive fresh inspiration and a major morale boost. Your energy levels will also improve, giving you the stamina and motivation necessary to realize your full potential. Just try not to take these sentiments to the extreme, or you may lose steam. A harsh opposition between Luna and Saturn cautions against pushing your limits without a clear plan in place."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-06-23",
+  "horoscope": "The Cancer Sun aligns with the Nodes of Fate, darling Aries, putting you in a deeply introspective mood. You have the power to let go of unhealthy emotions, behaviors, and patterns. Trust that the changes ahead will lead you to brighter days. Communication could feel like a struggle while the Libra Moon and Mercury square off midafternoon. Be mindful of how you express dissatisfaction so that loved ones don't take your woes personally. Feed into loving connections to improve the vibe when Jupiter stirs. Issues are resolved, and relationships become stronger once Luna drifts into Scorpio just before midnight."
+}
+
