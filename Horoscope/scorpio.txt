@@ -706,3 +706,9 @@
   "horoscope": "Keep your personal and professional affairs separate, dearest Scorpio. Maintaining a private yet refined aura serves you while the Libra Moon and Venus align. Colleagues will be intrigued by your mysterious ways and hope for a chance to get to know you better. Meanwhile, loved ones will appreciate your ability to protect and respect their privacy. Where matters of the heart are concerned, now is a good time to pursue major goals with your sweetie. If you can build together, your relationship will grow stronger. Just try not to battle over small details once Luna opposes Saturn later today."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-06-23",
+  "horoscope": "Boldness and ingenuity help you get ahead today, dearest Scorpio. Be creative with your dreams, and while solving any problems that stand in your way, as the Cancer Sun aspects the Nodes of Fate. The Gods of fortune are on your side, favoring each inspired action you take. You may feel more productive working solo as the Libra Moon moves through your solar twelfth house. Blocking outside noise will make it easier to receive messages from beyond when Mercury and Jupiter stir. You'll see glimmers of progress once Luna debuts in your sign later tonight, but try not to burn the midnight oil."
+}
+
