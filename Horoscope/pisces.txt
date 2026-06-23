@@ -612,3 +612,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-06-23",
+  "horoscope": "Get creative with your image and goals, dearest Pisces. You're celestially poised to gain momentum and new opportunities while the Cancer Sun aligns with the Nodes of Fate. Remember that you have the power to curate any future you desire, and put in the work to make major visions a reality. Collaborations could feel complicated when the Libra Moon squares Mercury midafternoon. If you can't resolve disagreements, you might need to part ways or backtrack. You'll have an easier time selling your ideas to others once Jupiter stirs. Connect with your spirituality as Luna enters Scorpio later tonight."
+}
+
