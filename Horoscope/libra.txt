@@ -635,3 +635,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "libra",
+  "date": "2026-06-24",
+  "horoscope": "Sometimes you have to put your ego to the side, roll up your sleeves, and play nice with others. As the Scorpio Moon aligns with the Nodes of Fate, the Cancer Sun, and Pluto, career security should be a priority. Failing to get along with peers could slow your aspirations, dearest Libra. Show that you are professional and experienced enough to advance in your field. Double-check your work and try not to rush through tasks. Stay motivated by promising yourself a little treat once you've clocked out. You'll be ready for luxurious indulgences before the day comes to a close."
+}
+
