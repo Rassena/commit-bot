@@ -666,3 +666,9 @@
   "horoscope": "Give loved ones a glimpse into that brilliant mind of yours, dearest Gemini. Though you often prefer to work out details in your head before letting others in on your plans, this process can create distance. As the Libra Moon and Venus align, now is the ideal time to share. The support or feedback you receive can bring valuable insights to your ideas. You'll also have a chance to better understand the people around you, as they will feel more at ease and ready to divulge. Just be mindful to protect big projects from potential competition when Luna opposes Saturn."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-06-24",
+  "horoscope": "It may fall on you to keep important projects moving forward, dearest Gemini. As the Scorpio Moon aspects the Nodes of Fate, Cancer Sun, and Pluto, ease into roles that offer you more power and authority. Your ability to pinpoint issues around the office will make you an invaluable asset. Be direct yet calm as you highlight problems and options for resolving them. Patience will serve you when instructing peers on what to do and how to improve. Resist the temptation to complete tasks others can take on, or you run the risk of assuming them indefinitely."
+}
+
