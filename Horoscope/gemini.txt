@@ -672,3 +672,9 @@
   "horoscope": "It may fall on you to keep important projects moving forward, dearest Gemini. As the Scorpio Moon aspects the Nodes of Fate, Cancer Sun, and Pluto, ease into roles that offer you more power and authority. Your ability to pinpoint issues around the office will make you an invaluable asset. Be direct yet calm as you highlight problems and options for resolving them. Patience will serve you when instructing peers on what to do and how to improve. Resist the temptation to complete tasks others can take on, or you run the risk of assuming them indefinitely."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-06-24",
+  "horoscope": "It may fall on you to keep important projects moving forward, dearest Gemini. As the Scorpio Moon aspects the Nodes of Fate, Cancer Sun, and Pluto, ease into roles that offer you more power and authority. Your ability to pinpoint issues around the office will make you an invaluable asset. Be direct yet calm as you highlight problems and options for resolving them. Patience will serve you when instructing peers on what to do and how to improve. Resist the temptation to complete tasks others can take on, or you run the risk of assuming them indefinitely."
+}
+
