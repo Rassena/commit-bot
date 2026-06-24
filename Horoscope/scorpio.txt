@@ -712,3 +712,9 @@
   "horoscope": "Boldness and ingenuity help you get ahead today, dearest Scorpio. Be creative with your dreams, and while solving any problems that stand in your way, as the Cancer Sun aspects the Nodes of Fate. The Gods of fortune are on your side, favoring each inspired action you take. You may feel more productive working solo as the Libra Moon moves through your solar twelfth house. Blocking outside noise will make it easier to receive messages from beyond when Mercury and Jupiter stir. You'll see glimmers of progress once Luna debuts in your sign later tonight, but try not to burn the midnight oil."
 }
 
+{
+  "sign": "scorpio",
+  "date": "2026-06-24",
+  "horoscope": "Your morning is full of activity while Luna moves through your sign, dearest Scorpio, aspecting the Nodes of Fate, Cancer Sun, and Pluto. Minor upsets could throw your emotions for a loop. Don't dig in if drama arises, and create distance with anyone who gives you a hard time. You'll feel much happier and more productive if you focus on passion projects and expanding your reach. Maintain a strong connection with your higher power to call in luck and guidance as you see fit. If you've been struggling to find your path recently, the other side may send signals to help you get back on track."
+}
+
