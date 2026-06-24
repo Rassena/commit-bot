@@ -650,3 +650,9 @@
   "horoscope": "An adjustment period may be necessary while the Cancer Sun and Nodes of Fate align, darling lion. Growing pains can be alleviated if you use this time to enjoy a bit of peace and quiet. Be mindful of how you articulate a need for space once the Libra Moon squares Mercury midafternoon. Communication will be tricky, and you might not realize if you come across as distant or moody. Lock into a good book or research project as Jupiter activates tonight, supercharging your curiosity and imagination. Put extra care into your bedtime routines to promote deep sleep as Luna enters Scorpio."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-06-24",
+  "horoscope": "You'll feel deeply as the Scorpio Moon aspects the Nodes of Fate, Cancer Sun, and Pluto, darling Leo. Lay low to avoid overstimulation, giving yourself space to reflect and recharge. You may be suffering from recent disappointments in matters of the heart. Try not to wax poetic about connections that weren't meant to be. Personal imbalances could also throw your mood out of whack. Recognize if certain behaviors have been preventing you from getting the rest you need to operate at your best. Actively release what does not serve you, and redirect your focus toward people and goals that nourish your soul."
+}
+
