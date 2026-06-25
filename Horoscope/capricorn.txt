@@ -727,3 +727,9 @@
   "horoscope": "Discussions about the future or matters of the heart may cause your plans to shift, dearest Capricorn. Be open to new visions on what tomorrow holds as the Cancer Sun aligns with the Nodes of Fate. Ask others what they want out of life to move conversations forward. Try not to stubbornly cling to hypotheticals while the Libra Moon squares Mercury, or you could stir up unnecessary drama. Instead of trying to impose your will over another's brainstorming paths, which will make everyone happy once Jupiter stirs. Focus on the type of community you hope to build when Luna enters Scorpio later tonight."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-06-25",
+  "horoscope": "Choose your company wisely this morning, dearest Capricorn. Venus, the planet of love, aspects the Scorpio Moon and Saturn, asking you to protect your heart. Go deeper with people you trust, and back away from those you do not. Set boundaries to avoid toxic social dynamics that promote gossip or unnecessary competition. You'll have a chance to expand socially, but you should focus on developing relationships that might benefit your professional aspirations. A romantic yet deceptive energy finds you when the Cancer Sun squares Neptune midafternoon. Enjoy sweet moments with someone special, but don't let yourself be taken for a ride."
+}
+
