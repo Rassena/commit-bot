@@ -668,3 +668,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "aquarius",
+  "date": "2026-06-25",
+  "horoscope": "Take control of your life while The Scorpio Moon, Venus, and Saturn activate this morning, dear Aquarius. Reflect on your ultimate goals and whether unexpected opportunities have led you astray. You'll need to decide if these new paths are worth sacrificing other aspirations, or if it's time to strike out on your own. Personal structures may require some reworking, especially if you've been struggling to find balance. Details could slip through the cracks when the Cancer Sun squares Neptune midafternoon. Ask for help or a second set of hands to ensure the quality of your work doesn't suffer."
+}
+
