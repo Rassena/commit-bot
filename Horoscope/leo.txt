@@ -656,3 +656,9 @@
   "horoscope": "You'll feel deeply as the Scorpio Moon aspects the Nodes of Fate, Cancer Sun, and Pluto, darling Leo. Lay low to avoid overstimulation, giving yourself space to reflect and recharge. You may be suffering from recent disappointments in matters of the heart. Try not to wax poetic about connections that weren't meant to be. Personal imbalances could also throw your mood out of whack. Recognize if certain behaviors have been preventing you from getting the rest you need to operate at your best. Actively release what does not serve you, and redirect your focus toward people and goals that nourish your soul."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-06-25",
+  "horoscope": "Try not to get down on yourself this morning, dearest Leo. As the Scorpio Moon and Venus square off, dark emotions may cause your confidence to take a hit. If you're going to be hard on yourself, use the energy to insist that you put an end to negative self-talk. A sweet aspect between Venus and Saturn can help you stay afloat. Connect with your spirituality more consistently to guard against the blues. The universe will send signs of support if you know how to look for them. Illuminating brainstorming sessions could benefit plans you've been keeping under wraps when the Cancer Sun aligns with Neptune midafternoon."
+}
+
