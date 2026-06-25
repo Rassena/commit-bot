@@ -662,3 +662,9 @@
   "horoscope": "Try not to get down on yourself this morning, dearest Leo. As the Scorpio Moon and Venus square off, dark emotions may cause your confidence to take a hit. If you're going to be hard on yourself, use the energy to insist that you put an end to negative self-talk. A sweet aspect between Venus and Saturn can help you stay afloat. Connect with your spirituality more consistently to guard against the blues. The universe will send signs of support if you know how to look for them. Illuminating brainstorming sessions could benefit plans you've been keeping under wraps when the Cancer Sun aligns with Neptune midafternoon."
 }
 
+{
+  "sign": "leo",
+  "date": "2026-06-25",
+  "horoscope": "Try not to get down on yourself this morning, dearest Leo. As the Scorpio Moon and Venus square off, dark emotions may cause your confidence to take a hit. If you're going to be hard on yourself, use the energy to insist that you put an end to negative self-talk. A sweet aspect between Venus and Saturn can help you stay afloat. Connect with your spirituality more consistently to guard against the blues. The universe will send signs of support if you know how to look for them. Illuminating brainstorming sessions could benefit plans you've been keeping under wraps when the Cancer Sun aligns with Neptune midafternoon."
+}
+
