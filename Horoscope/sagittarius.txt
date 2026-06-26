@@ -665,3 +665,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-06-26",
+  "horoscope": "You may be tested this morning, dear archer, especially when it comes to personal changes you've been trying to implement lately. Stay true to your goals while the Scorpio Moon aspects Mercury, Mars, and Jupiter. Growing pains are fleeting and shouldn't deter you from pursuing transformations. You'll feel more in control and capable of tackling whatever the universe sends your way after Luna enters your sign. Strained emotions might cause you to shut down as the Nodes of Fate activate. You should feel recharged and ready for Friday night fun once Uranus, Neptune, and Pluto stir later tonight."
+}
+
