@@ -618,3 +618,9 @@
   "horoscope": "Get creative with your image and goals, dearest Pisces. You're celestially poised to gain momentum and new opportunities while the Cancer Sun aligns with the Nodes of Fate. Remember that you have the power to curate any future you desire, and put in the work to make major visions a reality. Collaborations could feel complicated when the Libra Moon squares Mercury midafternoon. If you can't resolve disagreements, you might need to part ways or backtrack. You'll have an easier time selling your ideas to others once Jupiter stirs. Connect with your spirituality as Luna enters Scorpio later tonight."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-06-26",
+  "horoscope": "Don't procrastinate when inspiration strikes, darling Pisces. The universe expects you to make moves while the Scorpio Moon aspects Mercury, Mars, and Jupiter. Divine intervention helps you grow small ideas into something more meaningful. Showcase creativity and play nice with others as you navigate various environments. Sudden roadblocks could emerge once Luna enters Sagittarius and squares the Nodes of Fate. Use these setbacks as an excuse to rest up, but don't abandon your visions. Plans may fall through unexpectedly as Uranus, Neptune, and Pluto stir tonight. Instead of scrambling to outline a new agenda, lie low and enjoy your home."
+}
+
