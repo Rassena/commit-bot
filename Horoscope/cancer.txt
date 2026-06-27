@@ -554,3 +554,9 @@
   "horoscope": ""
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-06-27",
+  "horoscope": "Connect with people who share similar passions as Mars and Jupiter align, dear Cancer. You'll feel confident and creative while in your element, which can help you make new friends. Expand your influence by going out of your way to be seen. Show that you are supportive and ready to assist peers as Luna moves through Sagittarius. Any favors you perform later today could come with unforeseen benefits, thanks to a helping hand from Saturn. Invest in your wellness goals when the Moon aspects Venus tonight. Now is also a good time to upgrade the tools you use for work."
+}
+
