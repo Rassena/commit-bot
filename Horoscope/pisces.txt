@@ -624,3 +624,9 @@
   "horoscope": "Don't procrastinate when inspiration strikes, darling Pisces. The universe expects you to make moves while the Scorpio Moon aspects Mercury, Mars, and Jupiter. Divine intervention helps you grow small ideas into something more meaningful. Showcase creativity and play nice with others as you navigate various environments. Sudden roadblocks could emerge once Luna enters Sagittarius and squares the Nodes of Fate. Use these setbacks as an excuse to rest up, but don't abandon your visions. Plans may fall through unexpectedly as Uranus, Neptune, and Pluto stir tonight. Instead of scrambling to outline a new agenda, lie low and enjoy your home."
 }
 
+{
+  "sign": "pisces",
+  "date": "2026-06-27",
+  "horoscope": "You'll move quickly and with purpose as Mars and Jupiter align, dearest Pisces. Solutions to your problems arise with little notice, forcing you to take action. You'll feel confident and creative as ideas unfold in real time. Give yourself the freedom to shift plans as your vision evolves. Just be mindful to maintain some level of structure while the Sagittarius Moon aspects Saturn midafternoon. Avoid the temptation to skip steps, recognizing the importance of laying solid foundations before building upwards. Romance and teamwork go hand in hand when Venus activates later tonight. Grab your sweetie and start working toward a shared goal."
+}
+
