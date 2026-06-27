@@ -684,3 +684,9 @@
   "horoscope": "Efforts to manifest your dreams are streamlined by a sweet connection between Mars and Jupiter, dear Gemini. You'll feel most efficient when maneuvering from the shadows, and anticipation builds as you prepare for bold moves. One final push may be all that's required to bring major visions to life. Your allure grows as the Sagittarius Moon and Saturn align midafternoon. Peers will be curious to learn what you've been up to. Don't share all your secrets at once, and look for opportunities to impress influential people. Flirty vibes flow to end your night on a high note while Luna aspects Venus."
 }
 
+{
+  "sign": "gemini",
+  "date": "2026-06-27",
+  "horoscope": "Efforts to manifest your dreams are streamlined by a sweet connection between Mars and Jupiter, dear Gemini. You'll feel most efficient when maneuvering from the shadows, and anticipation builds as you prepare for bold moves. One final push may be all that's required to bring major visions to life. Your allure grows as the Sagittarius Moon and Saturn align midafternoon. Peers will be curious to learn what you've been up to. Don't share all your secrets at once, and look for opportunities to impress influential people. Flirty vibes flow to end your night on a high note while Luna aspects Venus."
+}
+
