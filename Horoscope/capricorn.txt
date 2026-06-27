@@ -745,3 +745,9 @@
   "horoscope": "Choose your company wisely this morning, dearest Capricorn. Venus, the planet of love, aspects the Scorpio Moon and Saturn, asking you to protect your heart. Go deeper with people you trust, and back away from those you do not. Set boundaries to avoid toxic social dynamics that promote gossip or unnecessary competition. You'll have a chance to expand socially, but you should focus on developing relationships that might benefit your professional aspirations. A romantic yet deceptive energy finds you when the Cancer Sun squares Neptune midafternoon. Enjoy sweet moments with someone special, but don't let yourself be taken for a ride."
 }
 
+{
+  "sign": "capricorn",
+  "date": "2026-06-27",
+  "horoscope": "You're overdue for an adventure, dear Capricorn. Grab your favorite person and allow yourself to be carried by the wind as Mars and Jupiter align. Brave and adventurous spirits have the most to gain from this cosmic climate. Set aside reservations that prevent you from taking risks, and trust that the universe won't lead you astray. Consider exploring secluded or unfamiliar areas while the Moon moves through Sagittarius. Make your way home by the time Saturn stirs midafternoon, and use this energy to catch up on domestic projects. Intimate interactions bring sweetness to your relationship when Venus activates tonight."
+}
+
