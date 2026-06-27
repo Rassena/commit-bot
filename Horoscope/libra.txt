@@ -647,3 +647,9 @@
   "horoscope": "You'll feel deeply for others while the Scorpio Moon and Venus square off, darling Libra. Though your altruistic nature is admirable, it's important to maintain a healthy perspective so happiness isn't compromised. Balance your news consumption by enjoying an uplifting story for each bad or tragic article you read. Find joy and simplicity within your own little bubble when the world seems too chaotic and vast. Building up relationships can offer a welcome distraction as Venus and Saturn align. Be on guard for anyone or anything that appears too good to be true once the Cancer Sun squares Neptune this afternoon."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-06-27",
+  "horoscope": "Partnerships pay off while Mars and Jupiter form a sweet aspect, dearest Libra, especially when you're willing to share the spotlight. Remember that there's enough success to go around, and align with people who bring out the best in you. The Sagittarius Moon sparks your curious side, helping you ask the right questions. Romantic relationships strengthen as Saturn stirs midafternoon, and intellectual exchange will cause you to feel more connected and in love than ever. Take your sweetie out to a museum or bond over niche interests to make the most of this energy. Do some mingling if you're looking for a mate once Venus activates tonight."
+}
+
