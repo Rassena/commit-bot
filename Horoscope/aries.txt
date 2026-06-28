@@ -674,3 +674,9 @@
   "horoscope": "The Cancer Sun aligns with the Nodes of Fate, darling Aries, putting you in a deeply introspective mood. You have the power to let go of unhealthy emotions, behaviors, and patterns. Trust that the changes ahead will lead you to brighter days. Communication could feel like a struggle while the Libra Moon and Mercury square off midafternoon. Be mindful of how you express dissatisfaction so that loved ones don't take your woes personally. Feed into loving connections to improve the vibe when Jupiter stirs. Issues are resolved, and relationships become stronger once Luna drifts into Scorpio just before midnight."
 }
 
+{
+  "sign": "aries",
+  "date": "2026-06-28",
+  "horoscope": "You will benefit from a boost in drive and mental fortitude, dearest ram. Mars, your planetary ruler, makes its debut in Gemini, helping you put ideas into motion throughout the coming weeks. Your ability to digest and apply new information also increases. Research topics that align with creative or professional goals. Be mindful of the influence family has over you while the Sagittarius Moon and Mercury form an unbalanced aspect this afternoon. Trust your instincts and don't fall for sob stories that leave you with mixed emotions. End your weekend with a delicious dinner as Jupiter stirs, but don't overburden yourself or overindulge."
+}
+
