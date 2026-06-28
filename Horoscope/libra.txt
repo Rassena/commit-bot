@@ -653,3 +653,9 @@
   "horoscope": "Partnerships pay off while Mars and Jupiter form a sweet aspect, dearest Libra, especially when you're willing to share the spotlight. Remember that there's enough success to go around, and align with people who bring out the best in you. The Sagittarius Moon sparks your curious side, helping you ask the right questions. Romantic relationships strengthen as Saturn stirs midafternoon, and intellectual exchange will cause you to feel more connected and in love than ever. Take your sweetie out to a museum or bond over niche interests to make the most of this energy. Do some mingling if you're looking for a mate once Venus activates tonight."
 }
 
+{
+  "sign": "libra",
+  "date": "2026-06-28",
+  "horoscope": "It may feel as though you're being guided by unseen forces throughout the coming weeks, dear Libra. Trust your instincts as Mars moves through Gemini, and notate any recurring signs that seem to hold important messages. Passions take on a life of their own, helping you break through blocks that have left you at an impasse. These vibes are also perfect for adventurous vacations and exploring your spirituality. Avoid taking in too much information while the Sagittarius Moon and Mercury form an unbalanced aspect this evening. Put your ideas on paper once Jupiter stirs tonight, or you could struggle with sleep."
+}
+
