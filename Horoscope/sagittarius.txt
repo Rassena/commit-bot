@@ -677,3 +677,9 @@
   "horoscope": "Prioritize wellness to feel energized and passionate, dear archer. As Mars and Jupiter align, you have the power to make meaningful changes. Focus on living your best life, and blessings will manifest from every direction. As Luna moves through your sign, it's important to reevaluate and adjust goals. It may be necessary to bring more creativity and structure into the equation while Saturn activates midafternoon. Take your artistic visions seriously, and others will too. The universe looks for opportunities to spoil you once the Moon aspects Venus later tonight. Put some good into the world and wish upon a star to make the most of these vibes."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-06-28",
+  "horoscope": "Mars enters Gemini and the sector of your heart that governs relationships, dear Sagittarius. Your love life heats up throughout the coming weeks, but not all passionate exchanges will be welcome. Seek adventure and movement to keep things fresh, as boredom has the potential to breed conflict. You may sense underlying tension during your interactions while Luna and Mercury form an unbalanced aspect this evening. Avoid digging your heels in or playing games, no matter how hard others try to push your buttons. Make stress release part of your bedtime routines once the Moon and Jupiter align later tonight."
+}
+
