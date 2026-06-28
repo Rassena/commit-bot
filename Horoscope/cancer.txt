@@ -560,3 +560,9 @@
   "horoscope": "Connect with people who share similar passions as Mars and Jupiter align, dear Cancer. You'll feel confident and creative while in your element, which can help you make new friends. Expand your influence by going out of your way to be seen. Show that you are supportive and ready to assist peers as Luna moves through Sagittarius. Any favors you perform later today could come with unforeseen benefits, thanks to a helping hand from Saturn. Invest in your wellness goals when the Moon aspects Venus tonight. Now is also a good time to upgrade the tools you use for work."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-06-28",
+  "horoscope": "You may struggle to stay present throughout the coming weeks once Mars makes its debut in Gemini, dearest Cancer. A desire to catch up on goals and pursue passions will make it easy to get lost in your own thoughts. Prioritize shared activities that give you and loved ones something to focus on when making plans. You will probably need more downtime between work and play, so keep a light schedule whenever possible. Do some prep for the upcoming week while the Sagittarius Moon aspects Mercury this evening, you could find it difficult to relax or connect with others."
+}
+
