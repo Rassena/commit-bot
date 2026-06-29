@@ -683,3 +683,9 @@
   "horoscope": "Mars enters Gemini and the sector of your heart that governs relationships, dear Sagittarius. Your love life heats up throughout the coming weeks, but not all passionate exchanges will be welcome. Seek adventure and movement to keep things fresh, as boredom has the potential to breed conflict. You may sense underlying tension during your interactions while Luna and Mercury form an unbalanced aspect this evening. Avoid digging your heels in or playing games, no matter how hard others try to push your buttons. Make stress release part of your bedtime routines once the Moon and Jupiter align later tonight."
 }
 
+{
+  "sign": "sagittarius",
+  "date": "2026-06-29",
+  "horoscope": "Youre going to feel like a train thats lost momentum and screeched to a very soft and slow halt today,"
+}
+
