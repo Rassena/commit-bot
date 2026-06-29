@@ -566,3 +566,9 @@
   "horoscope": "You may struggle to stay present throughout the coming weeks once Mars makes its debut in Gemini, dearest Cancer. A desire to catch up on goals and pursue passions will make it easy to get lost in your own thoughts. Prioritize shared activities that give you and loved ones something to focus on when making plans. You will probably need more downtime between work and play, so keep a light schedule whenever possible. Do some prep for the upcoming week while the Sagittarius Moon aspects Mercury this evening, you could find it difficult to relax or connect with others."
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-06-29",
+  "horoscope": "Today could feel like youre making your way through the desert, and then suddenly youre consumed by a gigantic sand beast storm,"
+}
+
