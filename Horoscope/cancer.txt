@@ -572,3 +572,9 @@
   "horoscope": "Today could feel like youre making your way through the desert, and then suddenly youre consumed by a gigantic sand beast storm,"
 }
 
+{
+  "sign": "cancer",
+  "date": "2026-06-29",
+  "horoscope": "Today could feel like youre making your way through the desert, and then suddenly youre consumed by a gigantic sand beast storm,"
+}
+
